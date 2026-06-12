@@ -20,6 +20,7 @@ async function deepseek(systemPrompt, userPrompt) {
       ],
       response_format: { type: 'json_object' },
       temperature: 1.0,
+      max_tokens: 8000,
     }),
   });
   if (!res.ok) throw new Error(`DeepSeek API -> ${res.status} ${await res.text()}`);
@@ -40,7 +41,7 @@ function repoBrief(it) {
 /** 宝藏评选：AI 按新颖性/实用性/有趣程度精选 Top 10 并给推荐理由 */
 async function pickGems(candidates) {
   const result = await deepseek(
-    `你是 GitHub 宝藏项目猎人，目标是从候选中挑出"质量高但还没火"的有意思项目。综合新颖性、实用性、有趣程度评判，警惕纯营销项目和 awesome 列表类。返回 JSON：{"picks":[{"repo":"owner/name","reasonZh":"一句话推荐理由，口语化、突出最大亮点，不超过 40 字"}]}，精选不超过 ${GEM_TOP_N} 个，按推荐度排序。`,
+    `你是 GitHub 宝藏项目猎人，目标是从候选中挑出"质量高但还没火"的有意思项目。综合新颖性、实用性、有趣程度评判，警惕纯营销项目和 awesome 列表类。返回 JSON：{"picks":[{"repo":"owner/name","reasonZh":"推荐理由"}]}，精选不超过 ${GEM_TOP_N} 个，按推荐度排序。推荐理由 60~100 字，口语化，讲清三点：它最大的亮点是什么、和同类项目比特别在哪、什么场景下会用到它。`,
     JSON.stringify(candidates.map(repoBrief)),
   );
   const byRepo = new Map(candidates.map((c) => [c.repo, c]));
@@ -62,18 +63,23 @@ function pickGemsFallback(candidates) {
     .map((c) => ({ ...c, reasonZh: '' }));
 }
 
-/** 批量生成中文简介 + 分类 */
+/** 批量生成中文简介 + 分类；分批请求避免输出超长被截断 */
+const SUMMARY_BATCH_SIZE = 15;
+
 async function summarizeAll(items) {
-  const result = await deepseek(
-    `给 GitHub 项目写一句话中文简介（不超过 50 字，说清它是干什么的、对谁有用），并从固定分类中选一个：${CATEGORIES.join(' / ')}。返回 JSON：{"items":[{"repo":"owner/name","summaryZh":"...","category":"..."}]}，必须覆盖输入的每一个项目。`,
-    JSON.stringify(items.map(repoBrief)),
-  );
   const map = new Map();
-  for (const it of result.items || []) {
-    map.set(it.repo, {
-      summaryZh: it.summaryZh || '',
-      category: CATEGORIES.includes(it.category) ? it.category : '其他',
-    });
+  for (let i = 0; i < items.length; i += SUMMARY_BATCH_SIZE) {
+    const batch = items.slice(i, i + SUMMARY_BATCH_SIZE);
+    const result = await deepseek(
+      `给 GitHub 项目写中文简介，并从固定分类中选一个：${CATEGORIES.join(' / ')}。返回 JSON：{"items":[{"repo":"owner/name","summaryZh":"...","category":"..."}]}，必须覆盖输入的每一个项目。简介 80~120 字、2~3 句话，依次说清：这个项目是干什么的、核心功能或技术亮点是什么、适合什么人或什么场景使用。不要空话套话，信息密度要高。`,
+      JSON.stringify(batch.map(repoBrief)),
+    );
+    for (const it of result.items || []) {
+      map.set(it.repo, {
+        summaryZh: it.summaryZh || '',
+        category: CATEGORIES.includes(it.category) ? it.category : '其他',
+      });
+    }
   }
   return map;
 }
