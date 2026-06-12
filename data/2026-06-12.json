@@ -6,8 +6,8 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars": 32729,
-      "summaryZh": "在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器，专为 Apple 芯片优化。",
+      "stars": 32746,
+      "summaryZh": "在 Mac 上通过轻量级虚拟机创建和运行 Linux 容器的工具，使用 Swift 编写并针对 Apple 芯片优化。适合需要在 macOS 上运行 Linux 环境的开发者。",
       "category": "开发工具",
       "starsToday": 2430
     },
@@ -16,9 +16,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars": 54948,
-      "summaryZh": "面向 AI 编程代理的生产级工程技能集合。",
-      "category": "开发工具",
+      "stars": 54965,
+      "summaryZh": "为 AI 编码代理提供生产级工程技能的开源集合，包含最佳实践和模式。适合希望提高 AI 助手代码质量的工程师。",
+      "category": "AI",
       "starsToday": 3278
     },
     {
@@ -26,8 +26,8 @@
       "url": "https://github.com/maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
       "language": "Python",
-      "stars": 2800,
-      "summaryZh": "开源医疗 AI，提供医疗领域的人工智能解决方案。",
+      "stars": 2802,
+      "summaryZh": "开源医疗 AI 项目，提供医疗领域的 AI 模型和工具。适合医疗研究人员和开发者构建智能医疗应用。",
       "category": "AI",
       "starsToday": 426
     },
@@ -36,9 +36,9 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": "",
-      "stars": 16285,
-      "summaryZh": "产品经理技能市场，提供 100 多个代理技能、命令和插件。",
-      "category": "AI",
+      "stars": 16290,
+      "summaryZh": "包含 100 多个技能、命令和插件的项目管理技能市场，覆盖从发现到增长的完整流程。适合项目经理和产品负责人提升效率。",
+      "category": "开发工具",
       "starsToday": 1978
     },
     {
@@ -46,9 +46,9 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars": 2734,
-      "summaryZh": "AI 代理技能安全扫描器，检测漏洞和恶意模式。",
-      "category": "开发工具",
+      "stars": 2740,
+      "summaryZh": "AI 代理技能安全扫描器，可检测漏洞、恶意模式和风险。适合 AI 开发者和安全工程师保障代理技能的安全性。",
+      "category": "AI",
       "starsToday": 319
     },
     {
@@ -56,9 +56,9 @@
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars": 32652,
-      "summaryZh": "通过用户名从 3000+ 网站收集个人档案。",
-      "category": "其他",
+      "stars": 32656,
+      "summaryZh": "通过用户名从 3000 多个网站收集个人档案，支持调查和 OSINT 分析。适合安全研究人员和调查人员使用。",
+      "category": "开发工具",
       "starsToday": 661
     },
     {
@@ -66,8 +66,8 @@
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "language": "",
-      "stars": 139897,
-      "summaryZh": "收集各类 AI 工具的系统提示词和模型信息。",
+      "stars": 139900,
+      "summaryZh": "收集了数十个 AI 工具（如 Cursor、Claude Code、Replit 等）的系统提示词和模型信息。适合 AI 使用者和开发者参考借鉴。",
       "category": "资料教程",
       "starsToday": 368
     },
@@ -76,8 +76,8 @@
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars": 15433,
-      "summaryZh": "用于管理 Markdown 知识库的桌面应用。",
+      "stars": 15438,
+      "summaryZh": "用于管理 Markdown 知识库的桌面应用，支持组织和搜索笔记。适合需要本地化知识管理的用户。",
       "category": "其他",
       "starsToday": 604
     },
@@ -86,9 +86,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 224930,
-      "summaryZh": "一套有效的代理技能框架与软件开发方法论。",
-      "category": "AI",
+      "stars": 224935,
+      "summaryZh": "代理技能框架与软件开发方法论，提供高效的工作流程。适合希望用 AI 增强开发效率的团队。",
+      "category": "开发工具",
       "starsToday": 1322
     },
     {
@@ -96,9 +96,9 @@
       "url": "https://github.com/restic/restic",
       "description": "Fast, secure, efficient backup program",
       "language": "Go",
-      "stars": 34193,
-      "summaryZh": "快速、安全、高效的备份程序。",
-      "category": "开发工具",
+      "stars": 34196,
+      "summaryZh": "快速、安全、高效的备份程序，支持加密和增量备份。适合个人和企业用于数据保护。",
+      "category": "其他",
       "starsToday": 61
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars": 111653,
-      "summaryZh": "完整的 AI 代理机构，包含多种专业专家代理。",
+      "stars": 111656,
+      "summaryZh": "一个完整的 AI 代理团队，涵盖前端、社区管理、创意等多种角色，各具特色。适合需要多智能体协作的场景。",
       "category": "AI",
       "starsToday": 1599
     },
@@ -116,8 +116,8 @@
       "url": "https://github.com/masterking32/MasterDnsVPN",
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
       "language": "Go",
-      "stars": 5722,
-      "summaryZh": "高级 DNS 隧道 VPN，用于绕过审查，优化了速度和稳定性。",
+      "stars": 5725,
+      "summaryZh": "高级 DNS 隧道 VPN，专为绕过审查设计，优化了低开销 ARQ、负载均衡和稳定性。适合需要绕过网络限制的用户。",
       "category": "其他",
       "starsToday": 507
     },
@@ -126,9 +126,9 @@
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars": 30392,
-      "summaryZh": "开源全渠道客服平台，替代 Intercom、Zendesk 等。",
-      "category": "开发工具",
+      "stars": 30394,
+      "summaryZh": "开源的全渠道客服平台，支持实时聊天、邮件和社交媒体。是 Intercom 等商业工具的替代品。",
+      "category": "其他",
       "starsToday": 67
     },
     {
@@ -136,8 +136,8 @@
       "url": "https://github.com/kenn-io/agentsview",
       "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
       "language": "Go",
-      "stars": 1685,
-      "summaryZh": "本地优先的编程代理会话智能与分析工具。",
+      "stars": 1688,
+      "summaryZh": "本地优先的编码代理会话智能分析工具，支持 20 多种代理，比 ccusage 快 100 倍。适合开发者监控和优化 AI 代理使用。",
       "category": "开发工具",
       "starsToday": 114
     },
@@ -146,8 +146,8 @@
       "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
       "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
       "language": "",
-      "stars": 7979,
-      "summaryZh": "张雪峰的认知操作系统，用于高考志愿、考研和职业规划。",
+      "stars": 7987,
+      "summaryZh": "张雪峰的认知操作系统，提供高考志愿、考研和职业规划的实战思维框架。适合学生和职场人士参考。",
       "category": "资料教程",
       "starsToday": 89
     },
@@ -156,8 +156,8 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars": 73960,
-      "summaryZh": "所有小初高、大学 PDF 教材合集。",
+      "stars": 73962,
+      "summaryZh": "收录中国小学、初中、高中及大学全科目的 PDF 教材，覆盖主流版本，方便学生、教师和家长在线查阅或下载。无需四处搜寻，一站式获得高质量正版教材资源。",
       "category": "资料教程",
       "starsToday": 88
     },
@@ -166,8 +166,8 @@
       "url": "https://github.com/hexo-ai/sia",
       "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
       "language": "Python",
-      "stars": 1333,
-      "summaryZh": "自我改进的 AI 框架，可自动提升任何 AI 系统在基准任务上的性能。",
+      "stars": 1335,
+      "summaryZh": "自我改进 AI 框架，能在基准任务上自动优化任意模型或 agent 的性能。核心是利用多轮迭代与反馈机制提升效果，适合研究者和开发者用于提升 AI 系统的稳定性与准确率。",
       "category": "AI",
       "starsToday": 199
     },
@@ -176,8 +176,8 @@
       "url": "https://github.com/mattermost/mattermost",
       "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
       "language": "TypeScript",
-      "stars": 37342,
-      "summaryZh": "开源协作平台，覆盖软件开发生命周期，注重安全。",
+      "stars": 37347,
+      "summaryZh": "开源的企业级协作平台，覆盖软件开发生命周期中的消息、文件共享、工作流集成等需求。支持自托管，保障数据安全，适合团队或组织构建内部沟通与 DevOps 一体化环境。",
       "category": "开发工具",
       "starsToday": 53
     },
@@ -186,9 +186,9 @@
       "url": "https://github.com/bannedbook/fanqiang",
       "description": "翻墙-科学上网",
       "language": "Kotlin",
-      "stars": 46862,
-      "summaryZh": "翻墙科学上网工具与指南。",
-      "category": "其他",
+      "stars": 46873,
+      "summaryZh": "提供翻墙/科学上网的工具、教程和资源，涵盖多种平台和协议，帮助用户突破网络限制。内容持续更新，适合需要访问被屏蔽网站的用户。",
+      "category": "资料教程",
       "starsToday": 161
     }
   ],
@@ -198,8 +198,8 @@
       "url": "https://github.com/XiaomiMiMo/MiMo-Code",
       "description": "",
       "language": "TypeScript",
-      "stars": 4838,
-      "summaryZh": "小米 MiMo 项目的代码仓库。",
+      "stars": 4852,
+      "summaryZh": "小米妙享的代码开源项目，可能涉及跨设备协作功能。具体细节未说明，但推测为开发者提供相关组件的实现参考。",
       "category": "其他",
       "createdAt": "2026-06-10T11:52:41Z"
     },
@@ -208,9 +208,9 @@
       "url": "https://github.com/shadcn/improve",
       "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "language": "",
-      "stars": 1869,
-      "summaryZh": "用最强模型审计代码库并生成计划，由廉价模型执行。",
-      "category": "AI",
+      "stars": 1873,
+      "summaryZh": "用最强模型审计代码库并生成优化计划，再由廉价模型执行，从而平衡成本与质量。适合在资源受限场景下提升代码质量，常用于 CI/CD 管道。",
+      "category": "开发工具",
       "createdAt": "2026-06-10T11:06:58Z"
     },
     {
@@ -219,7 +219,7 @@
       "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
       "language": "Swift",
       "stars": 1484,
-      "summaryZh": "离线 WHOOP 伴侣，通过蓝牙配对并本地存储数据，无需云端。",
+      "summaryZh": "离线 WHOOP 手环伴侣应用，通过蓝牙连接手环，数据全部存储在本地，无需云端、账号或订阅。注重隐私的用户可在不联网情况下使用。",
       "category": "其他",
       "createdAt": "2026-06-07T17:03:02Z"
     },
@@ -229,7 +229,7 @@
       "description": "RoguePlanet Windows Defender Vulnerability",
       "language": "C++",
       "stars": 1121,
-      "summaryZh": "Windows Defender 漏洞利用工具。",
+      "summaryZh": "利用 Windows Defender 漏洞的恶意工具，用于特权提升或防御绕过。仅供安全测试或研究，不应用于非法目的。",
       "category": "其他",
       "createdAt": "2026-06-09T19:10:18Z"
     },
@@ -239,8 +239,8 @@
       "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
       "language": "Python",
       "stars": 790,
-      "summaryZh": "用 GPT 生成豪华图片格式 PPT 并转换为可编辑 PPTX。",
-      "category": "AI",
+      "summaryZh": "使用 GPT 生成高质图片格式 PPT，再转换为可编辑 PPTX 文件，大幅提升制作效率。适合需要快速产出精美演示文稿的用户。",
+      "category": "开发工具",
       "createdAt": "2026-06-07T16:20:13Z"
     },
     {
@@ -248,9 +248,9 @@
       "url": "https://github.com/JimLiu/baoyu-design",
       "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "language": "JavaScript",
-      "stars": 777,
-      "summaryZh": "本地运行 Claude Design 作为代理技能，生成 UI 原型。",
-      "category": "AI",
+      "stars": 779,
+      "summaryZh": "在本地运行 Claude Design 作为 Agent Skill，支持 Cursor、Claude Code 等工具。可生成精美的 UI 原型、演示文稿等 HTML 文件，无需访问 claude.ai/design，适合设计师与开发者。",
+      "category": "前端",
       "createdAt": "2026-06-07T01:16:18Z"
     },
     {
@@ -258,8 +258,8 @@
       "url": "https://github.com/apple/coreai-models",
       "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "language": "Python",
-      "stars": 744,
-      "summaryZh": "Apple 设备端 AI 模型导出配方、Python 原语和 Swift 运行时工具。",
+      "stars": 745,
+      "summaryZh": "苹果开源设备端 AI 的模型导出配方、Python 原语和 Swift 运行时工具，便于在 Apple 硬件上部署和运行模型。适合 iOS/macOS 开发者构建 AI 应用。",
       "category": "AI",
       "createdAt": "2026-06-08T04:32:27Z"
     },
@@ -268,8 +268,8 @@
       "url": "https://github.com/vorpus/performativeUI",
       "description": "",
       "language": "TypeScript",
-      "stars": 615,
-      "summaryZh": "可执行 UI 框架。",
+      "stars": 617,
+      "summaryZh": "一个专注于 UI 性能的前端项目，可能涉及微交互或渲染优化。具体细节未说明，但适合关注界面流畅度的开发者。",
       "category": "前端",
       "createdAt": "2026-06-07T15:45:48Z"
     },
@@ -279,7 +279,7 @@
       "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
       "language": "",
       "stars": 571,
-      "summaryZh": "编程代理的守卫技能，捕获 AI 生成的代码、测试和文档中的故障模式。",
+      "summaryZh": "为编码 agent 提供质量门控，捕获 AI 在代码、测试、文档中生成的失败模式。适合在 AI 辅助编程流程中保障输出质量。",
       "category": "开发工具",
       "createdAt": "2026-06-06T16:59:27Z"
     },
@@ -289,7 +289,7 @@
       "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
       "language": "Python",
       "stars": 524,
-      "summaryZh": "统一多模态模型强化学习框架。",
+      "summaryZh": "腾讯开源的统一多模态强化学习框架，支持图像、文本等混合输入的模型训练。适合研究者和工程师在多模态任务上探索强化学习。",
       "category": "AI",
       "createdAt": "2026-06-08T12:29:36Z"
     },
@@ -299,8 +299,8 @@
       "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
       "language": "Python",
       "stars": 466,
-      "summaryZh": "一句话给外语视频加中文字幕，全程本地处理。",
-      "category": "其他",
+      "summaryZh": "一句话指令，自动为外语视频添加中文字幕，流程包括下载、转写、翻译、润色和烧录。全程本地运行，无需 API 费用，适合需要快速处理视频字幕的用户。",
+      "category": "开发工具",
       "createdAt": "2026-06-08T09:55:55Z"
     },
     {
@@ -309,8 +309,8 @@
       "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time chat. No external graphics APIs.",
       "language": "C#",
       "stars": 430,
-      "summaryZh": "基于 CPU 的最小化 3D 控制台引擎，支持光线投射/追踪、动态光照等。",
-      "category": "游戏",
+      "summaryZh": "一个基于CPU的极简3D控制台引擎，用C# (.NET 8) 从零构建。支持光线投射/光线追踪、动态光照与阴影、.obj模型加载，以及基于TCP的自定义多人实时聊天功能。适合想学习图形学底层原理或构建复古风格3D应用的开发者。",
+      "category": "开发工具",
       "createdAt": "2026-06-06T09:33:31Z"
     },
     {
@@ -319,7 +319,7 @@
       "description": "",
       "language": "Python",
       "stars": 392,
-      "summaryZh": "AI 记忆管理工具。",
+      "summaryZh": "一个专注于AI记忆管理的Python库，可能用于增强对话代理的长期记忆。核心功能包括记忆存储、检索和更新，适合构建具有持久记忆能力的AI助手。",
       "category": "AI",
       "createdAt": "2026-06-06T02:15:35Z"
     },
@@ -328,8 +328,8 @@
       "url": "https://github.com/FerroxLabs/wayland",
       "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
       "language": "TypeScript",
-      "stars": 388,
-      "summaryZh": "能感知、推理、行动并进化的 AI 代理。",
+      "stars": 389,
+      "summaryZh": "Wayland是一个能够感知、推理、行动并进化的AI Agent，使用TypeScript开发。它强调自主决策和持续学习能力，适合构建复杂的自动化任务或智能体系统。",
       "category": "AI",
       "createdAt": "2026-06-05T17:38:22Z"
     },
@@ -338,48 +338,36 @@
       "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
       "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
       "language": "Python",
-      "stars": 374,
-      "summaryZh": "63 个 Claude Skills，专为 A 股金融从业者打造。",
-      "category": "AI",
+      "stars": 375,
+      "summaryZh": "为A股金融从业者定制的63个Claude Skills，基于Anthropic官方项目深度适配国内市场。集成多种金融分析工具，可辅助研究、报表解读等场景，适合金融分析师和投资者。",
+      "category": "开发工具",
       "createdAt": "2026-06-07T15:45:23Z"
     }
   ],
   "gems": [
+    {
+      "repo": "philipl/pifs",
+      "url": "https://github.com/philipl/pifs",
+      "description": "πfs - the data-free filesystem!",
+      "language": "C",
+      "stars": 7400,
+      "summaryZh": "πfs是一个无数据的文件系统——它用圆周率π的数字存储文件！读取时通过数学方式重新生成内容，写入时寻找对应的数字序列。纯属娱乐项目，展示编程创意。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 933 分 · 201 评论",
+      "reasonZh": "用圆周率π当存储介质，把数据编码到π的小数位里！纯属脑洞大开，但实现得一本正经，适合用来跟朋友吹牛或演示文件系统概念。"
+    },
     {
       "repo": "HelixDB/helix-db",
       "url": "https://github.com/HelixDB/helix-db",
       "description": "HelixDB is an OLTP graph-vector database built in Rust.",
       "language": "Rust",
       "stars": 4924,
-      "summaryZh": "基于 Rust 构建的 OLTP 图向量数据库。",
+      "summaryZh": "HelixDB是一个用Rust构建的OLTP图-向量混合数据库，支持实时事务处理。结合图结构和向量检索，适合需要复杂关系分析和相似性搜索的高性能应用，如推荐系统或知识图谱。",
       "category": "开发工具",
       "source": "hn",
       "signal": "HN 145 分 · 42 评论",
-      "reasonZh": "图向量混合数据库，Rust 实现，OLTP 神器"
-    },
-    {
-      "repo": "denoland/clawpatrol",
-      "url": "https://github.com/denoland/clawpatrol",
-      "description": "Security firewall for agents",
-      "language": "Go",
-      "stars": 764,
-      "summaryZh": "AI 代理的安全防火墙。",
-      "category": "开发工具",
-      "source": "hn",
-      "signal": "HN 85 分 · 26 评论",
-      "reasonZh": "AI agent 安全防火墙，专治越狱和敏感词"
-    },
-    {
-      "repo": "vanyapr/makaroshki",
-      "url": "https://github.com/vanyapr/makaroshki",
-      "description": "",
-      "language": "HTML",
-      "stars": 77,
-      "summaryZh": "一个 HTML 项目。",
-      "category": "前端",
-      "source": "hn",
-      "signal": "HN 72 分 · 70 评论",
-      "reasonZh": "HTML 整活，评论比代码精彩，行为艺术项目"
+      "reasonZh": "图向量数据库，同时支持OLTP和向量搜索，Rust实现性能极佳。如果你在做推荐系统或知识图谱应用，这玩意比单独拼图库和向量库要省心得多。"
     },
     {
       "repo": "openfrontio/OpenFrontIO",
@@ -387,23 +375,23 @@
       "description": "Online browser-based RTS game",
       "language": "TypeScript",
       "stars": 2225,
-      "summaryZh": "在线浏览器即时战略游戏。",
+      "summaryZh": "一个基于浏览器的开源即时战略游戏，支持多人实时对战。核心玩法包括基地建设、单位生产和战场控制，无需安装即可在浏览器中运行，适合RTS爱好者快速体验。",
       "category": "游戏",
       "source": "search",
       "signal": "小而美 · game",
-      "reasonZh": "浏览器即时战略，多人对战，随时开黑"
+      "reasonZh": "网页版即时战略游戏，无需下载直接开玩。比同类Web游戏更完整，有完整兵种和经济系统，适合上班摸鱼或快速体验RTS乐趣。"
     },
     {
       "repo": "4thfever/cultivation-world-simulator",
       "url": "https://github.com/4thfever/cultivation-world-simulator",
       "description": "基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world. ",
       "language": "Python",
-      "stars": 1760,
-      "summaryZh": "基于 AI Agent 的修仙世界模拟器，动态开放世界。",
+      "stars": 1762,
+      "summaryZh": "基于AI Agent工作流的修仙世界模拟器，利用智能体协同创造动态、涌现的仙侠世界。角色拥有自主行为和进化能力，适合对叙事生成和AI模拟感兴趣的玩家或研究者。",
       "category": "游戏",
       "source": "search",
       "signal": "小而美 · game",
-      "reasonZh": "AI agent 模拟修仙世界，随机事件修仙文生成器"
+      "reasonZh": "用AI Agent搭建修仙世界，角色自主行动、修炼、社交。跟传统修仙游戏不同，角色是真的有AI大脑，每次玩都会生成独特故事，适合喜欢开放世界和AI沙盒的玩家。"
     },
     {
       "repo": "dominostars/playtranslate",
@@ -411,11 +399,11 @@
       "description": "Real-time game translation app for Android for both language learners and casual gamers",
       "language": "Kotlin",
       "stars": 545,
-      "summaryZh": "Android 实时游戏翻译应用，适合语言学习者和游戏玩家。",
+      "summaryZh": "一款安卓实时游戏翻译应用，专为语言学习者和休闲玩家设计。支持屏幕文字实时翻译，覆盖多种语言，无需切换应用即可理解游戏内容，提升外语游戏体验。",
       "category": "游戏",
       "source": "search",
       "signal": "小而美 · game",
-      "reasonZh": "Android 实时游戏翻译，边玩边学外语"
+      "reasonZh": "Android上的实时游戏翻译App，手机屏幕上直接显示翻译，无需切屏。对玩外文游戏但又懒得打补丁的玩家极其友好，原生支持浮窗显示。"
     },
     {
       "repo": "TheRedDeveloper/ply-engine",
@@ -423,35 +411,35 @@
       "description": "Beautiful UIs in Rust. Cross-platform. Dead simple.",
       "language": "Rust",
       "stars": 391,
-      "summaryZh": "用 Rust 编写的跨平台简单 UI 引擎。",
-      "category": "游戏",
+      "summaryZh": "一个用Rust编写的跨平台UI引擎，致力于极简和易用。提供声明式API构建漂亮界面，支持桌面和移动端，适合追求高性能和简洁代码的Rust开发者。",
+      "category": "前端",
       "source": "search",
       "signal": "小而美 · game",
-      "reasonZh": "Rust 跨平台 UI 引擎，极简漂亮"
+      "reasonZh": "Rust写的跨平台UI库，号称极其简单，目标是写出漂亮界面。比起Druid、Iced，它更注重API简洁度和开箱即用的美观，适合快速搭建桌面应用。"
     },
     {
-      "repo": "Far-Beyond-Pulsar/Pulsar-Native",
-      "url": "https://github.com/Far-Beyond-Pulsar/Pulsar-Native",
-      "description": "The next-generation game engine that you deserve implemented in rust on top of GPUI https://pulsarnative.com/",
-      "language": "Rust",
-      "stars": 333,
-      "summaryZh": "基于 Rust 和 GPUI 的下一代游戏引擎。",
+      "repo": "TwintailTeam/TwintailLauncher",
+      "url": "https://github.com/TwintailTeam/TwintailLauncher",
+      "description": "A multi-platform launcher for your anime games.",
+      "language": "Shell",
+      "stars": 412,
+      "summaryZh": "一个多平台的二次元游戏启动器，支持管理多个动漫风格游戏。提供统一入口和游戏库管理，简化启动流程，适合拥有多款动漫游戏的玩家。",
       "category": "游戏",
       "source": "search",
       "signal": "小而美 · game",
-      "reasonZh": "基于 GPUI 的 Rust 游戏引擎，下一代潜力股"
+      "reasonZh": "多平台的二次元游戏启动器，支持多个游戏统一管理。比传统Steam大客户端轻量，专门为动漫风游戏优化，适合玩米哈游系列或其他日系游戏的玩家。"
     },
     {
-      "repo": "Saramanda9988/LunaBox",
-      "url": "https://github.com/Saramanda9988/LunaBox",
-      "description": "Lightweight, fast, and feature-rich visual novel management and game statistics tool",
-      "language": "Go",
-      "stars": 252,
-      "summaryZh": "轻量快速的功能丰富的视觉小说管理和游戏统计工具。",
+      "repo": "Matteo842/SaveState",
+      "url": "https://github.com/Matteo842/SaveState",
+      "description": "A versatile game save backup manager, featuring Steam detection, Minecraft support, drag & drop, desktop shortcuts and emulator compatible.",
+      "language": "Python",
+      "stars": 460,
+      "summaryZh": "一个多功能的游戏存档备份管理器，支持Steam检测、Minecraft兼容、拖放操作、桌面快捷方式和模拟器。可一键备份和恢复存档，防止数据丢失，适合所有PC游戏玩家。",
       "category": "游戏",
       "source": "search",
       "signal": "小而美 · game",
-      "reasonZh": "轻量视觉小说管理工具，Go 写的快如闪电"
+      "reasonZh": "通用游戏存档备份管理器，支持Steam自动检测、Minecraft和模拟器，还能拖拽创建桌面快捷方式。相比手动备份，它自动识别路径一键还原，手残党救星。"
     },
     {
       "repo": "gameworld-project/gameworld",
@@ -459,11 +447,23 @@
       "description": "GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents",
       "language": "Python",
       "stars": 191,
-      "summaryZh": "多模态游戏代理的标准化可验证评估平台。",
+      "summaryZh": "GameWorld致力于多模态游戏智能体的标准化评估，提供统一的测试平台。支持多种游戏环境和评估指标，适合研究者和开发者测试游戏AI的性能。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "多模态游戏Agent的标准化评估框架，可以跑分对比不同AI玩游戏的能力。做游戏AI研究或开发自动打游戏脚本时，用它衡量智能体水平比单看通关率更科学。"
+    },
+    {
+      "repo": "Saramanda9988/LunaBox",
+      "url": "https://github.com/Saramanda9988/LunaBox",
+      "description": "Lightweight, fast, and feature-rich visual novel management and game statistics tool",
+      "language": "Go",
+      "stars": 252,
+      "summaryZh": "轻量、快速且功能丰富的视觉小说管理器和游戏统计工具。支持管理本地游戏库、记录游戏时长和成就，界面简洁，适合视觉小说爱好者和追求效率的玩家。",
       "category": "游戏",
       "source": "search",
       "signal": "小而美 · game",
-      "reasonZh": "多模态游戏智能体评测基准，标准化评估"
+      "reasonZh": "轻量级视觉小说管理工具，还能统计游戏时长和成就。比同类工具快得多，Go语言编译体积小，适合GalGame收藏家整理本地资源库。"
     }
   ]
 }
