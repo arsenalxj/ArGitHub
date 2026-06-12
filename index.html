@@ -5,26 +5,52 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>GitHub 每日宝藏</title>
   <link rel="stylesheet" href="style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💎</text></svg>">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='14' fill='%23b5341c'/><text x='50' y='72' font-size='62' text-anchor='middle' fill='%23f6f1e5' font-family='KaiTi,serif'>宝</text></svg>">
 </head>
 <body>
+  <div class="paper-grain" aria-hidden="true"></div>
+
   <header>
-    <h1>💎 GitHub 每日宝藏</h1>
-    <p class="subtitle">每天自动挖掘热门与宝藏开源项目</p>
+    <div class="masthead">
+      <span class="mast-side" aria-hidden="true">开源每日精选</span>
+      <div class="mast-center">
+        <p class="mast-kicker">GITHUB DAILY GEMS</p>
+        <h1>GitHub 每日宝藏</h1>
+        <p class="dateline">
+          <span id="issue-no">第 — 期</span>
+          <span class="dateline-sep">·</span>
+          <label class="date-wrap">刊期
+            <select id="date-select" title="选择日期"></select>
+          </label>
+          <span class="dateline-sep">·</span>
+          <span>每日 08:30 出刊</span>
+        </p>
+      </div>
+      <span class="seal" aria-hidden="true">宝藏</span>
+    </div>
+
+    <div class="rule-double" aria-hidden="true"></div>
+
+    <nav class="tabs" id="tabs">
+      <button class="tab active" data-tab="gems">每日宝藏</button>
+      <button class="tab" data-tab="trending">今日热榜</button>
+      <button class="tab" data-tab="newRepos">新晋高星</button>
+    </nav>
+
     <div class="toolbar">
-      <select id="date-select" title="选择日期"></select>
+      <span class="toolbar-label">栏目</span>
       <div id="category-chips" class="chips"></div>
     </div>
-    <nav class="tabs" id="tabs">
-      <button class="tab active" data-tab="gems">💎 每日宝藏</button>
-      <button class="tab" data-tab="trending">🔥 今日热榜</button>
-      <button class="tab" data-tab="newRepos">✨ 新晋高星</button>
-    </nav>
   </header>
+
   <main id="list"></main>
+
   <footer>
-    <p>数据来源：GitHub Trending · GitHub Search · Hacker News ｜ 每日 08:30（北京时间）自动更新</p>
+    <div class="rule-double" aria-hidden="true"></div>
+    <p>本刊由 GitHub Actions 自动编纂 · 选稿来源：GitHub Trending / GitHub Search / Hacker News</p>
+    <p class="colophon">中文简介与推荐理由由 AI 撰写，仅供参考 · 数据按日存档可回看</p>
   </footer>
+
   <script src="app.js"></script>
 </body>
 </html>

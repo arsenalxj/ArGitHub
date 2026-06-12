@@ -9,7 +9,7 @@ const LANG_COLORS = {
   HTML: '#e34c26', CSS: '#563d7c', Vue: '#41b883', Dart: '#00B4AB', Zig: '#ec915c', Lua: '#000080',
 };
 
-const state = { date: '', tab: 'gems', category: '全部', data: null };
+const state = { date: '', tab: 'gems', category: '全部', data: null, dates: [] };
 
 const $ = (sel) => document.querySelector(sel);
 
@@ -29,7 +29,7 @@ function esc(s) {
   return div.innerHTML;
 }
 
-function card(it, tab) {
+function card(it, tab, idx) {
   const lang = it.language
     ? `<span class="meta-item"><i class="dot" style="background:${LANG_COLORS[it.language] || '#8b949e'}"></i>${esc(it.language)}</span>`
     : '';
@@ -39,19 +39,22 @@ function card(it, tab) {
   if (tab === 'gems' && it.source) badges.push(`<span class="badge gem">${SOURCE_LABEL[it.source] || it.source}${it.signal ? ' · ' + esc(it.signal) : ''}</span>`);
 
   const summary = it.summaryZh || it.description || '（暂无描述）';
-  const reason = tab === 'gems' && it.reasonZh ? `<p class="reason">💡 ${esc(it.reasonZh)}</p>` : '';
+  const reason = tab === 'gems' && it.reasonZh ? `<p class="reason">${esc(it.reasonZh)}</p>` : '';
 
-  return `<article class="card">
-    <div class="card-head">
-      <a class="repo" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.repo)}</a>
-      <span class="category-tag">${esc(it.category || '其他')}</span>
-    </div>
-    ${reason}
-    <p class="summary">${esc(summary)}</p>
-    <div class="meta">
-      ${lang}
-      <span class="meta-item">★ ${fmtStars(it.stars)}</span>
-      ${badges.join('')}
+  return `<article class="card${idx === 0 ? ' featured' : ''}" style="--i:${idx}">
+    <div class="card-no">№${String(idx + 1).padStart(2, '0')}</div>
+    <div class="card-body">
+      <div class="card-head">
+        <a class="repo" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.repo)}</a>
+        <span class="category-tag">${esc(it.category || '其他')}</span>
+      </div>
+      ${reason}
+      <p class="summary">${esc(summary)}</p>
+      <div class="meta">
+        ${lang}
+        <span class="meta-item">★ ${fmtStars(it.stars)}</span>
+        ${badges.join('')}
+      </div>
     </div>
   </article>`;
 }
@@ -65,13 +68,16 @@ function render() {
   let items = state.data[state.tab] || [];
   if (state.category !== '全部') items = items.filter((it) => (it.category || '其他') === state.category);
   listEl.innerHTML = items.length
-    ? items.map((it) => card(it, state.tab)).join('')
-    : '<p class="empty">这一天该分类下没有项目，换个分类或日期看看</p>';
+    ? items.map((it, i) => card(it, state.tab, i)).join('')
+    : '<p class="empty">本版今日无稿 · 换个栏目或刊期看看</p>';
 }
 
 async function loadDate(date) {
   state.date = date;
   state.data = null;
+  // 期号：最早一期是第 1 期
+  const idx = state.dates.indexOf(date);
+  if (idx >= 0) $('#issue-no').textContent = `第 ${state.dates.length - idx} 期`;
   render();
   try {
     state.data = await loadJson(`data/${date}.json`);
@@ -113,9 +119,10 @@ async function init() {
   try {
     dates = await loadJson('data/index.json');
   } catch {
-    $('#list').innerHTML = '<p class="empty">还没有任何数据，等定时任务跑完第一轮吧</p>';
+    $('#list').innerHTML = '<p class="empty">创刊号尚在编纂中，等定时任务跑完第一轮吧</p>';
     return;
   }
+  state.dates = dates;
   const sel = $('#date-select');
   sel.innerHTML = dates.map((d) => `<option value="${d}">${d}</option>`).join('');
   sel.addEventListener('change', () => loadDate(sel.value));
