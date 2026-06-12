@@ -1,0 +1,17 @@
+{
+  "name": "github-daily",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "每日搜集 GitHub 热门与宝藏项目",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "gems": "node scripts/gems.mjs",
+    "summarize": "node scripts/summarize.mjs",
+    "daily": "node scripts/fetch.mjs && node scripts/gems.mjs && node scripts/summarize.mjs",
+    "serve": "npx http-server -p 8080"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

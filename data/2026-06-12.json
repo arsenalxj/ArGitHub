@@ -1,0 +1,469 @@
+{
+  "date": "2026-06-12",
+  "trending": [
+    {
+      "repo": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": 32488,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 2430
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 54760,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 3278
+    },
+    {
+      "repo": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars": 2757,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 426
+    },
+    {
+      "repo": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "stars": 16225,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 1978
+    },
+    {
+      "repo": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars": 2672,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 319
+    },
+    {
+      "repo": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 32615,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 661
+    },
+    {
+      "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "",
+      "stars": 139873,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 368
+    },
+    {
+      "repo": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 15397,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 604
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 224842,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 1322
+    },
+    {
+      "repo": "restic/restic",
+      "url": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 34163,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 61
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 111593,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 1599
+    },
+    {
+      "repo": "masterking32/MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars": 5697,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 507
+    },
+    {
+      "repo": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": 30368,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 67
+    },
+    {
+      "repo": "kenn-io/agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+      "language": "Go",
+      "stars": 1648,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 114
+    },
+    {
+      "repo": "alchaincyf/zhangxuefeng-skill",
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "language": "",
+      "stars": 7953,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 89
+    },
+    {
+      "repo": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 73930,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 88
+    },
+    {
+      "repo": "hexo-ai/sia",
+      "url": "https://github.com/hexo-ai/sia",
+      "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+      "language": "Python",
+      "stars": 1306,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 199
+    },
+    {
+      "repo": "mattermost/mattermost",
+      "url": "https://github.com/mattermost/mattermost",
+      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+      "language": "TypeScript",
+      "stars": 37319,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 53
+    },
+    {
+      "repo": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars": 46782,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 161
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "XiaomiMiMo/MiMo-Code",
+      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 4629,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-06-10T11:52:41Z"
+    },
+    {
+      "repo": "shadcn/improve",
+      "url": "https://github.com/shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "language": "",
+      "stars": 1837,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-06-10T11:06:58Z"
+    },
+    {
+      "repo": "NoopApp/noop",
+      "url": "https://github.com/NoopApp/noop",
+      "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+      "language": "Swift",
+      "stars": 1481,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-06-07T17:03:02Z"
+    },
+    {
+      "repo": "MSNightmare/RoguePlanet",
+      "url": "https://github.com/MSNightmare/RoguePlanet",
+      "description": "RoguePlanet Windows Defender Vulnerability",
+      "language": "C++",
+      "stars": 1119,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-06-09T19:10:18Z"
+    },
+    {
+      "repo": "GordenSun/GordenSuperPPTSkills",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "language": "Python",
+      "stars": 785,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-06-07T16:20:13Z"
+    },
+    {
+      "repo": "JimLiu/baoyu-design",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "language": "JavaScript",
+      "stars": 770,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-06-07T01:16:18Z"
+    },
+    {
+      "repo": "apple/coreai-models",
+      "url": "https://github.com/apple/coreai-models",
+      "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "language": "Python",
+      "stars": 737,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-06-08T04:32:27Z"
+    },
+    {
+      "repo": "vorpus/performativeUI",
+      "url": "https://github.com/vorpus/performativeUI",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 596,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-06-07T15:45:48Z"
+    },
+    {
+      "repo": "amElnagdy/guard-skills",
+      "url": "https://github.com/amElnagdy/guard-skills",
+      "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+      "language": "",
+      "stars": 571,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-06-06T16:59:27Z"
+    },
+    {
+      "repo": "Tencent-Hunyuan/UniRL",
+      "url": "https://github.com/Tencent-Hunyuan/UniRL",
+      "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
+      "language": "Python",
+      "stars": 523,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-06-08T12:29:36Z"
+    },
+    {
+      "repo": "xiaohuailabs/xiaohu-video-translate",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "language": "Python",
+      "stars": 464,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-06-08T09:55:55Z"
+    },
+    {
+      "repo": "IvanSobolev/Neo3dEngine",
+      "url": "https://github.com/IvanSobolev/Neo3dEngine",
+      "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time chat. No external graphics APIs.",
+      "language": "C#",
+      "stars": 429,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-06-06T09:33:31Z"
+    },
+    {
+      "repo": "Parcle-AI/parcle-memory",
+      "url": "https://github.com/Parcle-AI/parcle-memory",
+      "description": "",
+      "language": "Python",
+      "stars": 391,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-06-06T02:15:35Z"
+    },
+    {
+      "repo": "FerroxLabs/wayland",
+      "url": "https://github.com/FerroxLabs/wayland",
+      "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+      "language": "TypeScript",
+      "stars": 388,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-06-05T17:38:22Z"
+    },
+    {
+      "repo": "jwangkun/claude-for-financial-services-cn",
+      "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
+      "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+      "language": "Python",
+      "stars": 370,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-06-07T15:45:23Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "philipl/pifs",
+      "url": "https://github.com/philipl/pifs",
+      "description": "πfs - the data-free filesystem!",
+      "language": "C",
+      "stars": 7395,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 933 分 · 201 评论",
+      "reasonZh": ""
+    },
+    {
+      "repo": "HelixDB/helix-db",
+      "url": "https://github.com/HelixDB/helix-db",
+      "description": "HelixDB is an OLTP graph-vector database built in Rust.",
+      "language": "Rust",
+      "stars": 4910,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 145 分 · 42 评论",
+      "reasonZh": ""
+    },
+    {
+      "repo": "luke8086/gentleos32",
+      "url": "https://github.com/luke8086/gentleos32",
+      "description": "Hobby operating system for vintage 32-bit PCs",
+      "language": "C",
+      "stars": 513,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 128 分 · 104 评论",
+      "reasonZh": ""
+    },
+    {
+      "repo": "icitry/FPS.cob",
+      "url": "https://github.com/icitry/FPS.cob",
+      "description": "",
+      "language": "COBOL",
+      "stars": 57,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 101 分 · 59 评论",
+      "reasonZh": ""
+    },
+    {
+      "repo": "denoland/clawpatrol",
+      "url": "https://github.com/denoland/clawpatrol",
+      "description": "Security firewall for agents",
+      "language": "Go",
+      "stars": 763,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 84 分 · 26 评论",
+      "reasonZh": ""
+    },
+    {
+      "repo": "vanyapr/makaroshki",
+      "url": "https://github.com/vanyapr/makaroshki",
+      "description": "",
+      "language": "HTML",
+      "stars": 76,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 72 分 · 70 评论",
+      "reasonZh": ""
+    },
+    {
+      "repo": "openfrontio/OpenFrontIO",
+      "url": "https://github.com/openfrontio/OpenFrontIO",
+      "description": "Online browser-based RTS game",
+      "language": "TypeScript",
+      "stars": 2224,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": ""
+    },
+    {
+      "repo": "4thfever/cultivation-world-simulator",
+      "url": "https://github.com/4thfever/cultivation-world-simulator",
+      "description": "基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world. ",
+      "language": "Python",
+      "stars": 1758,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": ""
+    },
+    {
+      "repo": "Scriptez1/RedXFreeSteamInstaller",
+      "url": "https://github.com/Scriptez1/RedXFreeSteamInstaller",
+      "description": "It allows you to automatically add all free and paid games and DLCs to your Steam account securely and for free. - Steam hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar.",
+      "language": "",
+      "stars": 948,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": ""
+    },
+    {
+      "repo": "dominostars/playtranslate",
+      "url": "https://github.com/dominostars/playtranslate",
+      "description": "Real-time game translation app for Android for both language learners and casual gamers",
+      "language": "Kotlin",
+      "stars": 545,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": ""
+    }
+  ]
+}
