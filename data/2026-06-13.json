@@ -1,0 +1,409 @@
+{
+  "date": "2026-06-13",
+  "trending": [
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 56826,
+      "summaryZh": "一个为AI编程代理提供生产级工程技能的工具集。包含预置的技能模板和最佳实践，支持快速集成到开发工作流中。适合希望提升AI编码代理可靠性和效率的开发者。",
+      "category": "开发工具",
+      "starsToday": 2656
+    },
+    {
+      "repo": "music-assistant/server",
+      "url": "https://github.com/music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "stars": 1785,
+      "summaryZh": "免费开源的音乐库管理器，可连接流媒体服务和多种智能音箱。核心功能包括统一管理多平台音乐、自动元数据整理和跨设备播放。适合追求全屋音乐统一控制的家庭用户。",
+      "category": "其他",
+      "starsToday": 20
+    },
+    {
+      "repo": "mattermost/mattermost",
+      "url": "https://github.com/mattermost/mattermost",
+      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+      "language": "TypeScript",
+      "stars": 37633,
+      "summaryZh": "面向软件开发生命周期的开源协作平台。提供即时通讯、频道管理、集成CI/CD工具和代码审计功能。适合需要安全内部沟通的敏捷开发团队。",
+      "category": "开发工具",
+      "starsToday": 388
+    },
+    {
+      "repo": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": 35123,
+      "summaryZh": "苹果官方推出的Linux容器管理工具，在Mac上通过轻量级虚拟机运行。专门为Apple Silicon芯片优化，支持高效启动和管理容器。适合需要在macOS上测试Linux环境的开发者。",
+      "category": "开发工具",
+      "starsToday": 3504
+    },
+    {
+      "repo": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": 118044,
+      "summaryZh": "全球公开IPTV频道集合，收录数千个电视频道的直播流链接。支持按国家、语言分类检索，并提供M3U格式播放列表。适合需要免费观看全球电视节目的用户。",
+      "category": "其他",
+      "starsToday": 179
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 226015,
+      "summaryZh": "一套基于智能体能力的框架和软件开发方法论。通过模块化技能组合和自动化流程，提升团队协作效率。适合希望引入AI辅助开发流程的技术团队。",
+      "category": "开发工具",
+      "starsToday": 1275
+    },
+    {
+      "repo": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 15775,
+      "summaryZh": "桌面端Markdown知识库管理应用。支持双向链接、标签系统和全文搜索，可本地存储或同步云服务。适合笔记重度用户和个人知识管理场景。",
+      "category": "资料教程",
+      "starsToday": 369
+    },
+    {
+      "repo": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars": 3196,
+      "summaryZh": "开源医疗AI项目，提供预训练模型用于诊断辅助和医学文本分析。支持影像识别、临床术语提取等功能。适合医疗研究者和开发者构建健康应用。",
+      "category": "AI",
+      "starsToday": 515
+    },
+    {
+      "repo": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "language": "Python",
+      "stars": 8641,
+      "summaryZh": "为大语言模型提供最快KV缓存层的加速库。通过高效缓存机制减少推理时计算开销，显著降低延迟。适合部署聊天机器人或实时AI服务的场景。",
+      "category": "AI",
+      "starsToday": 28
+    },
+    {
+      "repo": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "stars": 16990,
+      "summaryZh": "项目管理智能体技能市场，提供100多种技能、命令和插件。覆盖从需求分析到增长策略的全流程。适合项目经理和产品负责人快速定制自动化流程。",
+      "category": "开发工具",
+      "starsToday": 827
+    },
+    {
+      "repo": "masterking32/MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars": 6015,
+      "summaryZh": "高级DNS隧道VPN工具，用于绕过网络审查。采用低开销ARQ、解析器负载均衡等技术，在高丢包环境中仍保持稳定。适合需要安全访问受限内容的用户。",
+      "category": "其他",
+      "starsToday": 400
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 112430,
+      "summaryZh": "提供完整AI代理机构解决方案，包含前端开发、评论管理、创意生成等专业代理。每个代理都具备独立工作流程和个性。适合需要多智能体协作的自动化任务场景。",
+      "category": "AI",
+      "starsToday": 1026
+    },
+    {
+      "repo": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "stars": 134337,
+      "summaryZh": "微软官方Windows效率工具合集，包含屏幕取色、窗口管理、批量重命名等实用功能。持续更新且开源。适合希望提升Windows操作效率的所有用户。",
+      "category": "开发工具",
+      "starsToday": 103
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "XiaomiMiMo/MiMo-Code",
+      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 6868,
+      "summaryZh": "小米自研的AI代码生成工具，支持多语言自动补全和代码审查。集成在IDE中，可提升编码速度和准确性。适合使用TypeScript的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-10T11:52:41Z"
+    },
+    {
+      "repo": "shadcn/improve",
+      "url": "https://github.com/shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "language": "",
+      "stars": 2439,
+      "summaryZh": "利用最强模型审计代码库，生成优化计划供低成本模型执行。通过分工提升代码质量，降低AI使用成本。适合希望系统化改进代码库的团队。",
+      "category": "开发工具",
+      "createdAt": "2026-06-10T11:06:58Z"
+    },
+    {
+      "repo": "NoopApp/noop",
+      "url": "https://github.com/NoopApp/noop",
+      "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+      "language": "Swift",
+      "stars": 1544,
+      "summaryZh": "Noop 是一款离线 WHOOP 伴侣应用，通过蓝牙连接运动手环，所有数据仅存储在本地设备上。无需云服务、账户或订阅，核心亮点是隐私优先的本地数据处理，适合注重数据安全的运动爱好者。",
+      "category": "其他",
+      "createdAt": "2026-06-07T17:03:02Z"
+    },
+    {
+      "repo": "MSNightmare/RoguePlanet",
+      "url": "https://github.com/MSNightmare/RoguePlanet",
+      "description": "RoguePlanet Windows Defender Vulnerability",
+      "language": "C++",
+      "stars": 1218,
+      "summaryZh": "RoguePlanet 是一个利用 Windows Defender 漏洞的武器化工具，基于 C++ 实现的攻击载荷。技术亮点是绕过 Defender 检测，适合安全研究人员测试防御机制或红队评估。",
+      "category": "开发工具",
+      "createdAt": "2026-06-09T19:10:18Z"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 934,
+      "summaryZh": "Ponytail 是一个让 AI 代理像资深开发一样偷懒的 JavaScript 工具，通过提示工程减少无用代码生成。核心功能是优化 AI 输出，适合使用 AI 编码助手时追求简洁高效的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-12T00:52:37Z"
+    },
+    {
+      "repo": "GordenSun/GordenSuperPPTSkills",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "language": "Python",
+      "stars": 846,
+      "summaryZh": "GordenSuperPPTSkills 是一个 AI PPT 生成工具，利用 GPT 生成精美图片格式的 PPT 并转换为可编辑的 PPTX 文件。核心亮点是自动化程度高、输出格式完整兼容，适合需要快速制作高质量演示文稿的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-06-07T16:20:13Z"
+    },
+    {
+      "repo": "apple/coreai-models",
+      "url": "https://github.com/apple/coreai-models",
+      "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "language": "Swift",
+      "stars": 833,
+      "summaryZh": "Apple 官方的端侧 AI 模型工具集，包含模型导出配方、Python 原语和 Swift 运行时工具。技术亮点是针对 Apple 设备优化，支持离线推理，适合在 iOS/macOS 上开发 AI 应用的开发者。",
+      "category": "AI",
+      "createdAt": "2026-06-08T04:32:27Z"
+    },
+    {
+      "repo": "JimLiu/baoyu-design",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "language": "JavaScript",
+      "stars": 830,
+      "summaryZh": "Baoyu-Design 可本地运行 Claude Design 作为代理技能，支持 Cursor 和 Claude Code。能生成精美的 UI 原型、演示文稿和线框图，以独立 HTML 输出，需配合 Opus 4 模型使用。适合设计师和开发者快速原型制作。",
+      "category": "前端",
+      "createdAt": "2026-06-07T01:16:18Z"
+    },
+    {
+      "repo": "vorpus/performativeUI",
+      "url": "https://github.com/vorpus/performativeUI",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 661,
+      "summaryZh": "PerformativeUI 是一个 TypeScript 库，专注于创建高性能用户界面。核心亮点是采用虚拟 DOM 优化渲染，适合构建复杂交互的 Web 应用。",
+      "category": "前端",
+      "createdAt": "2026-06-07T15:45:48Z"
+    },
+    {
+      "repo": "amElnagdy/guard-skills",
+      "url": "https://github.com/amElnagdy/guard-skills",
+      "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+      "language": "",
+      "stars": 600,
+      "summaryZh": "Guard-skills 是为编码代理设计的质量门控工具，通过预定义规则捕捉 AI 生成的代码、测试和文档中的典型失效模式。适合使用 AI 辅助编码的团队，用于提升代码质量。",
+      "category": "开发工具",
+      "createdAt": "2026-06-06T16:59:27Z"
+    },
+    {
+      "repo": "Tencent-Hunyuan/UniRL",
+      "url": "https://github.com/Tencent-Hunyuan/UniRL",
+      "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
+      "language": "Python",
+      "stars": 550,
+      "summaryZh": "UniRL 是一个统一的多模态模型强化学习框架，由腾讯混元团队开发。支持多种模型和任务，技术亮点是统一的训练接口，适合研究多模态 RL 的学者和工程师。",
+      "category": "AI",
+      "createdAt": "2026-06-08T12:29:36Z"
+    },
+    {
+      "repo": "SkyBlue997/enableMacosAI",
+      "url": "https://github.com/SkyBlue997/enableMacosAI",
+      "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+      "language": "Shell",
+      "stars": 533,
+      "summaryZh": "一键为国行 Mac 开启完整 Apple 智能功能，包括端侧和私有云计算的集成。支持 macOS 27 和 Apple Silicon，适合中国用户绕过限制使用 AI 特性。",
+      "category": "开发工具",
+      "createdAt": "2026-06-10T13:23:39Z"
+    },
+    {
+      "repo": "xiaohuailabs/xiaohu-video-translate",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "language": "Python",
+      "stars": 481,
+      "summaryZh": "小虎视频翻译工具通过一句话描述，自动为外语视频添加中文字幕，流程包括下载、转写、翻译、润色和烧录。全程本地运行，不产生 API 费用，适合有外语视频处理需求的用户。",
+      "category": "其他",
+      "createdAt": "2026-06-08T09:55:55Z"
+    },
+    {
+      "repo": "plannotator/effective-html",
+      "url": "https://github.com/plannotator/effective-html",
+      "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+      "language": "HTML",
+      "stars": 477,
+      "summaryZh": "Effective-html 是一个代理技能，用于生成简洁优雅的 HTML 计划、架构图或其他可视化内容。核心优势是输出可直接在浏览器中运行，适合需要快速绘制图表或原型的开发者。",
+      "category": "前端",
+      "createdAt": "2026-06-09T23:24:51Z"
+    },
+    {
+      "repo": "IvanSobolev/Neo3dEngine",
+      "url": "https://github.com/IvanSobolev/Neo3dEngine",
+      "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time chat. No external graphics APIs.",
+      "language": "C#",
+      "stars": 451,
+      "summaryZh": "Neo3dEngine 是一个基于 CPU 的极简 3D 控制台引擎，使用 C# 和 .NET 8 从零构建，支持光线投射/光线追踪、动态光照和阴影。技术亮点是纯软件渲染，适合学习游戏引擎原理的开发者。",
+      "category": "游戏",
+      "createdAt": "2026-06-06T09:33:31Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "philipl/pifs",
+      "url": "https://github.com/philipl/pifs",
+      "description": "πfs - the data-free filesystem!",
+      "language": "C",
+      "stars": 7444,
+      "summaryZh": "πfs 是一个用圆周率 π 存储数据的无数据文件系统，利用 π 的数字序列编码文件内容。核心技术是数据压缩和检索算法，适合极客探索和趣味编程。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 947 分 · 204 评论",
+      "reasonZh": "脑洞大开！把文件系统建立在圆周率π上，数据以某种方式编码进π的数字序列里，听起来很荒谬但实现得很认真。适合恶搞、炫技或给朋友演示什么叫'存数据不用硬盘'。比同类文件系统玩具工程更完整。"
+    },
+    {
+      "repo": "HelixDB/helix-db",
+      "url": "https://github.com/HelixDB/helix-db",
+      "description": "HelixDB is an OLTP graph-vector database built in Rust.",
+      "language": "Rust",
+      "stars": 5023,
+      "summaryZh": "HelixDB 是一个用 Rust 构建的 OLTP 图-向量数据库，兼具图数据库和向量数据库的能力。技术亮点是高性能事务处理与混合查询，适合需要处理复杂关系和相似性搜索的场景。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 152 分 · 42 评论",
+      "reasonZh": "图+向量双模数据库，OLTP级别的事务支持，Rust实现性能拉满。同类项目大多侧重OLAP或纯向量，HelixDB适合需要实时图分析+语义搜索的应用，比如推荐系统或知识图谱。"
+    },
+    {
+      "repo": "coder/boo",
+      "url": "https://github.com/coder/boo",
+      "description": "A GNU screen style terminal multiplexer built on libghostty.",
+      "language": "Zig",
+      "stars": 273,
+      "summaryZh": "基于 libghostty 构建的 GNU Screen 风格终端复用器。支持多窗口、会话分离与恢复，使用 Zig 语言开发，性能高效。适合需要在控制台管理多个任务的开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 89 分 · 27 评论",
+      "reasonZh": "基于libghostty的终端复用器，Zig编写，比tmux更现代且性能更好。最大亮点是原生继承ghostty的GPU加速渲染，特别适合需要低延迟、高帧率的终端工作流。"
+    },
+    {
+      "repo": "denoland/clawpatrol",
+      "url": "https://github.com/denoland/clawpatrol",
+      "description": "Security firewall for agents",
+      "language": "Go",
+      "stars": 799,
+      "summaryZh": "为 AI Agent 设计的防火墙，提供安全防护规则。核心功能包括流量监控、异常行为阻断和策略配置，由 Go 编写。适用于部署 AI Agent 的团队，防止恶意攻击与数据泄露。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 101 分 · 28 评论",
+      "reasonZh": "AI Agent的安全防火墙，Deno出品。可以拦截、审计LLM的输入输出，防止注入攻击。同类工具少且不成熟，适合部署AI Agent后担心安全性的人。"
+    },
+    {
+      "repo": "icitry/FPS.cob",
+      "url": "https://github.com/icitry/FPS.cob",
+      "description": "",
+      "language": "COBOL",
+      "stars": 78,
+      "summaryZh": "用 COBOL 语言实现的第一人称射击游戏。技术亮点是在古老的语言中实现实时渲染、碰撞检测和地图交互。适合复古编程爱好者或研究语言边界的开发者体验。",
+      "category": "游戏",
+      "source": "hn",
+      "signal": "HN 136 分 · 67 评论",
+      "reasonZh": "COBOL编写的FPS游戏！古老语言做现代图形，反差感极强。代码量虽小但实现了基本射击机制，适合考古、教学或给COBOL程序员开玩笑。"
+    },
+    {
+      "repo": "control-theory/gonzo",
+      "url": "https://github.com/control-theory/gonzo",
+      "description": "Gonzo! The Go based TUI log analysis tool",
+      "language": "Go",
+      "stars": 2681,
+      "summaryZh": "基于 Go 的 TUI 日志分析工具，提供实时过滤、着色和统计功能。无需图形界面，可在终端中快速排查问题。适合运维和开发人员在服务器上调试日志。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · ai",
+      "reasonZh": "Go写的TUI日志分析工具，交互式且功能齐全。亮点是纯文本界面，无需离开终端就能快速排查日志，比grep直观，比ELK轻量。适合运维和开发者日常debug。"
+    },
+    {
+      "repo": "bytebase/dbhub",
+      "url": "https://github.com/bytebase/dbhub",
+      "description": "Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.",
+      "language": "TypeScript",
+      "stars": 2961,
+      "summaryZh": "零依赖、token 高效的数据库 MCP 服务器，支持 Postgres、MySQL、SQL Server、MariaDB、SQLite。可为 AI Agent 提供结构化数据访问，适合需要将数据库与 AI 工作流集成的场景。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · ai",
+      "reasonZh": "零依赖的数据库MCP服务器，支持Postgres/MySQL等。特点是Token高效，适合给AI Agent提供数据库访问能力而不浪费token。同类MCP工具多但DBHub更轻量。"
+    },
+    {
+      "repo": "TanStack/ai",
+      "url": "https://github.com/TanStack/ai",
+      "description": "🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.",
+      "language": "TypeScript",
+      "stars": 2776,
+      "summaryZh": "TypeScript AI SDK，支持流式聊天、工具调用、Agent 和多模态应用，兼容 OpenAI、Anthropic、Gemini 等模型。提供 React、Vue、Svelte、Solid 前端绑定，类型安全。适合构建跨框架 AI 应用的开发者。",
+      "category": "前端",
+      "source": "search",
+      "signal": "小而美 · ai",
+      "reasonZh": "TypeSafe、Provider无关的AI SDK，支持流式聊天、工具调用、多模态。亮点是类型安全和跨框架，适合React/Vue等前端项目快速集成AI功能。"
+    },
+    {
+      "repo": "nageoffer/ragent",
+      "url": "https://github.com/nageoffer/ragent",
+      "description": "企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。",
+      "language": "Java",
+      "stars": 2702,
+      "summaryZh": "企业级 Agentic RAG 全栈框架，覆盖文档解析、多路检索、意图识别、会话记忆与 MCP 工具调用。Java 实现，提供深度思考能力。适合构建复杂业务问答系统的团队。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · ai",
+      "reasonZh": "企业级Agentic RAG，全链路涵盖文档解析到深度思考。Java实现，适合已有Java技术栈的团队，比LangChain更工程化。"
+    },
+    {
+      "repo": "giancarloerra/SocratiCode",
+      "url": "https://github.com/giancarloerra/SocratiCode",
+      "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-flow, interactive HTML viewer, cross-project & branch-aware search, DB/API/infra knowledge. 61% less tokens, 84% fewer calls, 37x faster. Cloud in beta.",
+      "language": "TypeScript",
+      "stars": 2901,
+      "summaryZh": "企业级代码智能插件，支持零配置本地运行。提供混合语义搜索、多语言依赖图、符号级影响分析和调用流分析。适用于大型代码库（4000万行+）的开发者快速理解与调试。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · ai",
+      "reasonZh": "代码库智能分析工具，支持40M+行代码的语义搜索、依赖图和变更影响分析。本地运行，隐私安全。适合大型项目做代码审查或重构影响评估。"
+    }
+  ]
+}
