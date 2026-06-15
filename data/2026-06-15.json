@@ -1,0 +1,429 @@
+{
+  "date": "2026-06-15",
+  "trending": [
+    {
+      "repo": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": 121052,
+      "summaryZh": "全球公共 IPTV 频道集合，收录了来自世界各地的可公开访问的电视直播流。项目持续更新，提供 M3U 播放列表，方便用户通过各类播放器观看。适合希望免费观看全球电视节目的用户。",
+      "category": "其他",
+      "starsToday": 1528
+    },
+    {
+      "repo": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 447225,
+      "summaryZh": "免费编程学习平台的开源代码库与课程体系，涵盖数学、编程和计算机科学。提供互动式教程和实战项目，帮助用户零基础入门并提升技能。适合所有想免费学习编程的人。",
+      "category": "资料教程",
+      "starsToday": 146
+    },
+    {
+      "repo": "pytest-dev/pytest",
+      "url": "https://github.com/pytest-dev/pytest",
+      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+      "language": "Python",
+      "stars": 14049,
+      "summaryZh": "Python 测试框架，简洁易用且高度可扩展，支持从单元测试到复杂功能测试。拥有丰富的插件生态和 fixture 机制，能大幅提升测试编写效率。适合 Python 开发者进行自动化测试。",
+      "category": "开发工具",
+      "starsToday": 14
+    },
+    {
+      "repo": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars": 33784,
+      "summaryZh": "基于 Rust 的 Web 开发平台，核心是超快速的 JavaScript/TypeScript 编译器和打包器。性能远超传统工具，支持现代 JS 特性和插件扩展。适合追求构建速度的前端开发者使用。",
+      "category": "前端",
+      "starsToday": 163
+    },
+    {
+      "repo": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": 31245,
+      "summaryZh": "开源的全渠道客服平台，提供实时聊天、邮件支持和工单管理，是 Intercom、Zendesk 等的替代方案。支持多渠道集成、自动化工作流和团队协作。适合需要自建客服系统的企业。",
+      "category": "开发工具",
+      "starsToday": 400
+    },
+    {
+      "repo": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars": 5326,
+      "summaryZh": "AI 代理技能安全扫描器，自动检测提示注入、恶意模式等安全风险。通过静态分析评估技能行为，生成安全报告。适合开发和使用 AI 代理的团队进行安全审计。",
+      "category": "AI",
+      "starsToday": 964
+    },
+    {
+      "repo": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars": 10407,
+      "summaryZh": "云原生管理器，提供统一界面来管理 Kubernetes 集群、服务网格和云基础设施。支持策略引擎、性能测试和可视化拓扑。适合云原生运维和开发人员简化多云管理。",
+      "category": "开发工具",
+      "starsToday": 20
+    },
+    {
+      "repo": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "stars": 49952,
+      "summaryZh": "下一代前端测试工具，专注于浏览器端 E2E 测试，提供实时重载、时间旅行和自动等待。相比 Selenium 更快更稳定，内置调试和截图功能。适合前端开发者进行自动化测试。",
+      "category": "开发工具",
+      "starsToday": 39
+    },
+    {
+      "repo": "GorvGoyl/Clone-Wars",
+      "url": "https://github.com/GorvGoyl/Clone-Wars",
+      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+      "language": "",
+      "stars": 35483,
+      "summaryZh": "收录 100+ 个热门网站（如 Airbnb、亚马逊、Netflix）的开源克隆项目，包含源码、演示和技术栈。是学习全栈开发、参考架构设计和积累实战经验的优质资源。适合开发者学习和面试准备。",
+      "category": "资料教程",
+      "starsToday": 269
+    },
+    {
+      "repo": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "description": "Introduction to Autonomous Robots",
+      "language": "TeX",
+      "stars": 2734,
+      "summaryZh": "自主机器人入门教材，涵盖运动规划、感知和控制等核心概念。提供 PDF 和代码示例，适合学生和工程师系统学习机器人技术。内容由浅入深，理论与实践结合。",
+      "category": "资料教程",
+      "starsToday": 293
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 29922,
+      "summaryZh": "金融市场的基石模型，专门针对金融语言（如股票行情、财报）进行预训练。能理解市场情绪、预测趋势，适用于量化交易和研究。适合金融科技开发者与量化分析师。",
+      "category": "AI",
+      "starsToday": 244
+    },
+    {
+      "repo": "music-assistant/server",
+      "url": "https://github.com/music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "stars": 2194,
+      "summaryZh": "开源音乐库管理器，连接流媒体服务和多种智能音箱，实现统一播放控制。支持多房间同步、本地收藏和智能推荐。适合音乐爱好者整合分散的音乐资源。",
+      "category": "其他",
+      "starsToday": 197
+    },
+    {
+      "repo": "Free-TV/IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "stars": 16946,
+      "summaryZh": "免费电视频道 M3U 播放列表，收录全球可公开观看的频道，包括新闻、体育和娱乐。定期更新，提供高质量源。适合通过 IPTV 播放器免费收看电视节目。",
+      "category": "其他",
+      "starsToday": 70
+    },
+    {
+      "repo": "puppeteer/puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "language": "TypeScript",
+      "stars": 94649,
+      "summaryZh": "Node.js 库，提供高级 API 控制 Chrome 或 Firefox 浏览器。支持页面截图、PDF生成、自动化表单提交和网络请求拦截。适合前端测试、爬虫和自动化任务。",
+      "category": "开发工具",
+      "starsToday": 29
+    },
+    {
+      "repo": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "stars": 14398,
+      "summaryZh": "统一接口，简化多个生成式 AI 提供商（如 OpenAI、Anthropic）的调用。只需少量代码即可切换模型，降低集成成本。适合快速构建 AI 应用的开发者。",
+      "category": "AI",
+      "starsToday": 291
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "XiaomiMiMo/MiMo-Code",
+      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 8456,
+      "summaryZh": "小米推出的AI编程助手，支持多语言代码生成与智能补全。基于自研大模型，提供高效编码建议和错误修复。适合开发者日常使用，提升编程效率。",
+      "category": "AI",
+      "createdAt": "2026-06-10T11:52:41Z"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 8218,
+      "summaryZh": "让AI代理像最懒的资深开发者那样思考，自动简化或避免不必要的代码。核心功能是生成最简方案，减少代码量。适合追求代码精益的团队或个人。",
+      "category": "AI",
+      "createdAt": "2026-06-12T00:52:37Z"
+    },
+    {
+      "repo": "shadcn/improve",
+      "url": "https://github.com/shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "language": "",
+      "stars": 4342,
+      "summaryZh": "用最强模型审计代码库，为廉价模型生成执行计划。核心是降本增效：先分析再低成本执行。适合想节省API成本但仍需高质量代码审查的场景。",
+      "category": "开发工具",
+      "createdAt": "2026-06-10T11:06:58Z"
+    },
+    {
+      "repo": "MSNightmare/RoguePlanet",
+      "url": "https://github.com/MSNightmare/RoguePlanet",
+      "description": "RoguePlanet Windows Defender Vulnerability",
+      "language": "C++",
+      "stars": 1275,
+      "summaryZh": "利用Windows Defender漏洞的恶意工具，演示安全攻击。核心是绕过防护机制，属于安全研究或教育用途。适合安全研究人员了解漏洞原理。",
+      "category": "其他",
+      "createdAt": "2026-06-09T19:10:18Z"
+    },
+    {
+      "repo": "omnigent-ai/omnigent",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "language": "Python",
+      "stars": 1212,
+      "summaryZh": "统一管理多种AI代理的元框架，支持Claude Code、Codex、Pi等。可互换或组合不同代理，无需重写代码。适合需要灵活切换AI工具的开发团队。",
+      "category": "AI",
+      "createdAt": "2026-06-11T12:18:13Z"
+    },
+    {
+      "repo": "SkyBlue997/enableMacosAI",
+      "url": "https://github.com/SkyBlue997/enableMacosAI",
+      "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+      "language": "Shell",
+      "stars": 1185,
+      "summaryZh": "为一键开启国行Mac的完整Apple智能功能（包括端侧和云端）。支持macOS 27和Apple Silicon。适合国行Mac用户快速解锁AI能力。",
+      "category": "开发工具",
+      "createdAt": "2026-06-10T13:23:39Z"
+    },
+    {
+      "repo": "apple/coreai-models",
+      "url": "https://github.com/apple/coreai-models",
+      "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "language": "Swift",
+      "stars": 907,
+      "summaryZh": "苹果官方发布的设备端AI模型导出工具包，包含Python和Swift运行时库。核心是高效部署和运行模型。适合在Apple设备上开发AI应用的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-08T04:32:27Z"
+    },
+    {
+      "repo": "lenucksi/aur-malware-check",
+      "url": "https://github.com/lenucksi/aur-malware-check",
+      "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+      "language": "Shell",
+      "stars": 884,
+      "summaryZh": "检测2026年6月Arch Linux AUR供应链攻击（atomic-lockfile）的工具。整合了社区发现的攻击特征。适合Arch用户检查系统是否受影响。",
+      "category": "开发工具",
+      "createdAt": "2026-06-12T13:17:07Z"
+    },
+    {
+      "repo": "plannotator/effective-html",
+      "url": "https://github.com/plannotator/effective-html",
+      "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+      "language": "HTML",
+      "stars": 834,
+      "summaryZh": "为AI代理设计的HTML生成技能，可产出优雅且简洁的页面、架构图等。核心是自动化生成高质量HTML。适合需要快速生成网页原型或文档的场景。",
+      "category": "AI",
+      "createdAt": "2026-06-09T23:24:51Z"
+    },
+    {
+      "repo": "levy-street/world-of-claudecraft",
+      "url": "https://github.com/levy-street/world-of-claudecraft",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 700,
+      "summaryZh": "基于Claude AI的互动故事生成工具，动态创建游戏世界和剧情。核心是AI驱动叙事。适合游戏玩家或创意写作者探索随机生成的故事。",
+      "category": "游戏",
+      "createdAt": "2026-06-10T05:55:59Z"
+    },
+    {
+      "repo": "tamnd/kage",
+      "url": "https://github.com/tamnd/kage",
+      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "language": "Go",
+      "stars": 632,
+      "summaryZh": "抓取任意网站用于离线浏览，并剥离JavaScript。核心是纯净内容保存，提升加载速度和安全性。适合需要离线阅读或无JS环境的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-06-14T11:21:55Z"
+    },
+    {
+      "repo": "Tencent-Hunyuan/UniRL",
+      "url": "https://github.com/Tencent-Hunyuan/UniRL",
+      "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
+      "language": "Python",
+      "stars": 602,
+      "summaryZh": "腾讯混元推出的统一多模态模型强化学习框架。支持图像、文本等多种模态的训练与优化。适合研究多模态AI的团队，提升模型对齐能力。",
+      "category": "AI",
+      "createdAt": "2026-06-08T12:29:36Z"
+    },
+    {
+      "repo": "khrisat/text-humanizer",
+      "url": "https://github.com/khrisat/text-humanizer",
+      "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+      "language": "Python",
+      "stars": 579,
+      "summaryZh": "开源AI文本人性化工具，使生成内容绕过Turnitin、GPTZero等检测。核心是修改文本风格使其更像人类书写。适合需要规避AI识别的内容创作者。",
+      "category": "AI",
+      "createdAt": "2026-06-09T18:11:45Z"
+    },
+    {
+      "repo": "joeseesun/qiaomu-goal-meta-skill",
+      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "language": "Python",
+      "stars": 572,
+      "summaryZh": "将模糊的Codex任务转化为强化的`/goal`命令，包含验证、约束等元信息。核心是提升任务执行精度。适合需要精细控制AI编码任务的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-11T15:10:51Z"
+    },
+    {
+      "repo": "Danilaa1/slot-text",
+      "url": "https://github.com/Danilaa1/slot-text",
+      "description": "Dependency-free text roll animation for vanilla JS, React, and Vue.",
+      "language": "TypeScript",
+      "stars": 568,
+      "summaryZh": "无依赖的文本滚动动画库，支持Vanilla JS、React和Vue。核心是轻量级、易集成。适合前端开发者快速实现文字动画效果。",
+      "category": "前端",
+      "createdAt": "2026-06-09T16:46:40Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "athasdev/athas",
+      "url": "https://github.com/athasdev/athas",
+      "description": "A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings.",
+      "language": "TypeScript",
+      "stars": 2865,
+      "summaryZh": "基于 Tauri（Rust + React）构建的轻量跨平台代码编辑器，支持 Git 交互、AI 代理和 Vim 键位绑定。适合追求快速启动、现代化编辑体验的开发者，尤其是习惯 Vim 或需要 AI 辅助编码的场景。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · rust",
+      "reasonZh": "轻量级、跨平台代码编辑器，内建 Git 支持、AI 助手和 Vim 键绑定，基于 Tauri 构建。比 VS Code 更轻，比 Sublime 更现代化，适合追求效率与简洁的开发者日常编码。"
+    },
+    {
+      "repo": "NVlabs/cuda-oxide",
+      "url": "https://github.com/NVlabs/cuda-oxide",
+      "description": "cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
+      "language": "Rust",
+      "stars": 2753,
+      "summaryZh": "实验性 Rust 到 CUDA 编译器，支持用安全惯用的 Rust 编写 GPU 内核并直接编译为 PTX，无需 DSL 或外部语言。适合希望用 Rust 进行 GPU 编程的研究人员和性能爱好者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · rust",
+      "reasonZh": "实验性的 Rust 到 CUDA 编译器，让你用安全的 Rust 写 GPU 内核，无需 DSL 或 CUDA C。如果玩 GPU 编程又爱 Rust，这个神器能让你在 GPU 上写纯 Rust，性能与安全兼顾。"
+    },
+    {
+      "repo": "deeplethe/forkd",
+      "url": "https://github.com/deeplethe/forkd",
+      "description": "Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KVM-isolated, snapshot CoW.",
+      "language": "Rust",
+      "stars": 2388,
+      "summaryZh": "面向 AI 代理微虚拟机的快速 fork 工具，能在约 100ms 内从热父进程派生 100 个子进程，或用约 150ms 分支一个实时虚拟机，基于 KVM 隔离与写时复制快照。适用于需要大规模快速启动隔离环境的 AI 应用场景。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · rust",
+      "reasonZh": "AI agent 微 VM 的 fork 操作，100ms 内生成 100 个子进程，支持快照写时复制。比传统 VM 启动快几个数量级，适合需要大规模并行沙盒的场景，比如 AI 安全评估。"
+    },
+    {
+      "repo": "sheeki03/tirith",
+      "url": "https://github.com/sheeki03/tirith",
+      "description": "Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.",
+      "language": "Rust",
+      "stars": 2437,
+      "summaryZh": "为开发者和 AI 代理设计的终端安全工具，在执行前拦截同形异义 URL、管道到 shell、ANSI 注入、混淆载荷、数据窃取及恶意 AI 技能/配置。适用于需要增强终端安全性的开发环境或 AI 沙箱。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · rust",
+      "reasonZh": "终端安全守护者，自动拦截同形字 URL、管道到 shell、ANSI 注入等攻击，保护开发者和 AI agent。比普通终端多了一层主动防御，适合安全意识强的程序员和 AI 工具使用者。"
+    },
+    {
+      "repo": "yvgude/lean-ctx",
+      "url": "https://github.com/yvgude/lean-ctx",
+      "description": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first.",
+      "language": "Rust",
+      "stars": 2706,
+      "summaryZh": "AI 代理的上下文智能层，通过单一本地 Rust 二进制控制 AI 读取内容、记忆学习和保护隐私。适用于需要精细控制 AI 上下文访问权限的开发者和企业场景。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · rust",
+      "reasonZh": "AI agent 的上下文智能层，控制 AI 能读什么、记住什么，本地运行不泄露。类似给 AI 戴上“记忆筛选器”，适合需要精细管理上下文的场景，比如企业级 AI 应用。"
+    },
+    {
+      "repo": "Open-Less/openless",
+      "url": "https://github.com/Open-Less/openless",
+      "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
+      "language": "HTML",
+      "stars": 2329,
+      "summaryZh": "开源的跨平台语音输入工具，按住快捷键说话，松开即获润色后文字并自动粘贴到光标位置。支持 macOS 和 Windows，适合需要高效语音转文字并自动优化的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · rust",
+      "reasonZh": "按住快捷键说话，松开即得 AI 润色后的文字，在任何应用里都能用。比 dictation 工具多了 AI 润色一步，适合写作、邮件、笔记等场景，提升输入效率。"
+    },
+    {
+      "repo": "onecli/onecli",
+      "url": "https://github.com/onecli/onecli",
+      "description": "Open-source credential gateway with a built-in vault. give your AI agents access to services without exposing keys.",
+      "language": "TypeScript",
+      "stars": 2375,
+      "summaryZh": "开源凭证网关，内置安全保险库，允许 AI 代理访问服务而无需暴露密钥。适合管理多个 AI 代理凭据的开发团队或需要安全密钥分发的场景。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · rust",
+      "reasonZh": "开源凭证网关，内置密码保险箱，给 AI agent 安全访问服务而不暴露密钥。比手动管理 API key 更安全方便，适合需要给多个 AI 工具配置权限的开发团队。"
+    },
+    {
+      "repo": "alebal123bal/khadas_yolov8n_multithread",
+      "url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
+      "description": "Real-time YOLOv8n UAV detection at the sensor's 46 FPS ceiling, in ~140 MB of RAM",
+      "language": "C++",
+      "stars": 33,
+      "summaryZh": "基于多线程的实时 YOLOv8n 无人机检测程序，在约 140 MB 内存下达到传感器最高 46 FPS 的检测速度。适合资源受限的边缘设备上的实时目标检测场景。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 65 分 · 8 评论",
+      "reasonZh": "在 Khadas VIM3 边缘设备上实现实时无人机检测，达到传感器 46 FPS 上限，仅用约 140 MB 内存。比同类方案更极致地优化了资源占用，适合低成本边缘 AI 和无人机监控。"
+    },
+    {
+      "repo": "entGriff/ezra",
+      "url": "https://github.com/entGriff/ezra",
+      "description": "",
+      "language": "Elixir",
+      "stars": 70,
+      "summaryZh": "用 Elixir 开发的项目，目前描述为空。可能是某种工具或框架，具体功能待补充。适合对 Elixir 生态系统感兴趣的用户。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 73 分 · 11 评论",
+      "reasonZh": "一个 Elixir 项目，具体功能未描述，但基于 Elixir 的并发和容错特性，可能在实时系统或分布式应用中有独特设计。适合 Elixir 爱好者探索新思路。"
+    },
+    {
+      "repo": "kekcleader/FreeOberon",
+      "url": "https://github.com/kekcleader/FreeOberon",
+      "description": "Cross-platform IDE for development in Oberon programming language made in the classical FreePascal-like pseudo-graphic style.",
+      "language": "C",
+      "stars": 209,
+      "summaryZh": "跨平台 Oberon 语言集成开发环境，采用经典 FreePascal 风格的伪图形界面。适合学习或使用 Oberon 语言的编程爱好者及教育场景。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 147 分 · 59 评论",
+      "reasonZh": "跨平台 Oberon 语言 IDE，采用类 FreePascal 伪图形风格，复古而经典。比现代 IDE 更轻量简洁，适合教育场景或 Oberon 语言爱好者重温旧梦。"
+    }
+  ]
+}
