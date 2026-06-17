@@ -1,0 +1,397 @@
+{
+  "date": "2026-06-17",
+  "trending": [
+    {
+      "repo": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 448587,
+      "summaryZh": "免费学习编程、数学和计算机科学的开源平台，提供数千小时交互式课程。核心特色是无需下载、全在浏览器中完成，且完全免费。适合零基础入门或进阶学习者使用。",
+      "category": "资料教程",
+      "starsToday": 633
+    },
+    {
+      "repo": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars": 33975,
+      "summaryZh": "基于 Rust 的极速 Web 编译工具，用于替代 Babel、TypeScript 编译器及打包工具。性能比传统工具快一个数量级，支持插件扩展。适合追求构建速度的前端项目。",
+      "category": "前端",
+      "starsToday": 20
+    },
+    {
+      "repo": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "stars": 8415,
+      "summaryZh": "特斯拉汽车的自托管数据记录器，可收集车辆状态、充电、行驶等数据。提供可视化仪表盘，保护隐私。适合特斯拉车主和数据分析爱好者使用。",
+      "category": "其他",
+      "starsToday": 215
+    },
+    {
+      "repo": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": 124127,
+      "summaryZh": "收集全球公开 IPTV 频道的资源集合，包含数千个电视频道和广播电台。所有频道均可直接播放，支持 M3U 格式。适合喜欢看电视的用户或开发者测试流媒体应用。",
+      "category": "其他",
+      "starsToday": 1197
+    },
+    {
+      "repo": "puppeteer/puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "language": "TypeScript",
+      "stars": 94902,
+      "summaryZh": "Node.js 库，提供高级 API 控制 Chrome/Edge 浏览器。支持截图、PDF生成、爬虫、自动化测试等。技术亮点是可直接操作 DevTools 协议。适合前端开发者进行 UI 测试或网页抓取。",
+      "category": "开发工具",
+      "starsToday": 56
+    },
+    {
+      "repo": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars": 10857,
+      "summaryZh": "云原生管理平台，支持多个服务网格的配置、管理和性能测试。提供可视化界面和可扩展的适配器。适合 DevOps 工程师和云原生架构师使用。",
+      "category": "开发工具",
+      "starsToday": 228
+    },
+    {
+      "repo": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "stars": 50219,
+      "summaryZh": "下一代前端测试工具，支持端到端、组件和 API 测试。特点是实时重载、时间旅行调试和自动等待。适合前端开发者快速编写可靠测试。",
+      "category": "开发工具",
+      "starsToday": 13
+    },
+    {
+      "repo": "music-assistant/server",
+      "url": "https://github.com/music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "stars": 2569,
+      "summaryZh": "开源音乐媒体库管理器，可连接多种流媒体服务和智能音箱。核心功能是统一管理和播放跨平台的音乐。适合音乐爱好者自建音乐中心。",
+      "category": "其他",
+      "starsToday": 157
+    },
+    {
+      "repo": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "stars": 7327,
+      "summaryZh": "跨平台 Android 去臃肿工具，通过 ADB 移除预装应用和系统组件。无需 root 权限，提升隐私、安全和续航。适合追求纯净安卓体验的用户。",
+      "category": "开发工具",
+      "starsToday": 146
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 30138,
+      "summaryZh": "无分词器的多语言语音生成模型，支持语音克隆、创意音频设计。技术亮点是基于 CPM 架构，可直接生成语音 token。适合语音合成研究和应用开发。",
+      "category": "AI",
+      "starsToday": 408
+    },
+    {
+      "repo": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": 10479,
+      "summaryZh": "轻量级、极速的进程内向量数据库，提供高效的向量相似度搜索。核心优势是低延迟和内存高效利用。适合 AI 应用中嵌入向量检索场景。",
+      "category": "AI",
+      "starsToday": 156
+    },
+    {
+      "repo": "rmyndharis/OpenWA",
+      "url": "https://github.com/rmyndharis/OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "language": "TypeScript",
+      "stars": 9095,
+      "summaryZh": "免费开源的 WhatsApp API 网关，支持自托管。提供消息发送、接收和 Webhook 功能。适合需要与 WhatsApp 集成的开发者或企业。",
+      "category": "其他",
+      "starsToday": 185
+    },
+    {
+      "repo": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars": 9305,
+      "summaryZh": "基于 Rust 的模块化网络栈，使用密钥代替 IP 地址进行通信。支持端到端加密和 P2P 连接。适合构建去中心化应用或安全通信系统。",
+      "category": "其他",
+      "starsToday": 334
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 25210,
+      "summaryZh": "让 AI 编程助手的思考方式模仿资深开发者的“懒人”风格，主张不写不必要的代码。核心是通过 prompt 技术减少代码生成量，提升效率。适合使用 AI 编程的开发者。",
+      "category": "AI",
+      "createdAt": "2026-06-12T00:52:37Z"
+    },
+    {
+      "repo": "XiaomiMiMo/MiMo-Code",
+      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 9376,
+      "summaryZh": "小米米莫的代码仓库，具体项目内容未说明。从语言看为 TypeScript 项目。适用场景待明确。",
+      "category": "其他",
+      "createdAt": "2026-06-10T11:52:41Z"
+    },
+    {
+      "repo": "shadcn/improve",
+      "url": "https://github.com/shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "language": "",
+      "stars": 5015,
+      "summaryZh": "一款利用最强大模型审计代码库、并为廉价模型制定执行计划的工具。核心亮点是智能拆分复杂任务，让高级模型负责规划、低级模型负责执行，从而在保证代码质量的同时降低成本。适合需要高效处理大型代码库的开发者或团队。",
+      "category": "开发工具",
+      "createdAt": "2026-06-10T11:06:58Z"
+    },
+    {
+      "repo": "omnigent-ai/omnigent",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+      "language": "Python",
+      "stars": 2815,
+      "summaryZh": "一个元框架，为Claude Code、Codex、Pi等所有AI代理提供统一接口。无需重写即可在多个代理间切换或组合使用，并保持对它们的控制。适合希望灵活调用不同AI代理的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-11T12:18:13Z"
+    },
+    {
+      "repo": "tamnd/kage",
+      "url": "https://github.com/tamnd/kage",
+      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "language": "Go",
+      "stars": 1760,
+      "summaryZh": "一个用于离线浏览网站的影子工具，核心功能是剥离JavaScript后下载网页。技术亮点在于纯静态快照，确保无脚本干扰，适合需要保存无交互版本的网页或研究页面结构。",
+      "category": "开发工具",
+      "createdAt": "2026-06-14T11:21:55Z"
+    },
+    {
+      "repo": "lenucksi/aur-malware-check",
+      "url": "https://github.com/lenucksi/aur-malware-check",
+      "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+      "language": "Shell",
+      "stars": 1347,
+      "summaryZh": "针对2026年6月atomic-lockfile AUR供应链攻击的检测工具集，整合了社区Gist。核心功能是识别恶意软件，适合Arch Linux用户或安全研究人员排查系统风险。",
+      "category": "其他",
+      "createdAt": "2026-06-12T13:17:07Z"
+    },
+    {
+      "repo": "SkyBlue997/enableMacosAI",
+      "url": "https://github.com/SkyBlue997/enableMacosAI",
+      "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+      "language": "Shell",
+      "stars": 1337,
+      "summaryZh": "为国行Mac（macOS 27 / Apple Silicon）一键开启完整Apple智能（端侧+云端）。核心功能是解锁被限制的AI特性，适合中国大陆用户使用。",
+      "category": "其他",
+      "createdAt": "2026-06-10T13:23:39Z"
+    },
+    {
+      "repo": "levy-street/world-of-claudecraft",
+      "url": "https://github.com/levy-street/world-of-claudecraft",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 877,
+      "summaryZh": "一个基于TypeScript的项目，未提供详细描述。",
+      "category": "其他",
+      "createdAt": "2026-06-10T05:55:59Z"
+    },
+    {
+      "repo": "EEliberto/IPA-Download",
+      "url": "https://github.com/EEliberto/IPA-Download",
+      "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+      "language": "Swift",
+      "stars": 829,
+      "summaryZh": "一款IPA历史版本安装工具，核心功能是获取旧版应用并自动捕获数据包。下载后可通过AirDrop传输至iPhone/iPad安装，适合需要降级或保留旧版iOS应用的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-06-13T08:32:39Z"
+    },
+    {
+      "repo": "loc567/loc567",
+      "url": "https://github.com/loc567/loc567",
+      "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
+      "language": "C",
+      "stars": 780,
+      "summaryZh": "完全开源免费的纯网页端iOS模拟定位工具。无需安装，在线即可使用，适合测试或需要虚拟定位的场景。",
+      "category": "开发工具",
+      "createdAt": "2026-06-11T06:05:29Z"
+    },
+    {
+      "repo": "orange2ai/renwei-writing",
+      "url": "https://github.com/orange2ai/renwei-writing",
+      "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "language": "",
+      "stars": 719,
+      "summaryZh": "一款AI写作代理技能，核心功能是编辑文字的同时保留作者个人风格。技术亮点在于不抹去人的痕迹，适合需要人性化写作辅助的内容创作者。",
+      "category": "AI",
+      "createdAt": "2026-06-12T21:45:48Z"
+    },
+    {
+      "repo": "coder/boo",
+      "url": "https://github.com/coder/boo",
+      "description": "A GNU screen style terminal multiplexer built on libghostty.",
+      "language": "Zig",
+      "stars": 639,
+      "summaryZh": "一个基于libghostty构建的GNU screen风格终端复用器。支持多终端会话管理，提供类似screen的体验，适合需要在同一终端下管理多个任务的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-10T01:53:01Z"
+    },
+    {
+      "repo": "joeseesun/qiaomu-goal-meta-skill",
+      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "language": "Python",
+      "stars": 632,
+      "summaryZh": "将模糊或复杂的Codex任务转化为强健的/goal命令，包含结果、验证、约束等要素。核心是结构化任务规划，适合使用Codex进行自动化开发的场景。",
+      "category": "AI",
+      "createdAt": "2026-06-11T15:10:51Z"
+    },
+    {
+      "repo": "alchaincyf/fanbox",
+      "url": "https://github.com/alchaincyf/fanbox",
+      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "language": "JavaScript",
+      "stars": 608,
+      "summaryZh": "vibe coding的驾驶舱：左侧文件浏览器，右侧/底部终端，中间清晰展示每次改动。核心功能是让开发者实时监控代码变化，适合采用vibe coding风格的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-10T01:01:42Z"
+    },
+    {
+      "repo": "nolangz/pixel2motion",
+      "url": "https://github.com/nolangz/pixel2motion",
+      "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "language": "Python",
+      "stars": 601,
+      "summaryZh": "AI标志动画技能：将栅格标志转化为平滑SVG动画、HTML演示、GIF/视频预览及运动质量评估证据。适合设计师或需要快速生成标志动画的场景。",
+      "category": "AI",
+      "createdAt": "2026-06-12T04:25:17Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "DanMcInerney/architect-loop",
+      "url": "https://github.com/DanMcInerney/architect-loop",
+      "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+      "language": "HTML",
+      "stars": 484,
+      "summaryZh": "跨供应商代理循环技能：Claude Fable 5作为架构师，GPT-5.5 Codex作为构建者，仓库作为记忆。核心是研究驱动的多模型协作，适合追求高性能AI工作流的开发者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +164（+51%）",
+      "reasonZh": "实现跨供应商的AI代理协作循环，Claude负责架构设计，GPT负责编码实现，仓库作为共享记忆，解决单一模型局限问题。适合追求高质量代码生成、需要多模型协同的开发者。"
+    },
+    {
+      "repo": "sachinhosmani/torchvista",
+      "url": "https://github.com/sachinhosmani/torchvista",
+      "description": "Interactive Pytorch forward pass visualization in notebooks",
+      "language": "Python",
+      "stars": 750,
+      "summaryZh": "交互式PyTorch前向传播可视化工具，可在笔记本中实时查看计算图。适合深度学习初学者或研究人员理解模型内部运作。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "交互式PyTorch前向传播可视化库，直接在Notebook中查看张量变换过程，比静态调试更直观。同类项目多聚焦模型结构，它专注数据流，适合深度学习教学和调试场景。"
+    },
+    {
+      "repo": "ozeranskii/httptap",
+      "url": "https://github.com/ozeranskii/httptap",
+      "description": "Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.",
+      "language": "Python",
+      "stars": 501,
+      "summaryZh": "一款富文本命令行工具，将每个 HTTP 请求分解为 DNS、连接、TLS、等待和传输阶段，并呈现瀑布时间线、紧凑摘要或仅指标输出。适合后端开发者调试网络性能，快速定位瓶颈。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "将HTTP请求拆解为DNS、连接、TLS等阶段，以瀑布图展示耗时分布，定位网络瓶颈一针见血。同类工具多只显示总耗时，它细分各阶段，适合前后端联调与性能优化。"
+    },
+    {
+      "repo": "royalbhati/sqltoerdiagram",
+      "url": "https://github.com/royalbhati/sqltoerdiagram",
+      "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
+      "language": "JavaScript",
+      "stars": 391,
+      "summaryZh": "在线 ER 图生成器，粘贴 CREATE TABLE 语句即可生成交互式实体关系图，所有处理在浏览器本地完成，不上传数据。适用于数据库设计、教学及快速可视化表结构。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "纯浏览器端SQL转ER图工具，无需上传数据，输入CREATE TABLE即可生成交互式关系图，隐私安全。相比同类工具通常需上传SQL文件，它完全本地运行，适合快速设计数据库架构。"
+    },
+    {
+      "repo": "trasta298/keifu",
+      "url": "https://github.com/trasta298/keifu",
+      "description": "Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.",
+      "language": "Rust",
+      "stars": 768,
+      "summaryZh": "基于 Rust 的终端 UI 工具，以清晰色彩和层次化布局浏览 Git 提交历史图谱。适合 Git 重度用户直观梳理分支与合并关系，提升版本管理效率。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "用Rust编写的Git提交图TUI工具，以色彩分区清晰展示分支关系，比git log --graph更直观。同类TUI工具较少，它针对提交图可视化优化，适合大型仓库代码审查。"
+    },
+    {
+      "repo": "beltromatti/get-it",
+      "url": "https://github.com/beltromatti/get-it",
+      "description": "Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for \"Learn Different\" track.",
+      "language": "JavaScript",
+      "stars": 755,
+      "summaryZh": "在 2026 年 GDG AI Hack 上为“不同学习”赛道构建的项目，通过阅读、观看和互动帮助理解概念。适合教育场景，利用多模态方式增强学习体验。",
+      "category": "资料教程",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "集阅读、视觉、获取于一体的创新工具，出自黑客松“学习不同”赛道，交互方式独特。项目新锐，解决学习场景中的多模态需求，适合知识获取与创新教育。"
+    },
+    {
+      "repo": "bagofwords1/bagofwords",
+      "url": "https://github.com/bagofwords1/bagofwords",
+      "description": "Chat with your data  -  with memory, rules, and observability built in. Deploy in 2 minutes",
+      "language": "Python",
+      "stars": 442,
+      "summaryZh": "内置记忆、规则和可观测性的数据聊天工具，2 分钟即可部署。支持与自有数据对话，适合需要快速构建知识库问答系统的开发者或团队。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "带记忆、规则和可观测性的数据对话系统，2分钟即可部署。相比同类RAG工具，它内置记忆与规则引擎，适合快速构建企业知识库问答助手。"
+    },
+    {
+      "repo": "djkurlander/knock-knock",
+      "url": "https://github.com/djkurlander/knock-knock",
+      "description": "Knock-Knock: A Fun, Live View of Multi-Protocol Internet Break-in Attempts",
+      "language": "Python",
+      "stars": 182,
+      "summaryZh": "趣味性实时监控工具，可视化展示多协议网络入侵尝试。适合网络安全爱好者或运维人员观察攻击模式，增强安全意识。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "实时展示多协议网络入侵尝试的趣味工具，以可视化方式呈现互联网安全态势。相比严肃的安全监控，它更娱乐化且直观，适合安全教育和个人演示。"
+    },
+    {
+      "repo": "mouseart2025/AI-Reader-V2",
+      "url": "https://github.com/mouseart2025/AI-Reader-V2",
+      "description": "AI 小说分析可视化工具 — 角色关系图谱 · 地理地图 · 时间线 · 百科全书 | 支持 Ollama 本地 + 10 大云端 LLM | React + FastAPI + SQLite",
+      "language": "Python",
+      "stars": 179,
+      "summaryZh": "AI 小说分析可视化工具，支持角色关系图谱、地理地图、时间线和百科全书，兼容 Ollama 本地模型及 10 大云端 LLM。适合小说创作者或文学研究者分析文本结构。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "AI小说分析可视化工具，自动生成角色关系图、地理地图、时间线与百科全书。支持Ollama本地和云端LLM，适合文学爱好者和研究者深度分析小说内容。"
+    }
+  ]
+}
