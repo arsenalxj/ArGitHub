@@ -1,0 +1,449 @@
+{
+  "date": "2026-06-19",
+  "trending": [
+    {
+      "repo": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 23201,
+      "summaryZh": "Google Research开发的时间序列基础模型，用于通用时间序列预测。核心亮点是预训练模型，无需针对特定任务重新训练，可处理多种频率和长度的数据。适合数据分析师和工程师快速进行预测任务。",
+      "category": "AI",
+      "starsToday": 844
+    },
+    {
+      "repo": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars": 10011,
+      "summaryZh": "基于Rust的模块化网络栈，以“按地址连接”替代传统IP。核心技术是去中心化网络及端到端加密，提供更稳定、隐私的连接。适用于构建P2P应用或需要高可靠性网络的场景。",
+      "category": "开发工具",
+      "starsToday": 369
+    },
+    {
+      "repo": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 449548,
+      "summaryZh": "免费开源的编程学习平台，提供数学、编程和计算机科学课程。核心是交互式学习和数千小时的项目实践。适合初学者系统学习，也适合开发者巩固知识。",
+      "category": "资料教程",
+      "starsToday": 417
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 232445,
+      "summaryZh": "一套智能体技能框架和软件开发方法学，让AI代理具备更强能力。核心是模块化技能组合和可重复的开发流程。适合团队希望将AI集成到开发工作流中。",
+      "category": "开发工具",
+      "starsToday": 1429
+    },
+    {
+      "repo": "zai-org/GLM-5",
+      "url": "https://github.com/zai-org/GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "language": "",
+      "stars": 4139,
+      "summaryZh": "从“vibe编码”迈向智能体工程的开源项目，探索AI驱动的新一代编程范式。核心是结合大语言模型实现自动化工程流程。适合关注AI开发前沿的研究者和工程师。",
+      "category": "其他",
+      "starsToday": 202
+    },
+    {
+      "repo": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 7071,
+      "summaryZh": "高性能代码智能MCP服务器，支持158种语言，将代码库索引为知识图谱，毫秒级查询且消耗极少token。以单个静态二进制运行，适合需要快速代码理解和检索的开发场景。",
+      "category": "开发工具",
+      "starsToday": 2322
+    },
+    {
+      "repo": "yifanfeng97/Hyper-Extract",
+      "url": "https://github.com/yifanfeng97/Hyper-Extract",
+      "description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+      "language": "Python",
+      "stars": 1791,
+      "summaryZh": "利用LLM将非结构化文本转化为结构化知识，支持抽取图、超图和时空数据。只需一条命令即可完成，适合需要从大量文本中提取结构化信息的场景，如知识图谱构建。",
+      "category": "AI",
+      "starsToday": 124
+    },
+    {
+      "repo": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": 11229,
+      "summaryZh": "阿里巴巴开源的轻量级进程内向量数据库，极低延迟。核心是内存索引和高速搜索，适合嵌入AI应用的向量检索需求。适合对速度要求极高的实时推荐或相似度匹配场景。",
+      "category": "AI",
+      "starsToday": 259
+    },
+    {
+      "repo": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "description": "The sandbox agent framework.",
+      "language": "TypeScript",
+      "stars": 5515,
+      "summaryZh": "沙盒智能体框架，提供安全隔离的环境运行AI代理。核心是轻量级沙盒，支持多语言和社区扩展。适合开发者测试和部署AI代理，确保安全性和可控性。",
+      "category": "开发工具",
+      "starsToday": 162
+    },
+    {
+      "repo": "Kilo-Org/kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "language": "TypeScript",
+      "stars": 22167,
+      "summaryZh": "一体化智能体工程平台，号称最流行的开源编码代理。核心是代码生成、自动化测试和迭代加速。适合希望提升开发效率的团队和个人。",
+      "category": "开发工具",
+      "starsToday": 1345
+    },
+    {
+      "repo": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars": 51847,
+      "summaryZh": "开源的项目管理平台，可替代Jira、Linear等工具。支持任务、冲刺、文档和故障分类，简洁现代。适合开发团队和产品经理进行高效协作。",
+      "category": "开发工具",
+      "starsToday": 613
+    },
+    {
+      "repo": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "language": "TypeScript",
+      "stars": 38687,
+      "summaryZh": "开源跨平台API客户端，支持GraphQL、REST、WebSocket、gRPC等协议。提供云、本地和Git存储，界面友好。适合API开发者调试与测试接口。",
+      "category": "开发工具",
+      "starsToday": 18
+    },
+    {
+      "repo": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "stars": 7926,
+      "summaryZh": "跨平台GUI工具，使用ADB对非root安卓设备进行去臃肿操作。核心是提升隐私、安全和电池寿命。适合用户清理预装应用，优化设备性能。",
+      "category": "开发工具",
+      "starsToday": 244
+    },
+    {
+      "repo": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": 38097,
+      "summaryZh": "微软开源的跨平台.NET框架，用于构建现代云Web应用。核心是高性能、模块化和可扩展，支持Windows、Mac和Linux。适合.NET开发者构建微服务和Web API。",
+      "category": "开发工具",
+      "starsToday": 14
+    },
+    {
+      "repo": "owainlewis/awesome-artificial-intelligence",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "language": "",
+      "stars": 14405,
+      "summaryZh": "精选AI资源列表，涵盖课程、书籍、讲座和论文。内容全面且持续更新。适合AI学习者和从业者系统了解领域知识。",
+      "category": "资料教程",
+      "starsToday": 40
+    },
+    {
+      "repo": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "language": "Python",
+      "stars": 7500,
+      "summaryZh": "LTX-2 是一个音频-视频生成模型，提供官方 Python 推理和 LoRA 训练工具包。它支持从文本或音频生成同步视频，技术亮点在于高效的联合建模和 LoRA 微调能力。适合 AI 创作者和研究者用于多媒体内容生成与定制。",
+      "category": "AI",
+      "starsToday": 51
+    },
+    {
+      "repo": "LibreTranslate/LibreTranslate",
+      "url": "https://github.com/LibreTranslate/LibreTranslate",
+      "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+      "language": "Python",
+      "stars": 14983,
+      "summaryZh": "LibreTranslate 是一个自由开源的机器翻译 API，支持离线部署且易于配置。它提供多语言翻译服务，无需依赖第三方云服务，保护数据隐私。适合需要自建翻译服务的开发者和企业。",
+      "category": "开发工具",
+      "starsToday": 51
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 36866,
+      "summaryZh": "Ponytail 是一个 AI 代理提示工具，让模型模仿资深开发者的“懒人”思维：最好的代码是没写出来的代码。它通过特定提示策略减少冗余代码生成。适合希望提高代码简洁性的 AI 编码用户。",
+      "category": "AI",
+      "createdAt": "2026-06-12T00:52:37Z"
+    },
+    {
+      "repo": "tamnd/kage",
+      "url": "https://github.com/tamnd/kage",
+      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "language": "Go",
+      "stars": 2010,
+      "summaryZh": "Kage 是一个 Go 编写的工具，能将任意网站镜像为离线可浏览版本，并剥离 JavaScript。它使用简单，适合需要保存网页快照或禁用 JS 以提高安全性的场景。",
+      "category": "其他",
+      "createdAt": "2026-06-14T11:21:55Z"
+    },
+    {
+      "repo": "lenucksi/aur-malware-check",
+      "url": "https://github.com/lenucksi/aur-malware-check",
+      "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+      "language": "Shell",
+      "stars": 1540,
+      "summaryZh": "AUR 恶意软件检查工具，针对 2026 年 6 月 atomic-lockfile 供应链攻击的检测脚本。它结合社区 Gist 提供检测和清理能力，适合 Arch Linux 用户维护系统安全。",
+      "category": "开发工具",
+      "createdAt": "2026-06-12T13:17:07Z"
+    },
+    {
+      "repo": "vercel/eve",
+      "url": "https://github.com/vercel/eve",
+      "description": "The Framework for Building Agents",
+      "language": "TypeScript",
+      "stars": 1373,
+      "summaryZh": "Eve 是一个构建 AI 代理的框架，提供标准化接口和工具。它简化了代理开发流程，支持快速集成和部署，适合开发者构建自定义 AI 工作流。",
+      "category": "AI",
+      "createdAt": "2026-06-16T10:51:20Z"
+    },
+    {
+      "repo": "EEliberto/IPA-Download",
+      "url": "https://github.com/EEliberto/IPA-Download",
+      "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+      "language": "Swift",
+      "stars": 1072,
+      "summaryZh": "IPA-Download 是一个 Swift 编写的工具，用于安装 IPA 历史版本，通过自动捕获数据包获取旧版应用。下载后可通过 AirDrop 传输至 iOS 设备安装。适合需要降级或恢复旧版应用的 iOS 用户。",
+      "category": "其他",
+      "createdAt": "2026-06-13T08:32:39Z"
+    },
+    {
+      "repo": "Waishnav/devspace",
+      "url": "https://github.com/Waishnav/devspace",
+      "description": "Turn ChatGPT into Codex",
+      "language": "TypeScript",
+      "stars": 855,
+      "summaryZh": "Devspace 将 ChatGPT 转化为类似 Codex 的编码助手，通过优化提示和接口提升代码生成质量。适合开发者日常编码辅助。",
+      "category": "开发工具",
+      "createdAt": "2026-06-14T16:57:27Z"
+    },
+    {
+      "repo": "orange2ai/renwei-writing",
+      "url": "https://github.com/orange2ai/renwei-writing",
+      "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "language": "",
+      "stars": 814,
+      "summaryZh": "人味儿写作是一个 AI 代理技能，帮助编辑文字时保留作者风格和人性化表达。适合内容创作者和编辑，用于润色文本而不丢失个性。",
+      "category": "AI",
+      "createdAt": "2026-06-12T21:45:48Z"
+    },
+    {
+      "repo": "nolangz/pixel2motion",
+      "url": "https://github.com/nolangz/pixel2motion",
+      "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "language": "Python",
+      "stars": 798,
+      "summaryZh": "Pixel2Motion 是 AI 标志动画工具，将栅格标志转换为平滑 SVG 动画、HTML 演示、GIF/视频预览及运动验证证据。适合设计师和品牌方快速生成动画标志。",
+      "category": "AI",
+      "createdAt": "2026-06-12T04:25:17Z"
+    },
+    {
+      "repo": "alchaincyf/loop-engineering-orange-book",
+      "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+      "description": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+      "language": "",
+      "stars": 672,
+      "summaryZh": "《别再问我什么是 Loop Engineering》橙皮书，提供中英文双语易读指南，免费 PDF。适合对循环工程技术感兴趣的开发者和研究者。",
+      "category": "资料教程",
+      "createdAt": "2026-06-15T05:27:07Z"
+    },
+    {
+      "repo": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "description": "Free open-source macOS menu bar toolkit. Per-app volume mixer, system monitor, keep awake, window switcher (Alt Tab), shelf, app uninstaller, and much more.",
+      "language": "Swift",
+      "stars": 668,
+      "summaryZh": "Vorssaint-utils 是一个开源 macOS 菜单栏工具集，包含每应用音量调节、系统监控、防休眠、窗口切换、应用卸载等功能。适合 Mac 用户提升日常操作效率。",
+      "category": "开发工具",
+      "createdAt": "2026-06-12T15:25:43Z"
+    },
+    {
+      "repo": "SunJaycy/GoldenEye-Recomp",
+      "url": "https://github.com/SunJaycy/GoldenEye-Recomp",
+      "description": "",
+      "language": "C",
+      "stars": 563,
+      "summaryZh": "GoldenEye-Recomp 是一个反编译或重编译项目（描述缺失），基于 C 语言。具体功能需查看仓库，推测与游戏或软件逆向相关。",
+      "category": "其他",
+      "createdAt": "2026-06-12T16:07:27Z"
+    },
+    {
+      "repo": "fguzman82/gateGPT",
+      "url": "https://github.com/fguzman82/gateGPT",
+      "description": "Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second.",
+      "language": "Verilog",
+      "stars": 516,
+      "summaryZh": "GateGPT 将完整 Transformer 模型实现为自定义芯片，在 Virtex-5 FPGA 上运行微型 GPT，可生成名字，速度约 56k tokens/s。适合硬件和 AI 交叉领域的研究者。",
+      "category": "AI",
+      "createdAt": "2026-06-12T14:55:53Z"
+    },
+    {
+      "repo": "DanMcInerney/architect-loop",
+      "url": "https://github.com/DanMcInerney/architect-loop",
+      "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+      "language": "HTML",
+      "stars": 512,
+      "summaryZh": "Architect-loop 是一个跨供应商代理循环技能，使用 Claude Fable 5 作为架构师、GPT-5.5 Codex 作为构建者，仓库作为记忆。适合研究多模型协作的开发者。",
+      "category": "AI",
+      "createdAt": "2026-06-12T01:54:12Z"
+    },
+    {
+      "repo": "Plaer1/junction",
+      "url": "https://github.com/Plaer1/junction",
+      "description": "VS Code chat sidebar for local AI coding agents",
+      "language": "TypeScript",
+      "stars": 510,
+      "summaryZh": "Junction 是一个 VS Code 聊天侧边栏，用于本地 AI 编码助手。它无缝集成到编辑器，让开发者在不离开 IDE 的情况下与 AI 交互完成编码任务。适合需要高效 AI 辅助编程的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-17T05:27:09Z"
+    },
+    {
+      "repo": "mrtooher/fable-mode",
+      "url": "https://github.com/mrtooher/fable-mode",
+      "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+      "language": "",
+      "stars": 498,
+      "summaryZh": "Fable Mode 是一个 Claude 技能，激活类 Fable 的智能体行为：显式多阶段规划、子智能体委派和自验证。它使 AI 助手能够结构化和自主地完成复杂任务。适合使用 Claude 进行高级自动化开发的人员。",
+      "category": "AI",
+      "createdAt": "2026-06-13T05:33:14Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "sheeki03/tirith",
+      "url": "https://github.com/sheeki03/tirith",
+      "description": "Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.",
+      "language": "Rust",
+      "stars": 2449,
+      "summaryZh": "Tirith 为开发者和 AI 代理提供终端安全防护，可拦截同形异义 URL、管道到 shell、ANSI 注入、混淆载荷、数据泄露和恶意 AI 技能/配置。它在执行前阻止威胁，保障终端操作安全。适合使用终端或 AI 代理的开发者和安全团队。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · devtools",
+      "reasonZh": "专为开发者和AI代理设计的终端安全工具，能拦截同形词URL、管道到shell、ANSI注入等攻击，在恶意AI技能执行前就阻止。相比其他安全工具，它更关注AI代理特有的威胁，适合任何使用AI编码助手的人。"
+    },
+    {
+      "repo": "plannotator/effective-html",
+      "url": "https://github.com/plannotator/effective-html",
+      "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+      "language": "HTML",
+      "stars": 1049,
+      "summaryZh": "Effective HTML 是一个智能体技能，用于生成优雅简洁的 HTML 计划、架构图或其他可视化内容。它利用 AI 快速创建高质量的网页蓝图，适合需要快速原型设计的前端开发者。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +572（+120%）",
+      "reasonZh": "Agent技能，用AI生成优雅简洁的HTML计划、架构图等。亮点是极简且美观，不像其他工具输出复杂臃肿的代码，适合快速原型设计或文档中内嵌可视化内容。"
+    },
+    {
+      "repo": "coder/boo",
+      "url": "https://github.com/coder/boo",
+      "description": "A GNU screen style terminal multiplexer built on libghostty.",
+      "language": "Zig",
+      "stars": 662,
+      "summaryZh": "Boo 是一个基于 libghostty 构建的 GNU screen 风格终端复用器，用 Zig 语言编写。它支持多窗口、会话持久化和灵活管理，性能高效。适合需要强大终端复用功能的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +389（+142%）",
+      "reasonZh": "基于libghostty的GNU screen风格终端复用器，用Zig编写。性能轻量，尤其适合需要简单会话管理的开发者，比tmux更易用，没有过多配置。"
+    },
+    {
+      "repo": "alpic-ai/skybridge",
+      "url": "https://github.com/alpic-ai/skybridge",
+      "description": "Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic.",
+      "language": "TypeScript",
+      "stars": 1778,
+      "summaryZh": "Skybridge 是一个全栈 TypeScript 框架，用于构建 MCP 应用和 ChatGPT 应用，提供类型安全、React 驱动且平台无关的开发体验。它简化了 AI 应用开发流程，适合使用 TypeScript 构建 AI 产品的团队。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · devtools",
+      "reasonZh": "全栈TypeScript框架，用于构建MCP和ChatGPT应用，类型安全、React驱动、平台无关。亮点是统一的开发体验，同一套代码可部署到多个AI平台，省去适配工作。"
+    },
+    {
+      "repo": "dominostars/playtranslate",
+      "url": "https://github.com/dominostars/playtranslate",
+      "description": "Real-time game translation app for Android for both language learners and casual gamers",
+      "language": "Kotlin",
+      "stars": 769,
+      "summaryZh": "PlayTranslate 是一款 Android 实时游戏翻译应用，面向语言学习者和普通玩家。它能在游戏过程中实时翻译文本，帮助用户理解外语内容。适合游戏玩家和语言学习者。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +224（+41%）",
+      "reasonZh": "Android实时游戏翻译应用，适合语言学习者和休闲玩家。亮点是直接覆盖在游戏画面上实时翻译，不影响操作，相比其他翻译工具更专注游戏场景。"
+    },
+    {
+      "repo": "regent-vcs/re_gent",
+      "url": "https://github.com/regent-vcs/re_gent",
+      "description": "Version-Control for AI coding agents.",
+      "language": "Go",
+      "stars": 744,
+      "summaryZh": "re_gent 是面向 AI 编码代理的版本控制系统，用 Go 语言实现。它专门管理 AI 生成的代码变更，支持回滚和协作。适合使用 AI 编写代码并需要版本管理的开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · devtools",
+      "reasonZh": "AI编码代理的版本控制工具，专门跟踪和管理AI生成的代码变更。与Git不同，它理解AI的工作流，适合团队中大量使用AI辅助开发的场景，让AI的贡献可追溯。"
+    },
+    {
+      "repo": "AnalyseDeCircuit/oxideterm",
+      "url": "https://github.com/AnalyseDeCircuit/oxideterm",
+      "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscription.",
+      "language": "Rust",
+      "stars": 843,
+      "summaryZh": "Oxideterm 是一个 AI 原生工作空间，在本地 shell 和远程机器上运行，零 Electron、零 OpenSSL、零遥测且无订阅。它提供安全、轻量的终端环境，适合注重隐私和性能的开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · devtools",
+      "reasonZh": "AI原生工作空间，支持本地和远程shell，零Electron、零OpenSSL、零遥测、无订阅。亮点是极简且安全，适合对隐私和性能有高要求的开发者。"
+    },
+    {
+      "repo": "agent-sh/agnix",
+      "url": "https://github.com/agent-sh/agnix",
+      "description": "The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.",
+      "language": "Rust",
+      "stars": 291,
+      "summaryZh": "agnix 是 AI 编码助手缺失的 linter 和 LSP，可验证 CLAUDE.md、AGENTS.md、SKILL.md、hooks 和 MCP 文件。它支持所有主流 IDE 并带自动修复功能。适合需要确保 AI 配置文件规范和正确的开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · devtools",
+      "reasonZh": "AI编码助手缺少的linter和LSP，验证CLAUDE.md、AGENTS.md、SKILL.md等文件。插件支持所有主流IDE，自动修复错误，确保AI代理配置正确，适合团队规范化使用AI工具。"
+    },
+    {
+      "repo": "redwoodjs/agent-ci",
+      "url": "https://github.com/redwoodjs/agent-ci",
+      "description": "Agent-CI is local GitHub Actions for your agents.",
+      "language": "TypeScript",
+      "stars": 705,
+      "summaryZh": "Agent-CI 是面向 AI 代理的本地 GitHub Actions，用 TypeScript 实现。它允许在本地运行 CI 管道，快速验证 AI 生成的代码变更。适合使用 AI 代理并需要持续集成的开发团队。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · devtools",
+      "reasonZh": "为AI代理设计的本地GitHub Actions替代品，在本地运行CI管道。亮点是无需网络，快速迭代，特别适合在开发阶段测试AI代理生成的代码。"
+    },
+    {
+      "repo": "callstackincubator/rozenite",
+      "url": "https://github.com/callstackincubator/rozenite",
+      "description": "Plug-and-play panels for React Native DevTools. Install, enable, and start debugging in minutes.",
+      "language": "TypeScript",
+      "stars": 616,
+      "summaryZh": "Rozenite 为 React Native DevTools 提供即插即用面板，安装启用后几分钟内即可开始调试。它简化了调试流程，提升效率。适合 React Native 开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · devtools",
+      "reasonZh": "React Native DevTools的即插即用面板，安装启用即可调试。亮点是零配置，几分钟内开始调试，比传统React Native调试工具更便捷。"
+    }
+  ]
+}
