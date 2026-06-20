@@ -1,0 +1,429 @@
+{
+  "date": "2026-06-20",
+  "trending": [
+    {
+      "repo": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 8254,
+      "summaryZh": "高性能代码智能 MCP 服务器，将代码库索引为持久化知识图谱。支持 158 种语言，毫秒级查询，单静态二进制文件，适合开发者实现快速代码理解和搜索。",
+      "category": "开发工具",
+      "starsToday": 1058
+    },
+    {
+      "repo": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 24089,
+      "summaryZh": "Google Research 开发的时间序列基础模型，专为时间序列预测设计。预训练后可快速适配多种场景，适合数据科学家和金融、运维等领域进行预测分析。",
+      "category": "AI",
+      "starsToday": 1510
+    },
+    {
+      "repo": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars": 1931,
+      "summaryZh": "macOS 平台的原生 AI 视频编辑器，利用 AI 技术简化视频编辑流程。适合内容创作者和视频编辑者快速生成高质量视频。",
+      "category": "开发工具",
+      "starsToday": 756
+    },
+    {
+      "repo": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 57258,
+      "summaryZh": "实时全球情报仪表盘，聚合 AI 驱动新闻、地缘政治监控和基础设施追踪。适合分析师和研究者快速获取全球动态。",
+      "category": "其他",
+      "starsToday": 156
+    },
+    {
+      "repo": "aishwaryanr/awesome-generative-ai-guide",
+      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "language": "HTML",
+      "stars": 27636,
+      "summaryZh": "生成式 AI 学习资源汇总，涵盖研究更新、面试资料和笔记本。适合 AI 研究者和求职者一站式获取高质量资料。",
+      "category": "资料教程",
+      "starsToday": 107
+    },
+    {
+      "repo": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agent-native applications.",
+      "language": "TypeScript",
+      "stars": 1054,
+      "summaryZh": "构建代理原生应用的框架，支持智能体协作与工具集成。适合开发者快速开发基于 AI 代理的应用。",
+      "category": "开发工具",
+      "starsToday": 147
+    },
+    {
+      "repo": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 38771,
+      "summaryZh": "压缩工具输出、日志、文件等，减少 60-95% 的 token 消耗以确保 LLM 推理准确。适合使用 LLM API 的用户降低成本和提升效率。",
+      "category": "开发工具",
+      "starsToday": 4005
+    },
+    {
+      "repo": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 6302,
+      "summaryZh": "全球首个开源的代理式视频制作系统，集成 12 条流水线、52 个工具和 500+ 智能体技能。适合 AI 辅助的视频创作者实现全流程自动化。",
+      "category": "AI",
+      "starsToday": 156
+    },
+    {
+      "repo": "zai-org/GLM-5",
+      "url": "https://github.com/zai-org/GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "language": "",
+      "stars": 4589,
+      "summaryZh": "GLM-5 项目，从“氛围编程”迈向“代理工程”，探索下一代 AI 驱动开发范式。适合 AI 研究人员和高级开发者理解前沿实践。",
+      "category": "AI",
+      "starsToday": 480
+    },
+    {
+      "repo": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "description": "The sandbox agent framework.",
+      "language": "TypeScript",
+      "stars": 5843,
+      "summaryZh": "沙盒代理框架，提供安全可控的智能体执行环境。适合需要隔离运行 AI 代理的开发者。",
+      "category": "开发工具",
+      "starsToday": 309
+    },
+    {
+      "repo": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars": 10251,
+      "summaryZh": "用 Rust 实现的模块化网络栈，用“拨号键”替代 IP 地址实现直接连接。适合构建去中心化应用和 P2P 网络。",
+      "category": "开发工具",
+      "starsToday": 302
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 233372,
+      "summaryZh": "实用的代理技能框架与软件开发方法论，提供可复用的智能体能力。适合希望系统化构建 AI 代理应用的团队。",
+      "category": "开发工具",
+      "starsToday": 1110
+    },
+    {
+      "repo": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars": 50598,
+      "summaryZh": "开源的设计工具，支持设计与开发协作，使用 SVG 原生格式。适合设计师和前端开发者进行原型设计和代码生成。",
+      "category": "开发工具",
+      "starsToday": 85
+    },
+    {
+      "repo": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "language": "TypeScript",
+      "stars": 38981,
+      "summaryZh": "跨平台 API 客户端，支持 GraphQL、REST、WebSocket、SSE 和 gRPC，提供云端、本地和 Git 存储。适合 API 开发者和测试人员调试接口。",
+      "category": "开发工具",
+      "starsToday": 292
+    },
+    {
+      "repo": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "language": "Python",
+      "stars": 7674,
+      "summaryZh": "官方 Python 推理和 LoRA 训练包，用于 LTX-2 音视频生成模型。适合 AI 研究人员和创作者进行多模态内容生成。",
+      "category": "AI",
+      "starsToday": 196
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "tamnd/kage",
+      "url": "https://github.com/tamnd/kage",
+      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "language": "Go",
+      "stars": 2098,
+      "summaryZh": "Kage 是一款 Go 语言编写的离线网页查看工具，核心功能是剥离 JavaScript 后静默抓取整个网站，生成可在本地浏览的静态副本。适用于需要存档、审查或无干扰阅读网页内容的场景，尤其适合研究人员和注重隐私的用户。",
+      "category": "其他",
+      "createdAt": "2026-06-14T11:21:55Z"
+    },
+    {
+      "repo": "vercel/eve",
+      "url": "https://github.com/vercel/eve",
+      "description": "The Framework for Building Agents",
+      "language": "TypeScript",
+      "stars": 1646,
+      "summaryZh": "Eve 是一个 TypeScript 构建的智能体开发框架，提供了创建、部署和管理 AI Agent 的完整工具链。其技术亮点包括模块化设计、与 Vercel 生态的深度集成，以及支持多种 LLM 后端。适合需要快速搭建对话式 AI 应用的开发者。",
+      "category": "AI",
+      "createdAt": "2026-06-16T10:51:20Z"
+    },
+    {
+      "repo": "Waishnav/devspace",
+      "url": "https://github.com/Waishnav/devspace",
+      "description": "Turn ChatGPT into Codex",
+      "language": "TypeScript",
+      "stars": 1400,
+      "summaryZh": "DevSpace 是一个 TypeScript 项目，能将 ChatGPT 转化为类似 Codex 的编程助手。核心功能是通过桥接接口，让 ChatGPT 直接操作代码仓库、执行命令和生成更改。适合在受限环境中使用 AI 辅助编程的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-14T16:57:27Z"
+    },
+    {
+      "repo": "EEliberto/IPA-Download",
+      "url": "https://github.com/EEliberto/IPA-Download",
+      "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+      "language": "Swift",
+      "stars": 1116,
+      "summaryZh": "IPA-Download 是一款 Swift 编写的 iOS 工具，用于下载指定应用的旧版本 IPA 文件，并自动捕获网络数据包。下载后可通过 AirDrop 传输至 iPhone/iPad 直接安装。适合需要降级应用或获取历史版本的 iOS 用户。",
+      "category": "其他",
+      "createdAt": "2026-06-13T08:32:39Z"
+    },
+    {
+      "repo": "alchaincyf/loop-engineering-orange-book",
+      "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+      "description": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+      "language": "",
+      "stars": 702,
+      "summaryZh": "这是一份中英双语的 Loop Engineering 入门指南（橙皮书系列），用通俗语言解释循环工程的核心概念、设计模式和实例。无需编程基础即可理解，适合对系统设计、反馈控制和强化学习感兴趣的入门者。",
+      "category": "资料教程",
+      "createdAt": "2026-06-15T05:27:07Z"
+    },
+    {
+      "repo": "mrtooher/fable-mode",
+      "url": "https://github.com/mrtooher/fable-mode",
+      "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+      "language": "",
+      "stars": 518,
+      "summaryZh": "Fable Mode 是一个 Claude 技能，通过显式的多阶段规划、子代理委派和自我验证，激活类似 Fable 的智能体行为。它强制模型遵循严谨的推理流程，适合需要高可靠性决策的复杂任务场景，如代码生成和科学分析。",
+      "category": "AI",
+      "createdAt": "2026-06-13T05:33:14Z"
+    },
+    {
+      "repo": "Plaer1/junction",
+      "url": "https://github.com/Plaer1/junction",
+      "description": "VS Code chat sidebar for local AI coding agents",
+      "language": "TypeScript",
+      "stars": 512,
+      "summaryZh": "Junction 是一个 VS Code 聊天侧边栏扩展，可将本地 AI 代码代理集成到编辑器中。核心功能是让开发者通过自然语言与本地模型交互，直接执行代码修改、调试和重构。适合追求离线、私有化 AI 辅助编程的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-17T05:27:09Z"
+    },
+    {
+      "repo": "fivetaku/fablize",
+      "url": "https://github.com/fivetaku/fablize",
+      "description": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
+      "language": "Python",
+      "stars": 504,
+      "summaryZh": "Fablize 是一个 Claude Code 插件，使 Opus 模型具备类似于 Fable 的完成、证据和验证强制流程。它通过对比实验提炼出可迁移的行为模式，适合需要更高可靠性和可审计性的 AI 工作流。",
+      "category": "AI",
+      "createdAt": "2026-06-14T05:49:06Z"
+    },
+    {
+      "repo": "royalbhati/sqltoerdiagram",
+      "url": "https://github.com/royalbhati/sqltoerdiagram",
+      "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
+      "language": "JavaScript",
+      "stars": 483,
+      "summaryZh": "SQL to ER Diagram 是一个纯前端工具，输入 CREATE TABLE 语句即可生成交互式 ER 图，无需上传数据。基于 JavaScript 实现，在浏览器中完成所有计算。适合数据库设计者、学生和需要快速可视化表结构的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-14T04:12:26Z"
+    },
+    {
+      "repo": "rebel0789/codexpro",
+      "url": "https://github.com/rebel0789/codexpro",
+      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "language": "TypeScript",
+      "stars": 440,
+      "summaryZh": "CodeXPro 是一个 TypeScript 项目，通过 MCP 协议将 ChatGPT 开发者模式作为本地编程代理使用。它能直接操作代码仓库、执行命令和文件，适合在受限环境中利用 AI 进行代码维护和开发。",
+      "category": "开发工具",
+      "createdAt": "2026-06-16T21:22:43Z"
+    },
+    {
+      "repo": "dzcmemory-web/bazi-ziwei-skill",
+      "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
+      "description": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。",
+      "language": "TypeScript",
+      "stars": 429,
+      "summaryZh": "此项目提供一套 TypeScript 实现的 AI 八字与紫微斗数排盘 Skill，采用算法精确排盘（不依赖 LLM 猜测），支持三种分析模式并一键生成水墨风 HTML 命盘海报。兼容 Claude/Codex/Cursor 等 AI 助手，适合命理爱好者和开发者集成。",
+      "category": "AI",
+      "createdAt": "2026-06-13T14:22:28Z"
+    },
+    {
+      "repo": "eli-labz/Third-Eye",
+      "url": "https://github.com/eli-labz/Third-Eye",
+      "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "language": "TypeScript",
+      "stars": 416,
+      "summaryZh": "Third Eye 是一个生产级开源情报（OSINT）平台，提供跨多情报域的情境感知能力。核心功能包括数据采集、关联分析和可视化仪表盘，适合安全研究人员、记者和调查人员使用。",
+      "category": "其他",
+      "createdAt": "2026-06-13T03:15:46Z"
+    },
+    {
+      "repo": "privatenumber/mac-ocr",
+      "url": "https://github.com/privatenumber/mac-ocr",
+      "description": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework",
+      "language": "Swift",
+      "stars": 388,
+      "summaryZh": "macOS CLI 工具，利用苹果 Vision 框架实现图像 OCR 和可搜索 PDF 生成。无图形界面，直接通过命令行批量处理，输出高精度文本和 PDF 文件。适合需要自动化文档数字化的 macOS 用户和开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-13T13:49:56Z"
+    },
+    {
+      "repo": "duolahypercho/fusion-fable",
+      "url": "https://github.com/duolahypercho/fusion-fable",
+      "description": "Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.",
+      "language": "Shell",
+      "stars": 376,
+      "summaryZh": "Fusion-Fable 是一个 Shell 脚本的 Claude Code Skill，通过融合两个前沿模型产生 Fable 级别答案：Opus 4.8 草稿，第二模型检查，Opus 融合。适合追求高准确度和强推理链的复杂问题解答场景。",
+      "category": "AI",
+      "createdAt": "2026-06-13T23:24:39Z"
+    },
+    {
+      "repo": "bjarneo/ku",
+      "url": "https://github.com/bjarneo/ku",
+      "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. ",
+      "language": "Go",
+      "stars": 360,
+      "summaryZh": "Ku 是一个快速、键盘驱动的 Kubernetes TUI，基于 Go 语言开发，可浏览任何资源、编辑对象、跟踪日志并进入 Pod 终端。无需鼠标，纯键盘操作，适合需要高效管理 K8s 集群的运维和开发人员。",
+      "category": "开发工具",
+      "createdAt": "2026-06-13T14:38:25Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "cajal-technologies/talos",
+      "url": "https://github.com/cajal-technologies/talos",
+      "description": "Wasm interpreter in lean, designed for reasoning",
+      "language": "Lean",
+      "stars": 103,
+      "summaryZh": "一个用 Lean 编写的 WebAssembly 解释器，专为形式化推理而设计。支持 WASM 指令的符号执行与验证，适合需要在 Coq/Lean 等证明助手中对 WebAssembly 程序进行推理的研究者或安全分析场景。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 92 分 · 25 评论",
+      "reasonZh": "Talos 是一个用 Lean 写的 WebAssembly 解释器，最大亮点是专为形式化推理设计，而非性能。和同类项目比，它让你能严格证明 Wasm 程序的行为，适合需要高安全性的场景，比如区块链合约验证或学术研究。"
+    },
+    {
+      "repo": "c0rRupT9/STEPLA-1",
+      "url": "https://github.com/c0rRupT9/STEPLA-1",
+      "description": "8-bit Harvard CPU built from individual logic gates  in Logisim-Evolution.",
+      "language": "Python",
+      "stars": 63,
+      "summaryZh": "一个在 Logisim-Evolution 中用逻辑门搭建的 8 位哈佛架构 CPU，从零开始模拟硬件设计。展示了计算机组成原理的核心实现，适合计算机体系结构学习者或数字电路爱好者动手实验。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 104 分 · 46 评论",
+      "reasonZh": "这是一个完全用 Logisim 逻辑门搭建的 8 位哈佛结构 CPU，从零到一展示计算机组成。亮点是教育意义极大，比纸上谈兵更直观，适合想深入理解 CPU 工作原理的学生或爱好者。"
+    },
+    {
+      "repo": "ArcaEge/capacitor-alarm-clock",
+      "url": "https://github.com/ArcaEge/capacitor-alarm-clock",
+      "description": "capacitor blow up human wake up",
+      "language": "C",
+      "stars": 82,
+      "summaryZh": "一个利用电容器放电原理的物理闹钟，通过硬件设计强制唤醒用户。核心亮点是无需软件依赖，纯电子元件实现，适合 DIY 爱好者制作独特的闹钟或学习电容电路应用。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 153 分 · 48 评论",
+      "reasonZh": "这个闹钟 App 的亮点是用“电容器放电”物理原理强制唤醒——必须把手机放到指定底座充电才能关闹铃。比普通闹钟防赖床有效，特别适合起床困难户，结合硬件和软件的创意项目。"
+    },
+    {
+      "repo": "glojurelang/glojure",
+      "url": "https://github.com/glojurelang/glojure",
+      "description": "Clojure interpreter hosted on Go, with extensible interop support.",
+      "language": "Go",
+      "stars": 678,
+      "summaryZh": "一个用 Go 实现的 Clojure 解释器，支持可扩展的互操作。核心功能是允许在 Go 项目中嵌入 Clojure 代码，并利用 Go 的并发优势执行 Lisp 风格脚本，适合需要混合编程范式的开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 195 分 · 26 评论",
+      "reasonZh": "Glojure 是 Go 语言上的 Clojure 解释器，亮点是可扩展的互操作支持，直接调用 Go 代码。和 JVM 版 Clojure 相比更轻量，适合想用 Lisp 写 Go 项目或希望在 Go 生态用 Clojure 的开发者。"
+    },
+    {
+      "repo": "JimLiu/baoyu-design",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "language": "JavaScript",
+      "stars": 1630,
+      "summaryZh": "一个本地运行的 Agent 技能，无需 claude.ai/design 即可生成 UI 原型、演示文稿和线框图。核心技术是将 Claude 设计能力封装为脚本，输出独立 HTML 文件，适合前端设计者快速迭代原型。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +800（+96%）",
+      "reasonZh": "这个项目让你在本地运行 Claude 设计能力，生成 UI 原型、图表等 HTML 文件，不需访问 claude.ai/design。亮点是私密且可控，适合设计师或开发者快速迭代界面，尤其搭配 Opus 模型效果更佳。"
+    },
+    {
+      "repo": "plannotator/effective-html",
+      "url": "https://github.com/plannotator/effective-html",
+      "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+      "language": "HTML",
+      "stars": 1072,
+      "summaryZh": "一个 Agent 技能，用于生成简洁优雅的 HTML 页面、架构图或可视化方案。亮点是自然语言输入即可获得结构清晰的 HTML 代码，适合需要快速生成分享型文档或演示的开发者。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +595（+125%）",
+      "reasonZh": "Effective HTML 是一个 Agent skill，能用简单 HTML 生成优雅的计划图、架构图等。亮点是极简高效，比复杂绘图工具更轻量，适合 AI 开发团队快速可视化项目规划。"
+    },
+    {
+      "repo": "coder/boo",
+      "url": "https://github.com/coder/boo",
+      "description": "A GNU screen style terminal multiplexer built on libghostty.",
+      "language": "Zig",
+      "stars": 676,
+      "summaryZh": "一个基于 libghostty 构建的 GNU screen 风格终端复用器，提供多窗口和会话管理。核心亮点是轻量高效，适合需要在 Linux 终端中同时运行多个任务的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +403（+148%）",
+      "reasonZh": "Boo 是一个基于 libghostty 的终端复用器，类似 GNU screen，用 Zig 编写。亮点是现代实现、低资源占用，适合需要持久会话的 SSH 用户，比 tmux 更简洁。"
+    },
+    {
+      "repo": "geekjourneyx/md2wechat-skill",
+      "url": "https://github.com/geekjourneyx/md2wechat-skill",
+      "description": "Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布",
+      "language": "Go",
+      "stars": 2902,
+      "summaryZh": "一个命令行工具，支持将 Markdown 一键排版并发布到微信公众号。内置 40+ 主题样式和 AI 配图功能，可批量处理文章，适合内容创作者和公众号运营者高效排版。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · cli",
+      "reasonZh": "这个 CLI 工具一键将 Markdown 排版发布到微信公众号，支持 40+ 样式、AI 配图、批量发布。亮点是省去手动排版痛苦，特别适合自媒体作者和团队高效内容输出。"
+    },
+    {
+      "repo": "alebal123bal/khadas_yolov8n_multithread",
+      "url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
+      "description": "Real-time YOLOv8n UAV detection on the RK3588S NPU | saturates the sensor at 46 FPS | ~140 MB RAM | fully hardware-accelerated (ISP+RGA+NPU) | on-device LLM scene summaries",
+      "language": "C++",
+      "stars": 48,
+      "summaryZh": "在 RK3588S NPU 上运行 YOLOv8n 无人机实时检测的多线程实现，全硬件加速（ISP+RGA+NPU）。可达到 46 FPS 且内存占用仅 140 MB，并支持设备端 LLM 场景摘要，适合边缘 AI 应用。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +15（+45%）",
+      "reasonZh": "在 RK3588S NPU 上实现实时 YOLOv8n 无人机检测，46 FPS 且内存仅约 140MB。亮点是充分硬件加速（ISP+RGA+NPU），并支持设备端 LLM 场景总结，适合边缘计算监控场景。"
+    },
+    {
+      "repo": "psmux/psmux",
+      "url": "https://github.com/psmux/psmux",
+      "description": "Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀",
+      "language": "PowerShell",
+      "stars": 2596,
+      "summaryZh": "原生 PowerShell 终端复用器，为 Windows 环境提供类似 tmux 的功能。支持多窗口、分屏和会话管理，兼容 PowerShell、Windows Terminal 和 cmd.exe，适合 Windows 开发者提升命令行效率。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · cli",
+      "reasonZh": "PSMux 是 Windows PowerShell 上的 tmux，原生实现、用 Rust 编写。亮点是让 Windows 用户也能享受会话复用功能，弥补了 PowerShell 缺乏 tmux 的空白。"
+    }
+  ]
+}
