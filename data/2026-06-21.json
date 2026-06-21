@@ -1,0 +1,449 @@
+{
+  "date": "2026-06-21",
+  "trending": [
+    {
+      "repo": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars": 3396,
+      "summaryZh": "一款专为macOS设计的AI视频编辑器。集成视频剪辑、AI辅助编辑等功能，支持智能对象识别、自动剪辑等特性。适合视频创作者和编辑人员使用，可显著提升视频制作效率。",
+      "category": "开发工具",
+      "starsToday": 902
+    },
+    {
+      "repo": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars": 51447,
+      "summaryZh": "开源的设计与代码协作工具，支持矢量图形设计和原型制作。核心功能包括实时协作、设计系统管理和代码导出，使用SVG格式，兼容Figma文件。适合UI/UX设计师和开发者使用，实现设计与开发的无缝衔接。",
+      "category": "开发工具",
+      "starsToday": 420
+    },
+    {
+      "repo": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 7080,
+      "summaryZh": "全球首个开源代理式视频制作系统，拥有12条流水线、52个工具和500多个智能体技能。可将AI编码助手转变为完整的视频制作工作室。适合视频制作者和AI开发者使用，实现自动化视频生产。",
+      "category": "AI",
+      "starsToday": 677
+    },
+    {
+      "repo": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "stars": 20343,
+      "summaryZh": "一个进程内SQL数据库，兼容SQLite，支持边缘计算和服务器端使用。核心功能包括低延迟查询、高并发支持和分布式部署。适合需要简单高效数据库解决方案的应用场景，如移动端和IoT设备。",
+      "category": "开发工具",
+      "starsToday": 801
+    },
+    {
+      "repo": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 9381,
+      "summaryZh": "高性能代码智能MCP服务器，将代码库索引到持久知识图谱中，毫秒级查询。支持158种语言，查询速度亚毫秒级，减少99%的token消耗。适合开发者用于代码分析和智能提示。",
+      "category": "开发工具",
+      "starsToday": 1271
+    },
+    {
+      "repo": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 24559,
+      "summaryZh": "Google Research开发的时间序列基础模型，用于时间序列预测。支持多种预测场景，如股票价格、天气和销售预测。适合数据科学家和研究人员使用，提供预训练模型，可快速部署。",
+      "category": "AI",
+      "starsToday": 433
+    },
+    {
+      "repo": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars": 50869,
+      "summaryZh": "Salesforce的开源替代品，专为AI时代设计。提供CRM核心功能，包括联系人管理、销售管道自动化和AI智能分析。适合中小企业和开发者使用，可定制扩展，支持自托管。",
+      "category": "开发工具",
+      "starsToday": 140
+    },
+    {
+      "repo": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "language": "TypeScript",
+      "stars": 39336,
+      "summaryZh": "开源的跨平台API客户端，支持GraphQL、REST、WebSocket、SSE和gRPC。提供云存储、本地存储和Git存储，支持代码生成和调试。适合API开发者使用，是Postman的替代品。",
+      "category": "开发工具",
+      "starsToday": 329
+    },
+    {
+      "repo": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
+      "language": "Rust",
+      "stars": 54821,
+      "summaryZh": "只需一条命令即可将任何网页转换为桌面应用的命令行工具。核心功能是使用Tauri框架打包网页，支持自定义图标和窗口设置。适合开发者快速创建轻量级桌面应用。",
+      "category": "开发工具",
+      "starsToday": 2546
+    },
+    {
+      "repo": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 41929,
+      "summaryZh": "压缩工具输出、日志、文件和RAG块，在发送到LLM前减少60-95%的token，同时保持答案质量。支持库、代理和MCP服务器。适合使用大模型的开发者，可降低API成本。",
+      "category": "AI",
+      "starsToday": 3795
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": 31032,
+      "summaryZh": "开源AI语音工作室，支持语音克隆、听写和生成。基于深度学习模型，可克隆音色并生成自然语音。适合内容创作者、语音应用开发者使用，提供API和Web界面。",
+      "category": "AI",
+      "starsToday": 145
+    },
+    {
+      "repo": "Kilo-Org/kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "language": "TypeScript",
+      "stars": 23366,
+      "summaryZh": "一体化的工程平台，集成了开源编码代理。支持代码生成、调试、部署和迭代，内建AI助手。适合开发者使用，可加速开发流程，支持多种语言和框架。",
+      "category": "开发工具",
+      "starsToday": 513
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 138268,
+      "summaryZh": "面向真实工程师的技能库，源自作者自己的.claude目录。包含各种编码技巧和最佳实践，涵盖TypeScript、React等。适合前端开发者或任何希望提升工程能力的人。",
+      "category": "资料教程",
+      "starsToday": 1395
+    },
+    {
+      "repo": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "description": "The sandbox agent framework.",
+      "language": "TypeScript",
+      "stars": 6104,
+      "summaryZh": "沙盒智能体框架，用于构建和测试AI代理。提供隔离的运行环境，支持自定义工具和模型。适合AI研究人员和开发者进行实验和调试。",
+      "category": "AI",
+      "starsToday": 316
+    },
+    {
+      "repo": "owainlewis/awesome-artificial-intelligence",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "language": "",
+      "stars": 14790,
+      "summaryZh": "精选的人工智能资源列表，包括课程、书籍、视频讲座和论文。涵盖机器学习、深度学习、自然语言处理等子领域。适合AI学习者和从业者快速查找优质学习材料。",
+      "category": "资料教程",
+      "starsToday": 48
+    },
+    {
+      "repo": "pppscn/SmsForwarder",
+      "url": "https://github.com/pppscn/SmsForwarder",
+      "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+      "language": "Kotlin",
+      "stars": 26495,
+      "summaryZh": "监控Android手机短信、来电及应用通知，按规则转发至钉钉、飞书、企业微信、Telegram等平台。支持远程发短信、查通话等主动控制。适合需要集中管理手机通知或远程监控的用户。",
+      "category": "开发工具",
+      "starsToday": 104
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": 7402,
+      "summaryZh": "用于构建编码智能体的框架，提供工具集和运行时环境。支持自动化代码生成、测试与优化。适合开发者打造自定义AI编程助手。",
+      "category": "开发工具",
+      "starsToday": 87
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "tamnd/kage",
+      "url": "https://github.com/tamnd/kage",
+      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "language": "Go",
+      "stars": 2165,
+      "summaryZh": "将任意网站静态镜像化以供离线查看，并自动去除JavaScript。核心功能是生成纯HTML/资源副本，提升安全性与加载速度。适合需要存档网页或避免脚本执行的场景。",
+      "category": "开发工具",
+      "createdAt": "2026-06-14T11:21:55Z"
+    },
+    {
+      "repo": "vercel/eve",
+      "url": "https://github.com/vercel/eve",
+      "description": "The Framework for Building Agents",
+      "language": "TypeScript",
+      "stars": 1868,
+      "summaryZh": "Vercel推出的智能体开发框架，简化构建、部署和监控AI Agent的流程。支持多种LLM集成与状态管理。适合快速构建生产级Agent应用。",
+      "category": "AI",
+      "createdAt": "2026-06-16T10:51:20Z"
+    },
+    {
+      "repo": "Waishnav/devspace",
+      "url": "https://github.com/Waishnav/devspace",
+      "description": "Turn ChatGPT into Codex",
+      "language": "TypeScript",
+      "stars": 1629,
+      "summaryZh": "将ChatGPT转变为类似Codex的编程助手，提供内联代码补全与生成功能。核心是优化对话界面以匹配编码工作流。适合在浏览器中直接获取AI辅助编程。",
+      "category": "开发工具",
+      "createdAt": "2026-06-14T16:57:27Z"
+    },
+    {
+      "repo": "alchaincyf/loop-engineering-orange-book",
+      "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+      "description": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+      "language": "",
+      "stars": 716,
+      "summaryZh": "《别再问我什么是Loop Engineering》中文及英文PDF，以通俗语言解释循环工程概念与实践。适合对自动化、反馈系统感兴趣的工程师或学习者。",
+      "category": "资料教程",
+      "createdAt": "2026-06-15T05:27:07Z"
+    },
+    {
+      "repo": "rebel0789/codexpro",
+      "url": "https://github.com/rebel0789/codexpro",
+      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "language": "JavaScript",
+      "stars": 541,
+      "summaryZh": "通过MCP协议在本地仓库中使用ChatGPT开发者模式作为编码智能体。支持代码审查、生成与重构。适合需要将LLM集成到本地开发环境的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-16T21:22:43Z"
+    },
+    {
+      "repo": "fivetaku/fablize",
+      "url": "https://github.com/fivetaku/fablize",
+      "description": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
+      "language": "Python",
+      "stars": 533,
+      "summaryZh": "Claude Code插件，让Opus模型遵循Fable风格：强制完成、证据验证和程序化检查。提升代码生成可靠性与可验证性。适合追求高质量AI输出的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-14T05:49:06Z"
+    },
+    {
+      "repo": "Forsy-AI/agent-apprenticeship",
+      "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+      "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+      "language": "",
+      "stars": 528,
+      "summaryZh": "AI智能体从真实工作中学习的生态系统，通过迭代工作流、复用经验与集体训练信号交换。核心是构建持续进化的Agent社区。适合研究多Agent协作与学习。",
+      "category": "AI",
+      "createdAt": "2026-06-19T16:19:37Z"
+    },
+    {
+      "repo": "Plaer1/junction",
+      "url": "https://github.com/Plaer1/junction",
+      "description": "VS Code chat sidebar for local AI coding agents",
+      "language": "TypeScript",
+      "stars": 516,
+      "summaryZh": "VS Code聊天侧边栏插件，用于本地AI编码智能体交互。支持多模型切换、代码上下文绑定。适合在编辑器内直接使用AI辅助编码。",
+      "category": "开发工具",
+      "createdAt": "2026-06-17T05:27:09Z"
+    },
+    {
+      "repo": "royalbhati/sqltoerdiagram",
+      "url": "https://github.com/royalbhati/sqltoerdiagram",
+      "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
+      "language": "HTML",
+      "stars": 494,
+      "summaryZh": "粘贴CREATE TABLE语句即可生成交互式ER图，所有处理在浏览器本地完成，不上传数据。适合数据库设计者快速可视化表结构。",
+      "category": "开发工具",
+      "createdAt": "2026-06-14T04:12:26Z"
+    },
+    {
+      "repo": "dongshuyan/compass-skills",
+      "url": "https://github.com/dongshuyan/compass-skills",
+      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "language": "Python",
+      "stars": 397,
+      "summaryZh": "个性化AI任务总控系统COMPASS，通过技能OS框架管理Agent行为。核心是技能编排与对齐，适用于构建定制化AI工作流。",
+      "category": "AI",
+      "createdAt": "2026-06-15T06:28:04Z"
+    },
+    {
+      "repo": "majidmanzarpour/threejs-game-skills",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "language": "Python",
+      "stars": 379,
+      "summaryZh": "构建可玩Three.js游戏的智能体技能集，支持AAA级图形、UI、测试及AI生成3D/图像/音频资源。适合快速制作高质量浏览器游戏。",
+      "category": "游戏",
+      "createdAt": "2026-06-14T04:06:26Z"
+    },
+    {
+      "repo": "ngrok/webernetes",
+      "url": "https://github.com/ngrok/webernetes",
+      "description": "Kubernetes in the browser.",
+      "language": "TypeScript",
+      "stars": 356,
+      "summaryZh": "在浏览器中运行Kubernetes集群，提供Web版kubectl和仪表盘。适合学习K8s或快速测试基础设施场景，无需本地安装。",
+      "category": "开发工具",
+      "createdAt": "2026-06-16T16:52:34Z"
+    },
+    {
+      "repo": "MstKail/polymarket-trading-bot-services-polyedge365",
+      "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+      "description": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot",
+      "language": "",
+      "stars": 354,
+      "summaryZh": "Polymarket预测市场的交易机器人套件，包括复制交易、套利、对冲、做市等策略。适合自动化参与去中心化预测市场交易的用户。",
+      "category": "其他",
+      "createdAt": "2026-06-18T05:56:44Z"
+    },
+    {
+      "repo": "boogu-project/Boogu-Image",
+      "url": "https://github.com/boogu-project/Boogu-Image",
+      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "language": "Python",
+      "stars": 353,
+      "summaryZh": "一个开源图像生成与编辑模型系列，在参数量级更小的条件下达到接近闭源模型的性能。基于Apache-2.0许可，适合需要轻量级高质量图像生成的研究者或开发者使用。",
+      "category": "AI",
+      "createdAt": "2026-06-16T14:59:20Z"
+    },
+    {
+      "repo": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
+      "url": "https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
+      "description": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore",
+      "language": "",
+      "stars": 336,
+      "summaryZh": "后端开发者面试题集合，涵盖广泛的后端技术问题。可用于面试候选人或自测知识水平，适合求职者或招聘者使用。",
+      "category": "资料教程",
+      "createdAt": "2026-06-17T09:46:11Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "coder/boo",
+      "url": "https://github.com/coder/boo",
+      "description": "A GNU screen style terminal multiplexer built on libghostty.",
+      "language": "Zig",
+      "stars": 682,
+      "summaryZh": "基于libghostty构建的GNU screen风格终端复用器，支持多窗口与进程管理。采用Zig语言开发，适合需要高效终端工作流的开发者使用。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +324（+91%）",
+      "reasonZh": "用 Zig 写的终端复用器，对标 GNU screen，但基于 libghostty 实现，性能好、体积小。比 tmux 更现代简洁，适合想在原生终端体验下管理多窗口的开发者。写代码时切 session 贼快。"
+    },
+    {
+      "repo": "themartiano/luz",
+      "url": "https://github.com/themartiano/luz",
+      "description": "C++ Path Tracer from scratch with zero third-party libraries.",
+      "language": "C++",
+      "stars": 324,
+      "summaryZh": "从头实现的C++路径追踪器，不依赖任何第三方库。专注于渲染核心算法，适合学习计算机图形学或光线追踪的开发者。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +223（+221%）",
+      "reasonZh": "纯手写 C++ 路径追踪器，零第三方库，从零构建。适合想深入理解图形学底层原理的人，代码量不大但结构清晰，比依赖现成框架的项目更有学习价值。"
+    },
+    {
+      "repo": "alebal123bal/khadas_yolov8n_multithread",
+      "url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
+      "description": "Real-time YOLOv8n UAV detection on the RK3588S NPU | saturates the sensor at 46 FPS | ~140 MB RAM | fully hardware-accelerated (ISP+RGA+NPU) | on-device LLM scene summaries",
+      "language": "C++",
+      "stars": 59,
+      "summaryZh": "在RK3588S NPU上实现实时YOLOv8n无人机检测，帧率达46 FPS并仅占用约140MB内存。全硬件加速（ISP+RGA+NPU），并内置设备端LLM场景描述，适合边缘AI与无人机监控场景。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +26（+79%）",
+      "reasonZh": "在 RK3588S NPU 上实现 YOLOv8n 无人机实时检测，46 FPS 且仅占 140 MB 内存，全硬件加速（ISP+RGA+NPU）。同类项目通常跑不满，这个优化到位，适合嵌入式 AI 和无人机场景。"
+    },
+    {
+      "repo": "oraziorillo/microcrad",
+      "url": "https://github.com/oraziorillo/microcrad",
+      "description": "A re-implementation of Karpathy's micrograd in C",
+      "language": "C",
+      "stars": 40,
+      "summaryZh": "用C语言重写Karpathy的micrograd自动微分库，实现极简的数值计算图。适合学习自动微分原理或深度学习基础的开发者。",
+      "category": "资料教程",
+      "source": "hn",
+      "signal": "HN 64 分 · 21 评论",
+      "reasonZh": "用 C 重写 Karpathy 的 micrograd 自动微分库，代码极简适合学习。相比原版 Python 实现，C 版更能理解底层计算图机制，适合想深入学深度学习框架原理的人。"
+    },
+    {
+      "repo": "overflowy/make-look-scanned",
+      "url": "https://github.com/overflowy/make-look-scanned",
+      "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
+      "language": "Go",
+      "stars": 97,
+      "summaryZh": "将PDF文件模拟成扫描件效果，支持命令行或浏览器（通过WASM）使用。核心功能为添加扫描痕迹与扭曲效果，适合需要伪造扫描文档的办公或测试场景。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 86 分 · 41 评论",
+      "reasonZh": "让 PDF 看起来像扫描件的工具，支持 CLI 和 WASM 浏览器端。跟同类比轻量无依赖，场景有趣：你提交电子版作业/合同总想要点“纸质感”，或者做数字存档时模拟扫描效果。"
+    },
+    {
+      "repo": "c0rRupT9/STEPLA-1",
+      "url": "https://github.com/c0rRupT9/STEPLA-1",
+      "description": "8-bit Harvard CPU built from individual logic gates  in Logisim-Evolution.",
+      "language": "Python",
+      "stars": 65,
+      "summaryZh": "在Logisim-Evolution中用独立逻辑门搭建的8位哈佛结构CPU。从零构建处理器核心，适合计算机组成原理学习与硬件设计爱好者。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 107 分 · 46 评论",
+      "reasonZh": "8位哈佛 CPU，用 Logisim 从单个逻辑门搭起，每个门都能点开看。比纸上谈兵的教程硬核多了，适合计算机组成原理学习者动手验证。"
+    },
+    {
+      "repo": "cajal-technologies/talos",
+      "url": "https://github.com/cajal-technologies/talos",
+      "description": "Wasm interpreter in lean, designed for reasoning",
+      "language": "Lean",
+      "stars": 115,
+      "summaryZh": "用Lean语言编写的WebAssembly解释器，专为形式化验证设计。适合研究编译器验证、编程语言理论或需要高可靠性Wasm执行的场景。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 100 分 · 27 评论",
+      "reasonZh": "用 Lean 语言实现的 Wasm 解释器，主打可形式化推理。别的 Wasm 实现追求性能，它追求验证正确性，适合对形式化验证和 WebAssembly 语义有研究的开发者。"
+    },
+    {
+      "repo": "DatanoiseTV/ember-hackernews",
+      "url": "https://github.com/DatanoiseTV/ember-hackernews",
+      "description": "Ember — a native, accessible Hacker News reader for iOS, built in SwiftUI with no third-party dependencies.",
+      "language": "Swift",
+      "stars": 71,
+      "summaryZh": "原生Hacker News阅读器，使用SwiftUI开发且无第三方依赖，支持无障碍访问。适合iOS用户快速浏览Hacker News内容。",
+      "category": "前端",
+      "source": "hn",
+      "signal": "HN 87 分 · 20 评论",
+      "reasonZh": "原生 HN 客户端，SwiftUI 实现，无第三方依赖，而且无障碍做得很好。相比其他 HN 客户端更纯粹、更省资源，适合每天刷 HN 的苹果用户。"
+    },
+    {
+      "repo": "sammysltd/euromesh",
+      "url": "https://github.com/sammysltd/euromesh",
+      "description": "A sourced model and short report: can Europe train a sovereign frontier AI model on the public compute it already owns, while gigawatt datacenters wait years for grid power?",
+      "language": "Python",
+      "stars": 41,
+      "summaryZh": "探索欧洲能否利用现有公共算力训练自主前沿AI模型，在千兆瓦数据中心等待电网供电的背景下。报告与模型分析，适合AI政策制定者或基础设施规划者参考。",
+      "category": "资料教程",
+      "source": "dark-horse",
+      "signal": "周涨星 +19（+86%）",
+      "reasonZh": "研究欧洲能否用已拥有的公共算力训练主权 AI 模型，附带模型和报告。新颖的课题：不建新数据中心，而是盘活现有算力。适合关注 AI 基础设施、能源政策的人。"
+    },
+    {
+      "repo": "Danilaa1/slot-text",
+      "url": "https://github.com/Danilaa1/slot-text",
+      "description": "Dependency-free text roll animation for vanilla JS, React, and Vue.",
+      "language": "TypeScript",
+      "stars": 741,
+      "summaryZh": "零依赖的文字滚动动画库，支持原生JS、React和Vue。通过简单API实现类似老虎机效果的文本切换，适合网页UI动效开发。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +173（+30%）",
+      "reasonZh": "零依赖的文字滚动动画库，支持 Vanilla JS、React、Vue。比同类库轻量，用法简单，适合需要在页面搞一些复古“老虎机”文字特效的前端开发者。"
+    }
+  ]
+}
