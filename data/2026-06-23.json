@@ -1,0 +1,439 @@
+{
+  "date": "2026-06-23",
+  "trending": [
+    {
+      "repo": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 12130,
+      "summaryZh": "全球首个开源智能视频制作系统，提供 12 条流水线、52 个工具和 500+ 智能体技能。将 AI 编码助手转变为完整的视频制作工作室，适合需要自动化视频生成的创作者和企业。",
+      "category": "AI",
+      "starsToday": 2938
+    },
+    {
+      "repo": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars": 7386,
+      "summaryZh": "面向 macOS 的 AI 原生视频编辑器，利用 AI 辅助进行视频剪辑和效果处理。为追求高效创作的个人视频制作者提供智能化编辑体验。",
+      "category": "开发工具",
+      "starsToday": 2463
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": 32271,
+      "summaryZh": "开源 AI 语音工作室，支持语音克隆、听写和语音合成。适合内容创作者和开发者在本地搭建语音处理应用。",
+      "category": "AI",
+      "starsToday": 529
+    },
+    {
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 18718,
+      "summaryZh": "结构化网络安全技能库，包含 817 项技能，映射到 MITRE ATT&CK 等 6 个框架。用于训练 AI 代理在网络安全任务中执行标准化操作。",
+      "category": "AI",
+      "starsToday": 956
+    },
+    {
+      "repo": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars": 52880,
+      "summaryZh": "开源设计工具，支持设计与代码协作，提供矢量编辑、原型制作等功能。适合设计师和开发者共同完成 UI 设计项目。",
+      "category": "开发工具",
+      "starsToday": 728
+    },
+    {
+      "repo": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "language": "TypeScript",
+      "stars": 82936,
+      "summaryZh": "本地运行的全能 PDF 编辑工具，支持合并、分割、转换、OCR 等操作。适合个人和企业随时随地处理 PDF 文件。",
+      "category": "开发工具",
+      "starsToday": 547
+    },
+    {
+      "repo": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars": 113165,
+      "summaryZh": "包含 23 个定制化 AI 编码助手工具，扮演 CEO、设计师、工程经理等角色。适合开发者使用 Claude Code 提升团队效率。",
+      "category": "开发工具",
+      "starsToday": 573
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": 30018,
+      "summaryZh": "用 HTML 编写脚本即可生成视频，专为 AI 代理设计。简化视频制作流程，适合自动生成营销、教育等场景的视频内容。",
+      "category": "AI",
+      "starsToday": 395
+    },
+    {
+      "repo": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "stars": 21495,
+      "summaryZh": "兼容 SQLite 的嵌入式 SQL 数据库，支持分布式部署和边缘计算。适合需要低延迟、高可用的应用场景。",
+      "category": "开发工具",
+      "starsToday": 540
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars": 73272,
+      "summaryZh": "开源长周期超级代理框架，集成沙箱、记忆、工具和子代理，可处理复杂任务。适合开发者构建自动化研究、编程和创作系统。",
+      "category": "AI",
+      "starsToday": 738
+    },
+    {
+      "repo": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 11608,
+      "summaryZh": "高性能代码智能 MCP 服务器，将代码库索引为知识图谱，支持 158 种语言和毫秒级查询。适合需要快速代码理解和检索的开发者。",
+      "category": "开发工具",
+      "starsToday": 1185
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": 45845,
+      "summaryZh": "LLM 驱动的多市场股票智能分析系统，集成行情、新闻、决策看板和自动推送。适合散户投资者进行零成本定时分析。",
+      "category": "AI",
+      "starsToday": 1557
+    },
+    {
+      "repo": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript",
+      "stars": 137310,
+      "summaryZh": "大规模网页搜索、爬取和交互的 API，支持结构化数据提取。适合数据科学家和开发者获取网络数据。",
+      "category": "开发工具",
+      "starsToday": 615
+    },
+    {
+      "repo": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars": 17758,
+      "summaryZh": "使用 AI 编码代理一键克隆网站，输入命令即可复制任意网站。适合快速原型开发和学习网站结构。",
+      "category": "其他",
+      "starsToday": 100
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 21059,
+      "summaryZh": "支持 70B 模型在单张 4GB GPU 上推理，通过优化显存实现大模型本地运行。适合资源有限但需要运行大模型的开发者。",
+      "category": "AI",
+      "starsToday": 193
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 141688,
+      "summaryZh": "这是从作者 Claude 目录提取的工程师必备技能集合，涵盖编程、工具使用等实战经验。适合开发者快速提升专业能力，无需从零摸索。",
+      "category": "资料教程",
+      "starsToday": 2051
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "vercel/eve",
+      "url": "https://github.com/vercel/eve",
+      "description": "The Framework for Building Agents",
+      "language": "TypeScript",
+      "stars": 2281,
+      "summaryZh": "Vercel 推出的智能体开发框架，简化构建复杂 AI Agent 的流程。提供类型安全、高效编排等能力，适合需要快速搭建生产级 Agent 的开发者。",
+      "category": "AI",
+      "createdAt": "2026-06-16T10:51:20Z"
+    },
+    {
+      "repo": "zhongerxin/Cowart",
+      "url": "https://github.com/zhongerxin/Cowart",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 1981,
+      "summaryZh": "一个基于 JavaScript 的项目，具体功能描述缺失。可能涉及 Web 开发或工具类，适合进一步探索。",
+      "category": "其他",
+      "createdAt": "2026-06-18T16:08:30Z"
+    },
+    {
+      "repo": "rebel0789/codexpro",
+      "url": "https://github.com/rebel0789/codexpro",
+      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "language": "JavaScript",
+      "stars": 714,
+      "summaryZh": "通过 MCP 协议将 ChatGPT 开发者模式集成到本地仓库的编码助手工具。支持在 IDE 中直接与 AI 对话，生成代码，适合借助 AI 加速日常开发的程序员。",
+      "category": "开发工具",
+      "createdAt": "2026-06-16T21:22:43Z"
+    },
+    {
+      "repo": "Forsy-AI/agent-apprenticeship",
+      "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+      "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+      "language": "",
+      "stars": 682,
+      "summaryZh": "AI 智能体的生态系统，通过迭代工作流、复用经验和集体训练信号，让 AI 从真实工作中学习。适合研究 AI 自主学习与协作的开发者。",
+      "category": "AI",
+      "createdAt": "2026-06-19T16:19:37Z"
+    },
+    {
+      "repo": "lyra81604/zhengxi-views",
+      "url": "https://github.com/lyra81604/zhengxi-views",
+      "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+      "language": "Python",
+      "stars": 670,
+      "summaryZh": "基于基金经理郑希公开观点构建的投研 Agent，能溯源问答并按照其框架对基金打分。适合投资者作为研究辅助，不构成建议。",
+      "category": "AI",
+      "createdAt": "2026-06-20T04:27:07Z"
+    },
+    {
+      "repo": "aidenybai/cnfast",
+      "url": "https://github.com/aidenybai/cnfast",
+      "description": "Fast drop in replacement for `cn`",
+      "language": "TypeScript",
+      "stars": 662,
+      "summaryZh": "一个快速的 `cn` 替代品，用于生成 CSS class 字符串。性能优化，适合在样式处理频繁的前端项目中使用。",
+      "category": "前端",
+      "createdAt": "2026-06-19T19:46:29Z"
+    },
+    {
+      "repo": "kanavtwtgg/birds.cafe",
+      "url": "https://github.com/kanavtwtgg/birds.cafe",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 548,
+      "summaryZh": "项目描述缺失，可能是一个关于鸟类或咖啡的网站或应用。具体功能需查看代码，适合兴趣探索。",
+      "category": "其他",
+      "createdAt": "2026-06-21T13:57:28Z"
+    },
+    {
+      "repo": "ngrok/webernetes",
+      "url": "https://github.com/ngrok/webernetes",
+      "description": "Kubernetes in the browser.",
+      "language": "TypeScript",
+      "stars": 539,
+      "summaryZh": "在浏览器中运行 Kubernetes 集群，提供轻量级的云原生开发环境。适合学习 K8s 或进行快速原型测试，无需本地安装。",
+      "category": "开发工具",
+      "createdAt": "2026-06-16T16:52:34Z"
+    },
+    {
+      "repo": "Plaer1/junction",
+      "url": "https://github.com/Plaer1/junction",
+      "description": "VS Code chat sidebar for local AI coding agents",
+      "language": "TypeScript",
+      "stars": 525,
+      "summaryZh": "VS Code 聊天侧边栏，连接本地 AI 编码智能体。支持在编辑器中直接与 AI 交互，辅助代码编写与调试。",
+      "category": "开发工具",
+      "createdAt": "2026-06-17T05:27:09Z"
+    },
+    {
+      "repo": "boogu-project/Boogu-Image",
+      "url": "https://github.com/boogu-project/Boogu-Image",
+      "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "language": "Python",
+      "stars": 460,
+      "summaryZh": "Apache-2.0 开源图像生成与编辑模型，用极少数据量达到接近闭源模型的性能。适合需要高效图像生成的研究者或开发者。",
+      "category": "AI",
+      "createdAt": "2026-06-16T14:59:20Z"
+    },
+    {
+      "repo": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "language": "Python",
+      "stars": 456,
+      "summaryZh": "百度推出的 OCR 模型，支持一次性长文本解析，适用于文档识别、票据处理等场景。核心优势是无限长度处理。",
+      "category": "AI",
+      "createdAt": "2026-06-18T08:40:15Z"
+    },
+    {
+      "repo": "anthropics/launch-your-agent",
+      "url": "https://github.com/anthropics/launch-your-agent",
+      "description": "Claude Code skills that take a founder from idea to a live Claude Managed Agent: interview, scope a v0, launch in their own account, grade it, iterate, and schedule it",
+      "language": "HTML",
+      "stars": 421,
+      "summaryZh": "Claude Code 技能集，帮助创业者从想法到发布 Claude 托管智能体：包括访谈、范围界定、启动、评分和迭代。适合快速构建 Agent 的创业者。",
+      "category": "AI",
+      "createdAt": "2026-06-16T14:49:50Z"
+    },
+    {
+      "repo": "MstKail/polymarket-trading-bot-services-polyedge365",
+      "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+      "description": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot",
+      "language": "",
+      "stars": 395,
+      "summaryZh": "Polymarket 预测市场交易机器人服务，支持复制交易、套利、对冲等功能。适合自动化交易者或对预测市场感兴趣的开发者。",
+      "category": "其他",
+      "createdAt": "2026-06-18T05:56:44Z"
+    },
+    {
+      "repo": "nnecrkvenuOX/formcms",
+      "url": "https://github.com/nnecrkvenuOX/formcms",
+      "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
+      "language": "C#",
+      "stars": 379,
+      "summaryZh": "基于 ASP.NET Core 和 React 的开源无头 CMS，提供 REST API、GraphQL 和页面设计器。适合需要灵活内容管理的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-17T10:16:06Z"
+    },
+    {
+      "repo": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
+      "url": "https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
+      "description": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore",
+      "language": "",
+      "stars": 379,
+      "summaryZh": "后端开发面试题集，涵盖常见技术问题。可用于面试候选人、自我测试或查漏补缺，适合求职者或面试官使用。",
+      "category": "资料教程",
+      "createdAt": "2026-06-17T09:46:11Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "dorukkumkumoglu/optocamzero",
+      "url": "https://github.com/dorukkumkumoglu/optocamzero",
+      "description": "Optocam Zero is a Raspberry Pi Zero based compact digital camera made using off the shelf components.",
+      "language": "Python",
+      "stars": 258,
+      "summaryZh": "基于树莓派 Zero 的紧凑型数码相机，使用现成零件组装。支持拍照和视频，适合 DIY 爱好者、极客或低成本摄影项目。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 99 分 · 22 评论",
+      "reasonZh": "用树莓派Zero加现成零件就能DIY一台数码相机，完全开源，适合喜欢动手折腾的极客。比那些高价成品相机有意思多了，拍照时还能感受到自己拼装的成就感。"
+    },
+    {
+      "repo": "playX18/lisp-in-types",
+      "url": "https://github.com/playX18/lisp-in-types",
+      "description": "Lisp implemented inside Rust trait system",
+      "language": "Rust",
+      "stars": 46,
+      "summaryZh": "在 Rust 类型系统中实现 Lisp 解释器，利用类型层面的编程展示 Rust 类型系统的强大。适合对类型系统或元编程感兴趣的 Rust 开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 114 分 · 18 评论",
+      "reasonZh": "在Rust的类型系统里跑Lisp！纯炫技项目，但展示了Rust类型系统的极致能力。适合想深入理解Rust类型体操的开发者，看个乐子也能学东西。"
+    },
+    {
+      "repo": "w84death/floppinux",
+      "url": "https://github.com/w84death/floppinux",
+      "description": "An Embedded 🐧Linux on a Single 💾Floppy",
+      "language": "Assembly",
+      "stars": 465,
+      "summaryZh": "将 Linux 嵌入一张软盘（1.44MB）中，极简嵌入式系统。核心亮点是极致压缩和引导技术，适合复古计算或资源受限场景的实验。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 84 分 · 58 评论",
+      "reasonZh": "把Linux塞进一张1.44MB软盘！真正的极限压缩艺术。适合怀旧党或嵌入式场景，演示了极简内核的构建思路，比那些动不动几GB的系统清爽太多。"
+    },
+    {
+      "repo": "overflowy/make-look-scanned",
+      "url": "https://github.com/overflowy/make-look-scanned",
+      "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
+      "language": "Go",
+      "stars": 327,
+      "summaryZh": "将 PDF 文件处理成扫描件外观，支持 CLI 和 WASM 浏览器端使用。适合需要模拟扫描效果但无扫描仪的用户。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 151 分 · 64 评论",
+      "reasonZh": "把PDF变得像扫描件一样，完美伪造「纸质感」。适合需要提交扫描版但又懒得跑打印店的场景，支持命令行和浏览器，比PS手动加噪点智能多了。"
+    },
+    {
+      "repo": "themartiano/luz",
+      "url": "https://github.com/themartiano/luz",
+      "description": "C++ Path Tracer from scratch with zero third-party libraries.",
+      "language": "C++",
+      "stars": 345,
+      "summaryZh": "从零实现的 C++ 路径追踪渲染器，无第三方依赖。核心功能是光线追踪渲染，技术亮点是纯手写性能优化，适合图形学学习者或研究者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +244（+242%）",
+      "reasonZh": "零第三方库手写路径追踪器，纯C++从零渲染。适合想学习图形学原理的人，代码清晰可读，比用现成引擎的玩具项目硬核十倍。"
+    },
+    {
+      "repo": "namgyaaal/avoxelgame",
+      "url": "https://github.com/namgyaaal/avoxelgame",
+      "description": "Voxel Game written in Dyalog APL and SDL3",
+      "language": "APL",
+      "stars": 79,
+      "summaryZh": "用 Dyalog APL 和 SDL3 编写的体素游戏，展示 APL 在游戏开发中的可能性。适合 APL 爱好者或探索非主流语言开发游戏的开发者。",
+      "category": "游戏",
+      "source": "hn",
+      "signal": "HN 156 分 · 14 评论",
+      "reasonZh": "用Dyalog APL写的体素游戏，APL语言本身就够冷门了，还能做3D游戏！适合语言猎奇者，看看APL的数组思维如何操作像素格。"
+    },
+    {
+      "repo": "oraziorillo/microcrad",
+      "url": "https://github.com/oraziorillo/microcrad",
+      "description": "A re-implementation of Karpathy's micrograd in C",
+      "language": "C",
+      "stars": 54,
+      "summaryZh": "用 C 语言重新实现 Karpathy 的 micrograd 自动微分库。轻量级、代码清晰，适合深度学习入门者学习反向传播原理。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 78 分 · 28 评论",
+      "reasonZh": "用C重新实现Karpathy的micrograd，纯手工反向传播。适合深度学习入门者，比Python版更贴近底层，每行代码都能看到自动求导的骨骼。"
+    },
+    {
+      "repo": "tamnd/kage",
+      "url": "https://github.com/tamnd/kage",
+      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "language": "Go",
+      "stars": 2291,
+      "summaryZh": "为任意网站生成离线镜像，去除 JavaScript 只保留静态内容。核心功能是快速离线浏览，适合研究网页结构或低网速环境下使用。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +751（+49%）",
+      "reasonZh": "离线保存网页副本时自动剔除JS，只留静态内容。适合需要归档网页或减少干扰阅读的场景，比直接用浏览器保存清爽，还没追踪脚本。"
+    },
+    {
+      "repo": "loc567/loc567",
+      "url": "https://github.com/loc567/loc567",
+      "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
+      "language": "C",
+      "stars": 1320,
+      "summaryZh": "纯网页端的 iOS 模拟定位工具，完全开源免费。在线即可使用，适合 iOS 开发者调试定位功能或测试基于位置的应用。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +673（+104%）",
+      "reasonZh": "纯网页端的iOS模拟定位工具，完全开源免费。适合测试LBS应用的开发者，免去越狱或装Xcode的麻烦，在线就能改位置，实用度拉满。"
+    },
+    {
+      "repo": "ArcaEge/capacitor-alarm-clock",
+      "url": "https://github.com/ArcaEge/capacitor-alarm-clock",
+      "description": "capacitor blow up human wake up",
+      "language": "C",
+      "stars": 90,
+      "summaryZh": "一个粗暴的闹钟应用，可能是利用电容器物理特性？实际功能模糊，但可能是一个恶搞项目，适合对物理编程感兴趣的人。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +34（+61%）",
+      "reasonZh": "电容式闹钟，物理方式强行叫醒——触碰电容板才能关。适合起床困难户，比普通闹钟烦人一万倍，硬件diy和软件结合的脑洞项目。"
+    }
+  ]
+}
