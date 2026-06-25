@@ -1,0 +1,409 @@
+{
+  "date": "2026-06-25",
+  "trending": [
+    {
+      "repo": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 19467,
+      "summaryZh": "全球首个开源智能体视频制作系统，包含12条流水线、52个工具和500+智能体技能。能将AI编码助手转变为完整的视频制作工作室，适合内容创作者和开发者快速生成高质量视频。",
+      "category": "AI",
+      "starsToday": 3719
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": 48537,
+      "summaryZh": "基于大语言模型的多市场股票智能分析系统，整合多源行情、实时新闻，提供决策看板和自动推送功能。支持零成本定时运行，适合个人投资者和量化交易爱好者进行股票分析与监控。",
+      "category": "开发工具",
+      "starsToday": 1468
+    },
+    {
+      "repo": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": 42257,
+      "summaryZh": "在Mac上使用轻量级虚拟机创建和运行Linux容器的工具，专为Apple Silicon优化，采用Swift编写。适合开发者在本机快速搭建隔离的Linux环境进行开发或测试。",
+      "category": "开发工具",
+      "starsToday": 1838
+    },
+    {
+      "repo": "interviewstreet/hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "description": "AI agent to evaluate and score resumes.",
+      "language": "Python",
+      "stars": 2196,
+      "summaryZh": "基于AI的简历评估与打分智能体，可自动筛选候选人。适合招聘人员或HR快速处理大量简历，提升招聘效率。",
+      "category": "AI",
+      "starsToday": 203
+    },
+    {
+      "repo": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars": 19342,
+      "summaryZh": "通过一条命令利用AI编码代理克隆任意网站，支持模板化操作。适合开发者快速复制网站结构或进行学习参考。",
+      "category": "开发工具",
+      "starsToday": 692
+    },
+    {
+      "repo": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars": 7744,
+      "summaryZh": "一种元技能，用于设计领域特定的智能体团队，定义专业智能体并生成其使用的技能。适合需要构建复杂多智能体系统的开发者和研究人员。",
+      "category": "AI",
+      "starsToday": 277
+    },
+    {
+      "repo": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars": 177329,
+      "summaryZh": "谷歌开源的UI工具包，用于从单一代码库构建移动、Web、桌面等多平台美观应用。采用Dart语言，核心特点是热重载和高性能渲染，适合跨平台开发者。",
+      "category": "前端",
+      "starsToday": 73
+    },
+    {
+      "repo": "andreknieriem/headunit-revived",
+      "url": "https://github.com/andreknieriem/headunit-revived",
+      "description": "Headunit App for displaying Android Auto",
+      "language": "Kotlin",
+      "stars": 1423,
+      "summaryZh": "在汽车中控屏幕上显示Android Auto界面的应用，使用Kotlin开发。适合拥有兼容硬件的车主，将手机投射到车载显示屏，提升驾驶体验。",
+      "category": "其他",
+      "starsToday": 41
+    },
+    {
+      "repo": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "stars": 6809,
+      "summaryZh": "用于管理并行智能体群的智能体开发环境（ADE），支持运行任何编码代理，并自带订阅。提供桌面和移动端，适合开发者高效协调多个AI代理。",
+      "category": "AI",
+      "starsToday": 331
+    },
+    {
+      "repo": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stars": 17363,
+      "summaryZh": "一种格式规范，用于向编码代理描述视觉标识，DESIGN.md赋予代理对设计系统的持久结构化理解。适合前端开发者和设计系统管理者，确保代码与设计一致。",
+      "category": "前端",
+      "starsToday": 619
+    },
+    {
+      "repo": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "stars": 30028,
+      "summaryZh": "用于绕过Discord和YouTube等服务的网络限制的工具，基于Windows批处理脚本。适合需要解决特定网络封锁问题的用户。",
+      "category": "其他",
+      "starsToday": 61
+    },
+    {
+      "repo": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars": 2146,
+      "summaryZh": "一款Git工具，防止用户意外提交错误内容，通过“git push no-mistakes”命令增强安全性。适合所有使用Git的开发者，减少误操作风险。",
+      "category": "开发工具",
+      "starsToday": 110
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 202068,
+      "summaryZh": "一个伴随用户成长的智能体，具备高度可定制性和扩展性。适合希望拥有个人AI助手的开发者和普通用户，用于自动化任务或学习辅助。",
+      "category": "AI",
+      "starsToday": 1178
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "language": "Python",
+      "stars": 6448,
+      "summaryZh": "百度开源的无限OCR解决方案，支持一次性长视距解析。核心亮点是可处理超长文本识别，适合需要高精度批量OCR的场景，如文档数字化。",
+      "category": "AI",
+      "createdAt": "2026-06-18T08:40:15Z"
+    },
+    {
+      "repo": "zhongerxin/Cowart",
+      "url": "https://github.com/zhongerxin/Cowart",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 2650,
+      "summaryZh": "一个JavaScript项目，具体功能不详，但可能涉及艺术或创意内容。适合JavaScript开发者探索。",
+      "category": "其他",
+      "createdAt": "2026-06-18T16:08:30Z"
+    },
+    {
+      "repo": "bozhouDev/codex-orange-book",
+      "url": "https://github.com/bozhouDev/codex-orange-book",
+      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "language": "HTML",
+      "stars": 1431,
+      "summaryZh": "这是一本非官方的 Codex 全链路使用指南，从安装到实战案例覆盖完整流程，并提供可下载的 PDF 版本。适合希望系统学习或参考 Codex 工具链的开发者。",
+      "category": "资料教程",
+      "createdAt": "2026-06-23T02:36:54Z"
+    },
+    {
+      "repo": "lyra81604/zhengxi-views",
+      "url": "https://github.com/lyra81604/zhengxi-views",
+      "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+      "language": "Python",
+      "stars": 989,
+      "summaryZh": "基于基金经理郑希的公开观点与投资方法构建的投研 Agent，可溯源问答并对其持仓基金进行打分，辅助投资研究。严格引用原话，不杜撰内容，适合投资者或研究员作为学习参考。",
+      "category": "AI",
+      "createdAt": "2026-06-20T04:27:07Z"
+    },
+    {
+      "repo": "Forsy-AI/agent-apprenticeship",
+      "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+      "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+      "language": "",
+      "stars": 908,
+      "summaryZh": "一个让 AI 代理通过迭代工作循环、可复用经验和集体训练信号交互来学习真实世界工作的生态系统。旨在模拟学徒制，适合研究多智能体协作或自动化工作流的开发者。",
+      "category": "AI",
+      "createdAt": "2026-06-19T16:19:37Z"
+    },
+    {
+      "repo": "aidenybai/cnfast",
+      "url": "https://github.com/aidenybai/cnfast",
+      "description": "Fast drop in replacement for `cn`",
+      "language": "TypeScript",
+      "stars": 880,
+      "summaryZh": "一个高性能的 `cn` 函数替代品，用于快速合并 CSS 类名，无需额外依赖。适合需要提升样式合并性能的前端开发者。",
+      "category": "前端",
+      "createdAt": "2026-06-19T19:46:29Z"
+    },
+    {
+      "repo": "kanavtwtgg/birds.cafe",
+      "url": "https://github.com/kanavtwtgg/birds.cafe",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 767,
+      "summaryZh": "（描述为空，根据仓库名推断）可能是鸟类相关的社交或信息平台，适合鸟类爱好者或自然观察者使用。",
+      "category": "其他",
+      "createdAt": "2026-06-21T13:57:28Z"
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 723,
+      "summaryZh": "一个编码代理技能，用于多阶段安全审计并生成独立可验证的机器可读结果。适合安全工程师或开发者在 CI/CD 流程中集成自动化安全审计。",
+      "category": "开发工具",
+      "createdAt": "2026-06-18T14:08:44Z"
+    },
+    {
+      "repo": "sums001/Windows-Copilot-API",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
+      "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "language": "Python",
+      "stars": 662,
+      "summaryZh": "通过逆向工程将 Windows Copilot 转换为兼容 OpenAI 的 API，无需 API 密钥即可通过 REST 接口访问 GPT-4/GPT-5。适合需要免费调用的开发者或研究者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-19T13:24:44Z"
+    },
+    {
+      "repo": "yo-WASSUP/Good-Badminton",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "description": "🏸  AI Badminton Hawk-Eye System",
+      "language": "Python",
+      "stars": 479,
+      "summaryZh": "AI 羽毛球鹰眼系统，利用计算机视觉技术实现球路追踪与分析。适合羽毛球爱好者或体育科技开发者用于训练辅助或裁判系统。",
+      "category": "AI",
+      "createdAt": "2026-06-20T10:16:22Z"
+    },
+    {
+      "repo": "raiyanyahya/recall",
+      "url": "https://github.com/raiyanyahya/recall",
+      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "language": "Python",
+      "stars": 477,
+      "summaryZh": "为 Claude Code 提供持久化离线记忆，避免每次会话重复解释项目。节省 Token 消费，适合频繁使用 Claude Code 进行项目开发的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-06-19T20:36:41Z"
+    },
+    {
+      "repo": "overflowy/make-look-scanned",
+      "url": "https://github.com/overflowy/make-look-scanned",
+      "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
+      "language": "Go",
+      "stars": 403,
+      "summaryZh": "将 PDF 文件处理为扫描件效果，支持命令行和浏览器 WASM 方式。适合需要模拟扫描文档场景的办公或文档处理用户。",
+      "category": "开发工具",
+      "createdAt": "2026-06-20T17:39:59Z"
+    },
+    {
+      "repo": "HKUDS/AgentSpace",
+      "url": "https://github.com/HKUDS/AgentSpace",
+      "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "language": "TypeScript",
+      "stars": 354,
+      "summaryZh": "一种智能体协同工作空间，实现人类与 AI 智能体在同一平台协作。核心亮点是“人+智能体=一个团队”，适合需要人机协作工作流的团队或研究者。",
+      "category": "AI",
+      "createdAt": "2026-06-22T04:08:03Z"
+    },
+    {
+      "repo": "eooce/transfer-api",
+      "url": "https://github.com/eooce/transfer-api",
+      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "language": "JavaScript",
+      "stars": 351,
+      "summaryZh": "Cloudflare Worker 适配器，用于将 unlimited.surf 服务转换为 OpenAI/Anthropic 兼容 API 路由。适合需要在边缘平台部署 AI 代理的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-19T19:24:47Z"
+    },
+    {
+      "repo": "ksimback/looper",
+      "url": "https://github.com/ksimback/looper",
+      "description": "Design visual, review-gated agent loops for Claude Code before you run them.",
+      "language": "Python",
+      "stars": 334,
+      "summaryZh": "允许用户在运行 Claude Code 代理前，通过可视化界面设计带有审查节点的代理循环。适合需要精细控制代理工作流的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-18T19:44:20Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "dmtrKovalenko/ffs",
+      "url": "https://github.com/dmtrKovalenko/ffs",
+      "description": "F*ck file system - cli file search tool that bypasses OS kernel and reads your disc directlry",
+      "language": "C",
+      "stars": 132,
+      "summaryZh": "绕过操作系统内核直接读取磁盘的 CLI 文件搜索工具，速度极快。适合需要高性能磁盘文件检索的开发者或系统管理员。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 106 分 · 48 评论",
+      "reasonZh": "这玩意儿直接绕过操作系统读磁盘，搜索文件速度快得像作弊器。跟那些依赖系统索引的搜索工具比，它暴力但高效，适合紧急找回被删或隐藏的文件，极客感十足。"
+    },
+    {
+      "repo": "evanklem/polypore",
+      "url": "https://github.com/evanklem/polypore",
+      "description": "Modular IDE designed for agentic coding with extensive memory tools and integrated MCP",
+      "language": "TypeScript",
+      "stars": 75,
+      "summaryZh": "专为智能体编码设计的模块化 IDE，集成丰富的内存工具和 MCP（模型上下文协议）。适合使用 AI 代理进行软件开发的程序员。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +31（+70%）",
+      "reasonZh": "专为AI编程打造的模块化IDE，内置记忆工具和MCP集成。和Cursor这类比，它更强调记忆和模块化，适合要长期维护大型项目的开发者，让AI记住上下文不跑偏。"
+    },
+    {
+      "repo": "ArcaEge/capacitor-alarm-clock",
+      "url": "https://github.com/ArcaEge/capacitor-alarm-clock",
+      "description": "capacitor blow up human wake up",
+      "language": "C",
+      "stars": 93,
+      "summaryZh": "一个基于 Capacitor 的闹钟应用，旨在通过强力唤醒用户。核心功能包括设定闹钟、播放闹铃，技术亮点在于利用 Capacitor 跨平台能力。适合需要强力闹钟提醒的普通用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +37（+66%）",
+      "reasonZh": "用物理电路连接电容器，闹钟不响就电醒你！跟普通App闹钟比，它真的能物理叫醒，适合起床困难户或者想体验硬件黑客的乐子人。"
+    },
+    {
+      "repo": "nolangz/pixel2motion",
+      "url": "https://github.com/nolangz/pixel2motion",
+      "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "language": "Python",
+      "stars": 1002,
+      "summaryZh": "AI 驱动的 Logo 动画生成工具，可将栅格 Logo 转换为流畅的 SVG 动画，并支持 HTML 演示、GIF/视频预览及运动质量验证。适合设计师、品牌运营等需要动态 Logo 的场景。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +284（+40%）",
+      "reasonZh": "能把静态Logo自动转成丝滑SVG动画，还生成HTML演示和动效QA证据。和手动调动画比，它全自动，适合设计师快速交付Logo动效或前端开发直接复用。"
+    },
+    {
+      "repo": "loc567/loc567",
+      "url": "https://github.com/loc567/loc567",
+      "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
+      "language": "C",
+      "stars": 1355,
+      "summaryZh": "完全开源免费的纯网页端 iOS 模拟定位工具，在线即可使用。无需安装，通过浏览器修改设备位置。适合测试定位功能、隐私保护等场景的个人开发者或普通用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +351（+35%）",
+      "reasonZh": "纯网页端的iOS模拟定位工具，完全免费开源。不用装App、不用越狱，在浏览器里就能改iPhone定位，适合测试基于位置的应用或游戏打卡党。"
+    },
+    {
+      "repo": "EEliberto/IPA-Download",
+      "url": "https://github.com/EEliberto/IPA-Download",
+      "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+      "language": "Swift",
+      "stars": 1314,
+      "summaryZh": "一款用于安装 IPA 历史版本的工具，可获取旧版应用并自动捕获数据包，通过 AirDrop 传输至 iPhone/iPad 安装。适合需要降级应用版本的用户，如避免新版本兼容性问题。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +304（+30%）",
+      "reasonZh": "能装旧版App的工具，自动抓包历史版本。和商店只能装最新版比，它让你找回怀念的老应用，适合降级玩老游戏或需要特定版本的企业用户。"
+    },
+    {
+      "repo": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "description": "Free open-source macOS menu bar toolkit. Per-app volume mixer, system monitor, dock-preview, keep awake, window switcher (Alt Tab), shelf, app uninstaller, and much more.",
+      "language": "Swift",
+      "stars": 947,
+      "summaryZh": "免费开源的 macOS 菜单栏工具包，提供按应用音量调节、系统监控、窗口预览、保持唤醒、Alt Tab 切换、应用卸载等功能。适合 macOS 用户提升工作效率与系统管理。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +350（+59%）",
+      "reasonZh": "macOS菜单栏瑞士军刀：单应用音量、系统监控、窗口切换、应用卸载等等。和单独装一堆小工具比，它一个搞定，适合追求简洁高效、不想被菜单栏塞满的人。"
+    },
+    {
+      "repo": "yvgude/lean-ctx",
+      "url": "https://github.com/yvgude/lean-ctx",
+      "description": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first.",
+      "language": "Rust",
+      "stars": 2907,
+      "summaryZh": "名为 Lean Context 的上下文智能层，为 AI Agent 控制其可读内容、记忆与防护。作为单一 Rust 二进制文件运行，决定 Agent 的输入与学习。适合需要精细控制 AI 行为的开发者。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · rust",
+      "reasonZh": "给AI看的上下文管理器，一个Rust二进制决定它读什么、记住什么。和直接喂整个项目比，它精准控制上下文，省token且减少幻觉，适合做AI代码审查或对话系统。"
+    },
+    {
+      "repo": "NVlabs/cuda-oxide",
+      "url": "https://github.com/NVlabs/cuda-oxide",
+      "description": "cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
+      "language": "Rust",
+      "stars": 2821,
+      "summaryZh": "一个实验性 Rust 到 CUDA 编译器，允许用安全且符合习惯的 Rust 编写 SIMT GPU 内核，直接编译为 PTX，无需 DSL。适合希望在 GPU 编程中利用 Rust 安全特性的高性能计算开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · rust",
+      "reasonZh": "能把标准Rust代码直接编译成GPU可用的PTX，不用学CUDA C。和写CUDA C比，它让你用Rust的安全特性写GPU程序，适合Rustacean想跑CUDA但不想碰C。"
+    },
+    {
+      "repo": "cocoindex-io/cocoindex-code",
+      "url": "https://github.com/cocoindex-io/cocoindex-code",
+      "description": "A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent  🌟 Star if you like it!",
+      "language": "Python",
+      "stars": 2231,
+      "summaryZh": "一个超轻量级嵌入式代码搜索引擎 CLI，基于 AST，可节省 70% 令牌并提升编码 Agent 速度。适合开发者快速检索代码，提高编码效率。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · rust",
+      "reasonZh": "基于AST的轻量级嵌入式代码搜索引擎，说省70% token还能提速。和传统全文搜索比，它理解代码结构，适合给AI编码助手当上下文检索器，或者做快速代码导航。"
+    }
+  ]
+}
