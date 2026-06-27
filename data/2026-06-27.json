@@ -1,0 +1,437 @@
+{
+  "date": "2026-06-27",
+  "trending": [
+    {
+      "repo": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars": 12595,
+      "summaryZh": "Simplex 是首个无需任何用户标识的 100% 私有消息网络，支持 iOS、Android 和桌面端。核心创新在于无用户 ID 的私密通信协议，确保元数据零泄露。适合对隐私有极致要求的个人或组织使用。",
+      "category": "其他",
+      "starsToday": 432
+    },
+    {
+      "repo": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stars": 21273,
+      "summaryZh": "DESIGN.md 是一种描述视觉设计系统给编码代理的格式规范，定义了如何结构化表达设计语言。它能赋予 AI 代理对设计系统的持久理解，提升设计到代码的一致性。适合前端开发者和 AI 辅助设计场景。",
+      "category": "前端",
+      "starsToday": 2407
+    },
+    {
+      "repo": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars": 61791,
+      "summaryZh": "openpilot 是一个面向机器人的操作系统，当前可将 300 多款车辆的驾驶辅助系统升级为更高级的自动驾驶功能。核心亮点是端到端深度学习与通用化适配能力。适合汽车爱好者和自动驾驶研究人员。",
+      "category": "AI",
+      "starsToday": 80
+    },
+    {
+      "repo": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars": 3437,
+      "summaryZh": "no-mistakes 是一个用于确保 git push 时避免错误的命令行工具，通过预检查机制保护仓库安全。核心功能简洁实用，适合维护关键分支的开发者。",
+      "category": "开发工具",
+      "starsToday": 398
+    },
+    {
+      "repo": "grafana/grafana",
+      "url": "https://github.com/grafana/grafana",
+      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "language": "TypeScript",
+      "stars": 74907,
+      "summaryZh": "Grafana 是开源的、可组合的可观测性与数据可视化平台，支持从 Prometheus、Loki 等多种数据源可视化指标、日志和追踪。核心亮点是灵活的仪表板和告警系统。适合运维和开发者监控系统。",
+      "category": "开发工具",
+      "starsToday": 32
+    },
+    {
+      "repo": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": 123742,
+      "summaryZh": "free-for-dev 是一个汇总了各类 SaaS、PaaS 和 IaaS 免费层级的清单，服务于 DevOps 和基础架构开发者。内容涵盖云服务、CI/CD 等，适合预算有限的个人开发者和小团队。",
+      "category": "资料教程",
+      "starsToday": 90
+    },
+    {
+      "repo": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "language": "Python",
+      "stars": 70433,
+      "summaryZh": "MinerU 可将 PDF、Office 等复杂文档转换为 LLM 就绪的 Markdown/JSON 格式，支持智能体工作流。核心亮点是高质量解析与结构化输出。适合需要处理大量文档的 AI 应用开发者和研究者。",
+      "category": "AI",
+      "starsToday": 960
+    },
+    {
+      "repo": "alchaincyf/zhangxuefeng-skill",
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "language": "",
+      "stars": 9258,
+      "summaryZh": "张雪峰.skill 是一个基于高考志愿、考研和职业规划的实战思维框架，由女娲.skill 生成。核心是提供结构化方法论辅助决策。适合学生和家长在升学、就业场景中使用。",
+      "category": "资料教程",
+      "starsToday": 160
+    },
+    {
+      "repo": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "language": "TypeScript",
+      "stars": 7665,
+      "summaryZh": "TREK 是一个自托管的旅行/行程规划器，支持实时协作、交互式地图、PWA、SSO、预算和打包清单等功能。核心亮点是全面的协作与离线支持。适合团队或个人旅行规划场景。",
+      "category": "其他",
+      "starsToday": 1060
+    },
+    {
+      "repo": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars": 3129,
+      "summaryZh": "AI 时代的伯克希尔是一个基于 Claude Code 的价值投资研究框架，融合巴菲特、芒格、段永平、李录四位大师方法论，支持多 Agent 并行研究。核心是 AI 驱动的基本面分析。适合投资者和金融研究者。",
+      "category": "AI",
+      "starsToday": 1274
+    },
+    {
+      "repo": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 23640,
+      "summaryZh": "OpenMontage 是全球首个开源、代理式视频制作系统，包含 12 条流水线、52 个工具和 500+ 代理技能，可将 AI 编码助手转变为完整视频工作室。核心是全流程自动化生产。适合内容创作者和 AI 视频开发者。",
+      "category": "AI",
+      "starsToday": 1754
+    },
+    {
+      "repo": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "stars": 1359,
+      "summaryZh": "agent-toolkit-for-aws 是 AWS 官方提供的 MCP 服务器、技能和插件集合，帮助 AI 代理在 AWS 上构建应用。核心是简化代理与云服务的集成。适合使用 AWS 的 AI 应用开发者。",
+      "category": "开发工具",
+      "starsToday": 243
+    },
+    {
+      "repo": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": 53363,
+      "summaryZh": "MediaCrawler 是一个多平台社交媒体爬虫，支持小红书、抖音、快手、B站、微博、贴吧、知乎等平台的内容和评论抓取。核心是统一接口与反爬策略。适合数据分析师和研究者采集社交数据。",
+      "category": "其他",
+      "starsToday": 673
+    },
+    {
+      "repo": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars": 116643,
+      "summaryZh": "gstack 提供了 Garry Tan 使用的 Claude Code 配置，包含 23 个定制工具，扮演 CEO、设计师、工程经理等角色。核心是增强 AI 编码代理的组织能力。适合希望用 AI 提升开发效率的团队。",
+      "category": "开发工具",
+      "starsToday": 950
+    },
+    {
+      "repo": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "language": "Go",
+      "stars": 35388,
+      "summaryZh": "CasaOS 是一个简单、易用且优雅的开源个人云系统，可在 NAS 或单板计算机上运行。核心亮点是 Docker 应用商店和简洁的 Web 界面。适合希望自建私有云的家庭用户和极客。",
+      "category": "其他",
+      "starsToday": 619
+    },
+    {
+      "repo": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars": 21377,
+      "summaryZh": "只需一条命令，即可使用AI编码代理克隆任何网站。核心功能是利用AI自动化抓取网页结构并生成代码，适合快速复制静态网站或原型设计。",
+      "category": "开发工具",
+      "starsToday": 1088
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 42366,
+      "summaryZh": "一个命令行工具，让AI代理能够读取和搜索Twitter、Reddit、YouTube、GitHub等全网平台。无需API费用，通过CLI实现信息获取，适合需要自动化收集网络数据的开发者。",
+      "category": "开发工具",
+      "starsToday": 1194
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "bozhouDev/codex-orange-book",
+      "url": "https://github.com/bozhouDev/codex-orange-book",
+      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "language": "HTML",
+      "stars": 2140,
+      "summaryZh": "非官方的Codex橙皮书，涵盖从安装到实战案例的全链路指南。提供可下载PDF，适合Codex用户系统学习如何使用该AI编码助手。",
+      "category": "资料教程",
+      "createdAt": "2026-06-23T02:36:54Z"
+    },
+    {
+      "repo": "lyra81604/zhengxi-views",
+      "url": "https://github.com/lyra81604/zhengxi-views",
+      "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+      "language": "Python",
+      "stars": 1060,
+      "summaryZh": "基于基金经理郑希公开观点构建的AI投研代理技能，支持溯源问答并按其框架给基金打分。适合投资研究辅助，不构成建议。",
+      "category": "其他",
+      "createdAt": "2026-06-20T04:27:07Z"
+    },
+    {
+      "repo": "kanavtwtgg/birds.cafe",
+      "url": "https://github.com/kanavtwtgg/birds.cafe",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 735,
+      "summaryZh": "一个JavaScript项目，具体功能暂无描述，可能是一个社交或娱乐网站。需进一步查看代码了解。",
+      "category": "其他",
+      "createdAt": "2026-06-21T13:57:28Z"
+    },
+    {
+      "repo": "BohemiaInteractive/CWR",
+      "url": "https://github.com/BohemiaInteractive/CWR",
+      "description": "Arma: Cold War Assault Remastered Source Code Repository.",
+      "language": "C++",
+      "stars": 624,
+      "summaryZh": "《武装突袭：冷战突击》重制版的源代码仓库。适合游戏开发者或爱好者学习经典游戏架构，以及进行Mod开发。",
+      "category": "游戏",
+      "createdAt": "2026-06-22T12:56:54Z"
+    },
+    {
+      "repo": "QwenLM/Qwen-AgentWorld",
+      "url": "https://github.com/QwenLM/Qwen-AgentWorld",
+      "description": "Qwen-AgentWorld: Language World Models for General Agents",
+      "language": "Python",
+      "stars": 567,
+      "summaryZh": "语言世界模型项目，旨在为通用智能体提供环境模拟。技术亮点在于用语言模型构建世界模型，适合AI研究者和对Agent感兴趣的人。",
+      "category": "AI",
+      "createdAt": "2026-06-22T13:48:37Z"
+    },
+    {
+      "repo": "yo-WASSUP/Good-Badminton",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "description": "🏸  AI Badminton Hawk-Eye System",
+      "language": "Python",
+      "stars": 548,
+      "summaryZh": "AI羽毛球鹰眼系统，利用计算机视觉实现球路追踪和判罚。适合体育爱好者和AI应用开发者。",
+      "category": "AI",
+      "createdAt": "2026-06-20T10:16:22Z"
+    },
+    {
+      "repo": "benchflow-ai/awesome-evals",
+      "url": "https://github.com/benchflow-ai/awesome-evals",
+      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "language": "",
+      "stars": 464,
+      "summaryZh": "精选AI智能体评估资源库，包含论文、博客、工具和基准测试。适合研究人员和工程师快速查找高质量评估资料。",
+      "category": "资料教程",
+      "createdAt": "2026-06-24T08:10:33Z"
+    },
+    {
+      "repo": "Yu9191/wloc",
+      "url": "https://github.com/Yu9191/wloc",
+      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+      "language": "JavaScript",
+      "stars": 454,
+      "summaryZh": "修改Apple网络定位返回坐标的工具，支持Surge、Quantumult X等代理软件。通过快捷指令一键设置，适合需要自定义iOS设备位置的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-06-24T06:15:30Z"
+    },
+    {
+      "repo": "winsznx/theeleven",
+      "url": "https://github.com/winsznx/theeleven",
+      "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "language": "TypeScript",
+      "stars": 454,
+      "summaryZh": "11个自主AI代理在X Layer上开放实时足球市场预测，使用自定义Uniswap v4钩子和无Gas USDT0质押。适合DeFi和体育博彩爱好者。",
+      "category": "AI",
+      "createdAt": "2026-06-25T07:42:50Z"
+    },
+    {
+      "repo": "HKUDS/AgentSpace",
+      "url": "https://github.com/HKUDS/AgentSpace",
+      "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "language": "TypeScript",
+      "stars": 453,
+      "summaryZh": "人机协作工作空间，支持人类与多个AI智能体在同一平台协同工作。适合需要团队协作的项目，尤其是研究或开发场景。",
+      "category": "开发工具",
+      "createdAt": "2026-06-22T04:08:03Z"
+    },
+    {
+      "repo": "overflowy/make-look-scanned",
+      "url": "https://github.com/overflowy/make-look-scanned",
+      "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
+      "language": "Go",
+      "stars": 424,
+      "summaryZh": "让PDF看起来像扫描件的工具，支持命令行和浏览器WASM。适合需要模拟扫描文档外观的办公或学术场景。",
+      "category": "开发工具",
+      "createdAt": "2026-06-20T17:39:59Z"
+    },
+    {
+      "repo": "m1ckc3s/claude-status-bar",
+      "url": "https://github.com/m1ckc3s/claude-status-bar",
+      "description": "A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle.",
+      "language": "Swift",
+      "stars": 358,
+      "summaryZh": "macOS菜单栏小工具，显示Claude Code的状态指示、计时器和生命周期。适合频繁使用Claude Code的开发者，方便监控任务。",
+      "category": "开发工具",
+      "createdAt": "2026-06-21T18:02:49Z"
+    },
+    {
+      "repo": "Th0rgal/open_oura",
+      "url": "https://github.com/Th0rgal/open_oura",
+      "description": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally.",
+      "language": "Rust",
+      "stars": 341,
+      "summaryZh": "Rust编写的Oura Ring工具包，逆向工程了BLE协议和事件解码器。支持本地同步和分析数据，适合可穿戴设备开发者和数据隐私爱好者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-21T10:43:18Z"
+    },
+    {
+      "repo": "samasante/liquid-glass",
+      "url": "https://github.com/samasante/liquid-glass",
+      "description": "Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies.",
+      "language": "TypeScript",
+      "stars": 318,
+      "summaryZh": "一个无依赖、无头 React 透镜组件，能在 Safari、Firefox、Chrome 中实现苹果风格的毛玻璃折射效果。适合需要炫酷 UI 的 Web 开发者。",
+      "category": "前端",
+      "createdAt": "2026-06-22T23:31:35Z"
+    },
+    {
+      "repo": "goehou/tabbit-toy",
+      "url": "https://github.com/goehou/tabbit-toy",
+      "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "language": "JavaScript",
+      "stars": 315,
+      "summaryZh": "基于 tabbit 的研究包，可将数据转为 OAI 格式，并附带会员认证功能及一键提取 Cookie 的浏览器扩展。适合需要快速本地使用 Claude、GPT 等模型的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-06-23T03:37:12Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "plbrault/youre-the-os",
+      "url": "https://github.com/plbrault/youre-the-os",
+      "description": "A game where you are a computer's OS and you have to manage processes, memory and I/O events.",
+      "language": "Python",
+      "stars": 2375,
+      "summaryZh": "一款模拟操作系统的游戏，玩家扮演 OS 管理进程、内存和 I/O 事件。既有趣又教育，适合操作系统学习者或编程爱好者。",
+      "category": "游戏",
+      "source": "hn",
+      "signal": "HN 355 分 · 79 评论",
+      "reasonZh": "你扮演操作系统，管理进程、内存和 I/O 事件，像玩游戏一样理解 OS 原理。相比纯理论教材，它把抽象概念变成实时互动体验。适合计算机专业学生或爱好者巩固基础，或者当个轻松的解谜游戏。"
+    },
+    {
+      "repo": "DDecoene/WebBaseIII",
+      "url": "https://github.com/DDecoene/WebBaseIII",
+      "description": "dBASE III is back. In your browser. USE customers like it's 1984.",
+      "language": "TypeScript",
+      "stars": 30,
+      "summaryZh": "在浏览器中运行的 dBASE III 复古实现，支持 USE 等经典命令。适合怀旧程序员或学习历史数据库的用户。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 81 分 · 27 评论",
+      "reasonZh": "在浏览器里运行 dBASE III，复古数据库重获新生。亮点是原汁原味还原 1984 年体验，还有 Web 化的便利。特别适合怀旧程序员或想体验早期数据库设计的开发者，也是有趣的技术考古。"
+    },
+    {
+      "repo": "mondaycom/HATCHA",
+      "url": "https://github.com/mondaycom/HATCHA",
+      "description": "CAPTCHA proves you're human. HATCHA proves you're not.",
+      "language": "TypeScript",
+      "stars": 88,
+      "summaryZh": "一种反 CAPTCHA 验证工具，证明你不是人类（而是机器人）。用于测试或恶搞场景。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 74 分 · 81 评论",
+      "reasonZh": "反 CAPTCHA：证明你不是人类。理念极具颠覆性，用于区分 AI 和人类。在机器人泛滥的今天，它反其道而行，能用在测试、恶搞或哲学讨论场景。项目虽小但脑洞大开，有趣又引人思考。"
+    },
+    {
+      "repo": "decrazyo/anes",
+      "url": "https://github.com/decrazyo/anes",
+      "description": "Advanced Nintendo Entertainment System",
+      "language": "",
+      "stars": 85,
+      "summaryZh": "高级任天堂娱乐系统（NES）模拟器，旨在提供更完善的游戏兼容性和性能。适合怀旧游戏玩家或模拟器开发者。",
+      "category": "游戏",
+      "source": "hn",
+      "signal": "HN 123 分 · 34 评论",
+      "reasonZh": "高级 NES 实现，给任天堂红白机注入现代技术。亮点是兼容经典游戏且性能出色。与普通模拟器不同，它专注高精度和可扩展性。适合怀旧玩家、模拟器开发者或想研究老硬件原理的技术爱好者。"
+    },
+    {
+      "repo": "ozeranskii/httptap",
+      "url": "https://github.com/ozeranskii/httptap",
+      "description": "Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.",
+      "language": "Python",
+      "stars": 507,
+      "summaryZh": "一个 Rich 驱动的 CLI 工具，将 HTTP 请求分解为 DNS、连接、TLS、等待和传输阶段，并以瀑布图或紧凑摘要展示。适合后端开发者调试网络性能。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "一个 CLI 工具，把 HTTP 请求拆解成 DNS、连接、TLS 等阶段，并以瀑布图展示。比 curl 等工具更直观地呈现网络延迟。适合后端工程师调试 API 性能，快速定位瓶颈，是网络诊断利器。"
+    },
+    {
+      "repo": "agentsmill/age-of-agents",
+      "url": "https://github.com/agentsmill/age-of-agents",
+      "description": "Age of Agents — watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of-agents.",
+      "language": "TypeScript",
+      "stars": 172,
+      "summaryZh": "在 AI 编程会话时，生成一个像素艺术风格的小王国。使用 npx ai-of-agents 运行，适合开发者娱乐或作为 AI 辅助的创意可视化。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "让 AI 编码过程在像素风格世界里长成村庄。亮点是把枯燥的代码生成变成养成游戏，新颖有趣。与普通 AI 工具不同，它可视化进度，适合在开发时当背景放松，或给 AI 项目增添乐趣。"
+    },
+    {
+      "repo": "djkurlander/knock-knock",
+      "url": "https://github.com/djkurlander/knock-knock",
+      "description": "Knock-Knock: A Fun, Live View of Multi-Protocol Internet Break-in Attempts",
+      "language": "Python",
+      "stars": 185,
+      "summaryZh": "实时展示多协议互联网入侵尝试的有趣视图。适合安全研究者观察网络攻击模式。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "实时展示多协议互联网攻击尝试的趣味工具。亮点是让黑客行为可视化，把安全日志变成动态表演。适合安全爱好者观摩网络攻击模式，或作为教学演示，让抽象威胁变得可感知。"
+    },
+    {
+      "repo": "mgks/GitHubTree",
+      "url": "https://github.com/mgks/GitHubTree",
+      "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library.",
+      "language": "JavaScript",
+      "stars": 170,
+      "summaryZh": "可视化任何 GitHub 仓库的文件夹结构，提供 Web 应用、CLI 和 Node.js 库三种形式。适合开发者快速浏览项目结构。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "可视化任何 GitHub 仓库的文件夹结构。与普通文件树不同，它生成交互式可导航视图，支持 Web、CLI 和 Node 库。适合快速了解项目结构、汇报演示或代码审查，简洁高效。"
+    },
+    {
+      "repo": "eli-labz/Third-Eye",
+      "url": "https://github.com/eli-labz/Third-Eye",
+      "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "language": "TypeScript",
+      "stars": 886,
+      "summaryZh": "生产级 OSINT 平台，覆盖多情报域提供态势感知。适合安全分析师或情报收集者。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +470（+113%）",
+      "reasonZh": "生产级 OSINT 平台，提供多情报域态势感知。亮点是开源且功能全面，整合多种情报源。相比商业工具更透明和可定制。适合安全研究人员、调查记者进行开源情报收集与分析。"
+    }
+  ]
+}
