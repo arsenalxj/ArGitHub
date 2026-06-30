@@ -1,0 +1,429 @@
+{
+  "date": "2026-06-30",
+  "trending": [
+    {
+      "repo": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars": 16604,
+      "summaryZh": "一个完全去中心化且无需任何用户标识的即时通讯网络，实现100%隐私保护。核心优势在于不依赖用户ID或手机号，通过双重随机密钥和异步消息中继确保通信匿名性。适合强隐私需求用户、记者或反对审查的社群使用。",
+      "category": "其他",
+      "starsToday": 1607
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 118908,
+      "summaryZh": "提供一套完整的AI代理系统，每个代理拥有独特个性和专业技能，覆盖从前端开发到社区管理的多种任务。通过多代理协作处理复杂工作流，支持自定义角色和流程编排。适合希望自动化团队协作的企业或开发者使用。",
+      "category": "AI",
+      "starsToday": 1425
+    },
+    {
+      "repo": "cupy/cupy",
+      "url": "https://github.com/cupy/cupy",
+      "description": "NumPy & SciPy for GPU",
+      "language": "Python",
+      "stars": 11827,
+      "summaryZh": "一个专为GPU加速设计的NumPy/SciPy替代库，兼容其API但利用CUDA实现大规模并行计算。支持自动微分和多种深度学习框架集成，在科学计算和机器学习中性能提升显著。适合需要高速矩阵运算和科学计算的Python开发者使用。",
+      "category": "开发工具",
+      "starsToday": 352
+    },
+    {
+      "repo": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "language": "Swift",
+      "stars": 4402,
+      "summaryZh": "macOS上最快的离线语音转文字应用，所有处理完全在本地运行保障隐私。采用自研端侧模型实现极低延迟和高准确率，支持实时听写与多语言识别。适合注重数据安全和需要在无网络环境下进行语音输入的Mac用户。",
+      "category": "开发工具",
+      "starsToday": 830
+    },
+    {
+      "repo": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 34384,
+      "summaryZh": "通过用户名在3000多个网站上搜索并聚合公开个人资料的开源情报收集工具。支持钓鱼检测、社交工程防御等场景，提供友好的Web界面和CLI。适合安全研究人员、记者或需要进行用户身份调查的执法机构。",
+      "category": "开发工具",
+      "starsToday": 224
+    },
+    {
+      "repo": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars": 62775,
+      "summaryZh": "面向300多款车型的辅助驾驶开源操作系统，通过计算机视觉和深度学习实现车道保持、自适应巡航等功能。支持实时地图更新和OTA升级，提供媲美商用系统的驾驶体验。适合汽车爱好者和希望低成本升级车辆ADAS的开发者。",
+      "category": "AI",
+      "starsToday": 458
+    },
+    {
+      "repo": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": 126739,
+      "summaryZh": "汇总各类云计算、SaaS和PaaS服务的免费套餐资源，涵盖托管、数据库、CI/CD等类别。持续更新并附有详细说明和限制条件，帮助开发者零成本搭建项目。适合个人开发者、初创团队或学生用于原型开发和测试。",
+      "category": "资料教程",
+      "starsToday": 1935
+    },
+    {
+      "repo": "logto-io/logto",
+      "url": "https://github.com/logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "language": "TypeScript",
+      "stars": 12680,
+      "summaryZh": "专为SaaS和AI应用设计的身份认证与授权基础设施，基于OIDC和OAuth 2.1标准。支持多租户、单点登录和基于角色的访问控制，提供可嵌入的UI组件。适合需要快速集成用户管理的中小型开发团队。",
+      "category": "开发工具",
+      "starsToday": 158
+    },
+    {
+      "repo": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars": 6639,
+      "summaryZh": "基于Claude Code/Codex的价值投资研究框架，融合巴菲特、芒格等四位大师方法论与多Agent并行分析。支持财务数据抓取、估值模型计算和投资报告生成。适合量化投资者和希望系统化学习价值投资的分析师。",
+      "category": "AI",
+      "starsToday": 1386
+    },
+    {
+      "repo": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 11951,
+      "summaryZh": "使用编码代理自动编辑视频，通过自然语言指令实现剪辑、调色、加特效等操作。集成多种AI模型进行场景识别和内容生成，支持多种格式输出。适合内容创作者和需要批量处理视频的编辑人员。",
+      "category": "AI",
+      "starsToday": 967
+    },
+    {
+      "repo": "Unclecheng-li/VulnClaw",
+      "url": "https://github.com/Unclecheng-li/VulnClaw",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "language": "Python",
+      "stars": 1144,
+      "summaryZh": "基于AI Agent和MCP工具链的自动化渗透测试框架，从信息收集到漏洞利用全流程自然语言驱动。内置渗透技能编排引擎，支持多工具协同和报告自动生成。适合安全研究员和红队成员快速测试Web应用安全性。",
+      "category": "开发工具",
+      "starsToday": 129
+    },
+    {
+      "repo": "0xNyk/council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "language": "Shell",
+      "stars": 1905,
+      "summaryZh": "模拟18位历史名人（如亚里士多德、费曼、图灵）进行多轮结构化辩论的决策系统。支持接入不同LLM提供商，通过多种模型视角获得跨学科建议。适合面临复杂决策、需要多元观点辅助判断的个人或团队。",
+      "category": "AI",
+      "starsToday": 331
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 15105,
+      "summaryZh": "一款个性化和社交化的交易助手，提供市场情绪分析、趋势预测和策略回测功能。集成实时数据和社交新闻信号，支持多种交易品种。适合散户投资者和希望结合社交信号进行交易的用户。",
+      "category": "AI",
+      "starsToday": 839
+    },
+    {
+      "repo": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 17521,
+      "summaryZh": "一款桌面端Markdown知识库管理应用，提供双向链接、标签系统和全文搜索。支持本地存储与同步，可导入导出多种格式，界面简洁。适合笔记爱好者、写作者和需要组织个人知识体系的用户。",
+      "category": "开发工具",
+      "starsToday": 280
+    },
+    {
+      "repo": "veracrypt/VeraCrypt",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "description": "Disk encryption with strong security based on TrueCrypt",
+      "language": "C",
+      "stars": 10481,
+      "summaryZh": "基于TrueCrypt的磁盘加密工具，提供卷加密、系统分区加密和隐藏卷功能。支持多种加密算法和哈希算法，防止暴力破解和量子攻击。适合需要保护敏感数据安全的个人和企业用户。",
+      "category": "其他",
+      "starsToday": 186
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "deepseek-ai/DeepSpec",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "language": "Python",
+      "stars": 3846,
+      "summaryZh": "DeepSpec 是一个用于训练和评估推测解码算法的全栈代码库。它覆盖从模型训练到推理评估的完整流程，提供模块化实现和基准测试套件。适合研究者或工程师在 LLM 推理加速场景下进行实验与对比。",
+      "category": "AI",
+      "createdAt": "2026-06-26T12:36:05Z"
+    },
+    {
+      "repo": "bozhouDev/codex-orange-book",
+      "url": "https://github.com/bozhouDev/codex-orange-book",
+      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "language": "HTML",
+      "stars": 2360,
+      "summaryZh": "Codex 橙皮书是一份非官方的 Codex 使用指南，从安装到实战案例全链路覆盖，并提供可下载 PDF。内容详实，适合初学者和进阶用户快速上手 Codex 应用。",
+      "category": "资料教程",
+      "createdAt": "2026-06-23T02:36:54Z"
+    },
+    {
+      "repo": "Yu9191/wloc",
+      "url": "https://github.com/Yu9191/wloc",
+      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+      "language": "JavaScript",
+      "stars": 1501,
+      "summaryZh": "wloc 可修改 Apple 网络定位服务返回的坐标，支持 Surge、Quantumult X 等代理工具，并提供快捷指令一键设置与恢复。适合需要在 iOS/macOS 上伪装定位的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-06-24T06:15:30Z"
+    },
+    {
+      "repo": "Krishnagangwal/CS-Fundamentals",
+      "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+      "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+      "language": "",
+      "stars": 955,
+      "summaryZh": "该项目整理了计算机基础核心知识，包括数据结构与算法、计算机网络、数据库、操作系统、系统设计等，专为求职面试准备。适合准备技术面试的计算机专业学生或转行者。",
+      "category": "资料教程",
+      "createdAt": "2026-06-28T07:08:15Z"
+    },
+    {
+      "repo": "winsznx/theeleven",
+      "url": "https://github.com/winsznx/theeleven",
+      "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "language": "TypeScript",
+      "stars": 714,
+      "summaryZh": "Eleven 是一个由 AI 代理驱动的体育预测市场，在 X Layer 上运行，使用自定义 Uniswap v4 hook 实现无 gas 的 USDT0 质押。适合 DeFi 爱好者和体育博彩参与者。",
+      "category": "其他",
+      "createdAt": "2026-06-25T07:42:50Z"
+    },
+    {
+      "repo": "baairon/torlink",
+      "url": "https://github.com/baairon/torlink",
+      "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
+      "language": "TypeScript",
+      "stars": 639,
+      "summaryZh": "torlink 是一个运行在终端内的种子搜索与下载工具，无需配置，界面简洁。直接输入关键词即可搜索并下载资源，适合习惯命令行的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-06-25T12:37:15Z"
+    },
+    {
+      "repo": "benchflow-ai/awesome-evals",
+      "url": "https://github.com/benchflow-ai/awesome-evals",
+      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "language": "",
+      "stars": 589,
+      "summaryZh": "这是一个精选的 AI Agent 评估资源列表，包括论文、博客、工具和基准测试。由 BenchFlow 维护，内容质量高，适合研究人员和工程师构建与评估 AI Agent。",
+      "category": "资料教程",
+      "createdAt": "2026-06-24T08:10:33Z"
+    },
+    {
+      "repo": "AlexandrosGounis/pdfx",
+      "url": "https://github.com/AlexandrosGounis/pdfx",
+      "description": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
+      "language": "TypeScript",
+      "stars": 562,
+      "summaryZh": "pdfx 是传统 PDF 的扩展标准，允许通过元数据将多个文件存储于单个 PDF 内。兼容现有 PDF 查看器，适合需要整合多文档的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-06-24T12:34:36Z"
+    },
+    {
+      "repo": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "description": "",
+      "language": "Python",
+      "stars": 505,
+      "summaryZh": "该项目暂无描述，但从仓库名推测可能与 Codex 指令模型相关。由于信息不足，无法给出准确简介。",
+      "category": "其他",
+      "createdAt": "2026-06-28T10:24:42Z"
+    },
+    {
+      "repo": "Pluviobyte/video-production-skills",
+      "url": "https://github.com/Pluviobyte/video-production-skills",
+      "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "language": "Python",
+      "stars": 443,
+      "summaryZh": "这是一个可复用的 AI 视频制作技能库，涵盖创作、重制、动效演示和片头制作。提供预训练模型与流程，适合视频创作者和 AI 应用开发者。",
+      "category": "AI",
+      "createdAt": "2026-06-26T05:50:51Z"
+    },
+    {
+      "repo": "CopilotKit/OpenTag",
+      "url": "https://github.com/CopilotKit/OpenTag",
+      "description": "OpenTag",
+      "language": "TypeScript",
+      "stars": 406,
+      "summaryZh": "OpenTag 是一个开源项目，为 Slack 和 GitHub 提供 @agent 提及功能，可将标记请求路由到 Codex 或 Claude Code 并返回结果。适合团队集成 AI 助手的工作场景。",
+      "category": "开发工具",
+      "createdAt": "2026-06-26T04:34:01Z"
+    },
+    {
+      "repo": "tdeverx/contained-app",
+      "url": "https://github.com/tdeverx/contained-app",
+      "description": "A native macOS app for Apple's Container CLI",
+      "language": "Swift",
+      "stars": 404,
+      "summaryZh": "这是一个为 Apple Container CLI 开发的原生 macOS 应用，提供图形界面管理容器。适合需要在 Mac 上使用容器但偏好 GUI 的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-06-25T22:02:07Z"
+    },
+    {
+      "repo": "goehou/tabbit-toy",
+      "url": "https://github.com/goehou/tabbit-toy",
+      "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "language": "JavaScript",
+      "stars": 393,
+      "summaryZh": "基于 tabbit 的研究包，可转换为 OpenAI 格式输出，包含会员认证功能和浏览器扩展，方便快速本地使用 Claude、GPT 等模型。适合实验和研究用途。",
+      "category": "AI",
+      "createdAt": "2026-06-23T03:37:12Z"
+    },
+    {
+      "repo": "ricccrd/dd",
+      "url": "https://github.com/ricccrd/dd",
+      "description": "",
+      "language": "C",
+      "stars": 372,
+      "summaryZh": "项目暂无描述，无法确定功能。请查阅仓库文件或更新描述。",
+      "category": "其他",
+      "createdAt": "2026-06-26T18:37:27Z"
+    },
+    {
+      "repo": "amplifthq/opentag",
+      "url": "https://github.com/amplifthq/opentag",
+      "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+      "language": "TypeScript",
+      "stars": 371,
+      "summaryZh": "opentag 开源实现了 @agent 提及功能，用于 Slack 和 GitHub，将标记请求自动路由到 Codex 或 Claude Code 并在线程中返回结果。适合需要 AI 协作的团队。",
+      "category": "开发工具",
+      "createdAt": "2026-06-24T08:05:12Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "overflowy/make-look-scanned",
+      "url": "https://github.com/overflowy/make-look-scanned",
+      "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
+      "language": "Go",
+      "stars": 446,
+      "summaryZh": "这是一个将PDF文件转换为扫描件风格的工具，支持命令行和浏览器(WASM)运行。通过添加噪点、倾斜等效果，让电子生成的PDF看起来像真实扫描件。适合需要伪造扫描件或进行文档测试的场景。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +119（+36%）",
+      "reasonZh": "能把干净的 PDF 一键伪装成扫描件，加旋转、模糊、墨水渍那种，适合需要交扫描版作业但手上只有电子原件的场景。同类工具要么收费要么太假，这个基于 WASM 甚至可以在浏览器里跑。"
+    },
+    {
+      "repo": "sums001/Windows-Copilot-API",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
+      "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "language": "Python",
+      "stars": 961,
+      "summaryZh": "该项目逆向工程了Windows Copilot，提供了兼容OpenAI格式的API。无需API密钥或付费，即可通过简单的REST接口访问GPT-4和GPT-5模型。适合开发者快速集成AI能力进行实验或开发。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +433（+82%）",
+      "reasonZh": "逆向工程把 Windows 内置的 Copilot 包装成 OpenAI 兼容的 API，不要 API key 也不计费，直接白嫖 GPT-4/5。适合想低成本调大模型但不想折腾 Azure 的人，不过注意微软随时可能封掉。"
+    },
+    {
+      "repo": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "description": "Free open-source macOS menu bar toolkit. Per-app volume mixer, system monitor, dock-preview, keep awake, window switcher (Alt Tab), shelf, app uninstaller, and much more.",
+      "language": "Swift",
+      "stars": 1688,
+      "summaryZh": "一款免费开源的macOS菜单栏工具集，提供应用音量混音器、系统监控、Dock预览、防休眠、窗口切换器、App卸载器等多种实用功能。适合追求桌面效率的Mac用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +741（+78%）",
+      "reasonZh": "macOS 菜单栏全家桶，全局音量混音器、系统监控、常亮、AltTab 窗口切换、应用卸载器一个不少，而且完全免费开源。比 Bartender 之类付费软件更透明，第三方没这么全的单体工具。"
+    },
+    {
+      "repo": "mohsen1/yek",
+      "url": "https://github.com/mohsen1/yek",
+      "description": "A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption",
+      "language": "Rust",
+      "stars": 2458,
+      "summaryZh": "基于Rust开发的快速文本序列化工具，能将仓库或目录下的文本文件合并，便于大型语言模型(LLM)消费。核心亮点是高速处理能力。适合需要将代码库或文档输入给AI的场景。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · cli",
+      "reasonZh": "超快的 Rust 工具，把仓库里所有文本文件串起来给 LLM 吃，比自己写脚本快几十倍。适合需要给大模型喂完整项目上下文做代码审查或重构，同类工具只有它专门为 LLM 优化过输出格式。"
+    },
+    {
+      "repo": "sheeki03/tirith",
+      "url": "https://github.com/sheeki03/tirith",
+      "description": "Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.",
+      "language": "Rust",
+      "stars": 2513,
+      "summaryZh": "面向开发者与AI代理的终端安全防护工具，可拦截同形异义URL、管道至Shell、ANSI注入、混淆Payload、数据泄露及恶意AI配置等攻击。采用Rust编写，性能高效。适合所有使用终端的人员。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · cli",
+      "reasonZh": "终端安全守护者，拦截同形异义 URL、管道到 shell、ANSI 注入、数据泄露等攻击，专门防恶意 AI skill 和配置文件。对经常跑别人脚本或 AI agent 的开发者很实用，同类安全工具没这么聚焦 AI 场景。"
+    },
+    {
+      "repo": "kyuz0/amd-strix-halo-vllm-toolboxes",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes",
+      "description": "",
+      "language": "Python",
+      "stars": 454,
+      "summaryZh": "暂无明确中文简介，但从HN热度看，可能涉及AMD Strix Halo平台的vLLM推理工具集。适合对AMD硬件上运行大语言模型感兴趣的研究者或开发者。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 230 分 · 81 评论",
+      "reasonZh": "让 AMD 新架构 Strix Halo 能高效跑 vLLM 推理的工具箱，性能接近官方支持。如果你买了 AMD 本又想本地跑大模型，这是目前最实用的解决方案，同类项目大多只看 NVIDIA 生态。"
+    },
+    {
+      "repo": "itsthelore/wayfinder-router",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "description": "Simple CLI tool for deterministic routing of queries between local and hosted LLM models",
+      "language": "Python",
+      "stars": 274,
+      "summaryZh": "简单的命令行工具，用于在本地和托管的LLM模型之间进行确定性查询路由。可根据规则自动选择模型处理请求，适合需要混合使用多个模型的应用场景。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 121 分 · 55 评论",
+      "reasonZh": "CLI 工具智能路由 LLM 查询到本地或云端模型，根据复杂度自动选择。省得你手动切模型或浪费钱把小问题发给 GPT-4，同类路由工具没它这么轻量和无配置。"
+    },
+    {
+      "repo": "kanavtwtgg/birds.cafe",
+      "url": "https://github.com/kanavtwtgg/birds.cafe",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 739,
+      "summaryZh": "一个JavaScript项目，从项目名推测可能是一个鸟类主题的咖啡店相关网站或应用。缺乏详细信息，无法准确判断。开源前端项目。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +191（+35%）",
+      "reasonZh": "一个极简的鸟类咖啡馆网站，可能只是一个趣味前端项目。点开它或许能带来片刻放松，适合在写代码累了的时候看看鸟。不火但小而美，同类项目很少这么纯粹可爱。"
+    },
+    {
+      "repo": "rochus-keller/MUMPS",
+      "url": "https://github.com/rochus-keller/MUMPS",
+      "description": "A faithful implementation of the 1976 MUMPS standard plus some DEC MUMPS-11 Extensions",
+      "language": "Mathematical Programming System",
+      "stars": 22,
+      "summaryZh": "忠实实现了1976年MUMPS语言标准及部分DEC MUMPS-11扩展的编译器/解释器。MUMPS是一种早期编程语言，主要用于医疗信息系统。适合编程语言爱好者或复古计算研究者。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 87 分 · 54 评论",
+      "reasonZh": "忠实地实现了 1976 年的 MUMPS 语言标准，还加了 DEC 扩展。对编程语言考古或医疗系统遗留代码维护者来说是无价之宝，同类复古实现精度这么高的非常罕见。"
+    },
+    {
+      "repo": "dorukkumkumoglu/optocamzero",
+      "url": "https://github.com/dorukkumkumoglu/optocamzero",
+      "description": "Optocam Zero is a Raspberry Pi Zero based compact digital camera made using off the shelf components.",
+      "language": "Python",
+      "stars": 602,
+      "summaryZh": "基于树莓派Zero的紧凑型数码相机，使用现成组件制作。开源硬件项目，提供完整的设计文件和代码。适合DIY爱好者、摄影爱好者或嵌入式开发者学习实践。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +344（+133%）",
+      "reasonZh": "用树莓派 Zero 和现成零件自己攒一台紧凑型数码相机，开源硬件和软件都有。适合极客 DIY 拍照，比市面套件更小巧，而且成本极低。"
+    }
+  ]
+}
