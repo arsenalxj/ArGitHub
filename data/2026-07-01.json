@@ -1,0 +1,469 @@
+{
+  "date": "2026-07-01",
+  "trending": [
+    {
+      "repo": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "language": "HTML",
+      "stars": 6684,
+      "summaryZh": "一个包含433种健身动作的全面数据集，每条记录包括名称、类别、目标肌肉群、器械、指导说明、缩略图和动画视频。适合健身应用开发者或AI健身指导模型训练使用。",
+      "category": "资料教程",
+      "starsToday": 1343
+    },
+    {
+      "repo": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 28141,
+      "summaryZh": "开源AI渗透测试工具，帮助发现并修复应用漏洞。基于AI自动化扫描和攻击模拟，提供报告与修复建议。适合安全工程师和开发者进行安全测试。",
+      "category": "开发工具",
+      "starsToday": 515
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 120944,
+      "summaryZh": "一个包含多种AI Agent的集合，覆盖前端、Reddit运营、娱乐等多种角色。每个Agent都有独特个性和流程，适合快速搭建AI驱动的自动化团队。",
+      "category": "AI",
+      "starsToday": 1791
+    },
+    {
+      "repo": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+      "language": "Swift",
+      "stars": 4937,
+      "summaryZh": "macOS上最快的听写应用，支持设备端语音转文字和自研AI增强模型，作为本地Wispr Flow的替代品。适合注重隐私和速度的Mac用户，Windows/iOS/Linux版本即将推出。",
+      "category": "开发工具",
+      "starsToday": 588
+    },
+    {
+      "repo": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "language": "TypeScript",
+      "stars": 8546,
+      "summaryZh": "免费AI网关，一个端点连接231+个提供商（50+免费），支持Claude、GPT、Gemini等，集成于Claude Code、Cursor等工具。通过RTK+Caveman压缩节省15-95%成本。适合开发者低成本调用多种AI模型。",
+      "category": "开发工具",
+      "starsToday": 387
+    },
+    {
+      "repo": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 12614,
+      "summaryZh": "通过编码Agent编辑视频，利用AI自动化视频处理任务。支持脚本化剪辑、特效等操作，适合视频创作者和开发者快速批量处理视频。",
+      "category": "AI",
+      "starsToday": 721
+    },
+    {
+      "repo": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars": 7503,
+      "summaryZh": "基于Claude Code/Codex的价值投资研究框架，融合巴菲特、芒格等四位大师方法论，支持多Agent并行研究。适合投资者使用AI辅助基本面分析和决策。",
+      "category": "AI",
+      "starsToday": 969
+    },
+    {
+      "repo": "Mebus/cupp",
+      "url": "https://github.com/Mebus/cupp",
+      "description": "Common User Passwords Profiler (CUPP)",
+      "language": "Python",
+      "stars": 6105,
+      "summaryZh": "常见用户密码分析器（CUPP），根据个人信息生成可能的密码字典，用于安全测试。适合渗透测试和密码强度评估场景。",
+      "category": "开发工具",
+      "starsToday": 32
+    },
+    {
+      "repo": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": 127328,
+      "summaryZh": "汇总有免费层的SaaS、PaaS和IaaS服务列表，覆盖数据库、监控、CI/CD等。适合开发者和DevOps寻找免费资源搭建项目。",
+      "category": "资料教程",
+      "starsToday": 742
+    },
+    {
+      "repo": "google/agents-cli",
+      "url": "https://github.com/google/agents-cli",
+      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+      "language": "Python",
+      "stars": 4204,
+      "summaryZh": "谷歌出品的CLI工具，可将任何编码助手变成创建、评估和部署Google Cloud AI Agent的专家。提供预置技能，适合云AI开发者。",
+      "category": "开发工具",
+      "starsToday": 445
+    },
+    {
+      "repo": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 45916,
+      "summaryZh": "可复用的计算机视觉工具集，提供标注、检测、跟踪等实用功能。支持多种数据格式，适合CV开发者快速构建和部署视觉应用。",
+      "category": "AI",
+      "starsToday": 309
+    },
+    {
+      "repo": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars": 9025,
+      "summaryZh": "终端中的Agent多路复用器，可同时管理多个AI Agent。支持流式输出和并行调用，适合在命令行中高效使用多个AI服务。",
+      "category": "开发工具",
+      "starsToday": 486
+    },
+    {
+      "repo": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars": 17339,
+      "summaryZh": "首个无用户标识的100%隐私消息网络，提供iOS、Android和桌面端应用。采用去中心化架构，消息无法被追踪，适合对隐私要求极高的用户。",
+      "category": "其他",
+      "starsToday": 1235
+    },
+    {
+      "repo": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+      "language": "TypeScript",
+      "stars": 1540,
+      "summaryZh": "现代自托管可视化CMS，1分钟即可运行。支持拖拽编辑、插件扩展，适合快速搭建个人或轻量级内容网站。",
+      "category": "开发工具",
+      "starsToday": 351
+    },
+    {
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars": 49379,
+      "summaryZh": "微软出品的12周24节AI入门课程，覆盖机器学习、神经网络、NLP等主题。包含动手实验，适合新手系统学习AI基础知识。",
+      "category": "资料教程",
+      "starsToday": 252
+    },
+    {
+      "repo": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 1793,
+      "summaryZh": "Astryx 是一个完全可定制的开源设计系统，专为 AI 代理（Agent）场景构建。它提供统一的组件库和样式指南，支持快速搭建美观、一致的用户界面，适合开发 AI 驱动的应用或需要高度灵活设计系统的团队。",
+      "category": "前端",
+      "starsToday": 364
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 15801,
+      "summaryZh": "Vibe-Trading 是一个个人交易助手，利用 AI 分析市场情绪和趋势，提供实时交易建议。它基于 Python 开发，适合个人投资者快速搭建自动化交易策略，辅助决策。",
+      "category": "开发工具",
+      "starsToday": 721
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 242525,
+      "summaryZh": "Superpowers 是一个智能体技能框架和软件开发方法论，帮助开发者构建、组合和部署 AI 代理功能。它提供结构化开发流程和可复用技能库，适合希望高效构建智能代理应用的团队。",
+      "category": "开发工具",
+      "starsToday": 890
+    },
+    {
+      "repo": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars": 8875,
+      "summaryZh": "Lingbot-Map 是一种前馈式 3D 基础模型，可从流式数据中实时重建场景。它支持在线、低延迟的 3D 感知，适用于自动驾驶、机器人导航和增强现实等需要实时场景理解的场景。",
+      "category": "AI",
+      "starsToday": 189
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "deepseek-ai/DeepSpec",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "language": "Python",
+      "stars": 5292,
+      "summaryZh": "DeepSpec 是全栈代码库，用于训练和评估投机解码（Speculative Decoding）算法。它提供完整的训练、评估和基准测试工具，适合研究者和工程师优化大语言模型推理效率。",
+      "category": "AI",
+      "createdAt": "2026-06-26T12:36:05Z"
+    },
+    {
+      "repo": "Yu9191/wloc",
+      "url": "https://github.com/Yu9191/wloc",
+      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+      "language": "JavaScript",
+      "stars": 1963,
+      "summaryZh": "wloc 是一款修改 Apple 设备网络定位返回坐标的工具，支持 Surge、Quantumult X、Loon 等代理软件。通过快捷指令可一键设置/恢复定位，适合需要伪造或固定 GPS 位置的 iOS用户。",
+      "category": "开发工具",
+      "createdAt": "2026-06-24T06:15:30Z"
+    },
+    {
+      "repo": "baairon/torlink",
+      "url": "https://github.com/baairon/torlink",
+      "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
+      "language": "TypeScript",
+      "stars": 1687,
+      "summaryZh": "TorLink 是一个零配置的终端种子搜索与下载工具。它提供简洁的界面，支持快速查找和下载种子文件，无需离开命令行，适合技术用户和日常种子搜索场景。",
+      "category": "开发工具",
+      "createdAt": "2026-06-25T12:37:15Z"
+    },
+    {
+      "repo": "Krishnagangwal/CS-Fundamentals",
+      "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+      "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+      "language": "",
+      "stars": 1214,
+      "summaryZh": "该仓库整理了计算机科学基础知识的精选资源，涵盖数据结构与算法、计算机网络、数据库、操作系统、系统设计等，专为求职面试准备而设计。适合学生和工程师系统复习核心知识点。",
+      "category": "资料教程",
+      "createdAt": "2026-06-28T07:08:15Z"
+    },
+    {
+      "repo": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "description": "",
+      "language": "Python",
+      "stars": 804,
+      "summaryZh": "该项目提供基于 Codex 模型的指令微调版本，专注于代码生成和编程任务。它优化了模型对自然语言指令的理解，适合开发者利用 AI 辅助编码、代码补全或自动化脚本编写。",
+      "category": "AI",
+      "createdAt": "2026-06-28T10:24:42Z"
+    },
+    {
+      "repo": "winsznx/theeleven",
+      "url": "https://github.com/winsznx/theeleven",
+      "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "language": "TypeScript",
+      "stars": 691,
+      "summaryZh": "TheEleven 是一个由 11 个自主 AI 代理组成的系统，在 X Layer 上运行实时足球交易市场。它利用自定义 Uniswap v4 Hook 和免 Gas 的 USDT0 质押，适合 DeFi 爱好者和体育预测市场参与者。",
+      "category": "游戏",
+      "createdAt": "2026-06-25T07:42:50Z"
+    },
+    {
+      "repo": "AlexandrosGounis/pdfx",
+      "url": "https://github.com/AlexandrosGounis/pdfx",
+      "description": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
+      "language": "TypeScript",
+      "stars": 611,
+      "summaryZh": "PDFX 是传统 PDF 标准的扩展，允许通过元数据将多个文件存储在一个 PDF 中。它提供了文件捆绑和归档的新方式，适合需要将多个文档合并为单一、自包含文件的场景。",
+      "category": "开发工具",
+      "createdAt": "2026-06-24T12:34:36Z"
+    },
+    {
+      "repo": "benchflow-ai/awesome-evals",
+      "url": "https://github.com/benchflow-ai/awesome-evals",
+      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "language": "",
+      "stars": 607,
+      "summaryZh": "该仓库精选了构建和评估 AI 代理的最佳资源，包括论文、博客、讲座、工具和基准。它由 BenchFlow 维护，适合 AI 研究者和工程师快速获取高质量的评估资料。",
+      "category": "资料教程",
+      "createdAt": "2026-06-24T08:10:33Z"
+    },
+    {
+      "repo": "TianhangZhuzth/Fundamental-Ava",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "language": "Python",
+      "stars": 599,
+      "summaryZh": "Fundamental-Ava 致力于构建自主、协作和社交智能的数字人类。它提供多智能体框架，适合研究社交 AI、虚拟角色或需要模拟人类交互的应用，如游戏 NPC 或虚拟助手。",
+      "category": "AI",
+      "createdAt": "2026-06-30T01:04:13Z"
+    },
+    {
+      "repo": "Pluviobyte/video-production-skills",
+      "url": "https://github.com/Pluviobyte/video-production-skills",
+      "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "language": "Python",
+      "stars": 483,
+      "summaryZh": "该项目提供可复用的 AI 视频制作技能库，涵盖创作、重制、动画、开场和质检等功能。它基于 Python，适合视频创作者和开发者快速集成 AI 驱动的视频处理能力。",
+      "category": "AI",
+      "createdAt": "2026-06-26T05:50:51Z"
+    },
+    {
+      "repo": "CopilotKit/OpenTag",
+      "url": "https://github.com/CopilotKit/OpenTag",
+      "description": "OpenTag",
+      "language": "TypeScript",
+      "stars": 462,
+      "summaryZh": "OpenTag 是一个开源的标签系统，用于管理 AI 代理的上下文和功能。它提供灵活的标签定义和查询接口，适合需要精细控制代理行为和状态的应用。",
+      "category": "开发工具",
+      "createdAt": "2026-06-26T04:34:01Z"
+    },
+    {
+      "repo": "tdeverx/contained-app",
+      "url": "https://github.com/tdeverx/contained-app",
+      "description": "A native macOS app for Apple's Container CLI",
+      "language": "Swift",
+      "stars": 433,
+      "summaryZh": "一个为 Apple 的 Container CLI 构建的原生 macOS 应用，提供图形化界面管理容器。核心功能包括启动、停止和监控容器，无需命令行操作。适合在 macOS 上使用容器技术的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-25T22:02:07Z"
+    },
+    {
+      "repo": "cclank/lanshu-animated-architecture-diagram",
+      "url": "https://github.com/cclank/lanshu-animated-architecture-diagram",
+      "description": "Premium hand-drawn animated architecture diagram Codex skill",
+      "language": "Python",
+      "stars": 387,
+      "summaryZh": "用于生成精美手绘风格动画架构图的 Codex 技能。基于 Python 实现，可自动绘制并导出动态图表。适合开发者在技术文档或演示中展示系统设计。",
+      "category": "开发工具",
+      "createdAt": "2026-06-26T09:29:51Z"
+    },
+    {
+      "repo": "amplifthq/opentag",
+      "url": "https://github.com/amplifthq/opentag",
+      "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+      "language": "TypeScript",
+      "stars": 382,
+      "summaryZh": "开源项目，为 Slack 和 GitHub 提供 @agent 提及功能，自动转发请求给 Codex 或 Claude Code 并返回结果。核心是智能路由和线程回复。适合团队协作时快速接入 AI 辅助。",
+      "category": "开发工具",
+      "createdAt": "2026-06-24T08:05:12Z"
+    },
+    {
+      "repo": "ricccrd/dd",
+      "url": "https://github.com/ricccrd/dd",
+      "description": "",
+      "language": "C",
+      "stars": 355,
+      "summaryZh": "一个用 C 语言开发的工具，功能暂无详细描述。",
+      "category": "其他",
+      "createdAt": "2026-06-26T18:37:27Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "mat-mgm/kb-prolog",
+      "url": "https://github.com/mat-mgm/kb-prolog",
+      "description": "A hyper-relational knowledge base with content-addressable storage, built on Prolog, SQLite, and C.",
+      "language": "C",
+      "stars": 129,
+      "summaryZh": "基于 Prolog、SQLite 和 C 构建的超关联知识库，支持内容可寻址存储。核心亮点是结合逻辑编程与关系数据库，实现高效的知识检索。适合构建复杂推理系统的研究人员。",
+      "category": "资料教程",
+      "source": "hn",
+      "signal": "HN 105 分 · 15 评论",
+      "reasonZh": "用 Prolog + SQLite 打造的超关系型知识库，数据本身可寻址，像记忆一样直接引用内容。适合构建个人记忆系统或语义搜索，比传统向量库更精确，且完全本地运行。小众但极客感十足。"
+    },
+    {
+      "repo": "rochus-keller/MUMPS",
+      "url": "https://github.com/rochus-keller/MUMPS",
+      "description": "A faithful implementation of the 1976 MUMPS standard plus some DEC MUMPS-11 Extensions",
+      "language": "Mathematical Programming System",
+      "stars": 23,
+      "summaryZh": "忠实实现 1976 年 MUMPS 标准并添加 DEC MUMPS-11 扩展。提供了一个复古但完整的 MUMPS 环境，用于历史兼容性研究或特定领域应用。适合医疗信息系统开发者或语言历史爱好者。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 89 分 · 58 评论",
+      "reasonZh": "还原 1976 年的 MUMPS 语言标准，这种古老但仍在医疗领域活跃的语言，重现得如此忠实。适合考古、语言爱好者或想体验“上古神兵”的开发者。相比之下，同类复古项目大多半途而废，这个完成度极高。"
+    },
+    {
+      "repo": "sums001/Windows-Copilot-API",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
+      "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "language": "Python",
+      "stars": 977,
+      "summaryZh": "逆向工程 Windows Copilot 得到的 OpenAI 兼容 API，无需 API 密钥即可访问 GPT-4/GPT-5。核心是提供 REST 接口，适合需要低成本调用微软模型的开发者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +449（+85%）",
+      "reasonZh": "逆向 Windows Copilot 做成 OpenAI 兼容接口，免费使用 GPT-4/5 无需 API Key。适合白嫖微软大模型做实验或集成到现有工具，比官方 API 零门槛。注意逆向稳定性，但思路奇特。"
+    },
+    {
+      "repo": "yo-WASSUP/Good-Badminton",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "description": "🏸  AI Badminton Hawk-Eye System",
+      "language": "Python",
+      "stars": 613,
+      "summaryZh": "AI 驱动的羽毛球鹰眼系统，基于计算机视觉实现球路追踪与判罚。技术亮点是实时高精度检测。适合羽毛球训练或比赛辅助裁判。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +203（+50%）",
+      "reasonZh": "AI 羽毛球鹰眼系统，用普通摄像头做落地检测和回放。体育爱好者或社区球场可以用它替代专业设备，成本极低。同类项目少，实用又有趣，打完球还能看 AI 判界。"
+    },
+    {
+      "repo": "raiyanyahya/recall",
+      "url": "https://github.com/raiyanyahya/recall",
+      "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+      "language": "Python",
+      "stars": 641,
+      "summaryZh": "为 Claude Code 提供持久化离线记忆的工具，避免每次会话重复解释项目背景。核心是基于本地存储的上下文保持。适合频繁使用 AI 编码助手的开发者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +227（+55%）",
+      "reasonZh": "给 Claude Code 持久记忆的工具，无需每次重述项目上下文。完全离线，适合频繁使用 AI 辅助编程的开发者，比手动记录省 Token 又自然。同类记忆工具多云端，这个强隐私。"
+    },
+    {
+      "repo": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars": 4537,
+      "summaryZh": "一个 Git 钩子工具，防止误提交或错误推送。通过校验规则拦截常见失误。适合团队或个人开发者提高代码管理安全性。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +2391（+111%）",
+      "reasonZh": "Git 防手滑神器，push 前强制确认或校验规则。适合用 Git 但经常误操作的人，比如不小心 push 到 master。比 hooks 更易用，Go 写的轻量级 CLI。"
+    },
+    {
+      "repo": "ksimback/looper",
+      "url": "https://github.com/ksimback/looper",
+      "description": "Design visual, review-gated agent loops for Claude Code before you run them.",
+      "language": "Python",
+      "stars": 551,
+      "summaryZh": "可视化设计 Claude Code 的审核门控代理循环，支持先设计后执行。核心是图形化流程编排。适合需要精细控制 AI 工作流的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +217（+65%）",
+      "reasonZh": "为 Claude Code 设计可视化 agent 循环，运行前可视化和审核逻辑流。适合复杂 agent 流程设计，避免跑完才发现 bug。同类工具多终端纯配置，这个有 UI 更直观。"
+    },
+    {
+      "repo": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "description": "Free open-source macOS menu bar toolkit. Per-app volume mixer, system monitor, dock-preview, keep awake, window switcher (Alt Tab), shelf, app uninstaller, and much more.",
+      "language": "Swift",
+      "stars": 1953,
+      "summaryZh": "免费开源的 macOS 菜单栏工具包，包含按应用音量调节、系统监控、窗口切换等多功能。核心是轻量级多合一。适合追求高效桌面管理的 macOS 用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1006（+106%）",
+      "reasonZh": "macOS 菜单栏全能工具箱：独立音量控制、系统监控、窗口切换、应用卸载等。比 Bartender 等付费工具更轻量且免费，一次安装搞定日常杂活。适合追求效率的 Mac 用户。"
+    },
+    {
+      "repo": "decrazyo/anes",
+      "url": "https://github.com/decrazyo/anes",
+      "description": "Advanced Nintendo Entertainment System",
+      "language": "",
+      "stars": 93,
+      "summaryZh": "高级任天堂娱乐系统模拟器，旨在精确模拟 NES 硬件。核心是高性能还原。适合复古游戏爱好者或模拟器开发者。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +23（+33%）",
+      "reasonZh": "高级 NES 模拟器/增强版？仅 93 星但描述诱人。可能是在原版基础上加入现代功能，比如高清渲染或脚本扩展。适合怀旧玩家或模拟器开发者，小而精，值得关注。"
+    },
+    {
+      "repo": "lin-snow/Ech0",
+      "url": "https://github.com/lin-snow/Ech0",
+      "description": "Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.",
+      "language": "Go",
+      "stars": 2010,
+      "summaryZh": "开源自托管的轻量级发布平台，用于个人想法分享。界面简洁，支持 Markdown。适合独立博客或小型团队内容管理。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "自托管轻量个人博客/想法发布平台，Go 写的高性能。适合搭建极简个人站或笔记分享，比 Wordpress 轻，比静态博客有后台。同类多但 Go 版更轻快。"
+    }
+  ]
+}
