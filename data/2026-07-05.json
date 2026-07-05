@@ -1,0 +1,447 @@
+{
+  "date": "2026-07-05",
+  "trending": [
+    {
+      "repo": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars": 24447,
+      "summaryZh": "该插件让 Claude Code 使用 OpenAI Codex 进行代码审查或任务委派。核心功能是集成 Codex 模型，实现智能代码分析和自动化操作。适合开发者在 CI/CD 流程或日常编码中提升效率。",
+      "category": "开发工具",
+      "starsToday": 718
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "stars": 83983,
+      "summaryZh": "一个 Claude Code 技能，通过使用类似原始人的简短语言来减少 65% 的 token 消耗。核心亮点是极简表达，大幅降低 API 成本。适合需要频繁调用 Claude API 并控制费用的开发者。",
+      "category": "开发工具",
+      "starsToday": 1089
+    },
+    {
+      "repo": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars": 23123,
+      "summaryZh": "基于 JavaScript 的页面内 GUI 代理，支持用自然语言控制网页界面。技术亮点是在浏览器中直接操作 DOM，实现自动化交互。适合需要网页自动化测试或辅助操作的开发者和测试人员。",
+      "category": "开发工具",
+      "starsToday": 742
+    },
+    {
+      "repo": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 36058,
+      "summaryZh": "开源的 AI 渗透测试工具，用于发现和修复应用漏洞。核心功能是自动化扫描并提供修复建议。适合安全工程师和开发者在 DevSecOps 流程中集成使用。",
+      "category": "开发工具",
+      "starsToday": 1904
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 45783,
+      "summaryZh": "为编码代理提供 Chrome DevTools 功能的 MCP 服务器。技术亮点是支持通过协议远程操控浏览器调试面板。适合需要自动化调试或测试的 AI 编码代理开发者。",
+      "category": "开发工具",
+      "starsToday": 304
+    },
+    {
+      "repo": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "language": "Rust",
+      "stars": 15288,
+      "summaryZh": "隐私优先的 AI 会议助手，提供实时转录（Parakeet/Whisper）、说话人识别和摘要功能。基于 Rust 构建，100% 本地处理，无需云端。适合注重数据隐私的个人和团队使用。",
+      "category": "其他",
+      "starsToday": 718
+    },
+    {
+      "repo": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 48928,
+      "summaryZh": "收集了多款 AI 模型（如 Claude、ChatGPT、Gemini、Codex）的提取系统提示词。技术亮点是公开了这些提示的原始内容。适合 AI 开发者和研究人员了解模型行为边界。",
+      "category": "资料教程",
+      "starsToday": 471
+    },
+    {
+      "repo": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "language": "Python",
+      "stars": 26570,
+      "summaryZh": "哈佛大学课程《机器学习系统》的配套教科书。内容涵盖 ML 系统设计、训练和部署等核心主题。适合研究生和从业者系统学习机器学习系统工程。",
+      "category": "资料教程",
+      "starsToday": 443
+    },
+    {
+      "repo": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "description": "A beautiful, powerful, self-hosted rom manager and player.",
+      "language": "Python",
+      "stars": 10213,
+      "summaryZh": "一款功能强大且美观的自托管 ROM 管理器和播放器。支持游戏 ROM 的整理、浏览和在线游玩。适合复古游戏爱好者和自托管技术爱好者。",
+      "category": "游戏",
+      "starsToday": 398
+    },
+    {
+      "repo": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars": 11450,
+      "summaryZh": "运行在终端中的 Agent 多路复用器。核心功能是同时管理多个 AI 代理进程。适合需要并行使用多个模型或工具的终端用户。",
+      "category": "开发工具",
+      "starsToday": 707
+    },
+    {
+      "repo": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars": 3808,
+      "summaryZh": "帮助 AI 编码代理掌握 .NET 和 C# 的技能仓库。提供结构化知识和最佳实践。适合使用 AI 辅助进行 .NET 开发的程序员。",
+      "category": "资料教程",
+      "starsToday": 59
+    },
+    {
+      "repo": "agentskills/agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "description": "Specification and documentation for Agent Skills",
+      "language": "Python",
+      "stars": 22342,
+      "summaryZh": "Agent Skills 的规范和文档仓库。定义了 AI 代理技能的标准接口。适合开发构建 AI 代理技能的开发者参考。",
+      "category": "资料教程",
+      "starsToday": 351
+    },
+    {
+      "repo": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": 105634,
+      "summaryZh": "高性能的自托管照片和视频管理解决方案。核心功能包括自动备份、AI 标签和跨平台同步。适合注重隐私且需要替代 Google Photos 的用户。",
+      "category": "其他",
+      "starsToday": 201
+    },
+    {
+      "repo": "chthollyphile/folia-major",
+      "url": "https://github.com/chthollyphile/folia-major",
+      "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
+      "language": "TypeScript",
+      "stars": 989,
+      "summaryZh": "专注于绚丽歌词动画效果的本地音乐播放器，支持 Navidrome 和第三方网易云。技术亮点是使用 Web 技术实现动态歌词渲染。适合追求视觉体验的音乐爱好者。",
+      "category": "前端",
+      "starsToday": 175
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 156566,
+      "summaryZh": "来自资深开发者 .claude 目录的实用技能集合。涵盖 TypeScript、前端开发等实战技巧。适合希望提升 AI 编码助手效率的工程师。",
+      "category": "资料教程",
+      "starsToday": 973
+    },
+    {
+      "repo": "CoplayDev/unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "language": "C#",
+      "stars": 11604,
+      "summaryZh": "Unity MCP 充当 AI 助手与 Unity 编辑器之间的桥梁，为 LLM 提供管理资源、控制场景、编辑脚本和自动化任务的能力。适合游戏开发者使用 AI 辅助 Unity 开发工作流。",
+      "category": "开发工具",
+      "starsToday": 69
+    },
+    {
+      "repo": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "language": "Python",
+      "stars": 20164,
+      "summaryZh": "包含 337 个 Claude Code 技能与插件（30+ 代理、70+ 自定义命令、330+ 技能），支持 Claude Code、Codex、Gemini CLI、Cursor 等 8 种编码代理。适合需要扩展 AI 编码助手功能的开发者。",
+      "category": "开发工具",
+      "starsToday": 136
+    },
+    {
+      "repo": "crynta/terax-ai",
+      "url": "https://github.com/crynta/terax-ai",
+      "description": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+      "language": "TypeScript",
+      "stars": 8060,
+      "summaryZh": "轻量级（7MB）的终端优先 AI 原生开发工作空间，专为终端爱好者设计。集成 AI 能力于命令行，适合偏好 CLI 或需要快速启动 AI 开发环境的工程师。",
+      "category": "开发工具",
+      "starsToday": 62
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "Krishnagangwal/CS-Fundamentals",
+      "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+      "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+      "language": "",
+      "stars": 1575,
+      "summaryZh": "精选计算机基础知识，涵盖 DSA、计算机网络、数据库与 SQL、OOP、操作系统、系统设计与软件工程，专为求职备考设计。适合准备技术面试的计算机学生或转行人员。",
+      "category": "资料教程",
+      "createdAt": "2026-06-28T07:08:15Z"
+    },
+    {
+      "repo": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "description": "",
+      "language": "Python",
+      "stars": 1375,
+      "summaryZh": "基于 Python 的项目，疑似 Codex 指令微调版本或相关实验，但描述缺失。适合对 Codex 模型微调或 AI 代码生成感兴趣的开发者。",
+      "category": "AI",
+      "createdAt": "2026-06-28T10:24:42Z"
+    },
+    {
+      "repo": "mekos2772/ios-location-spoofer",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "language": "JavaScript",
+      "stars": 1284,
+      "summaryZh": "独立的 iOS 应用，无需越狱即可伪造 GPS 位置，并包含 Shadowrocket/Surge/Loon/QX/Stash 模块支持。适合测试基于地理位置的应用或有隐私需求的用户。",
+      "category": "其他",
+      "createdAt": "2026-06-30T11:20:30Z"
+    },
+    {
+      "repo": "Kulaxyz/self-learning-skills",
+      "url": "https://github.com/Kulaxyz/self-learning-skills",
+      "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
+      "language": "",
+      "stars": 825,
+      "summaryZh": "为 AI 编码代理（Claude Code、Cursor 等）设计的自我改进技能：在会话中识别难解问题路径，并将其转化为可复用的技能或规则。适合希望提升 AI 编码助手长期效率的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-06-28T19:30:36Z"
+    },
+    {
+      "repo": "jamesob/local-llm",
+      "url": "https://github.com/jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "language": "Shell",
+      "stars": 752,
+      "summaryZh": "作者关于本地运行 LLM 的知识总结，包含安装、配置和优化指南。适合希望在本地部署大模型以获得隐私或低成本推理的用户。",
+      "category": "资料教程",
+      "createdAt": "2026-07-03T13:06:03Z"
+    },
+    {
+      "repo": "HUANGCHIHHUNGLeo/claude-real-video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "language": "Python",
+      "stars": 745,
+      "summaryZh": "让 Claude（或任何 LLM）真正观看视频：场景感知、去重帧加转录，支持 URL 或本地文件，本地运行且 MIT 许可。适合需要 AI 分析视频内容的开发者和研究者。",
+      "category": "AI",
+      "createdAt": "2026-06-30T10:55:02Z"
+    },
+    {
+      "repo": "xuchonglang/investing-for-beginners",
+      "url": "https://github.com/xuchonglang/investing-for-beginners",
+      "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "language": "",
+      "stars": 645,
+      "summaryZh": "小隐寺投资百科的公开索引，涵盖美股、期权与加密货币的知识框架。适合投资新手系统学习金融基础知识。",
+      "category": "资料教程",
+      "createdAt": "2026-07-03T03:56:00Z"
+    },
+    {
+      "repo": "jmerelnyc/Talos",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "language": "Python",
+      "stars": 583,
+      "summaryZh": "Talos 网络的 GPU 工作者客户端，与 Talos 账户配对，通过 WebSocket 提供开源模型推理作业并上报在线时间换取报酬。适合拥有 GPU 并希望赚取收益的开发者。",
+      "category": "AI",
+      "createdAt": "2026-07-02T14:43:11Z"
+    },
+    {
+      "repo": "uzairansaruzi/hermex",
+      "url": "https://github.com/uzairansaruzi/hermex",
+      "description": "Native iPhone app for your Hermes agent",
+      "language": "Swift",
+      "stars": 551,
+      "summaryZh": "Hermes 代理的原生 iPhone 应用，使用 Swift 开发，提供移动端与 AI 代理交互的界面。适合需要随时随地使用 Hermes 代理的用户。",
+      "category": "其他",
+      "createdAt": "2026-07-02T12:47:31Z"
+    },
+    {
+      "repo": "TianhangZhuzth/Fundamental-Ava",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "language": "Python",
+      "stars": 523,
+      "summaryZh": "构建数字人类：自主、协作且具有社交智能的代理，使用 Python 开发。适合对 AI 社交代理或数字人技术感兴趣的研究者和爱好者。",
+      "category": "AI",
+      "createdAt": "2026-06-30T01:04:13Z"
+    },
+    {
+      "repo": "Kulaxyz/token-diet",
+      "url": "https://github.com/Kulaxyz/token-diet",
+      "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+      "language": "Shell",
+      "stars": 456,
+      "summaryZh": "为编码代理（Claude Code、Codex、Cursor 等）设计的始终开启的 Token 效率技能，平均减少约 31% 的账单而不损失正确性。适合频繁使用 AI 编码助手以节省费用的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-03T15:20:04Z"
+    },
+    {
+      "repo": "spiritov/ds.css",
+      "url": "https://github.com/spiritov/ds.css",
+      "description": "A css framework recreating the DS / DS Lite's UI",
+      "language": "CSS",
+      "stars": 424,
+      "summaryZh": "一个重建任天堂 DS / DS Lite 界面风格的 CSS 框架，用于复古 UI 设计。适合需要怀旧风格前端界面的开发者或设计师。",
+      "category": "前端",
+      "createdAt": "2026-06-29T05:33:18Z"
+    },
+    {
+      "repo": "Jia-Ethan/codex-keysmith",
+      "url": "https://github.com/Jia-Ethan/codex-keysmith",
+      "description": "Codex CLI instruction-file installer for local configuration",
+      "language": "Python",
+      "stars": 420,
+      "summaryZh": "一个用于本地配置 Codex CLI 指令文件的安装工具。核心支持自动安装和配置指令集，简化初始化流程。适合需要快速搭建 Codex CLI 环境的开发者使用。",
+      "category": "开发工具",
+      "createdAt": "2026-06-28T04:38:07Z"
+    },
+    {
+      "repo": "asz798838958/FrciblyK12",
+      "url": "https://github.com/asz798838958/FrciblyK12",
+      "description": "多线程全自动注册free 强上K12空间",
+      "language": "Python",
+      "stars": 413,
+      "summaryZh": "一个多线程全自动注册工具，用于强制占用 K12 空间。技术亮点是高效并发注册，适合需要批量创建账号或抢占资源的场景。",
+      "category": "其他",
+      "createdAt": "2026-07-02T03:47:34Z"
+    },
+    {
+      "repo": "LinXiaoTao/FuckClaude",
+      "url": "https://github.com/LinXiaoTao/FuckClaude",
+      "description": "",
+      "language": "Astro",
+      "stars": 372,
+      "summaryZh": "一个针对 Claude 的破解或绕过工具，具体功能未详细说明。使用 Astro 构建，可能提供前端界面。适合需要突破 Claude 使用限制的用户。",
+      "category": "其他",
+      "createdAt": "2026-07-02T05:36:45Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "kerlenton/mcpsnoop",
+      "url": "https://github.com/kerlenton/mcpsnoop",
+      "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+      "language": "Go",
+      "stars": 182,
+      "summaryZh": "MCP 的 Wireshark，一个透明代理，实时显示 AI 客户端与 MCP 服务器之间的所有工具调用。适合调试和监控 MCP 通信的开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 61 分 · 21 评论",
+      "reasonZh": "就像 MCP 的 Wireshark，透明代理实时展示 AI 客户端与 MCP 服务器之间的每一次工具调用，对调试 AI Agent 超级有用。同类项目多专注开发框架，它聚焦监控层，terminal 里看调用数据流非常直观。"
+    },
+    {
+      "repo": "FractalFir/crustc",
+      "url": "https://github.com/FractalFir/crustc",
+      "description": "Entirety of `rustc`, translated to C. ",
+      "language": "C",
+      "stars": 367,
+      "summaryZh": "将 Rust 编译器 rustc 完整翻译为 C 语言的项目。技术亮点是保留了原始编译器的全部功能，用 C 实现。适合研究编译器原理或需要在 C 环境中使用 Rust 编译器的开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 386 分 · 87 评论",
+      "reasonZh": "整套 rustc 编译器翻译成 C 代码，极客感拉满！不是玩具，是真能编译 Rust 代码。研究编译器原理或想在无 Rust 支持的环境里跑 Rust 都会用上，而且 C 代码可读性不错。"
+    },
+    {
+      "repo": "maximqaxd/wince-dc",
+      "url": "https://github.com/maximqaxd/wince-dc",
+      "description": "Windows CE Dreamcast Community Edition",
+      "language": "C",
+      "stars": 67,
+      "summaryZh": "针对 Dreamcast 游戏主机的 Windows CE 社区版系统。核心功能是提供定制的 Windows CE 系统，使开发者能在 Dreamcast 上运行程序。适合怀旧游戏开发和嵌入式系统爱好者。",
+      "category": "游戏",
+      "source": "hn",
+      "signal": "HN 90 分 · 17 评论",
+      "reasonZh": "让 Windows CE 跑在 Sega Dreamcast 上，复古硬件折腾狂大喜。不是模拟器，是真移植，高手向。适合喜欢把老系统塞进奇怪设备的人，或者收藏散装光盘 Dreamcast 的开发资料。"
+    },
+    {
+      "repo": "flythenimbus/bramble",
+      "url": "https://github.com/flythenimbus/bramble",
+      "description": "Local-first, encrypted password manager. ",
+      "language": "TypeScript",
+      "stars": 100,
+      "summaryZh": "一个本地优先、加密的密码管理器。数据完全存储在本地，采用强加密保护，无需云端依赖。适合注重隐私安全的个人或团队使用。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 130 分 · 36 评论",
+      "reasonZh": "本地优先的加密密码管理器，没有后端服务器，数据全存在你手里。相比 Bitwarden 等方案更隐私、更抗审查，同步靠本地文件或 p2p。适合对云端不信任的硬核隐私用户。"
+    },
+    {
+      "repo": "segaboy/vulkan-netbsd",
+      "url": "https://github.com/segaboy/vulkan-netbsd",
+      "description": "This is my attempt to get Vulkan going on NetBSD.",
+      "language": "Shell",
+      "stars": 21,
+      "summaryZh": "尝试在 NetBSD 操作系统上启用 Vulkan 图形 API。技术亮点是移植和适配工作，适合 NetBSD 用户或对图形驱动开发感兴趣的人员。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 121 分 · 37 评论",
+      "reasonZh": "在 NetBSD 上搞 Vulkan 支持，小众但硬核。类 Unix 图形栈玩家会兴奋，不是简单 port 而是从底层适配。适合想给复古 BSD 系统加现代图形能力或研究图形驱动的人。"
+    },
+    {
+      "repo": "skx/slisp",
+      "url": "https://github.com/skx/slisp",
+      "description": "Either  \"Simple Lisp compiler\", or \"Steve's Lisp Compiler\".",
+      "language": "Go",
+      "stars": 16,
+      "summaryZh": "一个简单的 Lisp 编译器，也称 Steve's Lisp Compiler。用 Go 编写，可编译 Lisp 代码。适合学习编译器实现或想在 Go 中嵌入 Lisp 的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +5（+45%）",
+      "reasonZh": "用 Go 写的 Simple Lisp 编译器，麻雀虽小五脏俱全。代码简短清晰，适合学编译原理或 Lisp 的人拿来吃透。比那些大而全的 Scheme 实现更易上手，纯自娱自乐但很扎实。"
+    },
+    {
+      "repo": "kageroumado/adrafinil",
+      "url": "https://github.com/kageroumado/adrafinil",
+      "description": "Keep your Mac awake only while AI coding agents are working",
+      "language": "Swift",
+      "stars": 341,
+      "summaryZh": "一款 macOS 工具，仅在 AI 编码代理工作时保持 Mac 唤醒。自动检测代理活动，避免屏幕锁定。适合使用 AI 编码助手需要长时间运行的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +245（+255%）",
+      "reasonZh": "让 Mac 只在 AI 编码 agent 工作时保持清醒，省电又不打断人工操作。同类 keep-awake 工具都不懂区分进程，它只监听 agent 活动。对日常用 Cursor/GitHub Copilot 的开发者很贴心。"
+    },
+    {
+      "repo": "cocoindex-io/cocoindex-code",
+      "url": "https://github.com/cocoindex-io/cocoindex-code",
+      "description": "A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent  🌟 Star if you like it!",
+      "language": "Python",
+      "stars": 2432,
+      "summaryZh": "一个超轻量级嵌入式代码搜索引擎 CLI，基于 AST，即开即用。可节省 70% 的 token 并提升编码代理速度。适合需要高效代码搜索的开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · rust",
+      "reasonZh": "轻量级 AST 代码搜索 CLI，专为 coding agent 优化，省 70% token 且加速检索。不依赖外部索引服务，开箱即用。比 ack/rg 更懂代码结构，适合大模型驱动的代码理解工具。"
+    },
+    {
+      "repo": "athasdev/athas",
+      "url": "https://github.com/athasdev/athas",
+      "description": "A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings.",
+      "language": "TypeScript",
+      "stars": 2916,
+      "summaryZh": "一个轻量级跨平台代码编辑器，使用 Tauri（Rust + React）构建，支持 Git、AI 代理和 Vim 键绑定。适合追求现代、可扩展编辑器的程序员。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · rust",
+      "reasonZh": "用 Tauri (Rust+React) 编写的轻量跨平台代码编辑器，自带 Git 支持、AI agent、Vim 键绑定。比 VS Code 轻太多，启动飞快，适合喜欢简洁但又要 AI 辅助的开发者。"
+    }
+  ]
+}
