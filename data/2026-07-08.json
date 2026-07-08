@@ -1,0 +1,409 @@
+{
+  "date": "2026-07-08",
+  "trending": [
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars": 10888,
+      "summaryZh": "基于Claude Code的AI求职框架，可自动评估岗位、定制简历、撰写求职信和准备面试。用户只需Fork仓库并填写个人资料，即可实现全流程求职自动化。适合求职者或招聘场景使用。",
+      "category": "AI",
+      "starsToday": 2514
+    },
+    {
+      "repo": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "language": "Rust",
+      "stars": 20727,
+      "summaryZh": "隐私优先的AI会议助手，基于Rust实现4倍速Parakeet/Whisper实时转录、说话人分离和Ollama摘要。100%本地处理，无需云端，保障数据安全。适合注重隐私的团队和会议记录场景。",
+      "category": "AI",
+      "starsToday": 1777
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 72142,
+      "summaryZh": "为AI编码代理提供生产级工程技能的资源集合，包含最佳实践、工具链和案例。帮助开发者和AI代理提升代码质量和效率。适合AI工程师和自动化开发场景。",
+      "category": "AI",
+      "starsToday": 1317
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 78507,
+      "summaryZh": "利用普通WiFi信号实现实时空间感知、生命体征监测和存在检测，无需摄像头。基于Rust构建，隐私安全，适用智能家居、医疗监护等场景。",
+      "category": "AI",
+      "starsToday": 1129
+    },
+    {
+      "repo": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 52995,
+      "summaryZh": "收集各大AI模型（Anthropic、OpenAI、Google）的系统提示词，包括Claude、GPT等版本。提供逆向工程参考，适合AI研究者、提示工程师和学习者。",
+      "category": "资料教程",
+      "starsToday": 1691
+    },
+    {
+      "repo": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars": 8456,
+      "summaryZh": "腾讯云开源的即时、并发、安全且轻量的AI代理沙箱，支持快速隔离和运行不可信代码。基于Rust实现高性能，适合AI代理执行和代码安全测试。",
+      "category": "AI",
+      "starsToday": 664
+    },
+    {
+      "repo": "AhmadIbrahiim/Website-downloader",
+      "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+      "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
+      "language": "HTML",
+      "stars": 3995,
+      "summaryZh": "一键下载任何网站的完整源代码及其所有资源（JS、CSS、图片等）。基于Node.js，简单高效，适合前端开发、离线存档和研究。",
+      "category": "开发工具",
+      "starsToday": 140
+    },
+    {
+      "repo": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "stars": 17033,
+      "summaryZh": "在macOS菜单栏显示OpenAI Codex和Claude Code的使用统计，无需登录。轻量Swift应用，适合频繁使用AI编程工具的开发者监控配额。",
+      "category": "开发工具",
+      "starsToday": 376
+    },
+    {
+      "repo": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars": 4305,
+      "summaryZh": "微软官方仓库，提供帮助AI编码代理处理.NET和C#的技能集合，包含示例和最佳实践。适合.NET开发者提升AI辅助编程效率。",
+      "category": "AI",
+      "starsToday": 64
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": 9957,
+      "summaryZh": "首个专为AI代理设计的Office命令行工具，支持Word、Excel、PowerPoint的读写、编辑和自动化。开源免费，单二进制，无需安装Office，适合办公自动化场景。",
+      "category": "AI",
+      "starsToday": 893
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 5161,
+      "summaryZh": "赋予Claude观看视频的能力：下载视频、提取帧、转录文本并交给Claude分析。适合需要视频内容理解的自动化场景。",
+      "category": "AI",
+      "starsToday": 965
+    },
+    {
+      "repo": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "language": "Python",
+      "stars": 6164,
+      "summaryZh": "轻量级文本转语音模型，可在CPU上运行，适合本地部署和移动设备。开源高效，支持多种语言，适合语音助手和低资源场景。",
+      "category": "AI",
+      "starsToday": 531
+    },
+    {
+      "repo": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "language": "Python",
+      "stars": 49124,
+      "summaryZh": "精选的Claude Code资源合集，包含工具、提示词、教程和社区实践。帮助用户最大化利用Claude Code的编程能力。适合AI辅助编程的学习者和实践者。",
+      "category": "资料教程",
+      "starsToday": 144
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "elder-plinius/T3MP3ST",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "language": "TypeScript",
+      "stars": 3307,
+      "summaryZh": "自主红队测试平台，基于多代理协作实现自动化攻击和安全评估。帮助网络安全团队模拟真实威胁，提升防御能力。适合渗透测试和安全研究。",
+      "category": "AI",
+      "createdAt": "2026-07-02T17:53:55Z"
+    },
+    {
+      "repo": "synthetic-sciences/openscience",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "language": "TypeScript",
+      "stars": 1353,
+      "summaryZh": "开源的AI科学工作台，支持科研数据分析、实验管理和协作。集成多种AI模型，适合科研人员和团队加速研究进程。",
+      "category": "AI",
+      "createdAt": "2026-07-03T15:06:45Z"
+    },
+    {
+      "repo": "ammaarreshi/Generals-Mac-iOS-iPad",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+      "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
+      "language": "C++",
+      "stars": 1289,
+      "summaryZh": "在 macOS、iPhone 和 iPad 上原生运行《命令与征服：将军绝命时刻》的开源移植版。基于 EA 发布的 GPL v3 源代码（GeneralsX），使用 DXVK/MoltenVK 渲染和 RTS 触控操作，但需自行提供游戏资源。适合怀旧玩家或 RTS 爱好者。",
+      "category": "游戏",
+      "createdAt": "2026-07-04T02:59:39Z"
+    },
+    {
+      "repo": "jamesob/local-llm",
+      "url": "https://github.com/jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "language": "Shell",
+      "stars": 1181,
+      "summaryZh": "一份关于本地运行大语言模型的知识经验汇总。涵盖模型选择、硬件要求、部署工具等实用内容，适合希望离线使用 LLM 的开发者或隐私敏感用户。",
+      "category": "资料教程",
+      "createdAt": "2026-07-03T13:06:03Z"
+    },
+    {
+      "repo": "MaximeRivest/riddle",
+      "url": "https://github.com/MaximeRivest/riddle",
+      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "language": "Rust",
+      "stars": 1044,
+      "summaryZh": "专为 reMarkable Paper Pro 设计的汤姆·里德尔日记应用：用笔书写，页面自动吸收墨水并以手写体回答。利用墨水屏特性模拟魔法互动体验，适合哈利波特粉丝或电子纸设备爱好者。",
+      "category": "其他",
+      "createdAt": "2026-07-05T15:48:08Z"
+    },
+    {
+      "repo": "isjiamu/gzh-design-skill",
+      "url": "https://github.com/isjiamu/gzh-design-skill",
+      "description": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
+      "language": "HTML",
+      "stars": 1027,
+      "summaryZh": "将 Markdown 一键转换为可直接粘贴到公众号编辑器的精致 HTML 的 AI 技能。内置 6 套精选主题和主题生成器，有双关卡校验保证排版正确。适合需要快速美化公众号文章的内容创作者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-01T04:28:03Z"
+    },
+    {
+      "repo": "Shpigford/knockoff",
+      "url": "https://github.com/Shpigford/knockoff",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "language": "JavaScript",
+      "stars": 971,
+      "summaryZh": "Chrome 扩展，自动过滤亚马逊上的伪劣品牌和山寨商品，只展示信誉良好的老牌商家。帮助用户在海量搜索结果中快速识别正品，节省购物筛选时间。",
+      "category": "开发工具",
+      "createdAt": "2026-07-06T15:06:06Z"
+    },
+    {
+      "repo": "x4gKing/X4G",
+      "url": "https://github.com/x4gKing/X4G",
+      "description": "",
+      "language": "Python",
+      "stars": 938,
+      "summaryZh": "暂无详细描述。",
+      "category": "其他",
+      "createdAt": "2026-07-04T06:43:51Z"
+    },
+    {
+      "repo": "xuchonglang/investing-for-beginners",
+      "url": "https://github.com/xuchonglang/investing-for-beginners",
+      "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "language": "",
+      "stars": 760,
+      "summaryZh": "小隐寺投资百科的公开索引，系统梳理美股、期权和加密货币的知识框架。零基础友好，适合想入门金融投资的读者查阅和学习。",
+      "category": "资料教程",
+      "createdAt": "2026-07-03T03:56:00Z"
+    },
+    {
+      "repo": "jmerelnyc/Talos",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "language": "Python",
+      "stars": 723,
+      "summaryZh": "Talos 网络的 GPU 工作节点客户端，与 Talos 账户配对后通过 WebSocket 接收开源模型推理任务，报告运行时长以获取报酬。适合拥有 GPU 资源并希望参与去中心化推理网络的矿工或开发者。",
+      "category": "AI",
+      "createdAt": "2026-07-02T14:43:11Z"
+    },
+    {
+      "repo": "uzairansaruzi/hermex",
+      "url": "https://github.com/uzairansaruzi/hermex",
+      "description": "Native iPhone app for your Hermes agent",
+      "language": "Swift",
+      "stars": 677,
+      "summaryZh": "专为 Hermes 智能体设计的原生 iPhone 应用，提供与 Hermes 代理交互的移动客户端体验。适合使用者控制和管理其 Hermes 代理。",
+      "category": "AI",
+      "createdAt": "2026-07-02T12:47:31Z"
+    },
+    {
+      "repo": "514-labs/dnsglobe",
+      "url": "https://github.com/514-labs/dnsglobe",
+      "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+      "language": "Rust",
+      "stars": 670,
+      "summaryZh": "终端下的全局 DNS 传播检查工具，可在世界地图上实时查看 DNS 记录在全球 34 个公共解析器上的传播状态。适合运维人员和网络管理员检测 DNS 配置。",
+      "category": "开发工具",
+      "createdAt": "2026-07-05T01:03:37Z"
+    },
+    {
+      "repo": "LinXiaoTao/FuckClaude",
+      "url": "https://github.com/LinXiaoTao/FuckClaude",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 654,
+      "summaryZh": "暂无详细描述。",
+      "category": "其他",
+      "createdAt": "2026-07-02T05:36:45Z"
+    },
+    {
+      "repo": "Kulaxyz/token-diet",
+      "url": "https://github.com/Kulaxyz/token-diet",
+      "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+      "language": "Shell",
+      "stars": 610,
+      "summaryZh": "为编程智能体（如 Claude Code、Cursor 等）设计的持续 token 效率优化方案，平均节省约 31% 的 token 消耗且不影响正确性。适合需要降低 API 成本的 AI 编程用户。",
+      "category": "开发工具",
+      "createdAt": "2026-07-03T15:20:04Z"
+    },
+    {
+      "repo": "HKUDS/OpenOPC",
+      "url": "https://github.com/HKUDS/OpenOPC",
+      "description": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
+      "language": "Python",
+      "stars": 574,
+      "summaryZh": "OpenOPC 助你构建自己的 AI 原生公司——自建、自运营、自成长。提供一套框架让用户创建和运维智能化业务，适合探索 AI 自动化企业管理的开发者。",
+      "category": "AI",
+      "createdAt": "2026-07-01T10:17:37Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "jimparis/qr-font",
+      "url": "https://github.com/jimparis/qr-font",
+      "description": "A QR code generator in a TrueType font: https://qr.jim.sh/",
+      "language": "Python",
+      "stars": 220,
+      "summaryZh": "一个以 TrueType 字体形态实现的二维码生成器：通过字符字形渲染 QR 码，无需额外软件。输入文本即得二维码，适合网页或打印场景的轻量级二维码生成。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 126 分 · 15 评论",
+      "reasonZh": "把二维码生成器塞进字体里，直接打字就能出二维码，简直脑洞大开！相比在线生成器，它离线可用、无依赖，而且能嵌入文档或设计稿，适合需要批量或动态生成二维码的场景。"
+    },
+    {
+      "repo": "mplsllc/macsurf",
+      "url": "https://github.com/mplsllc/macsurf",
+      "description": "A modern web browser for Classic Mac OS 9 PowerPC. Real CSS3, ES5 JavaScript, native HTTPS — built with CodeWarrior on the Carbon API.",
+      "language": "C",
+      "stars": 223,
+      "summaryZh": "为 Classic Mac OS 9 PowerPC 打造的新式浏览器，支持 CSS3、ES5 JavaScript 和原生 HTTPS。使用 CodeWarrior 基于 Carbon API 编译，适合复古 Mac 爱好者和需要旧系统上网的用户。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 68 分 · 14 评论",
+      "reasonZh": "让 20 年前的 Mac OS 9 PowerPC 也能跑现代网页，支持 CSS3、ES5 和 HTTPS，技术含量极高。它不是模拟器，是真机原生编译，适合怀旧玩家或需要兼容老系统的极客。"
+    },
+    {
+      "repo": "can1357/pon",
+      "url": "https://github.com/can1357/pon",
+      "description": "Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
+      "language": "Rust",
+      "stars": 326,
+      "summaryZh": "PON 是一个用 Rust 实现的 Python 3.14 原生编译器与运行时，同时支持 JIT 和 AoT 编译。它采用 Cranelift 后端、ruff 解析器和 Green Tea GC，并能与 CPython 进行字节精确的差异测试。适合需要高性能 Python 执行与极致兼容性的开发者或研究场景。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 148 分 · 128 评论",
+      "reasonZh": "把 Python 3.14 直接编译成原生机器码，JIT+AoT 双管齐下，性能爆炸。和 PyPy 不同，它用 Rust 重写并做过字节级差分测试，适合对 Python 执行速度有极致要求的场景。"
+    },
+    {
+      "repo": "FractalFir/crustc",
+      "url": "https://github.com/FractalFir/crustc",
+      "description": "Entirety of `rustc`, translated to C. ",
+      "language": "C",
+      "stars": 438,
+      "summaryZh": "Crustc 将完整的 rustc 编译器翻译为 C 语言代码，使得 Rust 编译器可在无 Rust 环境的平台上构建和运行。核心亮点是保持语义等价性，适合需要在非标准环境中使用 Rust 编译器的开发者和研究人员。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +367（+517%）",
+      "reasonZh": "把整个 rustc 编译器翻译成 C，这操作简直疯狂！不是转译，是逐行人工翻译，能让 Rust 代码在无 Rust 环境的系统上编译。适合嵌入式或特殊平台的 Rust 交叉编译。"
+    },
+    {
+      "repo": "rafal-qa/slopo",
+      "url": "https://github.com/rafal-qa/slopo",
+      "description": "Embedding-based code duplication detector",
+      "language": "Python",
+      "stars": 219,
+      "summaryZh": "Slopo 是一个基于嵌入的代码重复检测器，利用向量表示精确识别相似代码块。它适合代码审查、重构或大型代码库维护场景，帮助开发者快速定位重复片段以提高代码质量。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +67（+44%）",
+      "reasonZh": "基于嵌入的代码重复检测器，比传统 AST 匹配更智能，能发现语义相似的重复代码。和 PMD 等工具比，它更准、噪音更低，适合大型代码库的代码质量治理。"
+    },
+    {
+      "repo": "HUANGCHIHHUNGLeo/claude-real-video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "language": "Python",
+      "stars": 1357,
+      "summaryZh": "该项目让 Claude 或其他大模型能“观看”视频，通过场景感知、去重帧提取和转录处理，支持 URL 或本地文件输入。完全本地运行，MIT 协议，适合需要为 LLM 提供视频理解能力的AI应用开发者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +1213（+842%）",
+      "reasonZh": "让 LLM 真的能看懂视频，不是简单抽帧，而是场景感知去重后结合字幕，零门槛从 URL 或本地文件运行。比 Llama-Vision 等方案更轻量实用，适合分析长视频内容。"
+    },
+    {
+      "repo": "sheeki03/tirith",
+      "url": "https://github.com/sheeki03/tirith",
+      "description": "Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.",
+      "language": "Rust",
+      "stars": 2571,
+      "summaryZh": "Tirith 是一款面向开发者与 AI 代理的终端安全工具，可拦截同形异义 URL、管道至 shell、ANSI 注入、混淆 payload、数据外泄及恶意 AI 配置等攻击。用 Rust 编写，性能高效，适合安全研究人员和AI平台开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · security",
+      "reasonZh": "终端安全守卫，能拦截同形异义词URL、管道到shell、ANSI注入等攻击，专门保护开发者和AI agent。和普通终端工具比，它内置了针对AI生成脚本的防护，适合运行高风险命令时使用。"
+    },
+    {
+      "repo": "lycorp-jp/sim-use",
+      "url": "https://github.com/lycorp-jp/sim-use",
+      "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+      "language": "Swift",
+      "stars": 627,
+      "summaryZh": "Sim-Use 为 AI 代理赋予在 iOS 模拟器和 Android 模拟器/设备上“看”和“操作”的能力，基于 Swift 开发。核心亮点是跨平台设备交互，适合需要自动化测试或GUI智能操作的AI应用场景。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +165（+36%）",
+      "reasonZh": "给 AI agent 安上眼睛和双手，能操控 iOS 模拟器和 Android 模拟器/真机。相比 Puppeteer 等，它原生支持移动端，适合做移动端自动化测试或 AI 应用操作演示。"
+    },
+    {
+      "repo": "diinki/linux-antiquity",
+      "url": "https://github.com/diinki/linux-antiquity",
+      "description": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.",
+      "language": "QML",
+      "stars": 706,
+      "summaryZh": "Linux Antiquity 是一款极具品味的 Linux 主题，灵感来源于新艺术运动和天文、科学及神话相关的古典绘画。它通过 QML 实现视觉效果，适合追求美观与艺术氛围的 Linux 桌面用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +269（+62%）",
+      "reasonZh": "一套极具美感的 Linux 主题，灵感来自新艺术运动和天文、神话古画。不是常见的扁平或拟物风，而是手绘艺术感，适合追求桌面美学和独特视觉体验的 Linux 用户。"
+    },
+    {
+      "repo": "0xSteph/pentest-ai",
+      "url": "https://github.com/0xSteph/pentest-ai",
+      "description": "Offensive-security MCP server with 205 wrapped tools, 17 specialist agents, and 60 SPA-aware probes for OWASP Top 10. CLI + MCP, BYO LLM. No API key needed on MCP path.",
+      "language": "Python",
+      "stars": 1247,
+      "summaryZh": "Pentest-AI 是一个进攻性安全 MCP 服务器，集成了 205 个工具、17 个专业代理和 60 个 SPA 感知探针，覆盖 OWASP Top 10。支持 CLI 和 MCP 双模式，自带 LLM 无需 API 密钥，适合安全测试人员和企业渗透测试场景。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · security",
+      "reasonZh": "开源渗透测试 MCP 服务器，集成了 205 个工具、17 个专精 agent 和 60 个 SPA 感知 probe。和 Metasploit 比，它更轻量且支持 BYO LLM，适合用 AI 辅助进行漏洞探测和安全评估。"
+    }
+  ]
+}
