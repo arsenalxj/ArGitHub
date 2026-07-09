@@ -1,0 +1,429 @@
+{
+  "date": "2026-07-09",
+  "trending": [
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 74080,
+      "summaryZh": "为AI编码智能体提供生产级工程技能的集合。包含高质量、可复用的技能模块，使AI能处理复杂的软件开发任务。适合需要在真实项目中提升AI编码能力的开发者。",
+      "category": "开发工具",
+      "starsToday": 1297
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 79146,
+      "summaryZh": "",
+      "category": "AI",
+      "starsToday": 799
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "language": "TypeScript",
+      "stars": 7648,
+      "summaryZh": "",
+      "category": "AI",
+      "starsToday": 318
+    },
+    {
+      "repo": "prisma/prisma",
+      "url": "https://github.com/prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "language": "TypeScript",
+      "stars": 46554,
+      "summaryZh": "",
+      "category": "开发工具",
+      "starsToday": 46
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 50754,
+      "summaryZh": "",
+      "category": "AI",
+      "starsToday": 352
+    },
+    {
+      "repo": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": 23434,
+      "summaryZh": "",
+      "category": "开发工具",
+      "starsToday": 29
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": 11833,
+      "summaryZh": "",
+      "category": "开发工具",
+      "starsToday": 1717
+    },
+    {
+      "repo": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 54195,
+      "summaryZh": "",
+      "category": "资料教程",
+      "starsToday": 1218
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 249818,
+      "summaryZh": "",
+      "category": "开发工具",
+      "starsToday": 1116
+    },
+    {
+      "repo": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": 14407,
+      "summaryZh": "",
+      "category": "开发工具",
+      "starsToday": 395
+    },
+    {
+      "repo": "Diolinux/PhotoGIMP",
+      "url": "https://github.com/Diolinux/PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "language": "CSS",
+      "stars": 15034,
+      "summaryZh": "",
+      "category": "开发工具",
+      "starsToday": 1125
+    },
+    {
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 6375,
+      "summaryZh": "",
+      "category": "开发工具",
+      "starsToday": 28
+    },
+    {
+      "repo": "huxingyi/autoremesher",
+      "url": "https://github.com/huxingyi/autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "language": "C++",
+      "stars": 2011,
+      "summaryZh": "",
+      "category": "开发工具",
+      "starsToday": 296
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 6054,
+      "summaryZh": "",
+      "category": "AI",
+      "starsToday": 951
+    },
+    {
+      "repo": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars": 8930,
+      "summaryZh": "",
+      "category": "开发工具",
+      "starsToday": 564
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "elder-plinius/T3MP3ST",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "language": "TypeScript",
+      "stars": 3868,
+      "summaryZh": "T3MP3ST 是一个自主红队平台，为多智能体攻击性安全测试提供元框架。它通过协调多个 AI 代理模拟攻击者行为，帮助安全团队主动发现系统漏洞，适合渗透测试与安全评估场景。",
+      "category": "开发工具",
+      "createdAt": "2026-07-02T17:53:55Z"
+    },
+    {
+      "repo": "x4gKing/X4G",
+      "url": "https://github.com/x4gKing/X4G",
+      "description": "",
+      "language": "Python",
+      "stars": 2467,
+      "summaryZh": "X4G 是一个 Python 项目（描述缺失），从名称推测可能涉及工具或框架。暂无明确功能说明，建议查看仓库文档获取详细信息。",
+      "category": "其他",
+      "createdAt": "2026-07-04T06:43:51Z"
+    },
+    {
+      "repo": "synthetic-sciences/openscience",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "language": "TypeScript",
+      "stars": 1747,
+      "summaryZh": "OpenScience 是一个面向科学研究的开源 AI 工作台，提供实验管理、模型训练与协作工具。它旨在降低 AI 在科研中的应用门槛，适合研究人员和数据科学家使用。",
+      "category": "开发工具",
+      "createdAt": "2026-07-03T15:06:45Z"
+    },
+    {
+      "repo": "Shpigford/knockoff",
+      "url": "https://github.com/Shpigford/knockoff",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "language": "JavaScript",
+      "stars": 1406,
+      "summaryZh": "Knockoff 是一款 Chrome 扩展，专为过滤亚马逊上的伪品牌垃圾商品而设计。它帮助用户只看到真实、成熟的品牌产品，适合经常在亚马逊购物的消费者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-06T15:06:06Z"
+    },
+    {
+      "repo": "ammaarreshi/Generals-Mac-iOS-iPad",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+      "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
+      "language": "C++",
+      "stars": 1362,
+      "summaryZh": "该项目将《命令与征服：将军：绝命时刻》原生移植到 macOS、iPhone 和 iPad，使用原版引擎并支持触控操作。它采用 DXVK/MoltenVK 渲染，但不包含游戏资产，适合怀旧玩家在 Apple 设备上体验。",
+      "category": "游戏",
+      "createdAt": "2026-07-04T02:59:39Z"
+    },
+    {
+      "repo": "jamesob/local-llm",
+      "url": "https://github.com/jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "language": "Shell",
+      "stars": 1273,
+      "summaryZh": "这是运行本地 LLM 的全方位指南，涵盖模型选择、部署和优化技巧。它适合希望脱离云端、低成本使用大语言模型的个人开发者或隐私敏感用户。",
+      "category": "资料教程",
+      "createdAt": "2026-07-03T13:06:03Z"
+    },
+    {
+      "repo": "xuchonglang/investing-for-beginners",
+      "url": "https://github.com/xuchonglang/investing-for-beginners",
+      "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "language": "",
+      "stars": 1203,
+      "summaryZh": "小隐寺投资百科公开索引，系统梳理美股、期权与加密货币的知识框架。适合投资新手快速入门，提供结构化的学习路径和参考资料。",
+      "category": "资料教程",
+      "createdAt": "2026-07-03T03:56:00Z"
+    },
+    {
+      "repo": "MaximeRivest/riddle",
+      "url": "https://github.com/MaximeRivest/riddle",
+      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "language": "Rust",
+      "stars": 1202,
+      "summaryZh": "Riddle 是 reMarkable Paper Pro 的汤姆·里德尔日记应用，用户手写后设备会自动生成流水手写体回复。它结合了模拟墨水和数字交互，适合笔记与创意写作爱好者。",
+      "category": "其他",
+      "createdAt": "2026-07-05T15:48:08Z"
+    },
+    {
+      "repo": "anthropics/jacobian-lens",
+      "url": "https://github.com/anthropics/jacobian-lens",
+      "description": " Companion code for the global workspace interpretability paper",
+      "language": "Python",
+      "stars": 862,
+      "summaryZh": "Jacobian Lens 是全局工作区可解释性研究论文的配套代码，旨在分析神经网络内部表示。它适合 AI 研究员深入理解模型行为，推动可解释性发展。",
+      "category": "AI",
+      "createdAt": "2026-07-02T20:30:04Z"
+    },
+    {
+      "repo": "jmerelnyc/Talos",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "language": "Python",
+      "stars": 783,
+      "summaryZh": "Talos 是 Talos 网络的 GPU 工作客户端，通过 WebSocket 提供开源模型推理任务并报告在线时长以获得报酬。它适合拥有 GPU 资源的个人或组织，用于赚取闲置算力收益。",
+      "category": "AI",
+      "createdAt": "2026-07-02T14:43:11Z"
+    },
+    {
+      "repo": "514-labs/dnsglobe",
+      "url": "https://github.com/514-labs/dnsglobe",
+      "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+      "language": "Rust",
+      "stars": 736,
+      "summaryZh": "DNSGlobe 是一个终端 UI 工具，可在世界地图上实时显示 DNS 记录在 34 个公共解析器中的传播情况。它适合网络管理员、开发者监控和调试 DNS 变更。",
+      "category": "开发工具",
+      "createdAt": "2026-07-05T01:03:37Z"
+    },
+    {
+      "repo": "uzairansaruzi/hermex",
+      "url": "https://github.com/uzairansaruzi/hermex",
+      "description": "Native iPhone app for your Hermes agent",
+      "language": "Swift",
+      "stars": 697,
+      "summaryZh": "Hermex 是 Hermes AI 代理的原生 iPhone 客户端，提供便捷的移动端交互体验。它适合需要随时随地与 AI 代理沟通的用户，特别是技术探索者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-02T12:47:31Z"
+    },
+    {
+      "repo": "LinXiaoTao/FuckClaude",
+      "url": "https://github.com/LinXiaoTao/FuckClaude",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 694,
+      "summaryZh": "项目名称带有情绪色彩，从代码推断可能是绕过 Claude 限制或增强功能的工具（描述缺失）。建议查看仓库详情，适合对 AI 交互有特殊需求的用户。",
+      "category": "其他",
+      "createdAt": "2026-07-02T05:36:45Z"
+    },
+    {
+      "repo": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "Codex Switch & Instruct desktop manager",
+      "language": "Rust",
+      "stars": 594,
+      "summaryZh": "Codex-X 是一款桌面管理工具，支持 Codex Switch 和 Instruct 功能，用于高效管理代码片段和指令。它适合开发者提升编码效率，简化日常操作。",
+      "category": "开发工具",
+      "createdAt": "2026-07-04T03:28:35Z"
+    },
+    {
+      "repo": "Kulaxyz/token-diet",
+      "url": "https://github.com/Kulaxyz/token-diet",
+      "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+      "language": "Shell",
+      "stars": 566,
+      "summaryZh": "Token Diet 是面向编码智能体的常驻令牌效率优化脚本，支持 Claude Code、Codex 等工具，平均降低 31% 费用且不影响正确性。适合 AI 开发者降低成本，尤其适用于高频调用场景。",
+      "category": "开发工具",
+      "createdAt": "2026-07-03T15:20:04Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "FractalFir/crustc",
+      "url": "https://github.com/FractalFir/crustc",
+      "description": "Entirety of `rustc`, translated to C. ",
+      "language": "C",
+      "stars": 448,
+      "summaryZh": "将Rust编译器rustc完整翻译为C语言的项目，目标是让Rust代码能够在没有LLVM依赖的环境中编译运行。核心亮点是保留了rustc的全部功能和语义，适合需要在受限平台或嵌入式系统上运行Rust编译器的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +377（+531%）",
+      "reasonZh": "把整个 Rust 编译器 rustc 翻译成了 C 代码！这个项目简直疯狂且有趣，对于研究编译器实现、想在非 Rust 平台运行 Rust 代码或理解 Rust 内部机制的人来说，是独一无二的宝藏，但尚未大火。"
+    },
+    {
+      "repo": "jimparis/qr-font",
+      "url": "https://github.com/jimparis/qr-font",
+      "description": "A QR code generator in a TrueType font: https://qr.jim.sh/",
+      "language": "Python",
+      "stars": 366,
+      "summaryZh": "一个用TrueType字体实现的二维码生成器，无需任何软件或库，只需安装字体并输入文本即可生成二维码。核心技术是利用OpenType特性动态渲染二维码，适合需要快速、离线生成二维码的用户。",
+      "category": "前端",
+      "source": "hn",
+      "signal": "HN 208 分 · 28 评论",
+      "reasonZh": "这是一个 TrueType 字体，打出来的字符就是可扫描的二维码！无需额外软件，在任何支持字体的地方（比如 Word、浏览器）直接输入文字就能生成二维码，创意满分且实用。"
+    },
+    {
+      "repo": "linuxrebel/DocuBrowser",
+      "url": "https://github.com/linuxrebel/DocuBrowser",
+      "description": "This does for Documents what repo-browser does for repos. A local AI powered Document search engine ",
+      "language": "Python",
+      "stars": 114,
+      "summaryZh": "本地AI驱动的文档搜索引擎，类似仓库浏览器管理仓库的方式管理文档。支持语义搜索，无需联网即可在本地文档库中快速查找信息。适合需要高效管理大量技术文档的开发者或团队。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 66 分 · 9 评论",
+      "reasonZh": "本地 AI 驱动的文档搜索引擎，类似 repo-browser 但针对文档。亮点是私密、离线使用，特别适合查阅大量本地技术文档或代码库文档，比联网搜索更快更安全。"
+    },
+    {
+      "repo": "mplsllc/macsurf",
+      "url": "https://github.com/mplsllc/macsurf",
+      "description": "A modern web browser for Classic Mac OS 9 PowerPC. Real CSS3, ES5 JavaScript, native HTTPS — built with CodeWarrior on the Carbon API.",
+      "language": "C",
+      "stars": 234,
+      "summaryZh": "专为经典Mac OS 9 PowerPC打造的现代网页浏览器，支持CSS3、ES5 JavaScript和原生HTTPS。基于CodeWarrior和Carbon API开发，让老系统也能访问现代网站。适合怀旧玩家或需要在老旧Mac上浏览网页的用户。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 82 分 · 19 评论",
+      "reasonZh": "为经典 Mac OS 9 PowerPC 打造的现代浏览器，支持 CSS3、ES5 和 HTTPS！对于复古 Mac 爱好者或需要维护老旧系统的人来说，简直是奇迹般的工具，情怀与实用兼备。"
+    },
+    {
+      "repo": "rafal-qa/slopo",
+      "url": "https://github.com/rafal-qa/slopo",
+      "description": "Embedding-based code duplication detector",
+      "language": "Python",
+      "stars": 222,
+      "summaryZh": "基于嵌入向量的代码重复检测器，通过语义分析而非文本匹配来发现重复代码片段。支持多种编程语言，能准确识别重构后的重复代码。适合代码库维护和质量控制场景。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +70（+46%）",
+      "reasonZh": "基于嵌入向量的代码重复检测器，比传统方法更智能。特别适合大型代码库的清理和重构工作，能发现语义相似的重复代码，而不仅仅是文本匹配。"
+    },
+    {
+      "repo": "segaboy/vulkan-netbsd",
+      "url": "https://github.com/segaboy/vulkan-netbsd",
+      "description": "This is my attempt to get Vulkan going on NetBSD.",
+      "language": "Shell",
+      "stars": 23,
+      "summaryZh": "在NetBSD操作系统上移植Vulkan图形API的个人尝试。目标是让NetBSD用户也能享受Vulkan的高性能图形能力，适合对NetBSD或操作系统图形驱动的开发者。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +14（+156%）",
+      "reasonZh": "在 NetBSD 上运行 Vulkan 的尝试，小众且硬核。对于操作系统爱好者和想拓宽 Vulkan 支持平台的人来说，这是一个有趣的探索，体现了开源精神。"
+    },
+    {
+      "repo": "spiritov/ds.css",
+      "url": "https://github.com/spiritov/ds.css",
+      "description": "A css framework recreating the DS / DS Lite's UI",
+      "language": "CSS",
+      "stars": 523,
+      "summaryZh": "一个CSS框架，复刻了任天堂DS/DS Lite掌机的用户界面风格。提供完整的UI组件和配色方案，适合制作游戏模拟器前端或怀旧风格网页。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +147（+39%）",
+      "reasonZh": "一个 CSS 框架，完美复刻了任天堂 DS / DS Lite 的界面风格！复古游戏玩家或做相关主题网页设计时，拿来就能用，像素级还原，趣味性十足。"
+    },
+    {
+      "repo": "dekart-xyz/geosql",
+      "url": "https://github.com/dekart-xyz/geosql",
+      "description": "Turn Claude/Codex into geospatial analytics agent.",
+      "language": "Python",
+      "stars": 379,
+      "summaryZh": "将Claude/Codex等AI助手转化为地理空间分析代理的工具。支持自然语言查询地理数据库并生成地图可视化，无需写复杂SQL。适合数据分析师和GIS从业者快速探索空间数据。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 127 分 · 13 评论",
+      "reasonZh": "给 Claude/Codex 装上地理空间分析能力，用自然语言查询 GIS 数据。对于数据分析师或 GIS 从业者，可以极大降低操作门槛，和同类项目比更专注 AI Agent 集成。"
+    },
+    {
+      "repo": "tdeverx/contained-app",
+      "url": "https://github.com/tdeverx/contained-app",
+      "description": "A native macOS app for Apple's Container CLI",
+      "language": "Swift",
+      "stars": 604,
+      "summaryZh": "苹果Container CLI的原生macOS图形界面应用，简化容器管理操作。提供直观的界面来启动、停止和管理容器，适合偏好图形界面而非命令行的macOS容器用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +151（+33%）",
+      "reasonZh": "苹果 Container CLI 的原生 macOS 应用，让开发者优雅地管理容器。界面简洁，比命令行更直观，适合不想折腾终端但需要容器功能的 Mac 用户。"
+    },
+    {
+      "repo": "kklimuk/docx-cli",
+      "url": "https://github.com/kklimuk/docx-cli",
+      "description": "CLI for AI agents (Claude, Codex) to read, edit, and comment on .docx files with full format fidelity.",
+      "language": "TypeScript",
+      "stars": 122,
+      "summaryZh": "专为AI代理设计的命令行工具，用于读取、编辑和评论.docx文件并保持格式完整。支持通过标准化接口让Claude、Codex等AI直接操作Word文档，适合需要自动化文档处理的开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 69 分 · 30 评论",
+      "reasonZh": "AI 代理专用的 .docx 文件读写和注释命令行工具，完整保留格式。对于需要批量处理 Word 文档的自动化流程（如合同审阅、报告生成）非常实用，同类工具很少见。"
+    }
+  ]
+}
