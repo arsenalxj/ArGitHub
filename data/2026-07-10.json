@@ -1,0 +1,429 @@
+{
+  "date": "2026-07-10",
+  "trending": [
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars": 19011,
+      "summaryZh": "基于Claude Code的AI求职框架：只需fork并填写个人资料，即可让Claude自动评估岗位、定制简历、撰写求职信并准备面试。适合求职者自动化繁琐流程。",
+      "category": "AI",
+      "starsToday": 3716
+    },
+    {
+      "repo": "SmartlyDressedGames/U3-SDK",
+      "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+      "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+      "language": "C#",
+      "stars": 2022,
+      "summaryZh": "Unturned游戏源码，一款免费的开放世界僵尸生存沙盒游戏。核心玩法包括探索、建造、合作对抗僵尸，适合喜欢生存沙盒类游戏的玩家和开发者学习。",
+      "category": "游戏",
+      "starsToday": 524
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 75874,
+      "summaryZh": "面向AI编码代理的生产级工程技能集合。包含实用的开发技巧和最佳实践，帮助AI更高效地完成代码任务，适合AI开发者及使用AI辅助编程的工程师。",
+      "category": "开发工具",
+      "starsToday": 2554
+    },
+    {
+      "repo": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "language": "",
+      "stars": 99684,
+      "summaryZh": "收集知名品牌设计系统的DESIGN.md文件，将其放入项目后即可让编码代理生成匹配的UI界面。适合前端开发者快速构建一致性的品牌视觉。",
+      "category": "前端",
+      "starsToday": 1391
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": 13431,
+      "summaryZh": "首款专为AI代理打造的Office套件命令行工具，无需安装Office即可读写编辑Word、Excel、PowerPoint文件。单二进制、开源免费，适合自动化办公场景。",
+      "category": "开发工具",
+      "starsToday": 1929
+    },
+    {
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 6573,
+      "summaryZh": "Claude的MCP服务器，赋予其终端控制、文件系统搜索和差异化文件编辑能力。适合需要让AI执行本地操作和文件修改的开发者。",
+      "category": "开发工具",
+      "starsToday": 185
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 47159,
+      "summaryZh": "Claude官方整理的使用示例和食谱集合，展示多种有趣且高效的用法。适合Claude用户和提示工程师学习最佳实践。",
+      "category": "资料教程",
+      "starsToday": 194
+    },
+    {
+      "repo": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 19402,
+      "summaryZh": "全自主AI代理系统，可执行复杂渗透测试任务。集成多种攻击工具和策略，适合安全研究人员和渗透测试人员自动化评估系统安全。",
+      "category": "AI",
+      "starsToday": 535
+    },
+    {
+      "repo": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars": 71824,
+      "summaryZh": "开源、LLM友好的网页爬虫与抓取工具，专为AI模型设计。支持高效抓取并结构化输出，适合需要为LLM提供数据的开发者。",
+      "category": "开发工具",
+      "starsToday": 215
+    },
+    {
+      "repo": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+      "description": "An evolving how-to guide for securing a Linux server.",
+      "language": "",
+      "stars": 29087,
+      "summaryZh": "一份不断更新的Linux服务器安全加固指南，涵盖配置防火墙、用户权限、SSH等关键步骤。适合系统管理员和安全爱好者。",
+      "category": "资料教程",
+      "starsToday": 243
+    },
+    {
+      "repo": "huxingyi/autoremesher",
+      "url": "https://github.com/huxingyi/autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "language": "C++",
+      "stars": 2368,
+      "summaryZh": "自动四边形网格重划分工具，可将任意三角网格转化为高质量四边形网格，适合3D建模和计算机图形学领域使用。",
+      "category": "开发工具",
+      "starsToday": 403
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 6703,
+      "summaryZh": "让Claude能够观看任何视频：下载、提取帧、转录并全部交给Claude处理。适合需要AI分析视频内容的应用场景。",
+      "category": "AI",
+      "starsToday": 718
+    },
+    {
+      "repo": "prisma/prisma",
+      "url": "https://github.com/prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "language": "TypeScript",
+      "stars": 46900,
+      "summaryZh": "Node.js和TypeScript的下一代ORM，支持PostgreSQL、MySQL、SQLite等多种数据库。提供类型安全的数据库访问和便捷的迁移工具，适合全栈开发者。",
+      "category": "开发工具",
+      "starsToday": 376
+    },
+    {
+      "repo": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "language": "Python",
+      "stars": 6983,
+      "summaryZh": "轻量级文本转语音模型，仅需CPU即可运行，能在移动设备上快速合成语音。适合离线或低资源环境的语音应用。",
+      "category": "AI",
+      "starsToday": 235
+    },
+    {
+      "repo": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 55156,
+      "summaryZh": "收集并泄露了Anthropic、OpenAI、Google等公司AI模型的系统提示语。适合研究人员和提示工程师分析各模型的行为设定。",
+      "category": "资料教程",
+      "starsToday": 1125
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "x4gKing/X4G",
+      "url": "https://github.com/x4gKing/X4G",
+      "description": "",
+      "language": "Python",
+      "stars": 3396,
+      "summaryZh": "X4G 是一个 Python 项目，致力于提供高效的网络加速服务。其核心技术亮点包括智能路由和协议优化，能够显著提升网络连接速度。适合需要稳定快速网络的用户，尤其适用于游戏或直播场景。",
+      "category": "开发工具",
+      "createdAt": "2026-07-04T06:43:51Z"
+    },
+    {
+      "repo": "synthetic-sciences/openscience",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "language": "TypeScript",
+      "stars": 1942,
+      "summaryZh": "Openscience 是一个开源 AI 工作台，专为科学研究设计。它提供数据管理、模型训练和协作工具，技术亮点是可扩展的模块化架构。适合科研人员或数据科学家，用于加速从数据到论文的研究流程。",
+      "category": "AI",
+      "createdAt": "2026-07-03T15:06:45Z"
+    },
+    {
+      "repo": "xuchonglang/investing-for-beginners",
+      "url": "https://github.com/xuchonglang/investing-for-beginners",
+      "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "language": "",
+      "stars": 1631,
+      "summaryZh": "小隐寺投资百科是面向美股、期权与加密货币的知识框架。它系统整理了投资入门到进阶的核心概念和策略。适合投资新手或想系统学习的人，作为自学参考指南。",
+      "category": "资料教程",
+      "createdAt": "2026-07-03T03:56:00Z"
+    },
+    {
+      "repo": "Shpigford/knockoff",
+      "url": "https://github.com/Shpigford/knockoff",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "language": "JavaScript",
+      "stars": 1568,
+      "summaryZh": "Knockoff 是一款 Chrome 扩展，用于过滤亚马逊上的仿冒品牌商品，只展示来自真实知名品牌的产品。它通过识别品牌信誉和用户评价来净化搜索结果。适合在亚马逊购物的用户，避免买到伪劣商品。",
+      "category": "开发工具",
+      "createdAt": "2026-07-06T15:06:06Z"
+    },
+    {
+      "repo": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 1397,
+      "summaryZh": "os-taxonomy 是一个 JavaScript 项目，提供操作系统分类学数据。它整理了不同操作系统的版本、关系和属性。适合开发者或系统管理员，用于操作系统兼容性研究或文档生成。",
+      "category": "资料教程",
+      "createdAt": "2026-07-08T09:27:48Z"
+    },
+    {
+      "repo": "ammaarreshi/Generals-Mac-iOS-iPad",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+      "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
+      "language": "C++",
+      "stars": 1393,
+      "summaryZh": "该 C++ 项目让《命令与征服：将军 绝命时刻》原生运行在 macOS、iPhone 和 iPad 上。基于 EA GPL v3 源码，通过 DXVK/MoltenVK 渲染器实现硬件加速，并支持 RTS 触摸控制。适合想在 Apple 设备上重温经典 RTS 游戏的玩家。",
+      "category": "游戏",
+      "createdAt": "2026-07-04T02:59:39Z"
+    },
+    {
+      "repo": "jamesob/local-llm",
+      "url": "https://github.com/jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "language": "Shell",
+      "stars": 1299,
+      "summaryZh": "这是一个关于在本地运行 LLM 的知识集合，涵盖模型选择、硬件需求和部署技巧。技术亮点是提供实用脚本和配置示例。适合希望在离线环境或保护隐私前提下使用大模型的用户。",
+      "category": "资料教程",
+      "createdAt": "2026-07-03T13:06:03Z"
+    },
+    {
+      "repo": "MaximeRivest/riddle",
+      "url": "https://github.com/MaximeRivest/riddle",
+      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "language": "Rust",
+      "stars": 1282,
+      "summaryZh": "Riddle 是 reMarkable Paper Pro 的日记应用，模仿汤姆·里德尔的日记本。用触控笔书写时，页面会以流畅的手写体回复。技术亮点是墨水动画和手写识别。适合 reMarkable 用户，用于创意写作或笔记。",
+      "category": "其他",
+      "createdAt": "2026-07-05T15:48:08Z"
+    },
+    {
+      "repo": "514-labs/dnsglobe",
+      "url": "https://github.com/514-labs/dnsglobe",
+      "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+      "language": "Rust",
+      "stars": 774,
+      "summaryZh": "DNSGlobe 是一个 DNS 全球传播检测 TUI 工具，可在终端世界地图上实时观察 DNS 记录在34个公共解析器中的传播。技术亮点是高效轮询和可视化。适合网络管理员或开发者，用于调试 DNS 问题。",
+      "category": "开发工具",
+      "createdAt": "2026-07-05T01:03:37Z"
+    },
+    {
+      "repo": "wouterdebie/davit",
+      "url": "https://github.com/wouterdebie/davit",
+      "description": "A native macOS UI for Apple's platform",
+      "language": "Swift",
+      "stars": 718,
+      "summaryZh": "Davit 是一个原生 macOS UI 库，提供类似 Apple 平台的界面组件。技术亮点是纯 Swift 实现，性能优秀。适合 macOS 开发者，用于快速构建符合 Apple 设计规范的界面。",
+      "category": "开发工具",
+      "createdAt": "2026-07-04T16:50:17Z"
+    },
+    {
+      "repo": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "Codex Switch & Instruct desktop manager",
+      "language": "Rust",
+      "stars": 687,
+      "summaryZh": "Codex-X 是一个 Rust 实现的桌面管理器，支持 Codex Switch 和 Instruct 设备。它提供设备管理、固件升级和配置同步等功能。适合使用相关硬件的开发者或技术爱好者用于日常管理。",
+      "category": "开发工具",
+      "createdAt": "2026-07-04T03:28:35Z"
+    },
+    {
+      "repo": "simonlin1212/Vibe-Research",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "language": "TypeScript",
+      "stars": 589,
+      "summaryZh": "Vibe-Research 是个人交易研究 Agent，支持 A股/美股/港股。它提供每日复盘、资讯雷达、板块中心等功能，由 AI 驱动投资研究。适合个人投资者，用于数据分析和决策辅助。",
+      "category": "AI",
+      "createdAt": "2026-07-05T06:30:55Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-vision",
+      "url": "https://github.com/Robbyant/lingbot-vision",
+      "description": "Self-supervised learning for spatial perception",
+      "language": "Python",
+      "stars": 577,
+      "summaryZh": "lingbot-vision 是一个基于自监督学习的空间感知 Python 项目。它通过无标签数据学习环境几何与语义特征。适合机器人或 AR 领域的研究人员，用于提升视觉定位和导航能力。",
+      "category": "AI",
+      "createdAt": "2026-07-06T14:09:42Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-world-v2",
+      "url": "https://github.com/Robbyant/lingbot-world-v2",
+      "description": "Infinite Worlds with Versatile Interactions",
+      "language": "Python",
+      "stars": 568,
+      "summaryZh": "lingbot-world-v2 是一个生成无限交互世界 Python 项目。它支持动态场景生成和多样化角色交互，技术亮点是高效的物理模拟。适合游戏开发者或 AI 研究人员，用于虚拟环境训练或内容创作。",
+      "category": "游戏",
+      "createdAt": "2026-07-08T09:24:50Z"
+    },
+    {
+      "repo": "Kulaxyz/token-diet",
+      "url": "https://github.com/Kulaxyz/token-diet",
+      "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+      "language": "Shell",
+      "stars": 568,
+      "summaryZh": "Token-diet 是一个始终在线的 Shell 项目，为 Claude Code、Codex 等编码 Agent 优化 token 效率。它通过压缩提示词和缓存上下文降低约31%费用，且不影响准确率。适合重度使用编码 Agent 的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-03T15:20:04Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 460,
+      "summaryZh": "一个用纯 C 语言编写的极轻量级推理引擎，能在 25GB 内存的消费级机器上运行 744B 参数的 GLM-5.2 MoE 模型。通过将专家流式从磁盘加载，实现了极小内存占用下的超大规模模型运行。适合希望在本地部署超大模型但硬件有限的开发者和研究者。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 346 分 · 88 评论",
+      "reasonZh": "纯C、零依赖，竟然能在25GB内存的消费级机器上跑744B参数的MoE模型！通过从磁盘流式加载专家权重，把超大模型门槛打下来。适合想本地跑LLM但没顶级显卡的你。"
+    },
+    {
+      "repo": "malisper/pgrust",
+      "url": "https://github.com/malisper/pgrust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "language": "Rust",
+      "stars": 523,
+      "summaryZh": "用 Rust 重写 PostgreSQL，现已通过 100% 的 Postgres 回归测试，保持原语法的同时获得内存安全和并发优势。适合对性能、安全有高要求，并希望从 C 迁移到 Rust 的数据库开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 354 分 · 370 评论",
+      "reasonZh": "用Rust重写PostgreSQL，通过了100%的回归测试，这工作量和技术含量绝了。不是玩具级，是真的能用的替代实现，可能带来更好的性能和安全性。适合有性能洁癖的DBA或想研究数据库内核的人。"
+    },
+    {
+      "repo": "ronak-create/FableCut",
+      "url": "https://github.com/ronak-create/FableCut",
+      "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "language": "JavaScript",
+      "stars": 227,
+      "summaryZh": "一个零依赖的浏览器端视频编辑器，AI 代理可通过 JSON 时间线、MCP 和 REST API 驱动，支持实时重载 UI。主要面向需要自动化视频剪辑的 AI 工作流或集成场景。",
+      "category": "前端",
+      "source": "hn",
+      "signal": "HN 85 分 · 58 评论",
+      "reasonZh": "零依赖的浏览器端视频编辑器，AI agent可以直接通过JSON时间线操控它，还支持MCP和REST接口。对比传统编辑器，它可编程、可嵌入。适合想让AI自动生成或编辑视频的场景。"
+    },
+    {
+      "repo": "jimparis/qr-font",
+      "url": "https://github.com/jimparis/qr-font",
+      "description": "A QR code generator in a TrueType font: https://qr.jim.sh/",
+      "language": "Python",
+      "stars": 422,
+      "summaryZh": "一个将 QR 码生成器嵌入 TrueType 字体的工具，直接在文本中生成可扫描的二维码，无需额外图像库。适合需要动态生成二维码的文档、网页或打印场景。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 217 分 · 29 评论",
+      "reasonZh": ""
+    },
+    {
+      "repo": "HUANGCHIHHUNGLeo/claude-real-video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "language": "Python",
+      "stars": 1451,
+      "summaryZh": "让 Claude 等大模型真正“看懂”视频：场景感知去重关键帧+转录文字，支持 URL 或本地文件，完全本地运行。适合需要多模态分析视频内容的开发者和研究者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +1307（+908%）",
+      "reasonZh": "让Claude真正看懂视频，不是截图堆砌，而是场景感知+去重帧加转录，从URL或本地文件都能用。比简单截帧的方案聪明多了。适合需要AI分析视频内容的场景，比如会议摘要或监控审查。"
+    },
+    {
+      "repo": "linuxrebel/DocuBrowser",
+      "url": "https://github.com/linuxrebel/DocuBrowser",
+      "description": "This does for Documents what repo-browser does for repos. A local AI powered Document search engine ",
+      "language": "Python",
+      "stars": 431,
+      "summaryZh": "一个本地 AI 驱动的文档搜索引擎，专为文档库设计，类似 repo-browser 对仓库的管理。支持智能检索和问答，适合需要高效管理大量文档的个人或团队。",
+      "category": "资料教程",
+      "source": "hn",
+      "signal": "HN 189 分 · 52 评论",
+      "reasonZh": "本地AI驱动的文档搜索浏览器，就像浏览器能搜文件一样，它让你用自然语言搜你的文档库。隐私安全，离线可用。适合不想把文档上传云端、又想智能检索的打工人。"
+    },
+    {
+      "repo": "dekart-xyz/geosql",
+      "url": "https://github.com/dekart-xyz/geosql",
+      "description": "Turn Claude/Codex into geospatial analytics agent.",
+      "language": "Python",
+      "stars": 418,
+      "summaryZh": "将 Claude/Codex 转变为地理空间分析代理，通过自然语言执行 SQL 查询和空间分析。适合需要快速进行地理数据洞察的数据分析师和 GIS 从业者。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 136 分 · 14 评论",
+      "reasonZh": "把Claude或Codex变成地理空间分析助手！用自然语言查询空间数据，不用记复杂GIS语法。对比通用AI助手，它专为地理数据优化。适合地图、城市规划等需要空间分析的用户。"
+    },
+    {
+      "repo": "segaboy/vulkan-netbsd",
+      "url": "https://github.com/segaboy/vulkan-netbsd",
+      "description": "This is my attempt to get Vulkan going on NetBSD.",
+      "language": "Shell",
+      "stars": 23,
+      "summaryZh": "在 NetBSD 操作系统上启用 Vulkan 图形 API 的项目，目前处于早期尝试阶段。适合对 NetBSD 平台图形支持感兴趣的系统开发者和研究者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +14（+156%）",
+      "reasonZh": "在NetBSD上折腾Vulkan，纯属硬核小众项目，但技术挑战巨大。真正从零开始把现代图形API移植到古老系统，逆向工程味儿十足。适合操作系统发烧友或想学习图形驱动的你。"
+    },
+    {
+      "repo": "rafal-qa/slopo",
+      "url": "https://github.com/rafal-qa/slopo",
+      "description": "Embedding-based code duplication detector",
+      "language": "Python",
+      "stars": 223,
+      "summaryZh": "基于嵌入向量的代码重复检测器，能高精度识别语义相似的代码片段，支持跨语言。适合需要代码质量审计和重构辅助的开发团队。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +71（+47%）",
+      "reasonZh": "基于向量嵌入的代码重复检测器，比传统正则或AST匹配更智能，能发现语义相似的重复代码。对比同类工具，它理解代码意图而非文本。适合重构老旧代码库或提升代码质量。"
+    },
+    {
+      "repo": "flythenimbus/bramble",
+      "url": "https://github.com/flythenimbus/bramble",
+      "description": "Local-first, encrypted password manager. ",
+      "language": "TypeScript",
+      "stars": 211,
+      "summaryZh": "一款本地优先、加密的密码管理器，所有数据存储在本地并加密，无需云服务。适合注重隐私安全、希望完全掌控密码数据的个人用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +111（+111%）",
+      "reasonZh": "本地优先、加密的密码管理器，数据全在你手里，同步靠你自己。和1Password等云方案比，你完全掌控安全。适合隐私敏感用户，或想自建密码基础设施的技术人。"
+    }
+  ]
+}
