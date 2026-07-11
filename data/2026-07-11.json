@@ -1,0 +1,469 @@
+{
+  "date": "2026-07-11",
+  "trending": [
+    {
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 7294,
+      "summaryZh": "为Claude提供终端控制、文件系统搜索和差异编辑功能的MCP服务器。它允许AI代理直接执行shell命令、搜索文件内容并应用精细化的代码修改。适合需要让AI助手具备系统级操作能力的开发者。",
+      "category": "AI",
+      "starsToday": 328
+    },
+    {
+      "repo": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars": 94227,
+      "summaryZh": "极速JavaScript运行时、打包器、测试运行器和包管理器。使用JavaScriptCore引擎，启动速度比Node.js快4倍，内置npm兼容性。适合追求高性能的JavaScript/TypeScript开发者，替代Node.js的全栈解决方案。",
+      "category": "开发工具",
+      "starsToday": 209
+    },
+    {
+      "repo": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars": 17520,
+      "summaryZh": "Google开源的C++通用库，提供容器、算法、同步、字符串等高质量基础设施。设计为C++标准库的补充和增强，注重性能与安全性。适合C++项目开发者构建高效、可靠的底层代码。",
+      "category": "其他",
+      "starsToday": 89
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 76823,
+      "summaryZh": "面向AI编码代理的工程级技能集合，包含代码审查、性能分析、测试生成等自动化能力。每个技能封装为可复用模块，与Claude Code等工具集成。适合提升AI辅助开发效率的团队。",
+      "category": "AI",
+      "starsToday": 1116
+    },
+    {
+      "repo": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "stars": 6081,
+      "summaryZh": "C++实现的YAML解析和生成器，支持YAML 1.2规范。提供简洁的API和类型安全的YAML节点操作，易于集成到C++项目中。适合需要处理YAML配置文件的C++开发者。",
+      "category": "其他",
+      "starsToday": 69
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 164626,
+      "summaryZh": "实战工程技能集，源自作者.claude目录的自动化任务集合。涵盖代码生成、测试、文档等高频操作，可直接用于Claude Code等AI编码代理。适合希望用AI处理重复开发工作的工程师。",
+      "category": "AI",
+      "starsToday": 1712
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 251778,
+      "summaryZh": "一套代理技能框架与软件开发方法论，提供标准化技能定义和编排机制。支持多代理协作，内置版本控制与质量保证流程。适合需要结构化、可复现AI编程工作流的团队。",
+      "category": "AI",
+      "starsToday": 1013
+    },
+    {
+      "repo": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "TypeScript",
+      "stars": 109775,
+      "summaryZh": "JavaScript的超集，通过静态类型提高代码质量和可维护性。编译为干净JavaScript，支持现代ES特性，拥有强大的类型推断。适合大型前端或Node.js项目，提升开发效率。",
+      "category": "前端",
+      "starsToday": 177
+    },
+    {
+      "repo": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": 20613,
+      "summaryZh": "现代C++原生测试框架，支持单元测试、TDD和BDD。使用C++14/17，提供仅头文件部署、表达式分解和基准测试功能。适合需要轻量、快速测试的C++项目。",
+      "category": "开发工具",
+      "starsToday": 76
+    },
+    {
+      "repo": "chriskohlhoff/asio",
+      "url": "https://github.com/chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "language": "C++",
+      "stars": 6071,
+      "summaryZh": "跨平台C++网络编程库，提供异步I/O、定时器、串口等底层支持。基于Proactor模式设计，支持TCP/UDP/SSL，性能卓越。适合开发高性能网络服务或实时通信应用。",
+      "category": "其他",
+      "starsToday": 92
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "language": "TypeScript",
+      "stars": 8231,
+      "summaryZh": "腾讯云开源的AI代理长期记忆系统，采用四级渐进式流水线实现完全本地化存储。无需外部API，支持结构化记忆检索和更新。适合需要持久记忆能力的智能代理应用开发者。",
+      "category": "AI",
+      "starsToday": 123
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": 28767,
+      "summaryZh": "配置和监控Claude Code的CLI工具，支持模板化指令管理、会话日志查看和性能分析。简化AI编码代理的日常运维。适合频繁使用Claude Code进行开发的工程师。",
+      "category": "开发工具",
+      "starsToday": 118
+    },
+    {
+      "repo": "zeux/meshoptimizer",
+      "url": "https://github.com/zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
+      "language": "C++",
+      "stars": 8024,
+      "summaryZh": "网格优化库，通过顶点缓存优化、背面剔除和级别细节生成，减小模型体积并加速渲染。支持多种3D格式，适用于游戏和实时图形应用的性能调优。",
+      "category": "游戏",
+      "starsToday": 91
+    },
+    {
+      "repo": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": 33647,
+      "summaryZh": "基于WireGuard的零配置VPN，支持身份认证和双因素认证。自动打洞直连，无需开放端口，管理界面简洁。适合需要安全远程访问内部网络和设备的个人或企业。",
+      "category": "其他",
+      "starsToday": 143
+    },
+    {
+      "repo": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars": 6744,
+      "summaryZh": "专为Stitch MCP服务器设计的代理技能库，遵循Agent Skills开放标准。提供代码生成、重构、调试等预构建技能，与多种编码代理兼容。适合构建自定义AI编程工作流的团队。",
+      "category": "AI",
+      "starsToday": 117
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": 14431,
+      "summaryZh": "OfficeCLI 是首个专为 AI 代理打造的 Office 套件命令行工具，支持读取、编辑和自动化 Word、Excel、PowerPoint 文件。它免费开源、单二进制文件，无需安装 Office，适合需要批量处理 Office 文档的开发者或 AI 系统集成场景。",
+      "category": "开发工具",
+      "starsToday": 1224
+    },
+    {
+      "repo": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 49166,
+      "summaryZh": "Terraform 是一个基础设施即代码工具，通过声明式配置文件安全、可预测地创建、变更和改善基础设施。它支持多云管理，适合 DevOps 工程师和云平台使用者自动化资源编排。",
+      "category": "开发工具",
+      "starsToday": 172
+    },
+    {
+      "repo": "grpc/grpc",
+      "url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars": 45134,
+      "summaryZh": "gRPC 是一个高性能、开源的远程过程调用框架，基于 HTTP/2 和 Protocol Buffers，支持多种语言（C++、Python、Ruby 等）。适合微服务间高效通信和跨语言服务调用场景。",
+      "category": "开发工具",
+      "starsToday": 78
+    },
+    {
+      "repo": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "stars": 140704,
+      "summaryZh": "Next.js 是一个基于 React 的全栈框架，提供服务端渲染、静态站点生成和 API 路由等特性。适合构建高性能、SEO 友好的 Web 应用，尤其适合 Jamstack 和全栈开发场景。",
+      "category": "前端",
+      "starsToday": 191
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "x4gKing/X4G",
+      "url": "https://github.com/x4gKing/X4G",
+      "description": "",
+      "language": "Python",
+      "stars": 4033,
+      "summaryZh": "X4G 是一个基于 Python 的项目，具体功能不详，但拥有超过 4k 星，可能涉及高性能计算或机器学习相关工具。适合对 Python 高性能库感兴趣的开发者。",
+      "category": "其他",
+      "createdAt": "2026-07-04T06:43:51Z"
+    },
+    {
+      "repo": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 2125,
+      "summaryZh": "OS-taxonomy 是一个基于 JavaScript 的项目，具体功能不详，推测可能与操作系统分类或系统管理相关。适合对系统工具或分类学感兴趣的开发者。",
+      "category": "其他",
+      "createdAt": "2026-07-08T09:27:48Z"
+    },
+    {
+      "repo": "Shpigford/knockoff",
+      "url": "https://github.com/Shpigford/knockoff",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "language": "JavaScript",
+      "stars": 1703,
+      "summaryZh": "Knockoff 是一个 Chrome 扩展，用于过滤亚马逊搜索结果中的山寨品牌，帮助用户购买真实、知名的品牌商品。适合经常在亚马逊购物并希望避免假冒伪劣产品的用户。",
+      "category": "前端",
+      "createdAt": "2026-07-06T15:06:06Z"
+    },
+    {
+      "repo": "ammaarreshi/Generals-Mac-iOS-iPad",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+      "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
+      "language": "C++",
+      "stars": 1404,
+      "summaryZh": "该项目让《命令与征服：将军》和《绝命时刻》原生运行在 macOS、iPhone 和 iPad 上，基于 GeneralsX 引擎和 DXVK/MoltenVK 渲染器，支持触控操作。适合怀旧游戏玩家在 Apple 设备上体验经典 RTS 游戏。",
+      "category": "游戏",
+      "createdAt": "2026-07-04T02:59:39Z"
+    },
+    {
+      "repo": "MaximeRivest/riddle",
+      "url": "https://github.com/MaximeRivest/riddle",
+      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "language": "Rust",
+      "stars": 1338,
+      "summaryZh": "Riddle 是为 reMarkable Paper Pro 设计的笔记应用，模拟汤姆·里德尔的日记本风格：用笔书写，墨水会“被页面吸收”并自动生成手写风格的回复。适合喜欢创意写作或沉浸式笔记体验的用户。",
+      "category": "其他",
+      "createdAt": "2026-07-05T15:48:08Z"
+    },
+    {
+      "repo": "wouterdebie/davit",
+      "url": "https://github.com/wouterdebie/davit",
+      "description": "A native macOS UI for Apple's platform",
+      "language": "Swift",
+      "stars": 804,
+      "summaryZh": "Davit 是一个原生的 macOS UI 工具，为用户提供美观的界面交互。适合 macOS 用户或开发者，用于增强系统功能或构建自定义 UI。",
+      "category": "开发工具",
+      "createdAt": "2026-07-04T16:50:17Z"
+    },
+    {
+      "repo": "514-labs/dnsglobe",
+      "url": "https://github.com/514-labs/dnsglobe",
+      "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+      "language": "Rust",
+      "stars": 794,
+      "summaryZh": "DNSGlobe 是一个终端 UI 工具，可实时观察 DNS 记录在全球 34 个公共解析器上的传播情况，并以世界地图形式展示。适合网络管理员或开发者排查 DNS 问题。",
+      "category": "开发工具",
+      "createdAt": "2026-07-05T01:03:37Z"
+    },
+    {
+      "repo": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "Codex Switch & Instruct desktop manager",
+      "language": "Rust",
+      "stars": 753,
+      "summaryZh": "Codex-X 是一个桌面管理器，用于管理 Nintendo Switch 和指令系统（Instruct），提供界面化操作。适合游戏主机玩家或需要管理 Switch 应用的开发者。",
+      "category": "游戏",
+      "createdAt": "2026-07-04T03:28:35Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-world-v2",
+      "url": "https://github.com/Robbyant/lingbot-world-v2",
+      "description": "Infinite Worlds with Versatile Interactions",
+      "language": "Python",
+      "stars": 698,
+      "summaryZh": "Lingbot World v2 是一个基于 Python 的项目，旨在创建无限世界并支持多样化交互，可能涉及 AI 驱动的虚拟世界或游戏引擎。适合 AI 研究人员或游戏开发者。",
+      "category": "游戏",
+      "createdAt": "2026-07-08T09:24:50Z"
+    },
+    {
+      "repo": "simonlin1212/Vibe-Research",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "language": "TypeScript",
+      "stars": 668,
+      "summaryZh": "Vibe-Research 是一个个人投研代理，支持 A股、美股、港股的每日复盘、资讯雷达、个股数据等，由 AI 驱动投资研究。适合个人投资者研究股票市场。",
+      "category": "AI",
+      "createdAt": "2026-07-05T06:30:55Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-video",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "language": "Python",
+      "stars": 643,
+      "summaryZh": "Lingbot Video 是一个基于 Python 的项目，专注于扩展混合专家视频预训练，用于具身智能。适合 AI 研究人员，尤其是视频理解和机器人领域的学者。",
+      "category": "AI",
+      "createdAt": "2026-07-08T13:52:08Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-vision",
+      "url": "https://github.com/Robbyant/lingbot-vision",
+      "description": "Self-supervised learning for spatial perception",
+      "language": "Python",
+      "stars": 616,
+      "summaryZh": "一个基于自监督学习的空间感知项目，无需大量标注数据即可训练模型理解三维空间结构。适合机器人、自动驾驶等需要环境感知的场景。",
+      "category": "AI",
+      "createdAt": "2026-07-06T14:09:42Z"
+    },
+    {
+      "repo": "oso95/scroll-world",
+      "url": "https://github.com/oso95/scroll-world",
+      "description": "A skill that turn any brand into a scrollable 3D world",
+      "language": "JavaScript",
+      "stars": 615,
+      "summaryZh": "一个将任意网页品牌转化为可滚动3D世界的交互式网页技能，通过滚动控制三维场景变换。适合前端开发者或营销人员用于创建沉浸式品牌展示。",
+      "category": "前端",
+      "createdAt": "2026-07-06T21:28:58Z"
+    },
+    {
+      "repo": "x4gKing/3x-ui-Upgrade",
+      "url": "https://github.com/x4gKing/3x-ui-Upgrade",
+      "description": "",
+      "language": "HTML",
+      "stars": 605,
+      "summaryZh": "一个升级版本的3X-UI面板，提供更优化的Web管理界面和配置体验。适合需要管理多协议代理服务的运维人员。",
+      "category": "开发工具",
+      "createdAt": "2026-07-08T06:13:23Z"
+    },
+    {
+      "repo": "op7418/guizang-material-illustration",
+      "url": "https://github.com/op7418/guizang-material-illustration",
+      "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "language": "",
+      "stars": 525,
+      "summaryZh": "一个生成带文字解释的图表、美化图表和辅助配图的材质插画工具，用于快速制作可视化内容。适合数据分析师、设计师或需要图表美化的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-07-07T13:57:13Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 2170,
+      "summaryZh": "一个用纯C编写、无依赖的微型推理引擎，可在25GB内存的消费级机器上运行744B参数的GLM-5.2 MoE模型，通过流式加载专家权重。适合在有限硬件上运行超大模型的AI研究人员。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 830 分 · 204 评论",
+      "reasonZh": "纯C写、零依赖，居然能在25GB内存的消费级电脑上跑744B参数的MoE大模型，靠实时从磁盘流式加载专家。和同类比，它极致轻量，不依赖GPU也不烧钱。适合想本地跑超大模型但没高端显卡的开发者。"
+    },
+    {
+      "repo": "malisper/pgrust",
+      "url": "https://github.com/malisper/pgrust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "language": "Rust",
+      "stars": 1510,
+      "summaryZh": "用Rust重写PostgreSQL数据库，并成功通过100%的回归测试，性能与兼容性俱佳。适合追求高性能和内存安全的数据库开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 787 分 · 702 评论",
+      "reasonZh": "用Rust重写PostgreSQL，通过全部回归测试，相当于给数据库换了更安全、高性能的内核。同类项目要么不完整要么兼容性差，这个真能跑。适合追求数据库稳定性和内存安全的生产环境。"
+    },
+    {
+      "repo": "ronak-create/FableCut",
+      "url": "https://github.com/ronak-create/FableCut",
+      "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "language": "JavaScript",
+      "stars": 305,
+      "summaryZh": "一个零依赖的浏览器端视频编辑器，支持JSON时间线、MCP+REST接口及热更新UI，可被AI代理驱动。适合需要自动化视频编辑的前端或AI集成场景。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 95 分 · 58 评论",
+      "reasonZh": "零依赖的浏览器视频编辑器，AI能通过JSON时间线驱动，支持MCP和REST接口。不是又一个剪映替代品，而是专为AI代理设计的可编程剪辑工具。适合搭建AI自动生成视频的Pipeline。"
+    },
+    {
+      "repo": "dekart-xyz/geosql",
+      "url": "https://github.com/dekart-xyz/geosql",
+      "description": "Turn Claude/Codex into geospatial analytics agent.",
+      "language": "Python",
+      "stars": 428,
+      "summaryZh": "将Claude等AI代理转化为地理空间分析工具，通过自然语言查询空间数据。适合地理信息分析师或需要快速分析空间数据的人员。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 137 分 · 14 评论",
+      "reasonZh": "让Claude/Codex直接当GIS分析师，用自然语言做地理空间分析。和普通SQL Agent比，它懂地理专属操作。适合需要地图可视化和空间数据探索但不想学GIS的团队。"
+    },
+    {
+      "repo": "mekos2772/ios-location-spoofer",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "language": "JavaScript",
+      "stars": 1876,
+      "summaryZh": "一个无需越狱的独立iOS应用，可模拟GPS位置，支持Shadowrocket等代理模块。适合需要测试位置相关功能或隐私保护的用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +627（+50%）",
+      "reasonZh": "独立的iOS免越狱定位修改工具，提供Shadowrocket等模块。比同类更完整，一键安装使用。适合测试基于位置的App或隐私保护场景。"
+    },
+    {
+      "repo": "HUANGCHIHHUNGLeo/claude-real-video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "language": "Python",
+      "stars": 1474,
+      "summaryZh": "让Claude等大模型真正理解视频内容：提取场景感知的去重帧和转录文本，支持URL或本地文件，完全本地运行。适合需要视频分析的AI应用开发者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +960（+187%）",
+      "reasonZh": "让LLM真正看懂视频——去重关键帧+转录文本，无需联网。和直接丢视频链接的方案比，它场景感知、节省token。适合需要AI分析本地视频内容的场景。"
+    },
+    {
+      "repo": "spiritov/ds.css",
+      "url": "https://github.com/spiritov/ds.css",
+      "description": "A css framework recreating the DS / DS Lite's UI",
+      "language": "CSS",
+      "stars": 535,
+      "summaryZh": "一个CSS框架，复刻了任天堂DS/DS Lite的经典用户界面风格。适合怀旧游戏项目或需要复古风格UI的网页设计。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +159（+42%）",
+      "reasonZh": "纯CSS复刻任天堂DS/DS Lite的UI，连像素风都到位。不是工具库而是艺术品级主题。适合做怀旧风格网页或游戏化界面，代码只用CSS就能唤起童年记忆。"
+    },
+    {
+      "repo": "kerlenton/mcpsnoop",
+      "url": "https://github.com/kerlenton/mcpsnoop",
+      "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+      "language": "Go",
+      "stars": 243,
+      "summaryZh": "一个MCP透明代理，实时显示AI客户端与MCP服务器之间的所有工具调用，类似网络抓包工具Wireshark。适合调试和监控AI代理的工具调用流程。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +61（+34%）",
+      "reasonZh": "MCP协议的Wireshark，透明代理实时显示AI客户端与服务器间的工具调用。同类API调试工具都关注HTTP，它专为MCP设计。适合排查智能体调用异常或优化工具链。"
+    },
+    {
+      "repo": "maximqaxd/wince-dc",
+      "url": "https://github.com/maximqaxd/wince-dc",
+      "description": "Windows CE Dreamcast Community Edition",
+      "language": "C",
+      "stars": 103,
+      "summaryZh": "一个为世嘉Dreamcast移植的Windows CE操作系统社区版，优化了兼容性和功能。适合在Dreamcast上运行Windows应用的复古游戏爱好者。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +36（+54%）",
+      "reasonZh": "为Dreamcast移植Windows CE，社区版可运行自制系统。和模拟器不同，它真机运行。适合复古游戏开发者探索DC硬件潜力或怀旧玩家跑老软件。"
+    },
+    {
+      "repo": "flythenimbus/bramble",
+      "url": "https://github.com/flythenimbus/bramble",
+      "description": "Local-first, encrypted password manager. ",
+      "language": "TypeScript",
+      "stars": 217,
+      "summaryZh": "一个本地优先、加密的密码管理器，数据完全存储在用户设备上，不依赖云端。适合注重隐私安全的个人用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +117（+117%）",
+      "reasonZh": "本地优先的加密密码管理器，没有云同步依赖。比Bitwarden更隐私，所有数据本地加密。适合拒绝云服务的极简主义者或内网环境使用。"
+    }
+  ]
+}
