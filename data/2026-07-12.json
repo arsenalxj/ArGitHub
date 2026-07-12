@@ -1,0 +1,507 @@
+{
+  "date": "2026-07-12",
+  "trending": [
+    {
+      "repo": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": 21041,
+      "summaryZh": "Catch2 是一个现代化的 C++ 测试框架，支持单元测试、TDD 和 BDD。它采用 header-only 设计，无需额外依赖，通过宏和表达式简化测试编写。适合 C++ 开发者用于快速构建和运行测试用例，支持 C++14/17 及更高标准。",
+      "category": "开发工具",
+      "starsToday": 113
+    },
+    {
+      "repo": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars": 17801,
+      "summaryZh": "Abseil 是 Google 开源的 C++ 公共库集合，提供基础组件如字符串处理、容器、同步和日志等。它作为标准库的补充，遵循 Google 内部使用实践，强调高性能和正确性。适合需要可靠、高效基础库的 C++ 项目。",
+      "category": "开发工具",
+      "starsToday": 118
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": 29017,
+      "summaryZh": "这是一个 CLI 工具，用于配置和监控 Claude Code，提供预设的代码模板和工作流设置。它简化了与 Claude 模型的交互，支持自定义提示和任务管理。适合 AI 开发者和需要高效使用 Claude 编码助手的场景。",
+      "category": "AI",
+      "starsToday": 232
+    },
+    {
+      "repo": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars": 7065,
+      "summaryZh": "Stitch Skills 是一个 Agent 技能库，专为 Stitch MCP 服务器设计，遵循 Agent Skills 开放标准。它提供可复用的功能模块，兼容 Antigravity、Gemini CLI 等编码代理。适合构建可扩展的 AI 代理应用的开发者。",
+      "category": "AI",
+      "starsToday": 340
+    },
+    {
+      "repo": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 49368,
+      "summaryZh": "Terraform 是一款基础设施即代码工具，通过声明式配置管理云服务、网络和资源。它支持多云环境，具备状态管理和模块化能力，确保基础设施可预测、可重复。适合 DevOps 工程师和云架构师实现自动化基础设施部署。",
+      "category": "开发工具",
+      "starsToday": 229
+    },
+    {
+      "repo": "zeux/meshoptimizer",
+      "url": "https://github.com/zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
+      "language": "C++",
+      "stars": 8140,
+      "summaryZh": "Meshoptimizer 是一个网格优化库，专注于减少 3D 模型的大小并提升渲染性能。它提供顶点缓存优化、几何简化等算法，输出更紧凑、高效的网格数据。适合游戏开发和实时渲染场景，尤其是需要处理大量模型的引擎。",
+      "category": "游戏",
+      "starsToday": 110
+    },
+    {
+      "repo": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 4408,
+      "summaryZh": "OpenAI 插件为 ChatGPT 等模型扩展了实时信息获取、计算和第三方服务集成能力。它支持检索、浏览和代码执行等功能，将 AI 与外部工具连接。适合希望增强 AI 应用功能的开发者。",
+      "category": "AI",
+      "starsToday": 29
+    },
+    {
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 7776,
+      "summaryZh": "DesktopCommanderMCP 是一个 MCP 服务器，赋予 Claude 终端控制、文件搜索和差异编辑能力。它通过标准协议实现桌面级系统操作，支持安全执行命令。适合需要自动化代码编辑和命令行交互的 AI 开发者。",
+      "category": "开发工具",
+      "starsToday": 909
+    },
+    {
+      "repo": "chriskohlhoff/asio",
+      "url": "https://github.com/chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "language": "C++",
+      "stars": 6138,
+      "summaryZh": "Asio 是一个跨平台的 C++ 网络和底层 I/O 库，提供异步通信模型。它支持 TCP、UDP、串口和定时器，采用前摄器或反应器模式，性能高效。适合 C++ 开发者构建高性能网络应用和异步系统。",
+      "category": "开发工具",
+      "starsToday": 76
+    },
+    {
+      "repo": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars": 94568,
+      "summaryZh": "Bun 是一个极速的 JavaScript/TypeScript 运行时、打包器、测试运行器和包管理器，集成了原生 API。基于 JavaScriptCore 引擎和 Zig 编写，启动和运行速度显著快于 Node。适合前端和后端开发者追求高效开发与构建。",
+      "category": "前端",
+      "starsToday": 658
+    },
+    {
+      "repo": "actions/checkout",
+      "url": "https://github.com/actions/checkout",
+      "description": "Action for checking out a repo",
+      "language": "TypeScript",
+      "stars": 8466,
+      "summaryZh": "checkout 是 GitHub Actions 的官方动作，用于将仓库代码签出到工作流环境中。它支持多种协议、子模块和 LFS，参数灵活。适合所有 GitHub 工作流中需要处理仓库代码的场景。",
+      "category": "开发工具",
+      "starsToday": 8
+    },
+    {
+      "repo": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 88699,
+      "summaryZh": "Home Assistant 是一个开源智能家居平台，专注于本地控制与隐私保护。它集成超过 2000 种设备和服务，支持自动化脚本和自定义插件。适合智能家居爱好者用于构建安全、可定制的家庭自动化系统。",
+      "category": "其他",
+      "starsToday": 80
+    },
+    {
+      "repo": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "stars": 136433,
+      "summaryZh": "Microsoft PowerToys 是一套 Windows 实用工具集合，包括 FancyZones（窗口管理）、PowerRename（批量重命名）、颜色选取器等。它充分利用系统底层能力，提升操作效率和个性化定制。适合 Windows 用户增强日常生产力。",
+      "category": "开发工具",
+      "starsToday": 39
+    },
+    {
+      "repo": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "stars": 50623,
+      "summaryZh": "Cypress 是一个基于浏览器的前端测试框架，支持端到端、组件和集成测试。它提供实时重载、时间旅行调试和自动等待，API 简洁直观。适合前端开发者编写快速、可靠的自动化测试。",
+      "category": "开发工具",
+      "starsToday": 19
+    },
+    {
+      "repo": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "stars": 140958,
+      "summaryZh": "Next.js 是流行的 React 全栈框架，支持服务端渲染、静态生成、API 路由和中间件。它内置优化如代码分割和图像优化，提供文件系统路由。适合构建高性能、SEO 友好的 Web 应用和静态网站。",
+      "category": "前端",
+      "starsToday": 334
+    },
+    {
+      "repo": "DayuanJiang/next-ai-draw-io",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "language": "TypeScript",
+      "stars": 33291,
+      "summaryZh": "基于Next.js的智能图表应用，通过自然语言命令即可创建和编辑draw.io图表。适合需要快速生成或修改图表的用户，如产品经理、开发者等。",
+      "category": "开发工具",
+      "starsToday": 81
+    },
+    {
+      "repo": "malisper/pgrust",
+      "url": "https://github.com/malisper/pgrust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "language": "Rust",
+      "stars": 2062,
+      "summaryZh": "用Rust重写的PostgreSQL数据库，已通过全部回归测试。适合追求高性能与内存安全的场景，或作为嵌入式数据库使用。",
+      "category": "开发工具",
+      "starsToday": 774
+    },
+    {
+      "repo": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": 38305,
+      "summaryZh": "微软官方的跨平台Web框架，用于构建现代云应用。支持Windows/Mac/Linux，适合.NET开发者快速搭建高性能Web服务。",
+      "category": "开发工具",
+      "starsToday": 4
+    },
+    {
+      "repo": "prisma/prisma",
+      "url": "https://github.com/prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "language": "TypeScript",
+      "stars": 47259,
+      "summaryZh": "Node.js与TypeScript的下一代ORM，支持PostgreSQL、MySQL等主流数据库。提供类型安全的数据访问与自动迁移，适合后端开发。",
+      "category": "开发工具",
+      "starsToday": 37
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 47936,
+      "summaryZh": "Claude AI的实用技巧与示例集合，包含Jupyter笔记本。展示Claude在编程、创意等领域的应用，适合开发者探索AI能力。",
+      "category": "资料教程",
+      "starsToday": 219
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 252457,
+      "summaryZh": "一套智能体技能框架与软件开发方法，帮助团队高效协作。通过结构化的方法论提升开发效率，适合敏捷团队。",
+      "category": "开发工具",
+      "starsToday": 740
+    },
+    {
+      "repo": "nasa/fprime",
+      "url": "https://github.com/nasa/fprime",
+      "description": "F´ - A flight software and embedded systems framework",
+      "language": "C++",
+      "stars": 11484,
+      "summaryZh": "NASA开源的任务飞行软件与嵌入式框架，用于航天器、无人机等嵌入式系统。采用C++编写，适合高可靠性的实时控制场景。",
+      "category": "其他",
+      "starsToday": 22
+    },
+    {
+      "repo": "ansible/ansible",
+      "url": "https://github.com/ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+      "language": "Python",
+      "stars": 69591,
+      "summaryZh": "开源的IT自动化平台，用于配置管理、应用部署等。基于YAML的Playbooks，简单易用，适合运维人员实现基础架构即代码。",
+      "category": "开发工具",
+      "starsToday": 24
+    },
+    {
+      "repo": "nuxt/nuxt",
+      "url": "https://github.com/nuxt/nuxt",
+      "description": "the full-stack Vue framework",
+      "language": "TypeScript",
+      "stars": 60731,
+      "summaryZh": "全栈Vue框架，提供服务端渲染、静态站点生成等功能。适合构建高性能Vue应用，如官网、后台管理。",
+      "category": "前端",
+      "starsToday": 16
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 2397,
+      "summaryZh": "操作系统分类法项目，提供系统化的OS知识结构。适合学习操作系统原理或作为参考资料。",
+      "category": "资料教程",
+      "createdAt": "2026-07-08T09:27:48Z"
+    },
+    {
+      "repo": "Shpigford/knockoff",
+      "url": "https://github.com/Shpigford/knockoff",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "language": "JavaScript",
+      "stars": 1772,
+      "summaryZh": "Chrome扩展，过滤亚马逊上的伪品牌商品。帮助消费者识别并购买真实品牌产品，提升购物体验。",
+      "category": "其他",
+      "createdAt": "2026-07-06T15:06:06Z"
+    },
+    {
+      "repo": "MaximeRivest/riddle",
+      "url": "https://github.com/MaximeRivest/riddle",
+      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "language": "Rust",
+      "stars": 1405,
+      "summaryZh": "为reMarkable Paper Pro设计的交互式日记，手写输入后自动生成AI回复。适合喜欢手写笔记并希望获得智能反馈的用户。",
+      "category": "其他",
+      "createdAt": "2026-07-05T15:48:08Z"
+    },
+    {
+      "repo": "oso95/scroll-world",
+      "url": "https://github.com/oso95/scroll-world",
+      "description": "A skill that turn any brand into a scrollable 3D world",
+      "language": "JavaScript",
+      "stars": 886,
+      "summaryZh": "将品牌转化为可滚动3D世界的JavaScript工具。适合营销设计师创建沉浸式品牌体验，展示产品故事。",
+      "category": "前端",
+      "createdAt": "2026-07-06T21:28:58Z"
+    },
+    {
+      "repo": "514-labs/dnsglobe",
+      "url": "https://github.com/514-labs/dnsglobe",
+      "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+      "language": "Rust",
+      "stars": 816,
+      "summaryZh": "全球DNS传播检测终端工具，实时监测34个公共解析器的记录传播状态并显示世界地图。适合运维和网络工程师。",
+      "category": "开发工具",
+      "createdAt": "2026-07-05T01:03:37Z"
+    },
+    {
+      "repo": "x4gKing/3x-ui-Upgrade",
+      "url": "https://github.com/x4gKing/3x-ui-Upgrade",
+      "description": "",
+      "language": "HTML",
+      "stars": 798,
+      "summaryZh": "可能是3x-UI面板的升级脚本，基于HTML。用于简化代理管理界面的部署与更新，适合需要自建代理的用户。",
+      "category": "其他",
+      "createdAt": "2026-07-08T06:13:23Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-world-v2",
+      "url": "https://github.com/Robbyant/lingbot-world-v2",
+      "description": "Infinite Worlds with Versatile Interactions",
+      "language": "Python",
+      "stars": 794,
+      "summaryZh": "LingBot World 是一个基于 Python 的无限世界生成与交互工具，模拟多样场景。其技术亮点在于高度灵活的交互机制与模块化架构，适合游戏开发者或 AI 研究者用于虚拟环境测试和内容生成。",
+      "category": "游戏",
+      "createdAt": "2026-07-08T09:24:50Z"
+    },
+    {
+      "repo": "simonlin1212/Vibe-Research",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "language": "TypeScript",
+      "stars": 726,
+      "summaryZh": "Vibe-Research 是一款个人投资研究 Agent，覆盖 A股、美股、港股，提供每日复盘、资讯雷达、个股数据等功能。核心亮点是 AI 驱动的一站式研究体验，适合投资者和交易员快速决策。",
+      "category": "开发工具",
+      "createdAt": "2026-07-05T06:30:55Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-video",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "language": "Python",
+      "stars": 678,
+      "summaryZh": "LingBot Video 是面向具身智能的混合专家视频预训练框架，通过大规模视频数据提升机器人感知和决策能力。技术核心是 MoE 架构和视频预训练，适合机器人或自动驾驶研究者。",
+      "category": "AI",
+      "createdAt": "2026-07-08T13:52:08Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-vision",
+      "url": "https://github.com/Robbyant/lingbot-vision",
+      "description": "Self-supervised learning for spatial perception",
+      "language": "Python",
+      "stars": 634,
+      "summaryZh": "LingBot Vision 是用于空间感知的自监督学习系统，从无标注数据中学习视觉特征。它适合计算机视觉研究人员或机器人开发者，用于提升环境理解和导航能力。",
+      "category": "AI",
+      "createdAt": "2026-07-06T14:09:42Z"
+    },
+    {
+      "repo": "op7418/guizang-material-illustration",
+      "url": "https://github.com/op7418/guizang-material-illustration",
+      "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "language": "",
+      "stars": 557,
+      "summaryZh": "这是一个材质插画技能库，能生成带文字的解释图、图表美化及参考配图。核心功能是自动化图形设计，适合内容创作者、教育者或设计师快速制作专业插画。",
+      "category": "其他",
+      "createdAt": "2026-07-07T13:57:13Z"
+    },
+    {
+      "repo": "nagisanzenin/engram",
+      "url": "https://github.com/nagisanzenin/engram",
+      "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+      "language": "Python",
+      "stars": 512,
+      "summaryZh": "Engram 是一个基于证据的学习引擎，集成于 Claude Code，提供第一性原理课程、自由回忆验证、FSRS 调度记忆等。适合学习者或开发者用于高效知识掌握和长期记忆。",
+      "category": "资料教程",
+      "createdAt": "2026-07-05T09:53:10Z"
+    },
+    {
+      "repo": "x4gKing/PasarGuard",
+      "url": "https://github.com/x4gKing/PasarGuard",
+      "description": "",
+      "language": "Dockerfile",
+      "stars": 476,
+      "summaryZh": "PasarGuard 项目暂无详细描述，但从 Dockerfile 推测可能是安全或容器相关工具。适合需要容器化部署或安全管理的开发者。",
+      "category": "其他",
+      "createdAt": "2026-07-05T18:55:14Z"
+    },
+    {
+      "repo": "V4bel/Januscape",
+      "url": "https://github.com/V4bel/Januscape",
+      "description": "",
+      "language": "C",
+      "stars": 472,
+      "summaryZh": "Januscape 是一个 C 语言项目，描述暂缺。可能涉及图形或系统底层开发，适合系统程序员或嵌入式开发者。",
+      "category": "其他",
+      "createdAt": "2026-07-06T15:35:00Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-vla-v2",
+      "url": "https://github.com/Robbyant/lingbot-vla-v2",
+      "description": "From Foundation to Application",
+      "language": "Python",
+      "stars": 449,
+      "summaryZh": "LingBot VLA v2 是从基础到应用的视觉-语言-动作模型，旨在连接感知与行动。它适合具身智能和机器人领域的研究人员，用于构建更智能的决策系统。",
+      "category": "AI",
+      "createdAt": "2026-07-07T16:48:56Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "can1357/pon",
+      "url": "https://github.com/can1357/pon",
+      "description": "Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
+      "language": "Rust",
+      "stars": 446,
+      "summaryZh": "pon 是 Python 3.14 的原生编译器与运行时，用 Rust 实现，支持 JIT 和 AoT 编译。它采用 Cranelift 后端、ruff 解析器和 Green Tea GC，适合对性能有极致要求的高级 Python 开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +266（+148%）",
+      "reasonZh": "把 Python 3.14 编译成原生机器码，JIT 和 AOT 都有，性能接近 C 语言。用 Rust 写的，Cranelift 后端，还带自己的 Green Tea GC，跟 CPython 做逐字节差异测试。适合想把 Python 写的东西跑得飞快的场景。"
+    },
+    {
+      "repo": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 4048,
+      "summaryZh": "Colibri 能在 25GB 内存的消费级机器上运行 744B 参数的大型 MoE 模型 GLM-5.2。纯 C 实现，零依赖，从磁盘流式加载专家权重。适合 AI 研究者或工程师在低成本硬件上部署大模型。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 890 分 · 230 评论",
+      "reasonZh": "能在 25GB 内存的消费级电脑上跑 744B 参数的 GLM-5.2 模型，纯 C 实现、零依赖，专家参数从硬盘流式加载。同类模型通常要多个 GPU，这个用磁盘换内存，平民也能玩大模型。适合本地跑超大规模推理。"
+    },
+    {
+      "repo": "elder-plinius/T3MP3ST",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "language": "TypeScript",
+      "stars": 4436,
+      "summaryZh": "T3MP3ST 是一个自主红队平台，具备多智能体对抗性安全测试能力。核心是自动化渗透测试和元框架设计，适合安全研究员和红队工程师评估系统防御。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +2771（+166%）",
+      "reasonZh": "多智能体自主红队平台，自动对 LLM 进行安全攻击测试。比手动渗透测试高效，能发现隐藏漏洞。适合 AI 团队在上线前做安全评估。"
+    },
+    {
+      "repo": "kerlenton/mcpsnoop",
+      "url": "https://github.com/kerlenton/mcpsnoop",
+      "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+      "language": "Go",
+      "stars": 253,
+      "summaryZh": "mcpsnoop 是 MCP 的 Wireshark，作为透明代理实时显示 AI 客户端与 MCP 服务器间的工具调用。它适合开发人员调试 MCP 应用，或安全审计追踪。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +71（+39%）",
+      "reasonZh": "MCP 的 Wireshark，透明代理拦截 AI 客户端和 MCP 服务器之间的所有工具调用，实时展示在终端。调试 AI Agent 时看清到底调了啥接口，比盲猜靠谱得多。"
+    },
+    {
+      "repo": "MaximeRivest/Riddle",
+      "url": "https://github.com/MaximeRivest/riddle",
+      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "language": "Rust",
+      "stars": 1405,
+      "summaryZh": "Riddle 是 reMarkable 平板上的交互式日记应用，用触笔书写后页面会动态响应。核心是手写识别与自然交互，适合喜欢数字手写笔记的用户。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +928（+195%）",
+      "reasonZh": "给 reMarkable 电纸书写的交互式笔记本——你用笔写，它会用花体字回答，仿佛真在跟日记本对话。不只是一个笔记应用，而是一种沉浸式的魔法体验。适合喜欢新奇书写工具和哈利波特迷。"
+    },
+    {
+      "repo": "ammaarreshi/Generals-Mac-iOS-iPad",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+      "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
+      "language": "C++",
+      "stars": 1417,
+      "summaryZh": "该项目将《命令与征服：将军》移植到 macOS、iPhone 和 iPad 上运行，采用原生引擎和 DXVK/MoltenVK 渲染。它支持 RTS 触控操作，适合策略游戏玩家在移动设备上体验经典作品。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +621（+78%）",
+      "reasonZh": "在 Mac、iPhone、iPad 上原生运行《将军：绝命时刻》，基于 GPL 的 GeneralsX 引擎，DXVK/MoltenVK 渲染，触控操作。手机玩 RTS 经典，而且真开源，不是模拟器壳。"
+    },
+    {
+      "repo": "4thfever/cultivation-world-simulator",
+      "url": "https://github.com/4thfever/cultivation-world-simulator",
+      "description": "基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world. ",
+      "language": "Python",
+      "stars": 1924,
+      "summaryZh": "基于 AI Agent 工作流的开源修仙世界模拟器，构建动态涌现的仙侠世界。核心功能包括智能 NPC 自主交互、环境演化与剧情生成，技术亮点是 Agentic Workflow 驱动的生态模拟。适合仙侠题材爱好者、游戏开发者及 AI 模拟研究者探索沉浸式虚拟世界。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "用 AI Agent 工作流驱动的仙侠世界模拟器，角色自主行动，世界动态演化。不是固定剧情，而是 emergent 的开放世界。适合程序员修仙爱好者兼想跑大模型仿真的玩家。"
+    },
+    {
+      "repo": "xuchonglang/investing-for-beginners",
+      "url": "https://github.com/xuchonglang/investing-for-beginners",
+      "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "language": "",
+      "stars": 1812,
+      "summaryZh": "小隐寺投资百科官方公开索引，系统梳理美股、期权与加密货币知识框架。核心功能是提供结构化投资学习路径，涵盖基础概念、策略分析和工具使用。适合投资新手或希望系统学习金融知识的读者快速入门。",
+      "category": "资料教程",
+      "source": "dark-horse",
+      "signal": "周涨星 +1167（+181%）",
+      "reasonZh": "结构清晰的投资百科，覆盖美股、期权、加密货币，适合小白入门。不是割韭菜教程，而是框架性知识库。想做投资但不知从哪学起的人可以当导航用。"
+    },
+    {
+      "repo": "maximqaxd/wince-dc",
+      "url": "https://github.com/maximqaxd/wince-dc",
+      "description": "Windows CE Dreamcast Community Edition",
+      "language": "C",
+      "stars": 105,
+      "summaryZh": "Windows CE Dreamcast 社区版，旨在将 Windows CE 系统移植到世嘉 Dreamcast 主机。核心技术是适配嵌入式硬件并优化运行效率，实现游戏机运行桌面级操作系统。适合复古游戏爱好者、嵌入式开发者和 Dreamcast 极客进行怀旧或实验性开发。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +38（+57%）",
+      "reasonZh": "给 Dreamcast 移植 Windows CE 系统的社区版，让怀旧游戏机跑上另一个操作系统。硬核复古玩家和系统爱好者会喜欢，它复活了主机的另一种可能。"
+    }
+  ]
+}
