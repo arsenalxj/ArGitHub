@@ -1,0 +1,437 @@
+{
+  "date": "2026-07-13",
+  "trending": [
+    {
+      "repo": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars": 2904,
+      "summaryZh": "一个用Rust编写的命令行工具，用于拦截并阻止AI代理执行危险的git和shell命令，如强制删除分支等。通过规则引擎和命令白名单机制，有效防止自动化脚本误操作导致数据丢失。适合在CI/CD流水线或AI辅助开发环境中使用。",
+      "category": "开发工具",
+      "starsToday": 444
+    },
+    {
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 7990,
+      "summaryZh": "为Claude AI提供的MCP服务器，使其能够通过终端控制电脑，包括文件系统搜索和差异文件编辑。核心亮点是赋予AI直接操作OS的能力，支持模糊搜索和增量修改。适合开发者用来构建自动化工作流或增强AI的实用功能。",
+      "category": "开发工具",
+      "starsToday": 210
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 20554,
+      "summaryZh": "基于Python的个人交易代理，通过AI分析市场情绪和趋势，自动执行交易策略。核心技术包括情感分析和强化学习，支持多种金融产品。适合量化交易爱好者或需要半自动交易工具的投资者。",
+      "category": "AI",
+      "starsToday": 768
+    },
+    {
+      "repo": "PrefectHQ/prefect",
+      "url": "https://github.com/PrefectHQ/prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "language": "Python",
+      "stars": 23145,
+      "summaryZh": "一个Python工作流编排框架，用于构建弹性的数据管道。提供任务调度、重试、日志和可视化监控，支持动态DAG和异步执行。适合数据工程师和ML工程师处理复杂ETL流程或ML训练管线。",
+      "category": "资料教程",
+      "starsToday": 66
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": 118532,
+      "summaryZh": "包含100多个可运行的AI Agent和RAG应用的集合，涵盖代码、文档和可部署配置。亮点是即克隆即用，覆盖问答、搜索、对话等场景。适合AI应用开发者快速参考和二次开发。",
+      "category": "AI",
+      "starsToday": 408
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 48411,
+      "summaryZh": "Jupyter Notebook形式的Claude使用指南，包含函数调用、多模态、安全防护等实战范例。每个Notebook可独立运行，配有详细注释。适合希望深入掌握Claude能力的开发者或研究人员。",
+      "category": "资料教程",
+      "starsToday": 459
+    },
+    {
+      "repo": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 89064,
+      "summaryZh": "开源的家庭自动化平台，强调本地控制和隐私保护。支持数千种设备集成，提供自动化规则引擎和自定义面板。适合追求智能家居隐私的用户和DIY爱好者。",
+      "category": "其他",
+      "starsToday": 400
+    },
+    {
+      "repo": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars": 33806,
+      "summaryZh": "自包含的离线生存计算机，集成关键工具、知识库和AI，可在无网络环境下运行。核心特点是离线AI助手和应急指南。适合户外探险、灾难应急或偏远地区使用。",
+      "category": "其他",
+      "starsToday": 125
+    },
+    {
+      "repo": "ColeMurray/background-agents",
+      "url": "https://github.com/ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
+      "language": "TypeScript",
+      "stars": 2258,
+      "summaryZh": "开源的后台代理编程系统，允许开发者创建常驻后台的AI代理执行长期任务。支持事件驱动和定时触发，与IDE集成。适合需要自动化代码审查、测试或监控的团队。",
+      "category": "开发工具",
+      "starsToday": 16
+    },
+    {
+      "repo": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "stars": 6954,
+      "summaryZh": "为游戏修改工具Wand（WeMod）提供的增强扩展，改善用户体验和互操作性。核心功能包括快捷键自定义、游戏配置同步和界面优化。适合游戏爱好者和Mod玩家提升使用效率。",
+      "category": "游戏",
+      "starsToday": 609
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 13745,
+      "summaryZh": "一个基于TypeScript的代码运行和分享平台，支持即时执行、协作文档和多种语言。亮点是零配置启动和内置包管理器。适合开发者快速测试代码片段或构建交互式教程。",
+      "category": "开发工具",
+      "starsToday": 75
+    },
+    {
+      "repo": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 61400,
+      "summaryZh": "一个由AI驱动的对冲基金模拟系统，包含多个交易代理相互协作。利用机器学习分析市场数据并生成交易信号。适合金融科技学习者和算法交易研究人员实验。",
+      "category": "AI",
+      "starsToday": 115
+    },
+    {
+      "repo": "chen08209/FlClash",
+      "url": "https://github.com/chen08209/FlClash",
+      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "language": "Dart",
+      "stars": 45221,
+      "summaryZh": "基于ClashMeta的多平台代理客户端，界面简洁、开源无广告。支持一键配置和规则分组，兼容Windows/macOS/Android。适合需要科学上网的用户或网络管理员。",
+      "category": "开发工具",
+      "starsToday": 154
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": 29237,
+      "summaryZh": "用于配置和监控Claude Code的CLI工具，支持模板管理和性能监控。核心是提供可复用的代码风格和规则集。适合使用Claude进行代码生成的开发者标准化输出。",
+      "category": "AI",
+      "starsToday": 274
+    },
+    {
+      "repo": "par274/sharpemu",
+      "url": "https://github.com/par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "language": "C#",
+      "stars": 1261,
+      "summaryZh": "实验性的PlayStation 5模拟器项目，用C#开发。目标是实现部分PS5游戏的兼容运行，目前处于早期阶段。适合模拟器爱好者和逆向工程研究人员。",
+      "category": "游戏",
+      "starsToday": 314
+    },
+    {
+      "repo": "malisper/pgrust",
+      "url": "https://github.com/malisper/pgrust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "language": "Rust",
+      "stars": 2468,
+      "summaryZh": "用 Rust 重写 PostgreSQL，已通过 100% 回归测试，兼具 Rust 的安全性和性能优势。适合需要高性能、内存安全数据库的高负载场景，或想探索 Rust 数据库实现的开发者。",
+      "category": "开发工具",
+      "starsToday": 518
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 4274,
+      "summaryZh": "面向 Claude Code、Cursor 等 AI 编程助手的设计技能，能够生成高质量、反 AI 套路的 UI 设计。适合 AI 开发者提升协作代码的设计水准，避免同质化。",
+      "category": "AI",
+      "starsToday": 155
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 2696,
+      "summaryZh": "开源分类法工具，用于组织和标记知识或资源，基于 JavaScript 实现灵活的分类结构。适合需要建立自定义分类体系的研究者或内容管理者。",
+      "category": "其他",
+      "createdAt": "2026-07-08T09:27:48Z"
+    },
+    {
+      "repo": "Shpigford/knockoff",
+      "url": "https://github.com/Shpigford/knockoff",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "language": "JavaScript",
+      "stars": 1825,
+      "summaryZh": "Chrome 扩展，自动过滤亚马逊搜索结果中的山寨伪品牌，仅显示真实知名品牌。适合在亚马逊购物的用户，节省筛选时间并避免买到劣质产品。",
+      "category": "其他",
+      "createdAt": "2026-07-06T15:06:06Z"
+    },
+    {
+      "repo": "oso95/scroll-world",
+      "url": "https://github.com/oso95/scroll-world",
+      "description": "A skill that turn any brand into a scrollable 3D world",
+      "language": "JavaScript",
+      "stars": 1256,
+      "summaryZh": "一种将任意品牌转换为可滚动 3D 世界的技能，提供沉浸式品牌展示体验。适合品牌营销人员或创意开发者制作互动广告。",
+      "category": "AI",
+      "createdAt": "2026-07-06T21:28:58Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-world-v2",
+      "url": "https://github.com/Robbyant/lingbot-world-v2",
+      "description": "Infinite Worlds with Versatile Interactions",
+      "language": "Python",
+      "stars": 925,
+      "summaryZh": "支持无限世界与多样化交互的 AI 框架，基于 Python 实现灵活的场景扩展。适合构建开放世界游戏或虚拟环境的研究者与开发者。",
+      "category": "AI",
+      "createdAt": "2026-07-08T09:24:50Z"
+    },
+    {
+      "repo": "x4gKing/3x-ui-Upgrade",
+      "url": "https://github.com/x4gKing/3x-ui-Upgrade",
+      "description": "",
+      "language": "HTML",
+      "stars": 890,
+      "summaryZh": "3X-UI 面板的升级版本，提供更友好的管理界面和性能优化，基于 HTML。适合需要高效管理代理服务的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-07-08T06:13:23Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-video",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "language": "Python",
+      "stars": 711,
+      "summaryZh": "面向具身智能的 Mixture-of-Experts 视频预训练模型，通过扩展专家规模提升视频理解能力。适合机器人或自动驾驶领域的视频感知研究。",
+      "category": "AI",
+      "createdAt": "2026-07-08T13:52:08Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-vision",
+      "url": "https://github.com/Robbyant/lingbot-vision",
+      "description": "Self-supervised learning for spatial perception",
+      "language": "Python",
+      "stars": 677,
+      "summaryZh": "用于空间感知的自监督学习模型，无需标签即可学习环境结构。适合机器人导航或 AR/VR 中的空间理解任务。",
+      "category": "AI",
+      "createdAt": "2026-07-06T14:09:42Z"
+    },
+    {
+      "repo": "mereyabdenbekuly-ctrl/clodex-ide",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "language": "TypeScript",
+      "stars": 639,
+      "summaryZh": "本地优先、零信任的智能 IDE，支持可验证的自主软件开发，确保代码安全与可审计。适合对安全性要求高的企业或开源项目。",
+      "category": "开发工具",
+      "createdAt": "2026-07-12T10:35:44Z"
+    },
+    {
+      "repo": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "language": "Python",
+      "stars": 598,
+      "summaryZh": "Codex 插件，将物体图像转化为纯代码的 Three.js 模型，支持动画就绪。适合 Three.js 开发者快速生成 3D 资产。",
+      "category": "开发工具",
+      "createdAt": "2026-07-09T16:23:29Z"
+    },
+    {
+      "repo": "op7418/guizang-material-illustration",
+      "url": "https://github.com/op7418/guizang-material-illustration",
+      "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "language": "",
+      "stars": 587,
+      "summaryZh": "归藏的材质插画技能，可生成带文字解释的图表、美化参考图等，以辅助配图。适合设计师或内容创作者快速制作说明性插画。",
+      "category": "AI",
+      "createdAt": "2026-07-07T13:57:13Z"
+    },
+    {
+      "repo": "x4gKing/PasarGuard-Node",
+      "url": "https://github.com/x4gKing/PasarGuard-Node",
+      "description": "",
+      "language": "Dockerfile",
+      "stars": 488,
+      "summaryZh": "流量的防护节点配置，基于 Dockerfile 部署，用于代理或安全节点。适合需要稳定中转或加密通信的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-07-06T07:02:26Z"
+    },
+    {
+      "repo": "xiaotianfotos/homerail",
+      "url": "https://github.com/xiaotianfotos/homerail",
+      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
+      "language": "TypeScript",
+      "stars": 487,
+      "summaryZh": "语音优先的本地智能体编排运行时，支持可审计的 DAG 工作流。适合构建家庭自动化或隐私敏感的语音控制流程。",
+      "category": "AI",
+      "createdAt": "2026-07-07T12:11:18Z"
+    },
+    {
+      "repo": "V4bel/Januscape",
+      "url": "https://github.com/V4bel/Januscape",
+      "description": "",
+      "language": "C",
+      "stars": 479,
+      "summaryZh": "基于 C 语言的系统工具或库，具体功能未详述，但可能与跨平台或底层操作相关。适合需要轻量级系统层功能的开发者。",
+      "category": "其他",
+      "createdAt": "2026-07-06T15:35:00Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-vla-v2",
+      "url": "https://github.com/Robbyant/lingbot-vla-v2",
+      "description": "From Foundation to Application",
+      "language": "Python",
+      "stars": 470,
+      "summaryZh": "这是一个基于 Python 的机器人框架，从基础实现到实际应用。核心技术亮点在于其模块化设计和可扩展性，适合机器人开发者和爱好者快速构建自定义机器人。",
+      "category": "开发工具",
+      "createdAt": "2026-07-07T16:48:56Z"
+    },
+    {
+      "repo": "yusukebe/ax",
+      "url": "https://github.com/yusukebe/ax",
+      "description": "The AI-era curl",
+      "language": "TypeScript",
+      "stars": 422,
+      "summaryZh": "这是一款用 TypeScript 编写的类 curl 网络请求工具，专为 AI 时代设计。支持流式响应和高级特性，适合开发者调试 AI 接口或自动化测试。",
+      "category": "开发工具",
+      "createdAt": "2026-07-06T09:39:01Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "cosmtrek/mindwalk",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "language": "Go",
+      "stars": 318,
+      "summaryZh": "一个 Go 语言编写的可视化工具，能在代码库的 3D 地图上回放编码代理的会话过程。适合需要理解 AI 编码助手行为的开发者和研究者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 148 分 · 62 评论",
+      "reasonZh": "把代码库变成3D地图，回放AI编程助手的操作路径，可视化超酷。和普通日志分析器不同，它用空间映射帮你直观理解agent的决策过程，适合复盘或教学时看AI咋一步步写代码的。"
+    },
+    {
+      "repo": "hasenj/go-shirei",
+      "url": "https://github.com/hasenj/go-shirei",
+      "description": "Go based GUI framework: practical, immediate mode, flexbox model",
+      "language": "Go",
+      "stars": 249,
+      "summaryZh": "一个基于 Go 的即时模式 GUI 框架，采用 flexbox 布局模型，注重实用性和性能。适合 Go 开发者快速构建跨平台桌面应用。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 75 分 · 46 评论",
+      "reasonZh": "Go原生的即时模式GUI框架，采用flexbox布局，简洁实用。和大多数需要复杂回调的GUI框架不同，它更接近游戏UI的思路，适合用Go写工具界面或快速原型。"
+    },
+    {
+      "repo": "Wren6991/RISCBoy",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "description": "Portable games console, designed from scratch: CPU, graphics, PCB, and the kitchen sink",
+      "language": "C",
+      "stars": 468,
+      "summaryZh": "一款从头设计的便携式游戏机，包括 CPU、图形、PCB 和全部软硬件。核心亮点是完整自研的 RISC-V 架构，适合硬件爱好者和嵌入式开发者学习。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 201 分 · 32 评论",
+      "reasonZh": "从零设计CPU、图形、PCB到游戏机整机，硬核玩家的浪漫。和一般模拟器不同，这是真正的硬件实现，适合嵌入式/硬件爱好者学习完整系统设计，甚至复刻一台掌机。"
+    },
+    {
+      "repo": "jimparis/qr-font",
+      "url": "https://github.com/jimparis/qr-font",
+      "description": "A QR code generator in a TrueType font: https://qr.jim.sh/",
+      "language": "Python",
+      "stars": 464,
+      "summaryZh": "一个 Python 实现的 TrueType 字体，可直接生成 QR 码。无需额外工具即可在文档或网页中嵌入二维码，适合需要动态生成 QR 码的开发者。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +244（+111%）",
+      "reasonZh": "用一个字体文件就能生成二维码，创意满分。比找在线生成器或库更轻量，直接在文本编辑器里打几个字就出码，适合文档、名片等场景快速嵌入二维码。"
+    },
+    {
+      "repo": "pIat0n/BareMetal-RAM-Dumper",
+      "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+      "description": "A bare-metal x86 utility to dump physical RAM directly to disk. Built and tested for Cold Boot Attack experiments on frozen memory.",
+      "language": "Assembly",
+      "stars": 99,
+      "summaryZh": "一个裸机 x86 工具，用于将物理内存直接转储到磁盘，专为冷启动攻击实验设计。适合安全研究人员测试内存残留数据提取。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +23（+30%）",
+      "reasonZh": "裸机x86工具直接读取物理内存并写入磁盘，专为冷启动攻击实验设计。和普通内存抓取工具不同，它无需操作系统，适合安全研究人员研究内存残留数据和冷启动攻击。"
+    },
+    {
+      "repo": "can1357/pon",
+      "url": "https://github.com/can1357/pon",
+      "description": "Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
+      "language": "Rust",
+      "stars": 456,
+      "summaryZh": "一个用 Rust 实现的 Python 3.14 原生编译器，具备 JIT 和 AoT 编译能力，后端使用 Cranelift。特点是字节精确差分测试，适合追求 Python 性能优化的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +276（+153%）",
+      "reasonZh": "把Python 3.14直接编译成机器码，JIT和AoT都有，性能炸裂。和Cython/Numba不同，它原生支持Python语法且差分测试确保兼容，适合需要Python便利但追求C速度的场景。"
+    },
+    {
+      "repo": "lingbol088-spec/reverse-flow-skill",
+      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "language": "Python",
+      "stars": 518,
+      "summaryZh": "面向 AI Agent 的本地 CTF 逆向工程流程技能，支持交互式逆向模式。按分析到漏洞研判的标准化流程推进，适合 CTF 选手和安全工程师。",
+      "category": "资料教程",
+      "source": "dark-horse",
+      "signal": "周涨星 +129（+33%）",
+      "reasonZh": "给AI代理用的逆向工程流程技能，加载后自动按分析→逆向→漏洞研判推进。和通用prompt不同，它内置CTF级工作流，适合安全训练靶场或辅助逆向分析。"
+    },
+    {
+      "repo": "514-labs/dnsglobe",
+      "url": "https://github.com/514-labs/dnsglobe",
+      "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+      "language": "Rust",
+      "stars": 843,
+      "summaryZh": "一个 Rust 编写的全球 DNS 传播检查 TUI 工具，可在终端地图上观察记录在 34 个公共解析器上的传播情况。适合网络管理员和 DevOps 人员。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +304（+56%）",
+      "reasonZh": "终端里的全球DNS传播地图，实时查看34个公共解析器的记录状态。同类工具多是网页，这个用TUI直接展示世界地图，适合运维/开发者快速确认DNS生效情况。"
+    },
+    {
+      "repo": "MaximeRivest/Riddle",
+      "url": "https://github.com/MaximeRivest/riddle",
+      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "language": "Rust",
+      "stars": 1468,
+      "summaryZh": "为 reMarkable Paper Pro 设计的笔记本应用，用笔书写后页面会以流畅手写体回应。核心亮点是拟真手写交互，适合喜欢纸质书写体验的电子笔记用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +991（+208%）",
+      "reasonZh": "在reMarkable电纸书上复刻汤姆·里德尔的日记，手写即交互，墨水会“喝掉”你的字并回复。和普通笔记应用不同，它结合角色扮演和书法体验，适合哈利波特粉或想给电纸书加点魔法。"
+    }
+  ]
+}
