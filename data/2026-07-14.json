@@ -1,0 +1,379 @@
+{
+  "date": "2026-07-14",
+  "trending": [
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 66331,
+      "summaryZh": "开源视频剪辑应用，类似 CapCut。核心功能为跨平台视频编辑，支持多轨道、特效等，界面友好。适合个人创作者及需要免费替代方案的用户。",
+      "category": "开发工具",
+      "starsToday": 1229
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 21745,
+      "summaryZh": "个人交易代理，利用 AI 分析市场情绪辅助决策。支持实时数据获取和策略生成，适合量化交易爱好者或投资者进行回测与实盘。",
+      "category": "AI",
+      "starsToday": 1153
+    },
+    {
+      "repo": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 41869,
+      "summaryZh": "自托管 AI 伴侣，类似 Neuro-sama，支持实时语音聊天、Minecraft 交互等。技术亮点为多模态交互与可定制化性格，适合二次元爱好者或 AI 玩家。",
+      "category": "AI",
+      "starsToday": 78
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": 119599,
+      "summaryZh": "100+ 可运行 AI 代理与 RAG 应用集合，涵盖多种场景。核心优势是即克隆即用，技术栈基于 Python，适合开发者快速部署 LLM 应用。",
+      "category": "AI",
+      "starsToday": 996
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 5142,
+      "summaryZh": "针对 Claude Code 等 AI 编码工具的设计规范，防止生成低质量 UI。核心亮点是反“AI 味”的样式指南，适合追求界面美观的开发者。",
+      "category": "前端",
+      "starsToday": 794
+    },
+    {
+      "repo": "Raphire/Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "stars": 50867,
+      "summaryZh": "Windows 11 去臃肿脚本，可移除预装应用和禁用遥测。轻量级 PowerShell 实现，适合追求系统清爽的个人用户或管理员。",
+      "category": "开发工具",
+      "starsToday": 118
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars": 84706,
+      "summaryZh": "AI 编码助手插件，可将代码、文档等文件夹转化为可查询知识图谱。支持多种 IDE，适合需要快速理解项目结构的开发者。",
+      "category": "AI",
+      "starsToday": 1095
+    },
+    {
+      "repo": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars": 12615,
+      "summaryZh": "1324 个健身动作数据集，含动画 GIF、肌肉群分组及多语言说明。技术亮点为结构化数据，适合健身应用开发者或机器学习研究人员。",
+      "category": "资料教程",
+      "starsToday": 451
+    },
+    {
+      "repo": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 120587,
+      "summaryZh": "GitHub 官方工具包，助力规范驱动开发。提供脚手架和最佳实践，适合团队建立统一的 API 或文档规范。",
+      "category": "开发工具",
+      "starsToday": 543
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 38561,
+      "summaryZh": "为 Claude Code 等 AI 代理提供的营销技能集，涵盖 SEO、文案等。核心亮点是模块化知识库，适合自动化营销场景的开发者。",
+      "category": "AI",
+      "starsToday": 299
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 2917,
+      "summaryZh": "开源操作系统分类法，定义系统类型与关系。适合研究操作系统演进或开发相关工具的技术人员。",
+      "category": "其他",
+      "createdAt": "2026-07-08T09:27:48Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-world-v2",
+      "url": "https://github.com/Robbyant/lingbot-world-v2",
+      "description": "Infinite Worlds with Versatile Interactions",
+      "language": "Python",
+      "stars": 1031,
+      "summaryZh": "无限交互世界模拟框架，支持多样化的角色与环境交互。技术亮点为高扩展性，适合游戏开发者或 AI 研究场景。",
+      "category": "游戏",
+      "createdAt": "2026-07-08T09:24:50Z"
+    },
+    {
+      "repo": "x4gKing/3x-ui-Upgrade",
+      "url": "https://github.com/x4gKing/3x-ui-Upgrade",
+      "description": "",
+      "language": "HTML",
+      "stars": 955,
+      "summaryZh": "3X-UI 面板升级脚本，提供界面优化与功能增强。适合自建代理服务的管理员快速部署改进。",
+      "category": "开发工具",
+      "createdAt": "2026-07-08T06:13:23Z"
+    },
+    {
+      "repo": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "language": "Python",
+      "stars": 853,
+      "summaryZh": "Codex 插件，将图片转为可动画的 Three.js 3D 模型。技术亮点为直接代码生成，适合前端开发者或三维设计师。",
+      "category": "前端",
+      "createdAt": "2026-07-09T16:23:29Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-video",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "language": "Python",
+      "stars": 755,
+      "summaryZh": "混合专家视频预训练框架，面向具身智能。技术亮点为 MoE 架构与大规模视频数据，适合 AI 研究员或机器人领域开发者。",
+      "category": "AI",
+      "createdAt": "2026-07-08T13:52:08Z"
+    },
+    {
+      "repo": "mereyabdenbekuly-ctrl/clodex-ide",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "language": "TypeScript",
+      "stars": 696,
+      "summaryZh": "本地优先、零信任的自主代理 IDE，实现可验证的自动化软件开发。核心采用安全沙箱隔离和可审计执行追踪，适合对安全性和可靠性要求高的企业级开发场景。",
+      "category": "开发工具",
+      "createdAt": "2026-07-12T10:35:44Z"
+    },
+    {
+      "repo": "littledivy/mimic",
+      "url": "https://github.com/littledivy/mimic",
+      "description": "Intercept any app, then call it from Python like a library",
+      "language": "Python",
+      "stars": 677,
+      "summaryZh": "拦截任意桌面应用，然后像调用 Python 库一样通过代码操控它。基于 UI 自动化和进程注入技术，适合需要自动化第三方 GUI 工具的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-13T05:13:00Z"
+    },
+    {
+      "repo": "MDX-Tom/gpt-5.6-instruct",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "language": "Python",
+      "stars": 662,
+      "summaryZh": "针对 GPT-5.6 系列的 Codex CLI 越狱提示词与测试包，用于突破模型限制。包含精心设计的 prompt 和自动化测试脚本，适合 AI 安全研究人员和 red team 测试使用。",
+      "category": "AI",
+      "createdAt": "2026-07-11T09:44:24Z"
+    },
+    {
+      "repo": "op7418/guizang-material-illustration",
+      "url": "https://github.com/op7418/guizang-material-illustration",
+      "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "language": "",
+      "stars": 630,
+      "summaryZh": "归藏的材质插画 Skill，支持生成带文字解释的配图、图表美化和参考辅助。利用 AI 绘画实现视觉素材快速产出，适合设计师、自媒体和文档撰写者使用。",
+      "category": "AI",
+      "createdAt": "2026-07-07T13:57:13Z"
+    },
+    {
+      "repo": "William-Lu-stack/LuxyAI",
+      "url": "https://github.com/William-Lu-stack/LuxyAI",
+      "description": "AgenticOps for Kubernetes and cloud infrastructure.",
+      "language": "Python",
+      "stars": 545,
+      "summaryZh": "面向 Kubernetes 和云基础设施的智能运维代理，可自动诊断问题并执行修复。结合 Ansible 和 Prometheus 数据，实现事件驱动的自动化操作，适合 DevOps 团队。",
+      "category": "AI",
+      "createdAt": "2026-07-10T05:57:02Z"
+    },
+    {
+      "repo": "Robbyant/lingbot-vla-v2",
+      "url": "https://github.com/Robbyant/lingbot-vla-v2",
+      "description": "From Foundation to Application",
+      "language": "Python",
+      "stars": 515,
+      "summaryZh": "从底层到应用的完整机器人智能体框架，支持多模态感知和任务规划。核心采用 VLA（视觉-语言-动作）模型，适合机器人研究和原型开发。",
+      "category": "AI",
+      "createdAt": "2026-07-07T16:48:56Z"
+    },
+    {
+      "repo": "xiaotianfotos/homerail",
+      "url": "https://github.com/xiaotianfotos/homerail",
+      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
+      "language": "TypeScript",
+      "stars": 507,
+      "summaryZh": "语音优先的本地代理编排运行时，用于可审计的有向无环图工作流。通过自然语言定义工作流节点和依赖，支持语音交互和日志审计，适合智能家居和自动化脚本场景。",
+      "category": "AI",
+      "createdAt": "2026-07-07T12:11:18Z"
+    },
+    {
+      "repo": "cosmtrek/mindwalk",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "language": "Go",
+      "stars": 486,
+      "summaryZh": "将编程代理的代码操作会话回放在代码库的 3D 地图上，可视化理解和调试代理行为。采用三维力导向图展示文件依赖和历史变迁，适合开发者跟踪 AI 编程助手的决策过程。",
+      "category": "开发工具",
+      "createdAt": "2026-07-09T11:41:46Z"
+    },
+    {
+      "repo": "AlephAITech/WorkBuddyGuide",
+      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "language": "Python",
+      "stars": 483,
+      "summaryZh": "开源 WorkBuddy 实战蓝皮书，涵盖教程、真实工作流、Skills、MCP、自动化和多智能体实践。基于生产案例编写，适合希望快速掌握 WorkBuddy 的企业团队。",
+      "category": "资料教程",
+      "createdAt": "2026-07-10T04:13:51Z"
+    },
+    {
+      "repo": "Raymondhou0917/speak-human-tw",
+      "url": "https://github.com/Raymondhou0917/speak-human-tw",
+      "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
+      "language": "",
+      "stars": 477,
+      "summaryZh": "「說人話」繁體中文去 AI 味改写 Skill，可检测并修正 38 种 AI 写作痕迹、大陆用语和半角标点。适用于 Claude Code / Codex / Cursor，适合需要自然中文本的内容创作者。",
+      "category": "AI",
+      "createdAt": "2026-07-08T09:23:53Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "marcelpanse/youtube-guitar-tab-parser",
+      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+      "description": "CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.",
+      "language": "TypeScript",
+      "stars": 66,
+      "summaryZh": "将 YouTube 吉他教学视频自动转换为 PDF 格式的吉他谱文件。利用音频分析和音符识别技术提取指法信息，适合吉他爱好者离线练习。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 60 分 · 44 评论",
+      "reasonZh": "把你的吉他教学视频一键转成 PDF 谱子，太省事了！同类工具少，直接解析视频音频生成 tab，练琴时不用再手动扒谱，吉他手必备。"
+    },
+    {
+      "repo": "floodtide/dom-docx",
+      "url": "https://github.com/floodtide/dom-docx",
+      "description": "Convert semantic HTML fragments to native, editable Word documents (OOXML)",
+      "language": "TypeScript",
+      "stars": 229,
+      "summaryZh": "将语义化 HTML 片段转换为原生可编辑的 Word 文档（OOXML 格式）。保留 DOM 结构和样式，支持复杂表格和列表，适合需要从网页生成 Word 文档的开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 136 分 · 32 评论",
+      "reasonZh": "把 HTML 片段直接转成可编辑的 Word 文档，输出的是原生 OOXML，不是垃圾 OLE 对象。对需要批量生成报告、合同的人简直是神器，比 pandoc 更细粒度控制排版。"
+    },
+    {
+      "repo": "Poseidon-fan/linux-0.11-rs",
+      "url": "https://github.com/Poseidon-fan/linux-0.11-rs",
+      "description": "Linux 0.11 rewritten in idiomatic Rust: kernel, std-style user library, and 60+ coreutils — boots on i386 in QEMU.",
+      "language": "Rust",
+      "stars": 55,
+      "summaryZh": "用地道 Rust 重写 Linux 0.11 内核、std 风格用户库和 60+ 核心工具，可在 QEMU 的 i386 环境启动。教学级项目，适合学习操作系统和 Rust 底层开发的工程师。",
+      "category": "资料教程",
+      "source": "hn",
+      "signal": "HN 81 分 · 70 评论",
+      "reasonZh": "用纯 Rust 重写 Linux 0.11 内核，还能在 QEMU 上启动！附带标准库和 60+ 核心工具，简直是操作系统爱好者的宝藏。学习 OS 开发或 Rust 底层编程的绝佳参考。"
+    },
+    {
+      "repo": "thephw/claude-meseeks",
+      "url": "https://github.com/thephw/claude-meseeks",
+      "description": "Claude Code plugin that plays a Mr. Meeseeks voice line whenever Claude is waiting for you.",
+      "language": "Go",
+      "stars": 43,
+      "summaryZh": "Claude Code 插件，在 Claude 等待时播放 Mr. Meeseeks 语音台词，增加趣味性。基于 Go 开发的低延迟音频播放，适合 Claude 用户娱乐。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 113 分 · 49 评论",
+      "reasonZh": "Claude Code 插件，等待时播放《瑞克和莫蒂》里 Mr. Meeseeks 的语音，幽默又解压。代码写得再好，不如等 CI 时听一句 'I'm Mr. Meeseeks, look at me!'"
+    },
+    {
+      "repo": "clawkwork/clawk",
+      "url": "https://github.com/clawkwork/clawk",
+      "description": "Disposable, network-restricted Linux VMs for AI coding agents",
+      "language": "Go",
+      "stars": 276,
+      "summaryZh": "为 AI 编程代理提供一次性、网络受限的 Linux 虚拟机环境，执行代码后自动销毁。基于 Firecracker 微虚拟化，安全隔离，适合运行不可信代码或 AI 生成的脚本。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 172 分 · 140 评论",
+      "reasonZh": "给 AI 编程智能体创建一次性、网络受限的 Linux 虚拟机，用完即焚。比 docker 更安全，适合执行不可信代码或给 agent 沙盒环境，是安全与效率的完美平衡。"
+    },
+    {
+      "repo": "schlae/BeavisUltrasound",
+      "url": "https://github.com/schlae/BeavisUltrasound",
+      "description": "Open source clone of the Gravis Ultrasound PnP",
+      "language": "Python",
+      "stars": 57,
+      "summaryZh": "一个开源的Gravis Ultrasound PnP声卡硬件克隆项目。通过可编程逻辑和固件复现经典声卡功能，支持DOS游戏及MIDI音乐播放的精确硬件模拟。适合复古游戏爱好者、DIY硬件玩家及对PC音频历史感兴趣的技术人员。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 95 分 · 38 评论",
+      "reasonZh": "开源复刻经典声卡 Gravis Ultrasound PnP，硬件级兼容！对怀旧游戏玩家和复古音乐制作人来说，这是用现代元件还原声音质感的神器，比模拟器更原汁原味。"
+    },
+    {
+      "repo": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 9793,
+      "summaryZh": "可在25GB内存消费级机器上运行GLM-5.2（744B MoE）大模型的推理引擎。纯C实现，零依赖，通过从磁盘流式传输专家权重突破显存限制。适合资源有限的AI开发者在本地部署超大模型。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 922 分 · 238 评论",
+      "reasonZh": "用纯 C 写的小引擎，能在 25GB 内存的消费级电脑上跑 744B 参数的 GLM-5.2 MoE 模型！无需任何依赖，专家模块从硬盘流式加载，是本地跑超大模型的突破性方案。"
+    },
+    {
+      "repo": "jimparis/qr-font",
+      "url": "https://github.com/jimparis/qr-font",
+      "description": "A QR code generator in a TrueType font: https://qr.jim.sh/",
+      "language": "Python",
+      "stars": 474,
+      "summaryZh": "一个内嵌QR码生成器的TrueType字体文件。输入文本后渲染为对应的QR码图形，无需额外软件即可在文档、网页中生成二维码。适合设计师、开发者快速嵌入二维码内容。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +254（+115%）",
+      "reasonZh": "一个 TrueType 字体就能生成二维码！在字体设计上创新，把 QR 码编码算法嵌入字体轮廓中。需要动态生成二维码的场景（如报表、票据）直接换字体就行，无需额外库。"
+    },
+    {
+      "repo": "MaximeRivest/Riddle",
+      "url": "https://github.com/MaximeRivest/riddle",
+      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "language": "Rust",
+      "stars": 1525,
+      "summaryZh": "为reMarkable Paper Pro手写板设计的魔法日记应用。笔迹书写时页面会“吸收”墨水，并以流畅手写体自动回复，模拟汤姆·里德尔日记的交互体验。适合追求创意书写与奇幻互动的用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +1048（+220%）",
+      "reasonZh": "reMarkable 电子纸上的汤姆·里德尔日记！手写墨水会逐渐被「笔记本」吃掉并自动回应，魔法感十足。写笔记、日记或创意写作时，体验就像在和笔记本对话。"
+    },
+    {
+      "repo": "Shpigford/knockoff",
+      "url": "https://github.com/Shpigford/knockoff",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "language": "JavaScript",
+      "stars": 1869,
+      "summaryZh": "Chrome扩展程序，自动过滤亚马逊搜索结果中的伪品牌与杂牌商品。基于品牌信誉和用户评价筛选，仅展示来自正规知名品牌的商品。适合网购用户快速找到可信赖的购买选项。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +898（+92%）",
+      "reasonZh": "Chrome 插件一键过滤亚马逊上的杂牌仿品，只显示真正知名品牌。剁手党福音，避免买到山寨货，尤其适合海淘时快速锁定靠谱产品。"
+    }
+  ]
+}
