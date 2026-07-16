@@ -1,0 +1,337 @@
+{
+  "date": "2026-07-16",
+  "trending": [
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 71724,
+      "summaryZh": "开源的剪映替代品，基于 Web 技术构建，提供视频剪辑、特效添加和导出功能。使用 TypeScript 开发，支持跨平台运行，适合需要免费视频编辑工具的个人创作者和小型团队。",
+      "category": "开发工具",
+      "starsToday": 1664
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 8510,
+      "summaryZh": "为 Claude Code、Cursor 等 AI 编码代理设计的 CSS 样式，用于提升生成界面的美观度和反AI痕迹。包含一系列高质量设计模板，适合追求专业视觉效果的开发者。",
+      "category": "前端",
+      "starsToday": 1277
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 172272,
+      "summaryZh": "实战工程师技能集，源自作者实际使用的 .claude 目录。涵盖 Shell 脚本、代码审查、调试等高效工作流，适合中高级开发者提升编码效率。",
+      "category": "开发工具",
+      "starsToday": 2130
+    },
+    {
+      "repo": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 42495,
+      "summaryZh": "自托管类Grok伴侣，支持实时语音聊天、Minecraft 交互，具备拟人化角色扮演能力。基于 TypeScript 构建，适合二次元爱好者或想打造个人AI伴侣的玩家。",
+      "category": "AI",
+      "starsToday": 110
+    },
+    {
+      "repo": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars": 4764,
+      "summaryZh": "用 Rust 编写的危险命令防护工具，拦截 git 和 shell 中的破坏性操作（如强制删除、批量修改），防止 AI 代理误执行。适合用 LLM 自动编程的开发者。",
+      "category": "开发工具",
+      "starsToday": 471
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 23696,
+      "summaryZh": "个人交易智能体，基于 Python 实现市场情绪分析与自动交易策略。集成多种数据源和回测框架，适合量化交易爱好者和个人投资者。",
+      "category": "AI",
+      "starsToday": 915
+    },
+    {
+      "repo": "openinterpreter/openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "description": "A coding agent for low-cost models",
+      "language": "Rust",
+      "stars": 65483,
+      "summaryZh": "低成本的编码代理，用 Rust 实现高效执行，支持自然语言驱动代码生成与执行。适合需要本地化、轻量级AI编程助手的开发者。",
+      "category": "开发工具",
+      "starsToday": 299
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "stars": 26257,
+      "summaryZh": "终身个性化辅导系统，基于深度学习提供自适应学习路径与知识追踪。支持多学科，适合学生和终身学习者进行高效自学。",
+      "category": "AI",
+      "starsToday": 172
+    },
+    {
+      "repo": "HenryNdubuaku/maths-cs-ai-compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "language": "TypeScript",
+      "stars": 5893,
+      "summaryZh": "系统性数学、计算机科学与AI学习资料，涵盖从基础到前沿的精华内容。适合立志成为顶尖AI/ML研究工程师的学习者。",
+      "category": "资料教程",
+      "starsToday": 725
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": 121900,
+      "summaryZh": "100+可直接运行的AI Agent和RAG应用，涵盖聊天、搜索、文档处理等场景。基于Python，易于克隆定制，适合开发者快速上手LLM应用开发。",
+      "category": "AI",
+      "starsToday": 1236
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 39757,
+      "summaryZh": "为Claude Code等AI代理设计的营销技能库，包含CRO、文案、SEO、分析等模块。使用JavaScript实现，适合需要自动化数字营销的团队。",
+      "category": "AI",
+      "starsToday": 340
+    },
+    {
+      "repo": "YimMenu/YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "language": "C++",
+      "stars": 1421,
+      "summaryZh": "GTA 5增强版的实验性菜单，基于C++开发，支持多种游戏内功能修改。适合PC单机游戏玩家进行模组体验。",
+      "category": "游戏",
+      "starsToday": 38
+    },
+    {
+      "repo": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars": 14368,
+      "summaryZh": "1324个健身动作数据集，包含动画GIF、肌肉群标注和多语言指导。采用HTML提供可视化，适合健身App开发者和运动科学研究者。",
+      "category": "其他",
+      "starsToday": 949
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "language": "Rust",
+      "stars": 2663,
+      "summaryZh": "SpaceXAI的编码代理框架和终端UI，支持全屏、鼠标交互和扩展。用Rust实现高性能，适合需要构建自定义编程助手的高级开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-14T20:04:23Z"
+    },
+    {
+      "repo": "MDX-Tom/gpt-5.6-instruct",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "language": "Python",
+      "stars": 1331,
+      "summaryZh": "针对gpt-5.6系列的Codex CLI越狱提示词与测试包，基于Python。用于探索模型边界，适合AI安全研究人员和提示工程爱好者。",
+      "category": "AI",
+      "createdAt": "2026-07-11T09:44:24Z"
+    },
+    {
+      "repo": "littledivy/mimic",
+      "url": "https://github.com/littledivy/mimic",
+      "description": "Intercept any app, then call it from Python like a library",
+      "language": "Python",
+      "stars": 1020,
+      "summaryZh": "一个 Python 库，可拦截任意应用程序的调用，像调用 Python 函数一样直接使用。核心亮点是无需修改目标应用代码即可实现无缝集成。适合需要自动化操作外部应用的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-13T05:13:00Z"
+    },
+    {
+      "repo": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "language": "Python",
+      "stars": 1012,
+      "summaryZh": "Codex 插件，将物体图片转换为代码驱动的、可动画的 Three.js 模型。亮点是自动生成纯代码模型，无需手动建模。适合需要快速原型或动态 3D 内容的开发者。",
+      "category": "前端",
+      "createdAt": "2026-07-09T16:23:29Z"
+    },
+    {
+      "repo": "mereyabdenbekuly-ctrl/clodex-ide",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "language": "TypeScript",
+      "stars": 810,
+      "summaryZh": "本地优先、零信任的 agentic IDE，用于可验证的自主软件开发。核心功能是保证代码安全性并支持自动化开发流程。适合追求安全性和自主开发效率的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-12T10:35:44Z"
+    },
+    {
+      "repo": "AlephAITech/WorkBuddyGuide",
+      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "language": "Python",
+      "stars": 794,
+      "summaryZh": "开源的 WorkBuddy 实战蓝皮书，提供教程、真实工作流和自动化实践。亮点是涵盖 Skills、MCP 和多智能体等内容。适合希望快速掌握 WorkBuddy 的团队成员。",
+      "category": "资料教程",
+      "createdAt": "2026-07-10T04:13:51Z"
+    },
+    {
+      "repo": "x4gKing/Marzban-Panel",
+      "url": "https://github.com/x4gKing/Marzban-Panel",
+      "description": "",
+      "language": "Dockerfile",
+      "stars": 775,
+      "summaryZh": "Marzban 的面板管理工具，基于 Dockerfile 构建。核心功能是提供简洁的界面管理 Marzban 服务部署与配置。适合需要轻松管理 Marzban 面板的运维人员。",
+      "category": "开发工具",
+      "createdAt": "2026-07-12T22:22:09Z"
+    },
+    {
+      "repo": "Kappaemme-git/codex-first-customer-finder-skill",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "language": "Python",
+      "stars": 707,
+      "summaryZh": "Codex 技能，从近期公开信号中发现有证据支持的潜在首批客户。亮点是数据驱动，减少手动调研。适合初创团队或销售人员在早期获客时使用。",
+      "category": "AI",
+      "createdAt": "2026-07-12T14:24:33Z"
+    },
+    {
+      "repo": "cosmtrek/mindwalk",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "language": "Go",
+      "stars": 691,
+      "summaryZh": "可视化工具，在代码库的 3D 地图上回放编程代理会话。核心功能是帮助理解代理行为与代码结构。适合需要调试或分析 AI 编码代理的开发者和研究员。",
+      "category": "开发工具",
+      "createdAt": "2026-07-09T11:41:46Z"
+    },
+    {
+      "repo": "pengchujin/jzsub",
+      "url": "https://github.com/pengchujin/jzsub",
+      "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+      "language": "Python",
+      "stars": 675,
+      "summaryZh": "输入视频链接，自动输出最高画质 MP4、封面和 GPT 生成的双语字幕。亮点是全自动流程，无需人工处理。适合需要快速获取高质量视频素材的数字创作者。",
+      "category": "其他",
+      "createdAt": "2026-07-10T15:10:00Z"
+    },
+    {
+      "repo": "x4gKing/Marzban-Node",
+      "url": "https://github.com/x4gKing/Marzban-Node",
+      "description": "",
+      "language": "Dockerfile",
+      "stars": 666,
+      "summaryZh": "Marzban 的节点管理组件，基于 Dockerfile 构建。核心功能是简化节点部署与维护。适合在多节点环境中管理 Marzban 服务的运维人员。",
+      "category": "开发工具",
+      "createdAt": "2026-07-12T22:22:51Z"
+    },
+    {
+      "repo": "William-Lu-stack/Flawless",
+      "url": "https://github.com/William-Lu-stack/Flawless",
+      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "language": "Python",
+      "stars": 636,
+      "summaryZh": "AI SRE 代理，用于 Kubernetes 和云基础设施的运维自动化。亮点是 AgenticOps 模式，减少人工干预。适合需要智能运维的 SRE 和 DevOps 团队。",
+      "category": "AI",
+      "createdAt": "2026-07-10T05:57:02Z"
+    },
+    {
+      "repo": "oil-oil/beautify-github-readme",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "language": "Python",
+      "stars": 552,
+      "summaryZh": "设计清晰、主题专用的 GitHub README 首页，支持 SVG 标题和可维护的 Markdown。核心功能是提升仓库页面美观度。适合希望优化项目展示的开源维护者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-13T07:31:56Z"
+    },
+    {
+      "repo": "pixel-point/aval",
+      "url": "https://github.com/pixel-point/aval",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "language": "TypeScript",
+      "stars": 546,
+      "summaryZh": "开源交互式视频格式，内置状态机、帧精确过渡和打包 Alpha 透明度。亮点是让视频像网页一样可交互。适合制作互动广告、教程或游戏过场动画的创作者。",
+      "category": "前端",
+      "createdAt": "2026-07-13T07:42:51Z"
+    },
+    {
+      "repo": "CluvexStudio/Aether",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "description": "",
+      "language": "Rust",
+      "stars": 540,
+      "summaryZh": "一个用 Rust 编写的项目，描述缺失。推测是高性能工具或库。适合对 Rust 生态感兴趣的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-14T14:20:44Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "welcome-to-the-sunny-side/misa77",
+      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+      "description": "Ridiculously fast decompression at good ratios. misa77 is 1.5-3x faster than LZ4 for decompression on x86 and ARM (with better ratios!).",
+      "language": "C++",
+      "stars": 82,
+      "summaryZh": "超快解压算法，在 x86 和 ARM 上解压速度比 LZ4 快 1.5-3 倍，同时保持较好压缩比。适合需要高速解压的数据处理或游戏场景。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 128 分 · 40 评论",
+      "reasonZh": "比 LZ4 解压快 1.5-3 倍，压缩比还更好，x86 和 ARM 都支持。如果你搞游戏加载、数据库缓存或者实时数据流，它能把 I/O 瓶颈大幅降低，而且完全开源无专利限制，是内存紧缺场景的保命工具。"
+    },
+    {
+      "repo": "jimparis/qr-font",
+      "url": "https://github.com/jimparis/qr-font",
+      "description": "A QR code generator in a TrueType font: https://qr.jim.sh/",
+      "language": "Python",
+      "stars": 486,
+      "summaryZh": "一个 TrueType 字体文件，能直接生成 QR 码。核心创新是将二维码编码集成到字体中，无需额外库。适合需要在文本或文档中快速生成 QR 码的设计师或开发者。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +120（+33%）",
+      "reasonZh": "这是一个真正的 TrueType 字体，你把它装到系统里，打几个字母就能生成可识别的二维码。写文档做演示时直接打字出码，不用额外工具，比截图或生成图片方便太多。对开发者做极简标记、自动化工单场景尤其实用。"
+    },
+    {
+      "repo": "huxingyi/autoremesher",
+      "url": "https://github.com/huxingyi/autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "language": "C++",
+      "stars": 2742,
+      "summaryZh": "Autoremesher 是一款自动四边形网格重建工具，能够将任意三角网格模型转换为高质量的四边形网格。基于先进的算法，它支持保持原始几何特征，输出均匀或自适应密度的四边面。适用于游戏开发、3D打印、数字雕刻等需要低多边形或可编辑拓扑的场景。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +731（+36%）",
+      "reasonZh": "自动把三角网格转为高质量四边形网格，做动画、细分建模再也不用手动拓扑。比同类工具更稳定、结果更规整，直接输出给游戏引擎或渲染器用。对 3D 艺术家和游戏开发者来说是效率翻倍的神器。"
+    },
+    {
+      "repo": "ronak-create/FableCut",
+      "url": "https://github.com/ronak-create/FableCut",
+      "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "language": "JavaScript",
+      "stars": 449,
+      "summaryZh": "FableCut 是一个零依赖的浏览器端视频编辑器，专为 AI 代理操控而设计。它通过 JSON 时间线、MCP 和 REST API 接口实现完全可编程的视频编辑，并具备实时重载 UI。适合需要自动生成或批量处理视频内容的开发者、AI 工具集成商。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +222（+98%）",
+      "reasonZh": "零依赖的浏览器视频编辑器，AI Agent 通过 MCP 和 REST 接口驱动它。给 Agent 一个 JSON 时间线，就能自动生成视频片段，结合实时预览。适合自动化剪辑、内容工厂批量生成视频。"
+    }
+  ]
+}
