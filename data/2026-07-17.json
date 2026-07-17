@@ -1,0 +1,449 @@
+{
+  "date": "2026-07-17",
+  "trending": [
+    {
+      "repo": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars": 897,
+      "summaryZh": "Apache Ossie 是行业规范项目，旨在标准化跨分析、AI 和 BI 平台的语义元数据交换，提供厂商中立的单一真相源。核心是定义元数据交换格式，适合需要统一数据语义和元数据治理的数据平台开发者与架构师。",
+      "category": "开发工具",
+      "starsToday": 60
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 10888,
+      "summaryZh": "Hallmark 为 Claude Code、Cursor 等 AI 编程工具提供反AI“套话”设计技能。核心是注入高质量、去模板化的提示词，提升代码生成的自然度与实用性。适合追求 AI 编程输出更人性化、避免套路化内容的开发者。",
+      "category": "开发工具",
+      "starsToday": 3372
+    },
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 74003,
+      "summaryZh": "OpenCut 是开源的 CapCut（剪映）替代品，提供视频剪辑、特效与导出功能。基于 TypeScript 构建，具备现代化 UI 和可扩展的插件系统。适合需要免费、开源且跨平台的视频编辑软件的内容创作者和开发者。",
+      "category": "其他",
+      "starsToday": 3537
+    },
+    {
+      "repo": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 35832,
+      "summaryZh": "PostHog 是领先的自驱产品构建平台，提供 AI 可观测性、分析、会话回放、特性开关、实验、错误追踪和日志等开发者工具。支持自托管，适合希望一站式洞察用户行为、优化产品并实现数据驱动的产品团队。",
+      "category": "开发工具",
+      "starsToday": 77
+    },
+    {
+      "repo": "openinterpreter/openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "language": "Rust",
+      "stars": 65973,
+      "summaryZh": "Open Interpreter 是面向 Kimi K3 等开放模型的编程代理，允许自然语言驱动代码执行和系统操作。利用 Rust 实现高性能，支持本地运行，适合希望用大模型自动化编程、运维任务的开发者和研究人员。",
+      "category": "AI",
+      "starsToday": 661
+    },
+    {
+      "repo": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "stars": 1515,
+      "summaryZh": "Bonsai-demo 是 Bonsai 项目的演示示例，展示其核心功能。技术亮点在于简洁的 Shell 脚本实现快速部署与体验。适合希望快速了解 PrismML 系列工具特性的用户。",
+      "category": "其他",
+      "starsToday": 196
+    },
+    {
+      "repo": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars": 15033,
+      "summaryZh": "该数据集包含 1324 个健身动作的动画 GIF、缩略图、肌肉群与设备数据，以及 6 种语言的分步说明。核心是结构化的运动数据层，适合健身应用开发者构建动作库或训练指导功能。",
+      "category": "资料教程",
+      "starsToday": 710
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": 122874,
+      "summaryZh": "汇集 100+ 个可直接运行的 AI 代理与 RAG 应用示例，涵盖代码、自定义与部署全流程。技术亮点是即开即用，适合开发者快速学习构建 LLM 应用或作为项目脚手架。",
+      "category": "AI",
+      "starsToday": 923
+    },
+    {
+      "repo": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "language": "TypeScript",
+      "stars": 80154,
+      "summaryZh": "LobeHub 是首席代理调度器，通过雇佣、调度和报告管理整个 AI 团队，实现 7×24 自动化运营。核心功能是代理编排与监控，适合需要高效管理多个 AI 代理的企业与开发者。",
+      "category": "AI",
+      "starsToday": 71
+    },
+    {
+      "repo": "YimMenu/YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "language": "C++",
+      "stars": 1504,
+      "summaryZh": "YimMenuV2 是《GTA 5：增强版》的实验性菜单模组，提供游戏内功能修改。基于 C++ 开发，支持增强版游戏特性。适合玩家探索游戏深层机制或进行娱乐性修改。",
+      "category": "游戏",
+      "starsToday": 128
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "stars": 26859,
+      "summaryZh": "DeepTutor 是终身个性化辅导系统，利用深度学习自适应学习者需求。支持自然语言交互与知识追踪，适合在线教育平台或学生获得一对一辅导体验。",
+      "category": "AI",
+      "starsToday": 656
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 174244,
+      "summaryZh": "该项目从作者 .claude 目录提炼出面向真实工程师的技能集，覆盖 TypeScript、测试等实践。核心是可直接复用的提示词和配置，适合希望提升 AI 编程工具效率的开发者。",
+      "category": "资料教程",
+      "starsToday": 2060
+    },
+    {
+      "repo": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars": 9642,
+      "summaryZh": "GitHub Copilot SDK 是用于将 Copilot Agent 集成到应用和服务的多平台开发工具包。提供 Java 等语言接口，适合需要自定义 Copilot 功能的开发者构建智能助手。",
+      "category": "开发工具",
+      "starsToday": 13
+    },
+    {
+      "repo": "ibelick/ui-skills",
+      "url": "https://github.com/ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars": 4260,
+      "summaryZh": "面向设计工程师的 UI 技能集，提供组件、动效与设计模式。基于 TypeScript，强调实用性与可复用性，适合前端开发者或 UI 设计师直接集成到项目中。",
+      "category": "前端",
+      "starsToday": 178
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars": 89053,
+      "summaryZh": "Graphify 是 AI 编程助手技能，支持 Claude Code、Cursor 等工具，将代码、SQL 模式、文档等文件夹转化为可查询的知识图谱。核心是知识提取与推理，适合需要快速理解代码库或文档的开发者。",
+      "category": "开发工具",
+      "starsToday": 1107
+    },
+    {
+      "repo": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 526297,
+      "summaryZh": "通过从零重建 Redis、Git、Docker 等流行技术，深入理解其原理的教程集合。提供分步指南和代码挑战，适合希望精通编程并掌握底层实现的开发者。",
+      "category": "资料教程",
+      "starsToday": 435
+    },
+    {
+      "repo": "ossu/computer-science",
+      "url": "https://github.com/ossu/computer-science",
+      "description": "🎓 Path to a free self-taught education in Computer Science!",
+      "language": "HTML",
+      "stars": 206512,
+      "summaryZh": "一份免费、自学的计算机科学课程表，涵盖 CS 核心知识，结构严谨且社区维护。适合希望系统获得计算机科学基础的自学者或转行者。",
+      "category": "资料教程",
+      "starsToday": 107
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "language": "Rust",
+      "stars": 12166,
+      "summaryZh": "SpaceXAI 推出的全屏、鼠标交互、可扩展的编码代理 TUI。支持自定义工作流，适合追求高效、沉浸式代码编写体验的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-14T20:04:23Z"
+    },
+    {
+      "repo": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "language": "JavaScript",
+      "stars": 5397,
+      "summaryZh": "为 Codex CLI 打造的美化皮肤项目，提供视觉定制功能。适合希望个性化开发环境外观的用户。",
+      "category": "前端",
+      "createdAt": "2026-07-15T12:34:51Z"
+    },
+    {
+      "repo": "MDX-Tom/gpt-5.6-instruct",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "language": "Python",
+      "stars": 1671,
+      "summaryZh": "针对 gpt-5.6 系列模型的 Codex CLI 破甲提示词与测试包，用于突破限制、探索模型能力边界。适合 AI 红队测试或高级提示工程师。",
+      "category": "AI",
+      "createdAt": "2026-07-11T09:44:24Z"
+    },
+    {
+      "repo": "littledivy/mimic",
+      "url": "https://github.com/littledivy/mimic",
+      "description": "Intercept any app, then call it from Python like a library",
+      "language": "Python",
+      "stars": 1103,
+      "summaryZh": "拦截任意应用程序，并通过 Python 像调用库一样与其交互的工具。无需注入代码，适合需要自动化 GUI 应用或集成遗留系统的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-13T05:13:00Z"
+    },
+    {
+      "repo": "pixel-point/aval",
+      "url": "https://github.com/pixel-point/aval",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "language": "TypeScript",
+      "stars": 1044,
+      "summaryZh": "一种开源交互式视频格式，内置状态机、帧精确转换和打包 Alpha 透明度。适合需要创建可交互视频内容的网页开发者或创意工作者。",
+      "category": "前端",
+      "createdAt": "2026-07-13T07:42:51Z"
+    },
+    {
+      "repo": "AlephAITech/WorkBuddyGuide",
+      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "language": "Python",
+      "stars": 988,
+      "summaryZh": "开源 WorkBuddy 实战蓝皮书，包含教程、真实工作流及 Skills、MCP、自动化与多智能体实践。适合希望掌握 WorkBuddy 以提高生产力的用户。",
+      "category": "资料教程",
+      "createdAt": "2026-07-10T04:13:51Z"
+    },
+    {
+      "repo": "CluvexStudio/Aether",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "description": "",
+      "language": "Rust",
+      "stars": 934,
+      "summaryZh": "用 Rust 开发的高性能项目（暂无详细描述）。适合对 Rust 生态感兴趣或寻求底层性能优化的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-14T14:20:44Z"
+    },
+    {
+      "repo": "x4gKing/Marzban-Panel",
+      "url": "https://github.com/x4gKing/Marzban-Panel",
+      "description": "",
+      "language": "Dockerfile",
+      "stars": 845,
+      "summaryZh": "基于 Docker 的代理管理面板，提供节点配置与控制功能。适合需要搭建或管理代理服务的运维人员。",
+      "category": "开发工具",
+      "createdAt": "2026-07-12T22:22:09Z"
+    },
+    {
+      "repo": "mereyabdenbekuly-ctrl/clodex-ide",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "language": "TypeScript",
+      "stars": 829,
+      "summaryZh": "本地优先、零信任的代理 IDE，支持可验证的自主软件开发。强调安全性与可控性，适合对代码生成安全性要求高的企业级场景。",
+      "category": "开发工具",
+      "createdAt": "2026-07-12T10:35:44Z"
+    },
+    {
+      "repo": "Kappaemme-git/codex-first-customer-finder-skill",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "language": "Python",
+      "stars": 761,
+      "summaryZh": "Codex 技能包，通过分析近期公开信号寻找有实证的潜在首批客户。适合创业公司或市场人员快速定位早期用户。",
+      "category": "AI",
+      "createdAt": "2026-07-12T14:24:33Z"
+    },
+    {
+      "repo": "x4gKing/Marzban-Node",
+      "url": "https://github.com/x4gKing/Marzban-Node",
+      "description": "",
+      "language": "Dockerfile",
+      "stars": 726,
+      "summaryZh": "Marzban 面板的节点组件，同样基于 Docker，用于扩展代理网络节点。适合需要分布式部署代理服务的运维人员。",
+      "category": "开发工具",
+      "createdAt": "2026-07-12T22:22:51Z"
+    },
+    {
+      "repo": "pengchujin/jzsub",
+      "url": "https://github.com/pengchujin/jzsub",
+      "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+      "language": "Python",
+      "stars": 714,
+      "summaryZh": "输入视频链接，自动下载最高画质视频、封面，并生成 GPT 翻译的双语字幕 MP4。适合需要快速获取高质量字幕视频的内容创作者。",
+      "category": "AI",
+      "createdAt": "2026-07-10T15:10:00Z"
+    },
+    {
+      "repo": "William-Lu-stack/Flawless",
+      "url": "https://github.com/William-Lu-stack/Flawless",
+      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "language": "Python",
+      "stars": 691,
+      "summaryZh": "AI SRE 代理，用于 Kubernetes 和云基础设施的自动化运维与故障排查。适合需要提升运维效率的 DevOps 或 SRE 团队。",
+      "category": "AI",
+      "createdAt": "2026-07-10T05:57:02Z"
+    },
+    {
+      "repo": "oil-oil/beautify-github-readme",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "language": "Python",
+      "stars": 690,
+      "summaryZh": "一个 GitHub 个人主页设计工具，支持 SVG 标题、实时预览和可维护的 Markdown 模板。核心亮点是主题化定制和模块化组织，适合开发者快速打造专业、美观的 README。",
+      "category": "前端",
+      "createdAt": "2026-07-13T07:31:56Z"
+    },
+    {
+      "repo": "tandpfun/wardrobe",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "language": "JavaScript",
+      "stars": 631,
+      "summaryZh": "基于 GPT 图像识别的衣物管理工具，可自动提取并组织衣柜中的衣物信息。适合整理个人衣物库，或用于搭配推荐等场景。",
+      "category": "AI",
+      "createdAt": "2026-07-16T06:17:00Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "malisper/pgrust",
+      "url": "https://github.com/malisper/pgrust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "language": "Rust",
+      "stars": 3212,
+      "summaryZh": "用 Rust 重写 PostgreSQL，目前已通过全部 PostgreSQL 回归测试。目标是提供高性能、内存安全的数据库替代方案，适合对数据库性能和安全性有极致要求的场景。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +2689（+514%）",
+      "reasonZh": "用 Rust 重写 PostgreSQL 并 100% 通过回归测试，性能和安全潜力巨大。与同类项目比，它不只是改写，而是精确复现了 Postgres 的行为，适合对数据库性能或内存安全有极致要求的场景。"
+    },
+    {
+      "repo": "minh-ton/reynard-browser",
+      "url": "https://github.com/minh-ton/reynard-browser",
+      "description": "An experimental Gecko-based web browser for iOS 13+.",
+      "language": "Swift",
+      "stars": 1140,
+      "summaryZh": "基于 Gecko 引擎的实验性 iOS 浏览器，支持 iOS 13+。适合对浏览器技术感兴趣或需要跨平台渲染体验的开发者。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 151 分 · 48 评论",
+      "reasonZh": "基于 Gecko 引擎的 iOS 浏览器，挑战 Safari 垄断。同类项目多基于 WebKit，它带来真正的 Firefox 渲染体验，适合对隐私或浏览器选择有要求的用户。"
+    },
+    {
+      "repo": "par274/sharpemu",
+      "url": "https://github.com/sharpemu/sharpemu",
+      "description": "An experimental PlayStation 5 emulator for Windows, Linux and macOS.",
+      "language": "C#",
+      "stars": 3060,
+      "summaryZh": "实验性 PS5 模拟器，支持 Windows、Linux 和 macOS。旨在提供 PS5 游戏在 PC 上的运行能力，适合游戏爱好者和模拟器开发研究者。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +1799（+143%）",
+      "reasonZh": "实验性 PS5 模拟器，支持 Win/Linux/macOS，目前在游戏模拟领域激进。同类项目大多专注较老平台，它瞄准最新主机，适合爱好者尝鲜与开发调试。"
+    },
+    {
+      "repo": "samyeyo/clx",
+      "url": "https://github.com/samyeyo/clx",
+      "description": " A cross-platform ahead-of-time Lua compiler and runtime, using C++20 backend",
+      "language": "C++",
+      "stars": 43,
+      "summaryZh": "跨平台 Lua 提前编译器与运行时，使用 C++20 后端，支持 AOT 编译以提升性能。适合需要将 Lua 脚本高效部署到多平台的场景。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 80 分 · 3 评论",
+      "reasonZh": "跨平台 AOT Lua 编译器与运行时，基于 C++20 后端。可显著提升 Lua 性能，适合对执行速度有要求的游戏脚本或嵌入式场景，比传统 LuaJIT 更现代。"
+    },
+    {
+      "repo": "welcome-to-the-sunny-side/misa77",
+      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+      "description": "Ridiculously fast decompression at good ratios. misa77 is 1.5-3x faster than LZ4 for decompression on x86 and ARM (with better ratios!).",
+      "language": "C++",
+      "stars": 112,
+      "summaryZh": "超快解压算法，在 x86 和 ARM 上解压速度比 LZ4 快 1.5-3 倍，且压缩比更优。适合需要高吞吐量数据解压的系统，如游戏加载、数据库缓冲等。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 156 分 · 47 评论",
+      "reasonZh": "比 LZ4 快 1.5-3 倍的解压缩库，且压缩比更好。适合数据管道、日志传输等高性能场景，是游戏规则改变者级别的实用工具。"
+    },
+    {
+      "repo": "vshulcz/deja-vu",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+      "language": "Go",
+      "stars": 302,
+      "summaryZh": "为编程智能体提供长期记忆层，支持搜索、MCP 召回、自动上下文、秘密脱敏、统计以及会话日志同步。零依赖二进制，适合使用 Claude Code 等工具的开发者。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 128 分 · 34 评论",
+      "reasonZh": "为 AI 编码助手提供会话日志记忆层，支持搜索、自动上下文等功能。与简单聊天记录不同，它结构化存储且零依赖，适合高频使用 Claude Code 等工具的开发团队。"
+    },
+    {
+      "repo": "patonw/leaves",
+      "url": "https://github.com/patonw/leaves",
+      "description": "A text-mode disk usage visualization utility",
+      "language": "Rust",
+      "stars": 95,
+      "summaryZh": "纯文本模式的磁盘使用可视化工。用字符图形展示目录和文件大小，界面简洁无依赖。适合在终端环境下快速分析磁盘空间占用。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 65 分 · 23 评论",
+      "reasonZh": "文本模式的磁盘使用可视化工具，Rust 实现。相比 du 或 ncdu，它更轻量且输出可集成到终端工作流，适合服务器或 WSL 环境下的磁盘分析。"
+    },
+    {
+      "repo": "ronak-create/FableCut",
+      "url": "https://github.com/ronak-create/FableCut",
+      "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "language": "JavaScript",
+      "stars": 463,
+      "summaryZh": "零依赖的浏览器端视频编辑器，支持 AI 代理驱动，通过 JSON 时间线、MCP 和 REST 接口控制。适合需要自动化视频编辑或集成到 AI 工作流的场景。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +236（+104%）",
+      "reasonZh": "零依赖的浏览器视频编辑器，AI Agent 可通过 JSON 驱动。不同于传统 GUI 编辑器，它专为自动化设计，适合视频批处理或嵌入 AI 工作流的场景。"
+    },
+    {
+      "repo": "ozeranskii/httptap",
+      "url": "https://github.com/ozeranskii/httptap",
+      "description": "Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.",
+      "language": "Python",
+      "stars": 511,
+      "summaryZh": "基于 Rich 的强大 CLI 工具，将 HTTP 请求分解为 DNS、连接、TLS、等待和传输阶段，以瀑布图或指标方式展示。适合调试网络性能瓶颈。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "将 HTTP 请求分解为 DNS、连接、TLS 等阶段，带瀑布图和摘要。比 curl 或 postman 更直观地展示耗时瓶颈，适合后端开发和网络调试。"
+    },
+    {
+      "repo": "ninjahawk/Subtext",
+      "url": "https://github.com/ninjahawk/Subtext",
+      "description": "To know what models don't say out loud.",
+      "language": "HTML",
+      "stars": 201,
+      "summaryZh": "用于揭示语言模型未明确输出的副文本信息。通过分析模型输出中的隐藏模式，帮助理解模型内部状态。适合 AI 安全与可解释性研究。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "揭示 AI 模型未言明的隐含意图，通过分析输出副文本。与常见的提示工程工具不同，它聚焦安全性，适合需审核模型行为的责任团队。"
+    }
+  ]
+}
