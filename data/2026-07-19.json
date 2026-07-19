@@ -1,0 +1,389 @@
+{
+  "date": "2026-07-19",
+  "trending": [
+    {
+      "repo": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars": 12941,
+      "summaryZh": "一个前馈3D基础模型，可从流式数据实时重建场景，支持增量更新与高质量输出，适用于机器人、AR/VR等需要在线三维感知的场景。",
+      "category": "AI",
+      "starsToday": 831
+    },
+    {
+      "repo": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars": 1273,
+      "summaryZh": "Apache Ossie 是一项行业规范，旨在标准化分析、AI和BI平台间语义元数据的交换，提供厂商中立、单一可信源。适合数据平台需要统一语义层的团队。",
+      "category": "其他",
+      "starsToday": 47
+    },
+    {
+      "repo": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 36592,
+      "summaryZh": "领先的自驱产品构建平台，集成AI可观测性、分析、会话回放、功能开关、实验、错误追踪和日志等开发者工具，适合产品团队快速洞察用户行为并优化体验。",
+      "category": "开发工具",
+      "starsToday": 338
+    },
+    {
+      "repo": "ibelick/ui-skills",
+      "url": "https://github.com/ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars": 5017,
+      "summaryZh": "面向设计工程师的技能库，包含UI交互、动画与微效果的实用代码片段和最佳实践，适合前端开发者提升用户界面设计感。",
+      "category": "前端",
+      "starsToday": 123
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 39102,
+      "summaryZh": "从零开始学习AI工程化，涵盖理论、构建与部署，提供完整项目实战，适合想系统掌握AI全栈开发的工程师。",
+      "category": "资料教程",
+      "starsToday": 191
+    },
+    {
+      "repo": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 20167,
+      "summaryZh": "本地优先的代码智能图，支持MCP和CLI，构建持续代码库映射，让AI工具只读取关键内容，已基准测试减少上下文量，适合大型仓库的代码审核场景。",
+      "category": "开发工具",
+      "starsToday": 355
+    },
+    {
+      "repo": "elder-plinius/G0DM0D3",
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
+      "language": "TypeScript",
+      "stars": 9508,
+      "summaryZh": "解放AI聊天的工具，突破对话限制，提供自由交互体验，适合希望不受约束使用AI模型的用户。",
+      "category": "其他",
+      "starsToday": 69
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 23332,
+      "summaryZh": "实现70B参数大模型在单张4GB GPU上推理，通过内存优化和量化技术降低硬件门槛，适合算力有限但需要运行大模型的开发者。",
+      "category": "AI",
+      "starsToday": 161
+    },
+    {
+      "repo": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": 1240,
+      "summaryZh": "AI编码代理的本地优先Web工具，基于MCP提供搜索、抓取、爬取和研究功能，无需API密钥和云端依赖，零成本，适合需要离线或隐私敏感的AI辅助编程。",
+      "category": "开发工具",
+      "starsToday": 203
+    },
+    {
+      "repo": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 528268,
+      "summaryZh": "通过亲手从零重造各类技术（如数据库、容器、Git等）来掌握编程，提供分步教程和挑战，适合想深入理解系统原理的开发者。",
+      "category": "资料教程",
+      "starsToday": 1126
+    },
+    {
+      "repo": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": 9490,
+      "summaryZh": "Kimi Code CLI是下一代命令行AI代理，基于Kimi大模型，支持自然语言交互完成编程任务，适合喜欢在终端中高效使用AI的开发者。",
+      "category": "开发工具",
+      "starsToday": 65
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "language": "Rust",
+      "stars": 18816,
+      "summaryZh": "SpaceXAI出品的编码代理框架和TUI，支持全屏、鼠标交互和可扩展插件，适合需要强大交互式编程辅助的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-14T20:04:23Z"
+    },
+    {
+      "repo": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "language": "JavaScript",
+      "stars": 9744,
+      "summaryZh": "为Codex编辑器打造的美观皮肤主题，提供沉浸式视觉体验，适合追求编辑器外观个性化的开发者。",
+      "category": "前端",
+      "createdAt": "2026-07-15T12:34:51Z"
+    },
+    {
+      "repo": "CluvexStudio/Aether",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "description": "",
+      "language": "Rust",
+      "stars": 1254,
+      "summaryZh": "用Rust构建的高性能工具（暂无详细描述），适合对Rust开发或系统工具有兴趣的用户。",
+      "category": "其他",
+      "createdAt": "2026-07-14T14:20:44Z"
+    },
+    {
+      "repo": "pixel-point/aval",
+      "url": "https://github.com/pixel-point/aval",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "language": "TypeScript",
+      "stars": 1210,
+      "summaryZh": "一种新的开源交互视频格式，内置状态机、帧精确切换和打包Alpha透明度，适合Web端需要交互式视频播放的开发者。",
+      "category": "前端",
+      "createdAt": "2026-07-13T07:42:51Z"
+    },
+    {
+      "repo": "littledivy/mimic",
+      "url": "https://github.com/littledivy/mimic",
+      "description": "Intercept any app, then call it from Python like a library",
+      "language": "Python",
+      "stars": 1174,
+      "summaryZh": "Mimic 是一个 Python 库，可拦截任何应用程序的进程并通过 Python 直接调用其内部函数，就像调用库函数一样。它利用进程注入和动态链接库技术，支持跨 API 桥接，无需修改目标程序源码。适合需要在脚本中重用现有桌面应用功能的开发者或自动化场景。",
+      "category": "开发工具",
+      "createdAt": "2026-07-13T05:13:00Z"
+    },
+    {
+      "repo": "tandpfun/wardrobe",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "language": "JavaScript",
+      "stars": 1050,
+      "summaryZh": "Wardrobe 利用 GPT-4 视觉能力从照片中自动识别并整理衣物信息，生成结构化衣橱数据。用户只需上传衣帽间照片，AI 会提取每件衣服的品牌、颜色、类别等属性。适合想通过 AI 管理个人衣物的时尚爱好者和数字生活整理达人。",
+      "category": "AI",
+      "createdAt": "2026-07-16T06:17:00Z"
+    },
+    {
+      "repo": "x4gKing/Marzban-Panel",
+      "url": "https://github.com/x4gKing/Marzban-Panel",
+      "description": "",
+      "language": "Dockerfile",
+      "stars": 869,
+      "summaryZh": "Marzban-Panel 是一个基于 Docker 的代理面板，用于管理 VPN 订阅节点和用户。它提供 Web UI 创建、管理和监控代理客户端，支持多种协议（如 VMess、Shadowsocks），并内置流量统计和限速功能。适合自建代理服务的管理员或技术爱好者使用。",
+      "category": "其他",
+      "createdAt": "2026-07-12T22:22:09Z"
+    },
+    {
+      "repo": "mereyabdenbekuly-ctrl/clodex-ide",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "language": "TypeScript",
+      "stars": 839,
+      "summaryZh": "Clodex IDE 是一款本地优先、零信任的智能集成开发环境，面向可验证的自主软件开发。它内置代码验证引擎，确保 AI 生成的代码符合安全策略，并提供实时协作和沙箱执行环境。适合对代码安全和可验证性要求高的企业开发者或安全团队。",
+      "category": "开发工具",
+      "createdAt": "2026-07-12T10:35:44Z"
+    },
+    {
+      "repo": "Kappaemme-git/codex-first-customer-finder-skill",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "language": "Python",
+      "stars": 817,
+      "summaryZh": "这是一个 Codex 技能模块，通过分析近期公开信号（如社交媒体、招聘信息）自动寻找潜在首批客户，并附带证据排名。它使用 NLP 提取线索，并输出可追溯的引用来源。适合初创团队或产品经理快速验证市场需求的场景。",
+      "category": "AI",
+      "createdAt": "2026-07-12T14:24:33Z"
+    },
+    {
+      "repo": "oil-oil/beautify-github-readme",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "language": "Python",
+      "stars": 816,
+      "summaryZh": "Beautify GitHub Readme 是一个 CLI 工具，用于生成精美、主题统一的 GitHub 主页 README。它支持 SVG 标题、实时数据徽章，并输出可维护的 Markdown 代码。适合希望高效打造专业 GitHub 首页的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-13T07:31:56Z"
+    },
+    {
+      "repo": "x4gKing/Marzban-Node",
+      "url": "https://github.com/x4gKing/Marzban-Node",
+      "description": "",
+      "language": "Dockerfile",
+      "stars": 748,
+      "summaryZh": "Marzban-Node 是 Marzban 面板的节点端组件，用于部署和管理代理服务节点。它轻量、可扩展，支持多协议入站和自动同步用户配置。适合配合 Marzban-Panel 搭建分布式代理网络的技术运维人员。",
+      "category": "其他",
+      "createdAt": "2026-07-12T22:22:51Z"
+    },
+    {
+      "repo": "nethical6/conversation-steganography",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "language": "Go",
+      "stars": 696,
+      "summaryZh": "这个 Go 库利用大语言模型（LLM）将秘密信息嵌入到看似正常的对话文本中，实现隐写通信。它通过控制对话生成过程中的词汇选择来编码数据，解码时无需密钥。适合对隐藏通信有需求的安全研究或隐私保护场景。",
+      "category": "AI",
+      "createdAt": "2026-07-17T04:58:22Z"
+    },
+    {
+      "repo": "KubeezMedia/kubeez-scroll-world-video",
+      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "language": "JavaScript",
+      "stars": 653,
+      "summaryZh": "这是一个基于滚动控制的“飞越世界”视频汉堡包交互演示，使用 Kubeez 引擎生成。用户滚动页面即可平滑浏览预渲染的 3D 世界视频，体验电影般的浏览效果。适合用于品牌宣传或交互式故事的 Web 展示。",
+      "category": "前端",
+      "createdAt": "2026-07-13T23:32:54Z"
+    },
+    {
+      "repo": "MatinSenPai/Aether-GUI",
+      "url": "https://github.com/MatinSenPai/Aether-GUI",
+      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "language": "TypeScript",
+      "stars": 597,
+      "summaryZh": "Aether-GUI 是 Aether 抗审查隧道的一键式桌面图形界面前端，基于 Tauri v2、React 19 和 Rust 构建。它提供美观易用的配置界面，自动处理连接设置，适合非技术用户绕过网络封锁。",
+      "category": "其他",
+      "createdAt": "2026-07-14T20:13:18Z"
+    },
+    {
+      "repo": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": 558,
+      "summaryZh": "Yoinks 是一个终端视频下载工具，支持从 YouTube 等主流平台下载视频，无广告干扰。它基于 yt-dlp 封装，提供清晰简洁的命令行界面，并支持批量下载和格式选择。适合习惯命令行的视频收藏者或自动化脚本调用。",
+      "category": "开发工具",
+      "createdAt": "2026-07-16T07:06:09Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "marcelpanse/youtube-guitar-tab-parser",
+      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+      "description": "CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.",
+      "language": "TypeScript",
+      "stars": 155,
+      "summaryZh": "该项目是一个命令行工具，可将 YouTube 吉他教学视频转换为 PDF 乐谱（TAB 谱）。它下载视频音频，通过算法识别音符和指法，并生成可打印的曲谱。适合吉他学习者从视频中快速提取谱子离线练习。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +89（+135%）",
+      "reasonZh": "直接把 YouTube 吉他教学视频转成 PDF 吉他谱，一键搞定。再也不用暂停视频扒谱，吉他爱好者练琴效率飙升。"
+    },
+    {
+      "repo": "patonw/leaves",
+      "url": "https://github.com/patonw/leaves",
+      "description": "A text-mode disk usage visualization utility",
+      "language": "Rust",
+      "stars": 169,
+      "summaryZh": "Leaves 是一个终端下的磁盘使用情况可视化工具，类似于 ncdu 的增强版。它以树形结构显示磁盘空间占用，支持颜色高亮和大文件快速定位，性能优于同类工具。适合需要在命令行中高效排查磁盘容量的运维或开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 90 分 · 29 评论",
+      "reasonZh": "纯文本模式的磁盘占用可视化工具，比 du、ncdu 更直观。用 Rust 写的，速度快资源少，适合终端党快速扫描大文件。"
+    },
+    {
+      "repo": "thephw/claude-meseeks",
+      "url": "https://github.com/thephw/claude-meseeks",
+      "description": "Claude Code plugin that plays a Mr. Meeseeks voice line whenever Claude is waiting for you.",
+      "language": "Go",
+      "stars": 75,
+      "summaryZh": "Claude Meseeks 是一个 Claude Code 插件，在 Claude 等待用户输入时会播放《瑞克和莫蒂》中 Mr. Meeseeks 的声音片段，增加交互趣味。它轻量、配置简单，适合在日常开发中增添幽默感。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +32（+74%）",
+      "reasonZh": "Claude Code 卡住时自动播放《瑞克和莫蒂》Meeseek 语音，编程趣味拉满。开发者减压神器，治愈等待焦虑。"
+    },
+    {
+      "repo": "cosmtrek/mindwalk",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "language": "Go",
+      "stars": 798,
+      "summaryZh": "Mindwalk 是一个可视化工具，能将编码代理（如编程助手）的会话过程在代码库的 3D 地图上回放。它记录代理的搜索和修改路径，帮助开发者理解 AI 的决策逻辑。适合调试和审计 AI 编码行为的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +480（+151%）",
+      "reasonZh": "把 AI 编码过程可视化在 3D 代码地图上，像看脑图回放一样理解 agent 行为。适合调试复杂 AI 任务，比日志直观百倍。"
+    },
+    {
+      "repo": "floodtide/dom-docx",
+      "url": "https://github.com/floodtide/dom-docx",
+      "description": "Convert semantic HTML fragments to native, editable Word documents (OOXML)",
+      "language": "TypeScript",
+      "stars": 425,
+      "summaryZh": "将语义化 HTML 片段转换为原生可编辑的 Word 文档（OOXML 格式）。核心功能是直接操作 DOM 生成兼容 Word 的 XML，适合需要从网页内容生成 .docx 文件的开发者或文档自动化场景。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +196（+86%）",
+      "reasonZh": "HTML 片段直接转原生可编辑 Word 文档（OOXML），保留样式和结构。写文档自动生成报告的神器，比 pandoc 更贴合办公场景。"
+    },
+    {
+      "repo": "Poseidon-fan/linux-0.11-rs",
+      "url": "https://github.com/Poseidon-fan/linux-0.11-rs",
+      "description": "Linux 0.11 rewritten in idiomatic Rust: kernel, std-style user library, and 60+ coreutils — boots on i386 in QEMU.",
+      "language": "Rust",
+      "stars": 162,
+      "summaryZh": "用地道的 Rust 重写 Linux 0.11 内核，包含标准库风格的用户库和 60+ 核心工具，可在 i386 架构的 QEMU 中启动。适合学习操作系统原理、Rust 系统编程及内核开发的极佳参考项目。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +107（+195%）",
+      "reasonZh": "用 Rust 重写 Linux 0.11 内核并能在 QEMU 启动，包含标准库和 60+ 命令。操作系统学习者的宝藏，看源码比读 C 舒服多了。"
+    },
+    {
+      "repo": "sheeki03/tirith",
+      "url": "https://github.com/sheeki03/tirith",
+      "description": "Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.",
+      "language": "Rust",
+      "stars": 2605,
+      "summaryZh": "面向开发者和 AI 代理的终端安全工具，拦截同形字 URL、管道到 shell、ANSI 注入、混淆载荷、数据外泄等攻击。核心优势是实时检测并阻止执行前，适合保护命令行环境安全。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · devtools",
+      "reasonZh": "终端安全守护者，自动拦截钓鱼链接、管道执行、ANSI 注入等攻击。开发者和 AI agent 必备，防止恶意 skill 偷偷搞破坏。"
+    },
+    {
+      "repo": "tastyeffectco/sandboxd",
+      "url": "https://github.com/tastyeffectco/sandboxd",
+      "description": "Open-source, self-hosted AI app builder — an agent builds real apps in isolated sandboxes on your own server, each live at a preview URL. Self-host in one command. MIT.",
+      "language": "Go",
+      "stars": 746,
+      "summaryZh": "开源自托管的 AI 应用构建器，AI 代理在隔离沙箱中构建真实应用并在预览 URL 上运行。一条命令即可自托管，遵循 MIT 协议，适合需要安全构建 AI 应用的开发者。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · devtools",
+      "reasonZh": "自建 AI 应用沙盒构建器，一条命令部署隔离环境，自动生成预览链接。适合安全测试和快速原型，比云端沙盒更可控。"
+    },
+    {
+      "repo": "hcavarsan/pipedash",
+      "url": "https://github.com/hcavarsan/pipedash",
+      "description": "Manage CI/CD pipelines from multiple providers (self hosted, desktop app and ios app ) ",
+      "language": "Rust",
+      "stars": 1015,
+      "summaryZh": "跨平台的 CI/CD 管道管理工具，支持自托管、桌面应用和 iOS 应用，可集中管理多个提供商的流水线。核心功能是统一监控和操作，适合运维工程师和多平台开发团队。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · devtools",
+      "reasonZh": "统一管理多个 CI/CD 管道的桌面应用，支持自托管。DevOps 不用在多个平台间切换，一个面板看所有构建状态。"
+    },
+    {
+      "repo": "malisper/pgrust",
+      "url": "https://github.com/malisper/pgrust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "language": "Rust",
+      "stars": 3488,
+      "summaryZh": "用 Rust 重写 PostgreSQL 数据库，已通过 100% 的 Postgres 回归测试。性能与兼容性并重，适合对性能有极致要求或希望评估 Rust 在数据库领域潜力的 DBA 和开发人员。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1426（+69%）",
+      "reasonZh": "用 Rust 重写 PostgreSQL 并 100% 通过所有回归测试，性能更稳。Postgres 深度用户的实验项目，探索 Rust 数据库的可能性。"
+    }
+  ]
+}
