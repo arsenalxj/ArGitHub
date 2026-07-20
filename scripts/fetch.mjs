@@ -1,6 +1,7 @@
 // 抓 GitHub Trending 榜单 + 近期新出的高星项目，写入 data/raw-{date}.json
 import * as cheerio from 'cheerio';
 import { todayStr, daysAgoStr, rawFile, writeJson, ghApi } from './lib.mjs';
+import { filterRecommendedProjects } from './project-preference.mjs';
 
 const TRENDING_LIMIT = 25;
 const NEW_REPO_LIMIT = 15;
@@ -45,6 +46,7 @@ async function fetchNewRepos() {
     language: it.language || '',
     stars: it.stargazers_count,
     createdAt: it.created_at,
+    topics: it.topics || [],
   }));
 }
 
@@ -54,17 +56,21 @@ async function main() {
   let newRepos = [];
 
   try {
-    trending = await fetchTrending();
-    console.log(`Trending：${trending.length} 条`);
+    const fetched = await fetchTrending();
+    trending = filterRecommendedProjects(fetched);
+    console.log(`Trending：${trending.length} 条（过滤底层项目 ${fetched.length - trending.length} 条）`);
   } catch (e) {
     console.error('Trending 抓取失败：', e.message);
   }
 
   try {
-    newRepos = await fetchNewRepos();
+    const fetched = await fetchNewRepos();
+    const recommended = filterRecommendedProjects(fetched);
+    const excludedCount = fetched.length - recommended.length;
+    newRepos = recommended;
     const trendingSet = new Set(trending.map((r) => r.repo));
     newRepos = newRepos.filter((r) => !trendingSet.has(r.repo)).slice(0, NEW_REPO_LIMIT);
-    console.log(`新高星项目：${newRepos.length} 条`);
+    console.log(`新高星项目：${newRepos.length} 条（过滤底层项目 ${excludedCount} 条）`);
   } catch (e) {
     console.error('新高星项目抓取失败：', e.message);
   }

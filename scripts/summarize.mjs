@@ -2,6 +2,10 @@
 // 没有 DEEPSEEK_API_KEY 或调用失败时走降级路径，保证每日数据照常生成
 import path from 'node:path';
 import { todayStr, rawFile, readJson, writeJson, DATA_DIR } from './lib.mjs';
+import {
+  applicationPreferenceTier,
+  filterRecommendedProjects,
+} from './project-preference.mjs';
 
 export const CATEGORIES = ['AI', '游戏', '开发工具', '前端', '资料教程', '其他'];
 const GEM_TOP_N = 10;
@@ -34,6 +38,7 @@ function repoBrief(it) {
     description: (it.description || '').slice(0, 200),
     language: it.language || '',
     stars: it.stars,
+    ...(it.topics?.length ? { topics: it.topics } : {}),
     ...(it.signal ? { signal: it.signal } : {}),
   };
 }
@@ -41,7 +46,7 @@ function repoBrief(it) {
 /** 宝藏评选：AI 按新颖性/实用性/有趣程度精选 Top 10 并给推荐理由 */
 async function pickGems(candidates) {
   const result = await deepseek(
-    `你是 GitHub 宝藏项目猎人，目标是从候选中挑出"质量高但还没火"的有意思项目。综合新颖性、实用性、有趣程度评判，警惕纯营销项目和 awesome 列表类。返回 JSON：{"picks":[{"repo":"owner/name","reasonZh":"推荐理由"}]}，精选不超过 ${GEM_TOP_N} 个，按推荐度排序。推荐理由 60~100 字，口语化，讲清三点：它最大的亮点是什么、和同类项目比特别在哪、什么场景下会用到它。`,
+    `你是 GitHub 应用项目猎人，目标是从候选中挑出“质量高但还没火”、普通用户或开发者可以直接安装、部署或使用的项目。优先桌面/Web/移动应用、自托管服务、CLI/TUI、IDE/插件、自动化工具和游戏；不要选择编译器、语言运行时、内核、驱动、固件、数据库/存储引擎、基础算法/协议库。框架、SDK、模型训练或纯研究项目应明显降权，除非它本身提供了完整可用的产品体验。再综合新颖性、实用性和有趣程度评判，警惕纯营销项目和 awesome 列表类。返回 JSON：{"picks":[{"repo":"owner/name","reasonZh":"推荐理由"}]}，精选不超过 ${GEM_TOP_N} 个，宁缺毋滥，按推荐度排序。推荐理由 60~100 字，口语化，讲清三点：它最大的亮点是什么、和同类项目比特别在哪、什么场景下会用到它。`,
     JSON.stringify(candidates.map(repoBrief)),
   );
   const byRepo = new Map(candidates.map((c) => [c.repo, c]));
@@ -58,7 +63,7 @@ async function pickGems(candidates) {
 function pickGemsFallback(candidates) {
   const score = (c) => (c.hnScore || 0) + (c.growth || 0) * 300 + (c.stars || 0) / 100;
   return [...candidates]
-    .sort((a, b) => score(b) - score(a))
+    .sort((a, b) => applicationPreferenceTier(b) - applicationPreferenceTier(a) || score(b) - score(a))
     .slice(0, GEM_TOP_N)
     .map((c) => ({ ...c, reasonZh: '' }));
 }
@@ -111,6 +116,13 @@ async function main() {
     console.error(`未找到 ${rawFile(date)}，请先运行 fetch.mjs 和 gems.mjs`);
     process.exit(1);
   }
+
+  const originalCount = (raw.trending || []).length + (raw.newRepos || []).length + (raw.gemCandidates || []).length;
+  raw.trending = filterRecommendedProjects(raw.trending || []);
+  raw.newRepos = filterRecommendedProjects(raw.newRepos || []);
+  raw.gemCandidates = filterRecommendedProjects(raw.gemCandidates || []);
+  const filteredCount = originalCount - raw.trending.length - raw.newRepos.length - raw.gemCandidates.length;
+  if (filteredCount > 0) console.log(`汇总前兜底过滤底层项目：${filteredCount} 条`);
 
   // 1. 宝藏评选
   let gems = [];

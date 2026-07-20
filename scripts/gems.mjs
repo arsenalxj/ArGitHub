@@ -1,10 +1,11 @@
 // 宝藏候选池：HN 热议 / 小而美搜索 / 黑马涨星检测，三渠道合并去重后追加进 raw 文件
 import path from 'node:path';
 import { todayStr, daysAgoStr, rawFile, readJson, writeJson, ghApi, DATA_DIR } from './lib.mjs';
+import { lowLevelReason } from './project-preference.mjs';
 
 const HN_STORY_LIMIT = 200; // 扫描 HN 热帖条数
 const HN_MIN_SCORE = 60; // HN 分数门槛
-const SEARCH_TOPICS = ['cli', 'self-hosted', 'game', 'ai', 'productivity', 'rust', 'automation', 'visualization', 'security', 'devtools'];
+const SEARCH_TOPICS = ['self-hosted', 'desktop-app', 'productivity', 'automation', 'visualization', 'game', 'ai-agent', 'developer-tools', 'home-automation', 'note-taking'];
 const DARK_HORSE_MAX_STARS = 5000; // 黑马：总 star 上限
 const DARK_HORSE_MIN_GROWTH = 0.3; // 黑马：周涨幅下限 30%
 const GEM_MAX_STARS = 10000; // 宝藏定位是"还没火"，超过此 star 数的不算宝藏
@@ -56,6 +57,7 @@ async function fromSearch() {
     language: it.language || '',
     stars: it.stargazers_count,
     topic,
+    topics: it.topics || [],
   }));
 }
 
@@ -97,7 +99,14 @@ async function enrich(candidates) {
     if (!c.stars || c.source === 'dark-horse') {
       try {
         const r = await ghApi(`/repos/${c.repo}`);
-        info = { ...c, url: r.html_url, description: r.description || '', language: r.language || '', stars: r.stargazers_count };
+        info = {
+          ...c,
+          url: r.html_url,
+          description: r.description || '',
+          language: r.language || '',
+          stars: r.stargazers_count,
+          topics: r.topics || [],
+        };
       } catch {
         continue; // 仓库被删/改名/限流，丢弃该候选
       }
@@ -109,6 +118,7 @@ async function enrich(candidates) {
       info.starsGained = info.stars - c.oldStars;
     }
     if (info.stars > GEM_MAX_STARS) continue; // 已经火了的不算宝藏
+    if (lowLevelReason(info)) continue;
     out.push(info);
   }
   return out;

@@ -1,4 +1,4 @@
-# CLAUDE.md
+# AGENTS.md
 
 GitHub 每日热门/宝藏项目网页。**纯静态站 + GitHub Actions 定时采集**，无服务器、无构建步骤。
 

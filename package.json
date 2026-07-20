@@ -5,6 +5,7 @@
   "type": "module",
   "description": "每日搜集 GitHub 热门与宝藏项目",
   "scripts": {
+    "test": "node --test scripts/*.test.mjs",
     "fetch": "node scripts/fetch.mjs",
     "gems": "node scripts/gems.mjs",
     "summarize": "node scripts/summarize.mjs",
