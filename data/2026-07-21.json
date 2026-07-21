@@ -1,0 +1,377 @@
+{
+  "date": "2026-07-21",
+  "trending": [
+    {
+      "repo": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 23171,
+      "summaryZh": "本地优先的代码智能图谱，为 MCP 和 CLI 构建持久化代码库映射，让 AI 编码工具只读取相关信息。在代码审查和大型仓库场景中，经基准测试可显著减少上下文体积。",
+      "category": "开发工具",
+      "starsToday": 1833
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "stars": 9630,
+      "summaryZh": "最智能的代码智能体框架，基于 Rust 构建，提供高性能代码感知能力。适合需要自动化代码生成、重构和理解的开发者，可无缝集成到现有工作流。",
+      "category": "开发工具",
+      "starsToday": 568
+    },
+    {
+      "repo": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "language": "TypeScript",
+      "stars": 21826,
+      "summaryZh": "免费的 MIT 协议 AI 网关，通过单一端点接入 268+ 提供商（50+ 免费）、500+ 模型，包含 Claude、GPT、Gemini 等主流模型。兼容 Claude Code、Codex、Cursor 等工具，无需中断编码。",
+      "category": "开发工具",
+      "starsToday": 1107
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 40523,
+      "summaryZh": "从零开始学习 AI 工程的系统教程，覆盖理论到实践。包含可运行的代码示例和项目，适合希望掌握 AI 构建和部署的初学者与进阶开发者。",
+      "category": "资料教程",
+      "starsToday": 823
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 134710,
+      "summaryZh": "一站式 AI 智能体集合，包括前端魔法师、Reddit 社区忍者等各具特色的专家型智能体。每个智能体有自己的性格和处理流程，可组合完成复杂任务。",
+      "category": "AI",
+      "starsToday": 862
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": 44167,
+      "summaryZh": "开源 AI 语音工作室，支持语音克隆、听写和音频创作。基于先进模型实现高质量语音合成，适用于有声书、配音、辅助沟通等场景。",
+      "category": "AI",
+      "starsToday": 821
+    },
+    {
+      "repo": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python",
+      "stars": 28793,
+      "summaryZh": "开源 AI 智能体记忆平台，通过自托管知识图谱引擎赋予智能体持久化长时记忆。解决多会话信息遗忘问题，适合构建深度交互的 AI 应用。",
+      "category": "AI",
+      "starsToday": 234
+    },
+    {
+      "repo": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars": 5850,
+      "summaryZh": "Semrush 和 Ahrefs 的开源替代品，提供 SEO 核心功能。适合个人站长和小团队自主部署，进行关键词研究、竞争分析和网站优化。",
+      "category": "开发工具",
+      "starsToday": 939
+    },
+    {
+      "repo": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": 10237,
+      "summaryZh": "Kimi 推出的 CLI 智能体，通过命令行直接交互。支持代码生成、文件操作和复杂任务编排，适合技术用户快速提升工作效率。",
+      "category": "开发工具",
+      "starsToday": 410
+    },
+    {
+      "repo": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars": 37093,
+      "summaryZh": "多功能 AI 智能体助理与开发框架，集成 IM 平台、大语言模型、插件系统和 AI 功能。可作为 OpenAI Codex 的替代，适配多平台聊天和自动化服务。",
+      "category": "开发工具",
+      "starsToday": 317
+    },
+    {
+      "repo": "PrefectHQ/fastmcp",
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "language": "Python",
+      "stars": 26530,
+      "summaryZh": "快速、Pythonic 的 MCP 服务端和客户端构建框架。提供简洁 API，便于开发者快速搭建基于模型上下文协议的工具链。",
+      "category": "开发工具",
+      "starsToday": 96
+    },
+    {
+      "repo": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": 2551,
+      "summaryZh": "为 AI 编码智能体设计的本地优先 Web 工具，集成搜索、抓取、爬取和研究功能。无需 API 密钥或云端，零成本使用，正在公测。",
+      "category": "开发工具",
+      "starsToday": 689
+    },
+    {
+      "repo": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
+      "language": "Rust",
+      "stars": 1544,
+      "summaryZh": "基于 Rust 的全功能 Web 应用框架，提供开箱即用的组件。利用 Rust 的内存安全和高性能，适合构建安全、低延迟的 Web 服务。",
+      "category": "前端",
+      "starsToday": 371
+    },
+    {
+      "repo": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": 133776,
+      "summaryZh": "全球公开 IPTV 频道集合，通过 TypeScript 脚本自动抓取和更新。支持多种播放器和格式，适合爱好者免费观看到各国直播电视。",
+      "category": "其他",
+      "starsToday": 240
+    },
+    {
+      "repo": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars": 4803,
+      "summaryZh": "自托管的部署平台，简化应用上线的流程。提供直观的界面和自动化管道，适合团队或个人管理多环境部署。",
+      "category": "开发工具",
+      "starsToday": 1641
+    },
+    {
+      "repo": "microsoft/Ontology-Playground",
+      "url": "https://github.com/microsoft/Ontology-Playground",
+      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "language": "TypeScript",
+      "stars": 1727,
+      "summaryZh": "一个免费、开源的本体论学习与应用Web应用。支持浏览预设本体库、可视化设计本体、导出为RDF/XML，并分享交互式图表。适合需要学习或构建本体论的知识图谱开发者、研究人员及教育场景。",
+      "category": "开发工具",
+      "starsToday": 464
+    },
+    {
+      "repo": "moonshine-ai/moonshine",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+      "language": "C++",
+      "stars": 9839,
+      "summaryZh": "超低延迟的语音转文字、意图识别与语音合成引擎，专为构建语音代理和交互界面设计。采用C++实现高性能推理，适合需要实时语音交互的应用场景，如智能助手、客服系统。",
+      "category": "AI",
+      "starsToday": 282
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "language": "Rust",
+      "stars": 20797,
+      "summaryZh": "SpaceXAI开发的编码代理工具和TUI界面，支持全屏、鼠标交互和扩展。基于Rust构建，适合开发者通过命令行工具增强编码效率，用于自动化代码生成和调试。",
+      "category": "开发工具",
+      "createdAt": "2026-07-14T20:04:23Z"
+    },
+    {
+      "repo": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "language": "JavaScript",
+      "stars": 11064,
+      "summaryZh": "一个JavaScript项目，功能未明确说明，但代码风格和命名暗示可能与代码编辑或主题相关。适合了解或定制编程界面外观的开发者。",
+      "category": "前端",
+      "createdAt": "2026-07-15T12:34:51Z"
+    },
+    {
+      "repo": "CluvexStudio/Aether",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "description": "",
+      "language": "Rust",
+      "stars": 1395,
+      "summaryZh": "Rust编写的项目，描述为空，但从关联项目推测可能涉及网络代理或通信。适合对Rust高性能网络应用感兴趣的开发者研究或扩展。",
+      "category": "开发工具",
+      "createdAt": "2026-07-14T14:20:44Z"
+    },
+    {
+      "repo": "tandpfun/wardrobe",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "language": "JavaScript",
+      "stars": 1218,
+      "summaryZh": "利用GPT-4图像识别技术整理衣物管理的JavaScript应用。自动提取并分类衣物信息，适合个人衣物管理或时尚爱好者使用。",
+      "category": "AI",
+      "createdAt": "2026-07-16T06:17:00Z"
+    },
+    {
+      "repo": "hoainho/img2threejs",
+      "url": "https://github.com/hoainho/img2threejs",
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "language": "Python",
+      "stars": 1007,
+      "summaryZh": "将参考图像中的物体重建为代码驱动的Three.js模型，支持3D、动画生成。基于AI代理和程序化生成，适合3D开发者和设计师快速从图片生成可交互3D内容。",
+      "category": "AI",
+      "createdAt": "2026-07-15T02:58:39Z"
+    },
+    {
+      "repo": "nethical6/conversation-steganography",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "language": "Go",
+      "stars": 880,
+      "summaryZh": "利用大语言模型在看似正常的对话中隐藏信息的隐写术工具。基于Go开发，适合信息安全研究者或需要隐秘通信的场景。",
+      "category": "AI",
+      "createdAt": "2026-07-17T04:58:22Z"
+    },
+    {
+      "repo": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": 864,
+      "summaryZh": "命令行视频下载工具，无广告干扰。支持从多种视频平台下载，适合需要快速获取视频内容的终端用户。",
+      "category": "开发工具",
+      "createdAt": "2026-07-16T07:06:09Z"
+    },
+    {
+      "repo": "lopopolo/harness-engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "language": "Python",
+      "stars": 757,
+      "summaryZh": "Ryan Lopopolo的文集、现场指南和代理上下文包，用于“缰绳工程”（可能指控制或管理）。Python项目，适合DevOps或系统管理场景。",
+      "category": "其他",
+      "createdAt": "2026-07-18T21:42:28Z"
+    },
+    {
+      "repo": "MatinSenPai/Aether-GUI",
+      "url": "https://github.com/MatinSenPai/Aether-GUI",
+      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "language": "TypeScript",
+      "stars": 667,
+      "summaryZh": "Aether防审查隧道的一键桌面GUI，基于Tauri v2、React 19和Rust。提供简单易用的跨平台桌面应用，适合需要绕过网络审查的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-07-14T20:13:18Z"
+    },
+    {
+      "repo": "Blueturboguy07/cue",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "language": "JavaScript",
+      "stars": 659,
+      "summaryZh": "macOS上的开源AI协处理器，浮动于屏幕上方，能监听会议并自动隐藏于屏幕共享。替代Cluely，支持自带API密钥，适合需要会议辅助的职场人士。",
+      "category": "AI",
+      "createdAt": "2026-07-15T22:17:25Z"
+    },
+    {
+      "repo": "v-modal/vmodal_sdk_flutter",
+      "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+      "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+      "language": "Dart",
+      "stars": 622,
+      "summaryZh": "V-Modal AI的Flutter SDK，实现“搜索任何地方”的功能。集成AI搜索能力，适合移动应用开发者快速添加智能搜索功能。",
+      "category": "前端",
+      "createdAt": "2026-07-16T12:25:48Z"
+    },
+    {
+      "repo": "stackblitz/bolt-slides",
+      "url": "https://github.com/stackblitz/bolt-slides",
+      "description": "Use any agent to create stunning, interactive presentations",
+      "language": "TypeScript",
+      "stars": 502,
+      "summaryZh": "利用任何AI代理创建精美交互式演示文稿的Web应用。基于TypeScript，适合需要快速生成动态幻灯片的内容创作者或教育者。",
+      "category": "前端",
+      "createdAt": "2026-07-14T18:23:27Z"
+    },
+    {
+      "repo": "xiejunjie524/handdraw-story-video",
+      "url": "https://github.com/xiejunjie524/handdraw-story-video",
+      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "language": "Python",
+      "stars": 494,
+      "summaryZh": "将手绘故事插画转换为35-45秒的线条揭示与渐变色动画视频，使用HyperFrames技术。适合故事创作者或教育场景，实现手绘内容的动态展示。",
+      "category": "AI",
+      "createdAt": "2026-07-18T06:51:05Z"
+    },
+    {
+      "repo": "EthanXiang777/circuit-framework",
+      "url": "https://github.com/EthanXiang777/circuit-framework",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "language": "Python",
+      "stars": 486,
+      "summaryZh": "Circuit Framework 是一个基于多智能体的金融交易研究系统，专注于利用大语言模型进行量化策略分析。其核心功能是协调多个专业Agent协作完成数据采集、信号生成与回测，技术亮点在于灵活的任务编排与模型集成。适合量化交易研究员或金融AI开发者用于构建高效的研究工作流。",
+      "category": "开发工具",
+      "createdAt": "2026-07-16T15:02:10Z"
+    },
+    {
+      "repo": "pyang5166/gbro-collage-broll",
+      "url": "https://github.com/pyang5166/gbro-collage-broll",
+      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "language": "Python",
+      "stars": 473,
+      "summaryZh": "gbro-collage-broll 是一个半调纸拼贴风格的B-roll视频生成工具，通过Gemini Omni Flash模型将首尾帧自动组装成动画。核心技能包括三闸门审批流程和agent skill编排，适合视频创作者或自媒体运营者快速生成具有独特纸艺美感的配乐短片。",
+      "category": "AI",
+      "createdAt": "2026-07-15T12:45:47Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "cosmtrek/mindwalk",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "language": "Go",
+      "stars": 862,
+      "summaryZh": "Mindwalk 是一种可视化工具，将编程Agent的会话过程以3D地图形式重现在代码库中。它帮助开发者直观理解Agent的决策路径与知识探索过程，模型无关地提升调试效率。适合AI代理开发者或研究员进行行为分析与验证。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +376（+77%）",
+      "reasonZh": "将 AI 编码代理的会话过程在 3D 代码库地图上回放，让你直观看到修改轨迹。比纯日志酷太多，适合复盘代理行为、优化 prompt 或做演示。"
+    },
+    {
+      "repo": "marcelpanse/youtube-guitar-tab-parser",
+      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+      "description": "CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.",
+      "language": "TypeScript",
+      "stars": 157,
+      "summaryZh": "youtube-guitar-tab-parser 是一个命令行工具，可将YouTube吉他教学视频自动转录并生成PDF格式的吉他谱。核心功能基于音频信号处理和乐谱识别技术，适合吉他学习者或教师快速获取书签式教学材料，节省手动扒谱时间。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +91（+138%）",
+      "reasonZh": "输入 YouTube 吉他教学视频链接，自动输出带六线谱的 PDF。吉他手福音，省去手动扒谱的麻烦，对初学者尤其友好。"
+    },
+    {
+      "repo": "Raymondhou0917/speak-human-tw",
+      "url": "https://github.com/Raymondhou0917/speak-human-tw",
+      "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
+      "language": "",
+      "stars": 630,
+      "summaryZh": "「說人話」是繁體中文的去AI味改寫技能，能检测38种AI写作痕迹并自动修正中国大陆用语与半形标点。专为Claude Code等编辑器设计，适合中文创作者或内容运营者将AI生成的文本转化为自然流畅的正體中文。",
+      "category": "资料教程",
+      "source": "dark-horse",
+      "signal": "周涨星 +153（+32%）",
+      "reasonZh": "专为繁体中文设计的去 AI 味改写技能，能识别 38 种 AI 写作痕迹并校正大陆用语和半角标点。适合需要生成自然繁体内容的 Claude/Cursor 用户。"
+    },
+    {
+      "repo": "modiqo/waggle",
+      "url": "https://github.com/modiqo/waggle",
+      "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
+      "language": "Rust",
+      "stars": 907,
+      "summaryZh": "Waggle 提供基于属性的可解析工件引用，用于AI Agent间传递上下文，仅需约30字节的令牌而非粘贴大量文本。它基于MCP原生协议，作为Agent编排世界的引用层，显著降低通信开销。适合AI系统工程师优化多Agent协作效率。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +297（+49%）",
+      "reasonZh": ""
+    }
+  ]
+}
