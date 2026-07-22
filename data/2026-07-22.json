@@ -1,0 +1,465 @@
+{
+  "date": "2026-07-22",
+  "trending": [
+    {
+      "repo": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 65431,
+      "summaryZh": "实时全球情报仪表盘，通过AI驱动的新闻聚合、地缘政治监控和基础设施追踪，提供统一态势感知界面。适合需要快速掌握全球动态的分析师、记者或安全团队。",
+      "category": "其他",
+      "starsToday": 1295
+    },
+    {
+      "repo": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars": 14460,
+      "summaryZh": "《深入理解AI Agent：设计原理与工程实践》开源仓库，包含全书正文、PDF及配套代码。适合想系统学习AI Agent设计与实现的开发者。",
+      "category": "资料教程",
+      "starsToday": 4624
+    },
+    {
+      "repo": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 24542,
+      "summaryZh": "本地优先的代码智能图，为MCP和CLI构建持久化代码库地图，让AI工具只读取关键上下文，显著减少评审和大型仓库的上下文消耗。适合需要高效代码审查的开发者。",
+      "category": "开发工具",
+      "starsToday": 1925
+    },
+    {
+      "repo": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "",
+      "stars": 6856,
+      "summaryZh": "为编程智能体设计的技能包，强制AI直接给出答案而不埋没在冗长解释中，适合需要简洁、直接输出的注意缺陷者或追求效率的用户。",
+      "category": "开发工具",
+      "starsToday": 1866
+    },
+    {
+      "repo": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars": 9116,
+      "summaryZh": "将文本描述转换为CAD设计的智能体技能集合，支持机器人、硬件等场景。适合设计师、工程师快速从想法生成三维模型。",
+      "category": "开发工具",
+      "starsToday": 291
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "stars": 10317,
+      "summaryZh": "最智能的代码智能体工具集，基于Rust实现高性能代码处理。适合需要强大代码理解与生成能力的AI编程场景。",
+      "category": "开发工具",
+      "starsToday": 843
+    },
+    {
+      "repo": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars": 6223,
+      "summaryZh": "自托管的部署平台，提供简单易用的应用发布与管理功能。适合个人或小团队搭建自己的部署基础设施。",
+      "category": "开发工具",
+      "starsToday": 1562
+    },
+    {
+      "repo": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars": 37460,
+      "summaryZh": "集成多IM平台、LLM、插件和AI功能的智能体开发框架，可作为OpenClaw替代方案。适合需要快速构建聊天机器人的开发者。",
+      "category": "开发工具",
+      "starsToday": 416
+    },
+    {
+      "repo": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars": 6593,
+      "summaryZh": "开源的SEO工具，类似Semrush和Ahrefs，提供关键词研究、竞争分析等功能。适合网站运营者与SEO优化人员。",
+      "category": "开发工具",
+      "starsToday": 849
+    },
+    {
+      "repo": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "stars": 4838,
+      "summaryZh": "AI辅助TradingView图表分析工具，连接Claude Code与桌面版TradingView，实现个人工作流自动化。适合交易员使用。",
+      "category": "其他",
+      "starsToday": 114
+    },
+    {
+      "repo": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars": 30195,
+      "summaryZh": "一条命令即可测试数百种模型与供应商在本地硬件上的运行情况，帮你找到最合适的模型。适合需要本地部署LLM的开发者。",
+      "category": "开发工具",
+      "starsToday": 129
+    },
+    {
+      "repo": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": 37037,
+      "summaryZh": "独立、高度可定制、动态平铺Wayland合成器，兼具美观与性能。适合追求极致桌面体验的Linux用户。",
+      "category": "其他",
+      "starsToday": 58
+    },
+    {
+      "repo": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 69959,
+      "summaryZh": "阿波罗11号制导计算机的原始源代码，包含指令舱和登月模块程序。适合复古计算、航天历史爱好者学习研究。",
+      "category": "资料教程",
+      "starsToday": 1235
+    },
+    {
+      "repo": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars": 37654,
+      "summaryZh": "全栈应用框架，支持Web、桌面和移动端，使用Rust语法。适合想要高效开发跨平台应用的Rust开发者。",
+      "category": "前端",
+      "starsToday": 271
+    },
+    {
+      "repo": "langchain-ai/open_deep_research",
+      "url": "https://github.com/langchain-ai/open_deep_research",
+      "description": "",
+      "language": "Python",
+      "stars": 12234,
+      "summaryZh": "基于LangChain的深度研究开源工具，支持自动化信息收集与论文阅读。适合研究者与AI工程师。",
+      "category": "AI",
+      "starsToday": 23
+    },
+    {
+      "repo": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": 23603,
+      "summaryZh": "一个聚合 268+ 家 AI 服务商（其中 50+ 免费）的统一 API 网关，支持 Kimi、Claude、GPT、Gemini 等 500+ 模型。只需一个端点即可接入多种工具（Claude Code、Cursor、OpenCode），适合开发者快速集成和切换 AI 模型。",
+      "category": "AI",
+      "starsToday": 2034
+    },
+    {
+      "repo": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars": 1723,
+      "summaryZh": "为 pi coding agent 设计的 Web 界面，提供直观的交互和管理功能。适合需要图形化操作 AI 编程助手的开发者使用。",
+      "category": "开发工具",
+      "starsToday": 298
+    },
+    {
+      "repo": "schollz/croc",
+      "url": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars": 36799,
+      "summaryZh": "跨平台文件传输工具，支持端到端加密，通过中继服务器实现两台电脑之间的安全文件发送。无需配置，支持断点续传，适合快速分享文件。",
+      "category": "开发工具",
+      "starsToday": 361
+    },
+    {
+      "repo": "microsoft/Ontology-Playground",
+      "url": "https://github.com/microsoft/Ontology-Playground",
+      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "language": "TypeScript",
+      "stars": 2002,
+      "summaryZh": "开源 Web 应用，用于学习和设计本体（Ontology），可浏览预建本体目录、可视化设计并导出为 RDF/XML。适合数据建模初学者和 Fabric IQ 用户。",
+      "category": "资料教程",
+      "starsToday": 355
+    },
+    {
+      "repo": "dottxt-ai/outlines",
+      "url": "https://github.com/dottxt-ai/outlines",
+      "description": "Structured Outputs",
+      "language": "Python",
+      "stars": 14840,
+      "summaryZh": "Python 库，用于控制语言模型生成结构化输出（如 JSON、表格）。通过约束解码保证输出格式，适合需要 LLM 输出规范格式的应用场景。",
+      "category": "AI",
+      "starsToday": 65
+    },
+    {
+      "repo": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": 3149,
+      "summaryZh": "本地优先的 AI 代理 Web 工具，支持搜索、抓取、爬取与研究，通过 MCP 协议工作。无需 API 密钥和云端，零成本查询，适合隐私敏感的用户。",
+      "category": "开发工具",
+      "starsToday": 642
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "language": "JavaScript",
+      "stars": 11500,
+      "summaryZh": "Codex Dream Skin 主题，为代码编辑器提供美观的界面皮肤。方便开发者个性化编辑环境。",
+      "category": "其他",
+      "createdAt": "2026-07-15T12:34:51Z"
+    },
+    {
+      "repo": "lopopolo/harness-engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "language": "Python",
+      "stars": 1585,
+      "summaryZh": "Ryan Lopopolo 的精要合集、实战指南与代理上下文包，涵盖 harness 工程实践。适合追求工程效率的开发者阅读参考。",
+      "category": "资料教程",
+      "createdAt": "2026-07-18T21:42:28Z"
+    },
+    {
+      "repo": "hoainho/img2threejs",
+      "url": "https://github.com/hoainho/img2threejs",
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "language": "Python",
+      "stars": 1469,
+      "summaryZh": "将参考图像中的物体重建为 Three.js 模型，输出纯代码、程序化生成的 3D 对象，支持动画且质量可控制。适合前端和 3D 开发者快速将图片转为 3D 场景。",
+      "category": "AI",
+      "createdAt": "2026-07-15T02:58:39Z"
+    },
+    {
+      "repo": "tandpfun/wardrobe",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "language": "JavaScript",
+      "stars": 1284,
+      "summaryZh": "利用 GPT 图像识别功能提取并整理你的衣物信息，实现智能衣橱管理。适合个人用户分类管理衣物。",
+      "category": "其他",
+      "createdAt": "2026-07-16T06:17:00Z"
+    },
+    {
+      "repo": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": 962,
+      "summaryZh": "终端视频下载工具，无广告干扰，支持从多种网站提取视频。适合需要快速下载视频的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-07-16T07:06:09Z"
+    },
+    {
+      "repo": "nethical6/conversation-steganography",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "language": "Go",
+      "stars": 911,
+      "summaryZh": "利用 LLM 将秘密信息隐藏在普通对话文本中，实现隐写。适合对信息隐藏技术感兴趣的安全研究人员。",
+      "category": "AI",
+      "createdAt": "2026-07-17T04:58:22Z"
+    },
+    {
+      "repo": "v-modal/vmodal_sdk_flutter",
+      "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+      "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+      "language": "Dart",
+      "stars": 777,
+      "summaryZh": "V-Modal AI 的 Flutter SDK，提供搜索任意内容的跨平台能力。适合开发需要 AI 搜索功能的移动应用。",
+      "category": "开发工具",
+      "createdAt": "2026-07-16T12:25:48Z"
+    },
+    {
+      "repo": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "language": "Solidity",
+      "stars": 739,
+      "summaryZh": "连接到外部自动化脚本的智能合约，实现以太坊上的 MEV 套利。适合区块链开发者研究和部署套利机器人。",
+      "category": "其他",
+      "createdAt": "2026-07-17T09:45:22Z"
+    },
+    {
+      "repo": "Blueturboguy07/cue",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "language": "JavaScript",
+      "stars": 701,
+      "summaryZh": "开源的 macOS AI 助手，悬浮屏幕上方可监听会议，但能避免被屏幕共享捕获。支持自带密钥，适合需要会议辅助又不暴露隐私的用户。",
+      "category": "AI",
+      "createdAt": "2026-07-15T22:17:25Z"
+    },
+    {
+      "repo": "Blaizzy/nativ",
+      "url": "https://github.com/Blaizzy/nativ",
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "language": "Swift",
+      "stars": 619,
+      "summaryZh": "一款面向 macOS 的本地 AI 应用，集成聊天、模型服务、监控与连接功能，支持 MLX 模型，无需联网即可运行。适合 Mac 用户在本地进行 AI 交互与模型管理。",
+      "category": "AI",
+      "createdAt": "2026-07-20T15:37:29Z"
+    },
+    {
+      "repo": "xiejunjie524/handdraw-story-video",
+      "url": "https://github.com/xiejunjie524/handdraw-story-video",
+      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "language": "Python",
+      "stars": 582,
+      "summaryZh": "将手绘故事插图自动转换为 35-45 秒的线条展现与渐变色视频，使用 HyperFrames 技术。适合内容创作者快速生成动画故事视频。",
+      "category": "AI",
+      "createdAt": "2026-07-18T06:51:05Z"
+    },
+    {
+      "repo": "pyang5166/gbro-collage-broll",
+      "url": "https://github.com/pyang5166/gbro-collage-broll",
+      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "language": "Python",
+      "stars": 551,
+      "summaryZh": "半调纸拼贴风格的 B-roll 视频生成工具，利用 Gemini Omni Flash 模型进行首尾帧组装动画。适合需要生成创意视频素材的编辑师。",
+      "category": "AI",
+      "createdAt": "2026-07-15T12:45:47Z"
+    },
+    {
+      "repo": "EthanXiang777/circuit-framework",
+      "url": "https://github.com/EthanXiang777/circuit-framework",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "language": "Python",
+      "stars": 487,
+      "summaryZh": "基于多智能体 LLM 的量化交易研究系统，提供从数据到策略的完整框架。适合金融研究者与量化交易开发者进行实验与回测。",
+      "category": "AI",
+      "createdAt": "2026-07-16T15:02:10Z"
+    },
+    {
+      "repo": "smixs/pohuy",
+      "url": "https://github.com/smixs/pohuy",
+      "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+      "language": "",
+      "stars": 468,
+      "summaryZh": "为 AI 智能体设计的俄语俚语模式，使对话更简洁、生动、高效（18+）。适合开发者在俄语语境下优化 AI 交互体验。",
+      "category": "开发工具",
+      "createdAt": "2026-07-17T15:22:53Z"
+    },
+    {
+      "repo": "Icex0/wp2shell-poc",
+      "url": "https://github.com/Icex0/wp2shell-poc",
+      "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "language": "Python",
+      "stars": 460,
+      "summaryZh": "针对 WordPress 的远程代码执行漏洞利用链（CVE-2026-63030 & CVE-2026-60137），提供完整 PoC。适合安全研究人员测试与防御。",
+      "category": "开发工具",
+      "createdAt": "2026-07-17T20:18:33Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "steven-jianhao-li/zotero-AI-Butler",
+      "url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "language": "TypeScript",
+      "stars": 1553,
+      "summaryZh": "Zotero 插件，调用大模型自动精读论文并生成结构化笔记，支持主流 AI 平台。适合研究人员快速理解文献核心内容。",
+      "category": "资料教程",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "这是一个Zotero插件，能自动用大模型精读你论文库里的每篇论文并生成笔记。主打“丢进去就自动读”，适合科研党快速消化文献。同类插件很少做到这么自动化，安装即用，十分钟了解一篇论文不是梦。"
+    },
+    {
+      "repo": "clawkwork/clawk",
+      "url": "https://github.com/clawkwork/clawk",
+      "description": "Give coding agents a disposable Linux VM, not your laptop",
+      "language": "Go",
+      "stars": 774,
+      "summaryZh": "为 AI 编程代理提供临时 Linux 虚拟机沙箱，而非直接访问宿主机，提升安全性。适合开发者安全运行代理生成的代码。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +310（+67%）",
+      "reasonZh": "给Coding Agent提供一个独立的Linux虚拟机，而不是直接暴露你的本地环境。亮点是沙箱隔离，安全又干净。比直接跑在宿主机上更安全，适合需要频繁测试Agent代码的开发者，尤其是用Claude Code或Codex时。"
+    },
+    {
+      "repo": "amicalhq/amical",
+      "url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "language": "TypeScript",
+      "stars": 1456,
+      "summaryZh": "开源本地优先的 AI 听写应用，支持离线和本地模型，打字速度提升 3 倍。适合需要高效语音转文字的办公用户。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "开源本地优先的AI听写应用，打字速度提升3倍。亮点是完全离线、免费、支持多种模型，而且数据不外传。相比付费听写软件，它本地运行更隐私，适合需要快速记录想法或会议纪要的用户。"
+    },
+    {
+      "repo": "dongdongbh/Mindwtr",
+      "url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "language": "TypeScript",
+      "stars": 1405,
+      "summaryZh": "跨平台 GTD 任务管理应用，帮助用户清空大脑并聚焦下一步行动。适合追求高效个人管理的用户。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "一个跨平台的GTD任务管理应用，帮你清空大脑、专注下一件事。亮点是简洁的GTD流程，支持桌面和移动端。同类工具中它更轻量、无广告，适合追求高效个人管理的普通人。"
+    },
+    {
+      "repo": "urzeye/ophel",
+      "url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "language": "TypeScript",
+      "stars": 886,
+      "summaryZh": "浏览器扩展，将 AI 对话组织为可复用的工作流，支持 ChatGPT、Claude、Gemini 等平台。适合需要管理复杂 AI 交互的创作者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "浏览器扩展，能把ChatGPT、Claude、Gemini等AI平台的对话转化为可复用的工作流。亮点是跨平台、可组织，适合频繁使用AI助手的人，可以整理常用提示词和流程。"
+    },
+    {
+      "repo": "cosmtrek/mindwalk",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "language": "Go",
+      "stars": 874,
+      "summaryZh": "可视化工具，在代码库的 3D 地图上回放编程代理会话，辅助理解代理行为。适合开发者调试和分析 AI 编程工具。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +297（+51%）",
+      "reasonZh": "一种可视化工具，将Coding Agent的会话回放在代码库的3D地图上。亮点是可以直观看到Agent如何探索代码，理解修改路径。适合用AI Coding Agent的开发者，帮你复盘Agent行为。"
+    },
+    {
+      "repo": "cosmtrek/mindwalk",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "language": "Go",
+      "stars": 874,
+      "summaryZh": "可视化工具，在代码库的 3D 地图上回放编程代理会话，辅助理解代理行为。适合开发者调试和分析 AI 编程工具。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +297（+51%）",
+      "reasonZh": "它是桌面端原生截图工具，双击⌘键即可截图并自动复制到剪贴板，还支持标注和滚动截图。亮点是极简快捷、原生体验好，比系统自带截图更方便，适合经常需要截图的普通用户。"
+    },
+    {
+      "repo": "unhappychoice/gittype",
+      "url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "language": "Rust",
+      "stars": 1519,
+      "summaryZh": "终端打字游戏，将你的源码转化为打字挑战，支持多种编程语言。适合程序员在趣味中练习盲打。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "一款CLI打字游戏，把你自己项目的源代码变成打字挑战。亮点是结合真实代码练习打字，有趣又有用。适合程序员边玩边练敲码速度。"
+    }
+  ]
+}
