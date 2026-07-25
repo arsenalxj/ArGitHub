@@ -1,0 +1,429 @@
+{
+  "date": "2026-07-25",
+  "trending": [
+    {
+      "repo": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": 9993,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 3270
+    },
+    {
+      "repo": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 73276,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 2184
+    },
+    {
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 70055,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 663
+    },
+    {
+      "repo": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": 9339,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 473
+    },
+    {
+      "repo": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": 13042,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 876
+    },
+    {
+      "repo": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": 5022,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 337
+    },
+    {
+      "repo": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars": 2573,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 880
+    },
+    {
+      "repo": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": 19576,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 338
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 85942,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 1022
+    },
+    {
+      "repo": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "stars": 4288,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 201
+    },
+    {
+      "repo": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 71406,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 409
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 186743,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 2251
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": 44997,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 328
+    },
+    {
+      "repo": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": 28841,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 1841
+    },
+    {
+      "repo": "OtterMind/Chat2DB",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "language": "Java",
+      "stars": 26326,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 82
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "description": "",
+      "language": "Python",
+      "stars": 3400,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-20T01:52:32Z"
+    },
+    {
+      "repo": "lopopolo/harness-engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "language": "Python",
+      "stars": 2323,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-18T21:42:28Z"
+    },
+    {
+      "repo": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "language": "TypeScript",
+      "stars": 1430,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-19T11:44:41Z"
+    },
+    {
+      "repo": "Jakubantalik/thinking-orbs",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "language": "TypeScript",
+      "stars": 931,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-21T07:01:53Z"
+    },
+    {
+      "repo": "Blaizzy/nativ",
+      "url": "https://github.com/Blaizzy/nativ",
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "language": "Swift",
+      "stars": 860,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-20T15:37:29Z"
+    },
+    {
+      "repo": "powerycy/goutoujunshi",
+      "url": "https://github.com/powerycy/goutoujunshi",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "language": "Python",
+      "stars": 801,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-20T14:58:48Z"
+    },
+    {
+      "repo": "pireel/pireel",
+      "url": "https://github.com/pireel/pireel",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "language": "TypeScript",
+      "stars": 710,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-20T09:34:24Z"
+    },
+    {
+      "repo": "xiejunjie524/handdraw-story-video",
+      "url": "https://github.com/xiejunjie524/handdraw-story-video",
+      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "language": "Python",
+      "stars": 642,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-18T06:51:05Z"
+    },
+    {
+      "repo": "gnipbao/story-to-handdrawn-video",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "language": "JavaScript",
+      "stars": 608,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-21T08:54:45Z"
+    },
+    {
+      "repo": "CatsJuice/sticker-forge",
+      "url": "https://github.com/CatsJuice/sticker-forge",
+      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "language": "JavaScript",
+      "stars": 520,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-20T17:13:15Z"
+    },
+    {
+      "repo": "0xhype/hyperliquid-tracker",
+      "url": "https://github.com/0xhype/hyperliquid-tracker",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "language": "TypeScript",
+      "stars": 509,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-21T14:24:08Z"
+    },
+    {
+      "repo": "Charles-0509/Grok-Register",
+      "url": "https://github.com/Charles-0509/Grok-Register",
+      "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
+      "language": "Go",
+      "stars": 428,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-20T16:35:09Z"
+    },
+    {
+      "repo": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+      "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+      "language": "",
+      "stars": 406,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-19T06:09:52Z"
+    },
+    {
+      "repo": "slvDev/esp32-ai",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "description": "",
+      "language": "Python",
+      "stars": 405,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-23T14:53:51Z"
+    },
+    {
+      "repo": "egoist/kero",
+      "url": "https://github.com/egoist/kero",
+      "description": "A native terminal workspace for macOS.",
+      "language": "Swift",
+      "stars": 386,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-18T09:31:32Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "tandpfun/wardrobe",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "language": "JavaScript",
+      "stars": 1432,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +537（+60%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "pyang5166/gbro-collage-broll",
+      "url": "https://github.com/pyang5166/gbro-collage-broll",
+      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "language": "Python",
+      "stars": 762,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +289（+61%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "MDX-Tom/gpt-5.6-instruct",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "language": "Python",
+      "stars": 2868,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +986（+52%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "oil-oil/beautify-github-readme",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "language": "Python",
+      "stars": 1080,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +326（+43%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "onecli/onecli",
+      "url": "https://github.com/onecli/onecli",
+      "description": "Open-source credential gateway with a built-in vault. give your AI agents access to services without exposing keys.",
+      "language": "TypeScript",
+      "stars": 2772,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 103 分 · 31 评论",
+      "reasonZh": ""
+    },
+    {
+      "repo": "MatinSenPai/Aether-GUI",
+      "url": "https://github.com/MatinSenPai/Aether-GUI",
+      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "language": "TypeScript",
+      "stars": 739,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +202（+38%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "h3nock/remux",
+      "url": "https://github.com/h3nock/remux",
+      "description": "Native iOS tmux client with a mobile-first UI for persistent terminal sessions.",
+      "language": "Swift",
+      "stars": 181,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 97 分 · 35 评论",
+      "reasonZh": ""
+    },
+    {
+      "repo": "4thfever/cultivation-world-simulator",
+      "url": "https://github.com/4thfever/cultivation-world-simulator",
+      "description": "基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world. ",
+      "language": "Python",
+      "stars": 1965,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": ""
+    },
+    {
+      "repo": "Scriptez1/RedXFreeSteamInstaller",
+      "url": "https://github.com/Scriptez1/RedXFreeSteamInstaller",
+      "description": "It allows you to automatically add all free and paid games and DLCs to your Steam account securely and for free. - Steam hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar.",
+      "language": "PowerShell",
+      "stars": 1629,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": ""
+    },
+    {
+      "repo": "GSManagerXZ/GameServerManager",
+      "url": "https://github.com/GSManagerXZ/GameServerManager",
+      "description": "GameServerManager（简称GSManager）现代化游戏一键部署面板，专为简化游戏服务器的部署、管理和维护而设计；注重steam、MC游戏一键开服",
+      "language": "TypeScript",
+      "stars": 1008,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": ""
+    }
+  ]
+}
