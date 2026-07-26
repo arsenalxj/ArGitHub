@@ -1,0 +1,449 @@
+{
+  "date": "2026-07-26",
+  "trending": [
+    {
+      "repo": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": 11934,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 2491
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 12967,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 431
+    },
+    {
+      "repo": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars": 3590,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 986
+    },
+    {
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 70586,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 577
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 49889,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 132
+    },
+    {
+      "repo": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": 13420,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 503
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 261097,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 479
+    },
+    {
+      "repo": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": 9713,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 358
+    },
+    {
+      "repo": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "stars": 28722,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 1720
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 188266,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 1740
+    },
+    {
+      "repo": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars": 12221,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 412
+    },
+    {
+      "repo": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "stars": 5082,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 426
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": 45347,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 408
+    },
+    {
+      "repo": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars": 14287,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 86
+    },
+    {
+      "repo": "OtterMind/Chat2DB",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "language": "Java",
+      "stars": 26672,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 360
+    },
+    {
+      "repo": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "stars": 15221,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 77
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 233308,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 377
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "description": "",
+      "language": "Python",
+      "stars": 4983,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-20T01:52:32Z"
+    },
+    {
+      "repo": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "language": "TypeScript",
+      "stars": 1744,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-19T11:44:41Z"
+    },
+    {
+      "repo": "Jakubantalik/thinking-orbs",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "language": "TypeScript",
+      "stars": 1003,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-21T07:01:53Z"
+    },
+    {
+      "repo": "Blaizzy/nativ",
+      "url": "https://github.com/Blaizzy/nativ",
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "language": "Swift",
+      "stars": 884,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-20T15:37:29Z"
+    },
+    {
+      "repo": "powerycy/goutoujunshi",
+      "url": "https://github.com/powerycy/goutoujunshi",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "language": "Python",
+      "stars": 876,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-20T14:58:48Z"
+    },
+    {
+      "repo": "slvDev/esp32-ai",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "description": "",
+      "language": "Python",
+      "stars": 796,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-23T14:53:51Z"
+    },
+    {
+      "repo": "pireel/pireel",
+      "url": "https://github.com/pireel/pireel",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "language": "TypeScript",
+      "stars": 752,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-20T09:34:24Z"
+    },
+    {
+      "repo": "gnipbao/story-to-handdrawn-video",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "language": "JavaScript",
+      "stars": 623,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-21T08:54:45Z"
+    },
+    {
+      "repo": "mikiarlo3/ai-copywriter",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "language": "Python",
+      "stars": 580,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-24T19:52:13Z"
+    },
+    {
+      "repo": "CatsJuice/sticker-forge",
+      "url": "https://github.com/CatsJuice/sticker-forge",
+      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "language": "JavaScript",
+      "stars": 573,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-20T17:13:15Z"
+    },
+    {
+      "repo": "zeus-panel/ZEUS-PANEL",
+      "url": "https://github.com/zeus-panel/ZEUS-PANEL",
+      "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "language": "JavaScript",
+      "stars": 537,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-20T11:37:49Z"
+    },
+    {
+      "repo": "0xhype/hyperliquid-tracker",
+      "url": "https://github.com/0xhype/hyperliquid-tracker",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "language": "TypeScript",
+      "stars": 510,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-21T14:24:08Z"
+    },
+    {
+      "repo": "Charles-0509/Grok-Register",
+      "url": "https://github.com/Charles-0509/Grok-Register",
+      "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
+      "language": "Go",
+      "stars": 460,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-20T16:35:09Z"
+    },
+    {
+      "repo": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+      "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+      "language": "",
+      "stars": 418,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-19T06:09:52Z"
+    },
+    {
+      "repo": "berabuddies/redis-poc",
+      "url": "https://github.com/berabuddies/redis-poc",
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+      "language": "Python",
+      "stars": 416,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-22T22:26:08Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "lopopolo/harness-engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "language": "Python",
+      "stars": 2352,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +1766（+301%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "language": "Solidity",
+      "stars": 1520,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +781（+106%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "pyang5166/gbro-collage-broll",
+      "url": "https://github.com/pyang5166/gbro-collage-broll",
+      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "language": "Python",
+      "stars": 786,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +313（+66%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars": 2742,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +1019（+59%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "oil-oil/beautify-github-readme",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "language": "Python",
+      "stars": 1194,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +378（+46%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "tandpfun/wardrobe",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "language": "JavaScript",
+      "stars": 1454,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +404（+38%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "cosmicstack-labs/mercury-agent",
+      "url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+      "language": "TypeScript",
+      "stars": 2961,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · ai-agent",
+      "reasonZh": ""
+    },
+    {
+      "repo": "kite-org/kite",
+      "url": "https://github.com/kite-org/kite",
+      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
+      "language": "TypeScript",
+      "stars": 2943,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · ai-agent",
+      "reasonZh": ""
+    },
+    {
+      "repo": "qingchencloud/clawpanel",
+      "url": "https://github.com/qingchencloud/clawpanel",
+      "description": "🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言",
+      "language": "JavaScript",
+      "stars": 2896,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · ai-agent",
+      "reasonZh": ""
+    },
+    {
+      "repo": "moltis-org/moltis",
+      "url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "language": "Rust",
+      "stars": 2793,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · ai-agent",
+      "reasonZh": ""
+    }
+  ]
+}
