@@ -1,0 +1,419 @@
+{
+  "date": "2026-07-28",
+  "trending": [
+    {
+      "repo": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "stars": 32262,
+      "summaryZh": "基于蓝牙Mesh的去中心化聊天应用，无需互联网或服务器，设备间直接通信。具有IRC风格界面，支持群组和私聊，适合离线场景或临时网络。",
+      "category": "其他",
+      "starsToday": 2346
+    },
+    {
+      "repo": "amnezia-vpn/amnezia-client",
+      "url": "https://github.com/amnezia-vpn/amnezia-client",
+      "description": "Amnezia VPN Client (Desktop+Mobile)",
+      "language": "C++",
+      "stars": 13814,
+      "summaryZh": "跨平台VPN客户端，支持桌面和移动端。提供多种协议（如WireGuard、OpenVPN），强调隐私和绕过审查能力，适合需要安全上网的用户。",
+      "category": "开发工具",
+      "starsToday": 515
+    },
+    {
+      "repo": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 44028,
+      "summaryZh": "自托管的AI伴侣项目，灵感来自Neuro-sama。支持实时语音对话、Minecraft集成，可通过插件扩展功能，适合想要个性化AI角色的开发者。",
+      "category": "AI",
+      "starsToday": 572
+    },
+    {
+      "repo": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "stars": 2683,
+      "summaryZh": "轻量级云原生GIS平台，用于可视化、探索和分析地理空间数据。支持Web、桌面、移动端和Jupyter Notebook，适合地理信息工作者。",
+      "category": "开发工具",
+      "starsToday": 420
+    },
+    {
+      "repo": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": 20884,
+      "summaryZh": "现代化的终端文件管理器，拥有美观的TUI界面。支持多面板、文件预览、快捷键操作，适合习惯命令行的开发者提升效率。",
+      "category": "开发工具",
+      "starsToday": 600
+    },
+    {
+      "repo": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": 58178,
+      "summaryZh": "多平台社交媒体爬虫，覆盖小红书、抖音、快手、B站、微博等。支持笔记、视频、评论、帖子等数据采集，适合数据分析师和研究者。",
+      "category": "开发工具",
+      "starsToday": 362
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 51543,
+      "summaryZh": "专为AI设计的设计语言系统，提供组件库和规范，帮助AI生成更美观的界面。适合AI应用开发者提升产品视觉质量。",
+      "category": "前端",
+      "starsToday": 847
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 14804,
+      "summaryZh": "阿里巴巴开源的代码审查工具，结合确定性流水线和LLM Agent。支持行级评论、内置规则集（如NPE、线程安全），适合团队提升代码质量。",
+      "category": "开发工具",
+      "starsToday": 979
+    },
+    {
+      "repo": "jenkinsci/jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "stars": 25882,
+      "summaryZh": "流行的开源自动化服务器，支持CI/CD流水线。拥有丰富的插件生态，可集成各种工具，适合DevOps团队自动化构建、测试和部署。",
+      "category": "开发工具",
+      "starsToday": 180
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 11080,
+      "summaryZh": "赋予Claude观看视频的能力，自动下载、提取帧、转录并交给Claude分析。适合需要让AI理解视频内容的场景。",
+      "category": "AI",
+      "starsToday": 434
+    },
+    {
+      "repo": "vudovn/ag-kit",
+      "url": "https://github.com/vudovn/ag-kit",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 7960,
+      "summaryZh": "（描述为空）一个TypeScript项目，可能是一个工具包或库，具体功能需查看源码。",
+      "category": "开发工具",
+      "starsToday": 14
+    },
+    {
+      "repo": "apache/cassandra",
+      "url": "https://github.com/apache/cassandra",
+      "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+      "language": "Java",
+      "stars": 9960,
+      "summaryZh": "开源分布式NoSQL数据库，提供高可用性和线性扩展。支持跨数据中心复制，适合需要高吞吐和容错的大数据场景。",
+      "category": "其他",
+      "starsToday": 11
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 54177,
+      "summaryZh": "AI代理技能，可跨Reddit、X、YouTube等平台研究任意主题，并生成综合摘要。适合需要快速了解网络热点的用户。",
+      "category": "AI",
+      "starsToday": 240
+    },
+    {
+      "repo": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": 75206,
+      "summaryZh": "轻量级C++即时模式GUI库，无依赖，适合游戏和工具开发。提供丰富的控件和自定义能力，深受开发者喜爱。",
+      "category": "开发工具",
+      "starsToday": 51
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "slvDev/esp32-ai",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "description": "",
+      "language": "Python",
+      "stars": 1743,
+      "summaryZh": "（描述为空）一个Python项目，可能涉及ESP32与AI的结合，具体功能需查看源码。",
+      "category": "AI",
+      "createdAt": "2026-07-23T14:53:51Z"
+    },
+    {
+      "repo": "MoonshotAI/Kimi-K3",
+      "url": "https://github.com/MoonshotAI/Kimi-K3",
+      "description": "Open Frontier Intelligence",
+      "language": "",
+      "stars": 1267,
+      "summaryZh": "Kimi K3 是月之暗面推出的前沿智能模型，专注于开放前沿智能研究。旨在为AI研究者和开发者提供更高效的推理与交互能力，适用于复杂任务处理与多轮对话场景。",
+      "category": "AI",
+      "createdAt": "2026-07-27T08:01:37Z"
+    },
+    {
+      "repo": "Jakubantalik/thinking-orbs",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "language": "TypeScript",
+      "stars": 1167,
+      "summaryZh": "Thinking Orbs 是一款专为AI和Agent界面设计的点状思考加载指示器，提供六种状态和两种尺寸，支持自动暗色/亮色模式。适合前端开发者用于增强AI应用的用户体验。",
+      "category": "前端",
+      "createdAt": "2026-07-21T07:01:53Z"
+    },
+    {
+      "repo": "mshumer/Claude-of-Duty",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "language": "JavaScript",
+      "stars": 1024,
+      "summaryZh": "Claude of Duty 是一个通过单次提示生成的《使命召唤》级别FPS游戏，基于Three.js构建。展示了LLM在快速游戏原型开发中的潜力，适合游戏开发者与AI爱好者探索。",
+      "category": "游戏",
+      "createdAt": "2026-07-25T19:32:36Z"
+    },
+    {
+      "repo": "mikiarlo3/ai-copywriter",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "language": "Python",
+      "stars": 936,
+      "summaryZh": "AI Copywriter 是一款结合真实文案技巧与市场营销知识的AI文案生成工具，输出自然人性化。适合营销人员、内容创作者快速生成高质量营销文案。",
+      "category": "AI",
+      "createdAt": "2026-07-24T19:52:13Z"
+    },
+    {
+      "repo": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 843,
+      "summaryZh": "Cindy 是一个开箱即用的开源AI Agent，支持多平台（Windows、macOS、iOS、Android），通过自然语言即可完成任务。适合个人用户与开发者构建自主AI助手。",
+      "category": "AI",
+      "createdAt": "2026-07-22T17:49:34Z"
+    },
+    {
+      "repo": "gnipbao/story-to-handdrawn-video",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "language": "JavaScript",
+      "stars": 667,
+      "summaryZh": "这是一个将中文故事文本或图片转换为手绘日记风格动画的Agent技能，输出无声MP4视频。适合内容创作者、教育工作者制作个性化动画短片。",
+      "category": "AI",
+      "createdAt": "2026-07-21T08:54:45Z"
+    },
+    {
+      "repo": "VictorTaelin/OptMem",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "language": "Python",
+      "stars": 648,
+      "summaryZh": "OptMem 为AI Agent提供永久记忆，仅需426个token的提示和脚本即可即插即用。解决了Agent长期记忆问题，适合需要持久化上下文的AI应用开发者。",
+      "category": "AI",
+      "createdAt": "2026-07-25T16:58:43Z"
+    },
+    {
+      "repo": "kvcache-ai/AgentENV",
+      "url": "https://github.com/kvcache-ai/AgentENV",
+      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "language": "Rust",
+      "stars": 619,
+      "summaryZh": "AgentENV 是一个分布式平台，用于大规模运行Agent环境，基于Rust构建，性能高效。适合需要部署和管理大量Agent实例的团队，支持高并发场景。",
+      "category": "开发工具",
+      "createdAt": "2026-07-23T02:48:07Z"
+    },
+    {
+      "repo": "hahhforest/pi-textbook",
+      "url": "https://github.com/hahhforest/pi-textbook",
+      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "language": "TypeScript",
+      "stars": 593,
+      "summaryZh": "《动手学 Pi》是一本中文TypeScript教材，通过15个真实检查点从零构建Pi-style Agent。适合想深入学习Agent工程和LLM应用的开发者，理论与实践并重。",
+      "category": "资料教程",
+      "createdAt": "2026-07-21T04:17:35Z"
+    },
+    {
+      "repo": "0xhype/hyperliquid-tracker",
+      "url": "https://github.com/0xhype/hyperliquid-tracker",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "language": "TypeScript",
+      "stars": 513,
+      "summaryZh": "Hyperliquid Tracker 监控Hyperliquid上的大额交易并及时通知用户，帮助投资者捕捉市场异动。适合加密货币交易者和量化分析人员。",
+      "category": "开发工具",
+      "createdAt": "2026-07-21T14:24:08Z"
+    },
+    {
+      "repo": "mikehasa/agentacct",
+      "url": "https://github.com/mikehasa/agentacct",
+      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "language": "Python",
+      "stars": 469,
+      "summaryZh": "AgentAcct 是面向编码Agent的本地优先工作智能工具，记录使用情况和工作日志，提供无JavaScript的本地仪表盘。适合开发团队审计和管理AI Agent行为。",
+      "category": "开发工具",
+      "createdAt": "2026-07-24T16:28:06Z"
+    },
+    {
+      "repo": "0xwilliamortiz/openclaude-improved",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 458,
+      "summaryZh": "OpenClaude Improved 是一个随处运行的AI编码Agent，支持OpenRouter、Gemini、Claude等多种模型和MCP协议。适合开发者获得跨平台的AI编程辅助。",
+      "category": "开发工具",
+      "createdAt": "2026-07-26T21:58:28Z"
+    },
+    {
+      "repo": "berabuddies/redis-poc",
+      "url": "https://github.com/berabuddies/redis-poc",
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+      "language": "Python",
+      "stars": 454,
+      "summaryZh": "这是一个针对Redis多个版本（6.2.22至8.8.1）的远程代码执行（RCE）概念验证项目。适合安全研究人员测试Redis漏洞与防御措施。",
+      "category": "其他",
+      "createdAt": "2026-07-22T22:26:08Z"
+    },
+    {
+      "repo": "AdelanSupport/adelan-support",
+      "url": "https://github.com/AdelanSupport/adelan-support",
+      "description": "",
+      "language": "Python",
+      "stars": 410,
+      "summaryZh": "Adelan Support 是一个开源Python项目，具体功能未详述，但从名称看可能与支持系统相关。适合需要定制化客户支持解决方案的开发者。",
+      "category": "其他",
+      "createdAt": "2026-07-21T07:28:23Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "nyblnet/bento",
+      "url": "https://github.com/nyblnet/bento",
+      "description": "Bento, the office suite that fits in a file",
+      "language": "TypeScript",
+      "stars": 2595,
+      "summaryZh": "Bento 是一个适合放在文件中的办公套件，支持幻灯片等多种办公功能，开源且可自托管。适合需要轻量、便携办公工具的个人和小团队。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1496（+136%）",
+      "reasonZh": "一个自托管办公套件，整个界面打包在一个文件里，轻量到离谱。跟 Google Docs / Office 365 比起来，它完全离线、不追踪你、还能自己部署，适合隐私敏感或长期归档场景。"
+    },
+    {
+      "repo": "ulsklyc/yuvomi",
+      "url": "https://github.com/ulsklyc/yuvomi",
+      "description": "Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.  ",
+      "language": "JavaScript",
+      "stars": 1056,
+      "summaryZh": "一款自托管的家庭计划工具，集任务、日历、购物、餐饮和预算管理于一体。所有数据存储在你的服务器上，注重隐私，适合追求数据自主权的家庭使用。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "自托管的家庭计划神器，集任务、日历、购物、餐饮、预算于一体，数据完全归你。比 Notion 更专一，比 Trello 更生活化，适合想全家共用、又不想数据上云的用户。"
+    },
+    {
+      "repo": "microsoft/Ontology-Playground",
+      "url": "https://github.com/microsoft/Ontology-Playground",
+      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "language": "TypeScript",
+      "stars": 2260,
+      "summaryZh": "微软开源的免费网页应用，用于学习和设计本体论。提供预构建本体目录，支持可视化编辑、导出RDF/XML和分享交互式图表，适合知识图谱初学者和研究人员。",
+      "category": "资料教程",
+      "source": "dark-horse",
+      "signal": "周涨星 +533（+31%）",
+      "reasonZh": "微软出品但完全免费开源的本体论学习与设计工具，支持可视化编辑、导出 RDF/XML。同类中几乎没有这么直观的入门工具，非常适合知识图谱初学者或需要快速原型的人。"
+    },
+    {
+      "repo": "AARomanov1985/Audio-Cassette-Simulation",
+      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+      "description": "This project simulates cassette tape audio profiles using ffmpeg",
+      "language": "Shell",
+      "stars": 324,
+      "summaryZh": "基于ffmpeg的磁带音频仿真工具，用于模拟磁带播放的音频特性。适合音频爱好者或怀旧场景，可生成复古音色。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 168 分 · 75 评论",
+      "reasonZh": "用 ffmpeg 模拟磁带录音的独特音色（失真、噪声、磁饱），给数字音频添加复古质感。比纯 EQ 插件更真实，适合播客、音乐人或怀旧玩家快速渲染复古效果。"
+    },
+    {
+      "repo": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": 3741,
+      "summaryZh": "面向AI编程代理的本地优先元搜索引擎，支持搜索、抓取、爬取和MCP研究。无需API密钥和云服务，零成本运行，注重隐私，适合开发者和AI代理集成。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1190（+47%）",
+      "reasonZh": "专为 AI 编程代理打造的本地优先搜索/抓取/爬取工具，通过 MCP 协议集成，无需 API Key 和云服务。相比 Perplexity 等在线方案，它完全保护隐私且零成本，适合本地开发调试。"
+    },
+    {
+      "repo": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": 1147,
+      "summaryZh": "命令行视频下载工具，可轻松从任意网站获取视频，无广告干扰。技术栈基于TypeScript，适合需要批量下载视频的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +283（+33%）",
+      "reasonZh": "终端里一键下载任何视频，无广告无套路。比 youtube-dl 更简洁，比在线网站更安全，适合习惯命令行的用户快速保存视频资源。"
+    },
+    {
+      "repo": "nethical6/conversation-steganography",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "language": "Go",
+      "stars": 1146,
+      "summaryZh": "利用大语言模型在正常对话中隐藏消息的隐写术工具。通过LLM生成看似自然的对话，嵌入秘密信息，适合安全通信场景。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +266（+30%）",
+      "reasonZh": "利用 LLM 把秘密信息藏在看似普通的对话里，隐写术的现代玩法。比传统隐写更自然，适合需要隐蔽通信的场景，比如安全研究或记者保护信息源。"
+    },
+    {
+      "repo": "Blaizzy/nativ",
+      "url": "https://github.com/Blaizzy/nativ",
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "language": "Swift",
+      "stars": 960,
+      "summaryZh": "苹果Mac原生AI应用，支持聊天、服务部署、监控和连接MLX模型。所有计算本地运行，无需联网，适合注重隐私和低延迟的Mac用户。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +341（+55%）",
+      "reasonZh": "Mac 原生本地 AI 桌面应用，一站式聊天、模型服务、监控，支持 MLX 模型。比 Ollama 多了 GUI 和监控，比 LM Studio 更深度集成 Mac 生态，适合苹果用户离线跑模型。"
+    },
+    {
+      "repo": "koosoli/ESPHomeDesigner",
+      "url": "https://github.com/koosoli/ESPHomeDesigner",
+      "description": "A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app.",
+      "language": "JavaScript",
+      "stars": 1011,
+      "summaryZh": "ESPHome显示屏的拖拽式可视化编辑器，支持E-Ink、OLED、LCD和触摸屏。可作为Home Assistant集成或独立Web应用运行，适合智能家居爱好者快速设计界面。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "可视化拖拽设计 ESPHome 显示屏（E-Ink/OLED/LCD），无需手写代码。比 LVGL 官方工具更贴合 ESPHome 生态，适合智能家居玩家快速制作 UI 界面。"
+    },
+    {
+      "repo": "lopopolo/harness-engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "language": "Python",
+      "stars": 2380,
+      "summaryZh": "整合了驯马工程、田野指南和代理上下文的资源包。提供系统化的知识图谱和实用工具，适合AI代理开发和工程实践研究。",
+      "category": "资料教程",
+      "source": "dark-horse",
+      "signal": "周涨星 +1623（+214%）",
+      "reasonZh": "Ryan Lopopolo 为 AI 代理准备的知识库与上下文包，涵盖软件工程实践。它本身不是框架，而是一份可直接喂给大模型的“操作手册”，适合想用代理加速开发但缺高质量上下文的团队。"
+    }
+  ]
+}
