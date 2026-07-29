@@ -1,0 +1,399 @@
+{
+  "date": "2026-07-29",
+  "trending": [
+    {
+      "repo": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": 18705,
+      "summaryZh": "一个用于创建和分享3D建筑项目的编辑器。基于TypeScript构建，提供直观的3D建模工具，适合建筑师和设计师快速可视化建筑方案。",
+      "category": "开发工具",
+      "starsToday": 341
+    },
+    {
+      "repo": "jenkinsci/jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "stars": 26069,
+      "summaryZh": "Jenkins自动化服务器，Java编写的持续集成引擎。支持插件生态，可灵活构建、部署流水线，适用于开发团队实现CI/CD流程自动化。",
+      "category": "开发工具",
+      "starsToday": 180
+    },
+    {
+      "repo": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 44754,
+      "summaryZh": "自托管的AI伴侣，类似Grok。支持实时语音聊天和Minecraft交互，拥有情感模型和角色扮演能力，适合二次元爱好者打造专属AI伙伴。",
+      "category": "AI",
+      "starsToday": 797
+    },
+    {
+      "repo": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "stars": 15682,
+      "summaryZh": "统一的生成式AI提供商接口库。一行代码切换不同AI模型，简化多供应商调用，适合开发者快速集成多种AI能力。",
+      "category": "AI",
+      "starsToday": 62
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 234809,
+      "summaryZh": "AI代理性能优化系统，包含技能、记忆、安全等模块。为Claude Code等编程助手提供增强能力，适合构建高效、安全的自主代理。",
+      "category": "AI",
+      "starsToday": 636
+    },
+    {
+      "repo": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "stars": 7235,
+      "summaryZh": "本地语音AI代理构建工具。基于开源模型实现语音到语音的交互，无需云端，适合隐私敏感或离线场景的语音助手开发。",
+      "category": "AI",
+      "starsToday": 227
+    },
+    {
+      "repo": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 11376,
+      "summaryZh": "将技术PDF书籍转化为Claude Code技能的工具。提取内容生成可交互的学习材料，适合开发者边工作边参考。",
+      "category": "资料教程",
+      "starsToday": 423
+    },
+    {
+      "repo": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "stars": 3393,
+      "summaryZh": "轻量级云原生GIS平台，支持Web、桌面、移动和Jupyter。用于可视化、探索和分析地理空间数据，适合地理信息分析场景。",
+      "category": "开发工具",
+      "starsToday": 607
+    },
+    {
+      "repo": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "stars": 9599,
+      "summaryZh": "系统化交易资源精选列表，涵盖库、策略、书籍和教程。适合量化交易从业者获取高质量学习资料和工具。",
+      "category": "资料教程",
+      "starsToday": 309
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "language": "Python",
+      "stars": 5194,
+      "summaryZh": "AI代理治理工具包，提供策略执行、身份验证和沙箱隔离。覆盖OWASP Agentic Top 10安全要求，适合企业级代理部署与管理。",
+      "category": "AI",
+      "starsToday": 46
+    },
+    {
+      "repo": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": 21482,
+      "summaryZh": "现代化终端文件管理器，界面精美功能丰富。用Go编写，支持多种操作和快捷键，适合习惯命令行的用户高效管理文件。",
+      "category": "开发工具",
+      "starsToday": 662
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 12103,
+      "summaryZh": "让Claude具备视频理解能力。下载、抽帧、转录后交给Claude处理，适合需要分析视频内容的AI应用场景。",
+      "category": "AI",
+      "starsToday": 988
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "MoonshotAI/Kimi-K3",
+      "url": "https://github.com/MoonshotAI/Kimi-K3",
+      "description": "Open Frontier Intelligence",
+      "language": "",
+      "stars": 3403,
+      "summaryZh": "月之暗面推出的前沿AI模型。在多项基准上表现优异，适合研究和应用开发者探索AI前沿能力。",
+      "category": "AI",
+      "createdAt": "2026-07-27T08:01:37Z"
+    },
+    {
+      "repo": "slvDev/esp32-ai",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "description": "",
+      "language": "Python",
+      "stars": 2054,
+      "summaryZh": "ESP32与AI结合的项目。利用Python在微控制器上实现简单AI功能，适合物联网和嵌入式AI爱好者。",
+      "category": "AI",
+      "createdAt": "2026-07-23T14:53:51Z"
+    },
+    {
+      "repo": "mshumer/Claude-of-Duty",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "language": "JavaScript",
+      "stars": 1728,
+      "summaryZh": "基于Three.js的第一人称射击游戏，由单个提示生成。展示了AI驱动游戏开发的可能性，适合游戏开发者参考创意。",
+      "category": "游戏",
+      "createdAt": "2026-07-25T19:32:36Z"
+    },
+    {
+      "repo": "kvcache-ai/AgentENV",
+      "url": "https://github.com/kvcache-ai/AgentENV",
+      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "language": "Rust",
+      "stars": 1431,
+      "summaryZh": "AgentENV 是一个分布式平台，用于大规模运行 AI 代理环境。它提供高性能的环境调度和执行能力，支持多代理并发交互。适合需要大规模并行测试或训练 AI 代理的研究者和开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-23T02:48:07Z"
+    },
+    {
+      "repo": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 996,
+      "summaryZh": "Cindy 是开箱即用的开源 AI 代理，支持桌面和移动端。它集成 LLM 和多种工具，无需复杂配置即可执行任务。适合个人用户和开发者快速部署 AI 助手，覆盖日常办公、编程辅助等场景。",
+      "category": "AI",
+      "createdAt": "2026-07-22T17:49:34Z"
+    },
+    {
+      "repo": "mikiarlo3/ai-copywriter",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "language": "Python",
+      "stars": 991,
+      "summaryZh": "一个利用真实文案技巧和营销知识的 AI 文案生成器，以人类语气输出内容。核心在于结合行业策略，避免生硬模板。适合营销人员、内容创作者快速生成高质量广告或社媒文案。",
+      "category": "AI",
+      "createdAt": "2026-07-24T19:52:13Z"
+    },
+    {
+      "repo": "VictorTaelin/OptMem",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "language": "Python",
+      "stars": 802,
+      "summaryZh": "为 AI 代理提供永久记忆的轻量级方案，仅需 426 个 token 提示和脚本即可实现。核心是简单的即插即用设计，无需复杂配置。适合希望为聊天机器人或工作流添加长期记忆的开发者。",
+      "category": "AI",
+      "createdAt": "2026-07-25T16:58:43Z"
+    },
+    {
+      "repo": "MoonshotAI/MoonEP",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "language": "Python",
+      "stars": 787,
+      "summaryZh": "MoonEP 通过动态冗余专家实现完美平衡的专家并行库，优化大规模 MoE 模型训练。它减少通信开销，提升负载均衡。适合训练超大规模 Transformer 模型的研究人员。",
+      "category": "AI",
+      "createdAt": "2026-07-24T09:07:21Z"
+    },
+    {
+      "repo": "fuadmefleh/Shared-Claude-Chats",
+      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "language": "Python",
+      "stars": 663,
+      "summaryZh": "公共 Claude 和 Grok 对话的归档库，从分享链接导出为纯 Markdown，并附带导出脚本。方便用户浏览和搜索对话案例。适合学习 prompt 技巧或分析 AI 行为的研究者。",
+      "category": "资料教程",
+      "createdAt": "2026-07-26T01:14:17Z"
+    },
+    {
+      "repo": "0xwilliamortiz/openclaude-improved",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 581,
+      "summaryZh": "一个跨平台的 AI 编码代理 CLI，兼容多种模型和协议。支持 Anthropic、Gemini 等，并集成 MCP (Model Context Protocol)。适合开发者用命令行进行 AI 辅助编程，可轻松切换后端。",
+      "category": "开发工具",
+      "createdAt": "2026-07-26T21:58:28Z"
+    },
+    {
+      "repo": "digimata/quill",
+      "url": "https://github.com/digimata/quill",
+      "description": "Ultraminimalist macOS recording + transcription.",
+      "language": "Swift",
+      "stars": 540,
+      "summaryZh": "极简的 macOS 录音与转写应用，专注轻量级体验。它直接利用系统音频，输出文字记录。适合需要快速录制会议、讲座并获取文本的 Mac 用户。",
+      "category": "其他",
+      "createdAt": "2026-07-24T23:31:27Z"
+    },
+    {
+      "repo": "mikehasa/agentacct",
+      "url": "https://github.com/mikehasa/agentacct",
+      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "language": "Python",
+      "stars": 518,
+      "summaryZh": "面向编码代理的本地优先工作智能工具，记录使用情况和工作日志。它只读分析代理日志，提供零 JavaScript 的本地仪表盘。适合使用 AI 编码代理的开发者，用于追踪效率和成本。",
+      "category": "开发工具",
+      "createdAt": "2026-07-24T16:28:06Z"
+    },
+    {
+      "repo": "didriksg/Crisp",
+      "url": "https://github.com/didriksg/Crisp",
+      "description": "Free, open-source macOS alternative to BetterDisplay and Lunar: a lightweight menu bar app with sharp HiDPI/Retina scaling for external monitors (no more blurry or tiny text), plus brightness (DDC), virtual displays, presets, and color.",
+      "language": "Swift",
+      "stars": 488,
+      "summaryZh": "免费开源的 macOS 菜单栏应用，提供外接显示器的高清缩放（HiDPI）和亮度控制（DDC）。解决文字模糊或过小问题，支持虚拟显示设置。适合使用外接 4K 显示器的 Mac 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-07-22T14:30:56Z"
+    },
+    {
+      "repo": "berabuddies/redis-poc",
+      "url": "https://github.com/berabuddies/redis-poc",
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+      "language": "Python",
+      "stars": 468,
+      "summaryZh": "Redis 多个版本的远程代码执行（RCE）概念验证利用，涵盖 6.2.22 至 8.8.1。提供安全研究所需的 PoC 代码。适合安全工程师评估 Redis 系统风险或进行渗透测试。",
+      "category": "其他",
+      "createdAt": "2026-07-22T22:26:08Z"
+    },
+    {
+      "repo": "0xwilliamortiz/ponytail-improved",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 456,
+      "summaryZh": "让 AI 编码代理像懒惰高级工程师一样思考，强调不写不必要的代码。核心是 prompt 优化和 YAGNI 原则。适合使用 Claude Code 等工具的开发者，提升代码简洁性和效率。",
+      "category": "开发工具",
+      "createdAt": "2026-07-28T14:16:19Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "FrigadeHQ/yap",
+      "url": "https://github.com/FrigadeHQ/yap",
+      "description": "Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud, no API keys, no account.",
+      "language": "Swift",
+      "stars": 241,
+      "summaryZh": "免费开源的 macOS 语音听写应用，完全离线运行，使用 Apple Speech 框架。无需网络、API 密钥或账户，保障隐私。适合需要隐私友好的语音输入替代方案的用户。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 98 分 · 38 评论",
+      "reasonZh": "macOS 上完全离线的语音听写，用 Apple Speech 框架本地处理，无需联网、无 API 密钥、无账户。同类工具要么付费要么云端，Yap 尊重隐私又免费，适合不想把声音上传的用户日常记录、写作。"
+    },
+    {
+      "repo": "nyblnet/bento",
+      "url": "https://github.com/nyblnet/bento",
+      "description": "Bento, the office suite that fits in a file",
+      "language": "TypeScript",
+      "stars": 2820,
+      "summaryZh": "Bento 是一个自托管的单页办公套件，包括幻灯片等工具，文件轻量易携带。它开源且兼容 Office 格式，无需云服务。适合寻求简洁、自控办公方案的个人或小团队。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +1721（+157%）",
+      "reasonZh": "一个文件就能运行的办公套件，包含演示文稿等，单页应用可自托管。比 LibreOffice 轻量、比 Google Docs 不用注册，适合需要快速分享或演示又不想折腾安装的场景。"
+    },
+    {
+      "repo": "h3nock/remux",
+      "url": "https://github.com/h3nock/remux",
+      "description": "A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.",
+      "language": "Swift",
+      "stars": 212,
+      "summaryZh": "原生 iOS 客户端，用于远程管理 tmux 工作区，操作适配 iPhone。它利用 libghostty 提供流畅终端体验。适合需要在移动设备上操控远程服务器终端的运维和开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +78（+58%）",
+      "reasonZh": "原生 iOS 远程 tmux 客户端，在手机上操作终端会话，手感自然。其他移动 SSH 工具要么笨重要么不支持 tmux，这个专为 iPhone 设计，开发者远程运维必备。"
+    },
+    {
+      "repo": "reflex-dev/xy",
+      "url": "https://github.com/reflex-dev/xy",
+      "description": "An ultra-fast, composable, Python plotting library",
+      "language": "Python",
+      "stars": 264,
+      "summaryZh": "一个高性能、可组合的 Python 绘图库，专为数据分析和科学计算设计。核心亮点在于其极速渲染和模块化 API，支持快速生成图表、图形与可视化。适合需要在 Python 中高效创建精美图表的开发者和数据科学家。",
+      "category": "前端",
+      "source": "hn",
+      "signal": "HN 111 分 · 41 评论",
+      "reasonZh": "Python 超快速、可组合的绘图库，性能惊艳。相比 Matplotlib 慢、Plotly 重，XY 极简又高效，适合需要快速探索数据或嵌入 Web 应用的开发者。"
+    },
+    {
+      "repo": "snownico0722/PaperTodo",
+      "url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "language": "C#",
+      "stars": 1290,
+      "summaryZh": "一款极简的 Windows 桌面便签工具，基于 WPF 原生开发，支持待办事项和 Markdown 编辑。它提供安静、不打扰的桌面纸张体验，适合需要轻量级笔记和任务管理的用户。核心功能包括富文本渲染和本地优先存储。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · note-taking",
+      "reasonZh": "Windows 桌面极简便签，WPF 原生，支持待办和 Markdown，像几张安静的纸贴在桌面。同类工具要么功能臃肿要么云端同步，它纯粹轻量，适合喜欢极简本地体验的用户。"
+    },
+    {
+      "repo": "tllovesxs/wandao",
+      "url": "https://github.com/tllovesxs/wandao",
+      "description": "万能导:多平台知识库 Markdown 全项目一键导入导出工具(导入导出效果最好),用自动化代替手动复制粘贴(有道云,飞书,语雀,阿里云知识库,知识星球,印象笔记,ima,onenote,为知笔记导出导入).(可保留目录结构,图片,项目格式) 关键词:语雀导出导入,飞书导出导入,ima导出导入.阿里云文档导出,印象笔记导出导入,有道云导出,知识星球导出,为知笔记导出,onenote导出,钉钉文档,息流导出,Obsidian 导出,wps导出",
+      "language": "Python",
+      "stars": 646,
+      "summaryZh": "多平台知识库 Markdown 全项目一键导入导出工具，支持有道云、飞书、语雀、印象笔记等十余个平台。能保留目录结构、图片和项目格式，自动化迁移代替手动复制粘贴。适合需要迁移或备份笔记库的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · note-taking",
+      "reasonZh": "多平台知识库 Markdown 导入导出工具，支持语雀、飞书、印象笔记等，保留目录结构和图片。一键迁移替代手动复制粘贴，对于换笔记平台或备份的用户非常实用。"
+    },
+    {
+      "repo": "Blaizzy/nativ",
+      "url": "https://github.com/Blaizzy/nativ",
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "language": "Swift",
+      "stars": 1007,
+      "summaryZh": "Mac 原生的本地 AI 桌面应用，集成聊天、模型服务、监控和连接 MLX 模型功能。核心亮点是离线运行，无需联网即可使用 AI 助手。适合追求隐私和低延迟的 Mac 用户进行本地 AI 实验。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +388（+63%）",
+      "reasonZh": "macOS 原生本地 AI 应用，聊天、运行 MLX 模型、监控一站式。比 Ollama 命令行更图形化，适合 Mac 用户本地跑大模型，兼顾易用和隐私。"
+    },
+    {
+      "repo": "gamosoft/NoteDiscovery",
+      "url": "https://github.com/gamosoft/NoteDiscovery",
+      "description": "Your Self-Hosted Knowledge Base",
+      "language": "JavaScript",
+      "stars": 2686,
+      "summaryZh": "一个自托管的开源知识库系统，类似 Notion 或 Obsidian，支持 Markdown 编辑、标签管理和全文搜索。基于 Docker 部署，注重隐私和自主控制。适合需要私有笔记和知识管理的个人或团队。",
+      "category": "资料教程",
+      "source": "search",
+      "signal": "小而美 · note-taking",
+      "reasonZh": "自托管知识库，Docker 一键部署，支持 Markdown、全文搜索，类似 Evernote/Notion 但数据你掌控。适合注重隐私的笔记用户，替代依赖云的服务。"
+    },
+    {
+      "repo": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "language": "TypeScript",
+      "stars": 2517,
+      "summaryZh": "为 Claude Code 和 Codex 设计的 AI 视频生成技能，基于 Remotion 实现电影级产品视频。包含 106 个镜头配方卡片和 161 个运动预览，提供生产级模板。适合开发者快速生成高质量营销视频。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +2002（+389%）",
+      "reasonZh": "给 Claude Code/Codex 用的 AI 视频生成 skill，内置 106 个镜头配方和 161 个运动预览模板。傻瓜式生成产品视频，比手动制作快得多，适合快速出宣传片。"
+    },
+    {
+      "repo": "smixs/pohuy",
+      "url": "https://github.com/smixs/pohuy",
+      "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+      "language": "",
+      "stars": 764,
+      "summaryZh": "面向 AI 代理的俄语俚语模式，旨在使对话更生动、高效（18+）。通过引入习语性俄语粗口让 AI 响应更具情感和效率。适合俄语用户或开发实验性语言模型的场景。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +296（+63%）",
+      "reasonZh": "AI 代理的俄语俚语模式，让 AI 回答更简练直接。脑洞大、有趣，适合想在 AI 对话中尝试不同风格或做本地化实验的开发者。"
+    }
+  ]
+}
