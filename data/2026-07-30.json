@@ -1,0 +1,449 @@
+{
+  "date": "2026-07-30",
+  "trending": [
+    {
+      "repo": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "stars": 4038,
+      "summaryZh": "GeoLibre 是一个轻量级、云原生的 GIS 平台，用于可视化、探索和分析地理空间数据。它可在 Web 浏览器、桌面、移动端和 Jupyter notebook 中运行，支持多种部署方式。适合需要快速搭建地理信息系统的开发者和数据分析师。",
+      "category": "开发工具",
+      "starsToday": 671
+    },
+    {
+      "repo": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 45375,
+      "summaryZh": "Airi 是一个自托管的类 Grok AI 伴侣，支持实时语音聊天、Minecraft 集成等功能，致力于实现类似 Neuro-sama 的交互体验。它采用容器化架构，可私有化部署。适合追求个性化 AI 伴侣的用户和开发者。",
+      "category": "AI",
+      "starsToday": 682
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 235574,
+      "summaryZh": "ECC 是一个 Agent 工作负载性能优化系统，提供技能、本能、记忆、安全和研究优先的开发方法。它集成多种 AI 编码工具（如 Claude Code、Codex），可显著提升开发效率。适合使用 AI 辅助编程的团队和个人。",
+      "category": "开发工具",
+      "starsToday": 857
+    },
+    {
+      "repo": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "stars": 7861,
+      "summaryZh": "该项目利用开源模型构建本地语音助手，实现端到端语音交互。它可直接在本地运行，保护隐私。适合需要离线语音助手或探索语音 AI 的开发者和研究者。",
+      "category": "AI",
+      "starsToday": 827
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "language": "Rust",
+      "stars": 13454,
+      "summaryZh": "jcode 是一个极高内存效率的 Harness 工具，专注于资源优化。它采用 Rust 编写，适合在内存受限环境中运行大规模任务。适合需要高效资源管理的开发者。",
+      "category": "开发工具",
+      "starsToday": 640
+    },
+    {
+      "repo": "grokability/snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "stars": 14440,
+      "summaryZh": "Snipe-IT 是一个免费开源的 IT 资产/许可证管理系统，支持资产追踪、维护记录、许可证管理等功能。它基于 PHP，易于部署。适合中小企业的 IT 管理员。",
+      "category": "其他",
+      "starsToday": 164
+    },
+    {
+      "repo": "deepfakes/faceswap",
+      "url": "https://github.com/deepfakes/faceswap",
+      "description": "Deepfakes Software For All",
+      "language": "Python",
+      "stars": 56263,
+      "summaryZh": "Faceswap 是一个开源的深度伪造软件，用于人脸交换和面部合成。它提供训练和推理流程，支持多种模型。适合 AI 研究者、影视制作者及爱好者。注意合法使用。",
+      "category": "AI",
+      "starsToday": 166
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 51278,
+      "summaryZh": "VibeVoice 是微软推出的开源前沿语音 AI 平台，具备语音合成、识别和对话能力。它基于最新模型，提供高质量语音交互。适合开发语音应用的研究者和工程师。",
+      "category": "AI",
+      "starsToday": 336
+    },
+    {
+      "repo": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "language": "TypeScript",
+      "stars": 17908,
+      "summaryZh": "OpenWork 是 Claude Cowork 的开源替代品，基于 Opencode 构建，提供 AI 协作工作空间。它集成代码编辑、对话等功能，适合需要 AI 辅助编程的开发者。",
+      "category": "开发工具",
+      "starsToday": 97
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 263279,
+      "summaryZh": "Superpowers 是一套实用的 Agent 技能框架与软件开发方法论，强调高效协作。它提供 Shell 脚本实现，适合想要提升团队开发效能的工程管理者。",
+      "category": "开发工具",
+      "starsToday": 616
+    },
+    {
+      "repo": "MoonshotAI/FlashKDA",
+      "url": "https://github.com/MoonshotAI/FlashKDA",
+      "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+      "language": "Cuda",
+      "stars": 983,
+      "summaryZh": "FlashKDA 是高性能的 Kimi Delta 注意力内核实现，用于加速大模型推理。它采用 CUDA 优化，适合需要极致推理速度的 AI 部署场景。",
+      "category": "AI",
+      "starsToday": 91
+    },
+    {
+      "repo": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": 59067,
+      "summaryZh": "MediaCrawler 是一个多平台社交媒体爬虫，支持小红书、抖音、快手、B 站、微博、贴吧、知乎等。可爬取帖子、评论、视频等数据。适合数据采集者、市场研究人员。",
+      "category": "开发工具",
+      "starsToday": 154
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 16002,
+      "summaryZh": "Open Code Review 是阿里巴巴开源的代码审查工具，采用混合架构（确定性流水线 + LLM Agent），可提供精准的行级评论和内置规则（NPE、线程安全）。适合需要提升代码质量的团队。",
+      "category": "开发工具",
+      "starsToday": 359
+    },
+    {
+      "repo": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "stars": 10390,
+      "summaryZh": "该项目汇集了系统化交易的精选资源，包括库、策略、书籍、教程等。适合量化交易研究者、金融工程师学习与实践。",
+      "category": "资料教程",
+      "starsToday": 945
+    },
+    {
+      "repo": "maderix/ANE",
+      "url": "https://github.com/maderix/ANE",
+      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+      "language": "Objective-C",
+      "stars": 7143,
+      "summaryZh": "ANE 通过逆向工程私有 API 在 Apple Neural Engine 上训练神经网络，实现高性能计算。适合在 Apple 硬件上优化 AI 模型的开发者。",
+      "category": "AI",
+      "starsToday": 22
+    },
+    {
+      "repo": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": 19570,
+      "summaryZh": "一个用于创建和分享3D建筑项目的在线编辑器。基于TypeScript开发，支持直观的3D建模和实时协作。适合建筑师、设计师或学生进行概念展示与项目协作。",
+      "category": "开发工具",
+      "starsToday": 1022
+    },
+    {
+      "repo": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 12740,
+      "summaryZh": "将技术书籍PDF转化为Claude Code技能的自动化工具。通过解析PDF生成可交互的学习材料，支持Markdown格式。适合开发者将书籍知识转化为可复用的编程技能。",
+      "category": "资料教程",
+      "starsToday": 1421
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "MoonshotAI/Kimi-K3",
+      "url": "https://github.com/MoonshotAI/Kimi-K3",
+      "description": "Open Frontier Intelligence",
+      "language": "",
+      "stars": 5744,
+      "summaryZh": "月之暗面推出的前沿智能模型，专注于开放智能领域的探索。具备强大的推理和生成能力。适合研究机构和企业用户用于高级AI应用开发。",
+      "category": "AI",
+      "createdAt": "2026-07-27T08:01:37Z"
+    },
+    {
+      "repo": "slvDev/esp32-ai",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "description": "",
+      "language": "Python",
+      "stars": 2326,
+      "summaryZh": "在ESP32微控制器上运行AI推理的框架。支持TensorFlow Lite模型，实现低功耗边缘AI应用。适合物联网开发者将机器学习部署到嵌入式设备。",
+      "category": "开发工具",
+      "createdAt": "2026-07-23T14:53:51Z"
+    },
+    {
+      "repo": "mshumer/Claude-of-Duty",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "language": "JavaScript",
+      "stars": 2247,
+      "summaryZh": "基于Three.js构建的3D第一人称射击游戏，仅通过单个提示生成。模拟《使命召唤》风格的战斗体验。适合游戏爱好者体验AI驱动的快速原型开发。",
+      "category": "游戏",
+      "createdAt": "2026-07-25T19:32:36Z"
+    },
+    {
+      "repo": "kvcache-ai/AgentENV",
+      "url": "https://github.com/kvcache-ai/AgentENV",
+      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "language": "Rust",
+      "stars": 2117,
+      "summaryZh": "分布式Agent环境运行平台，专为大规模AI代理任务设计。基于Rust构建，支持高性能环境隔离与编排。适合需要并行运行大量智能体任务的开发团队。",
+      "category": "开发工具",
+      "createdAt": "2026-07-23T02:48:07Z"
+    },
+    {
+      "repo": "digimata/quill",
+      "url": "https://github.com/digimata/quill",
+      "description": "Ultra-minimalist macOS recording + transcription.",
+      "language": "Swift",
+      "stars": 1502,
+      "summaryZh": "极简macOS录屏与转录工具，自动将屏幕录制转换为文字笔记。采用Swift原生开发，轻量高效。适合需要快速记录会议或教程内容的Mac用户。",
+      "category": "开发工具",
+      "createdAt": "2026-07-24T23:31:27Z"
+    },
+    {
+      "repo": "mikiarlo3/ai-copywriter",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "language": "Python",
+      "stars": 1046,
+      "summaryZh": "融合真实文案技巧与营销知识的AI文案生成器。具备人类语调的广告文案创作能力。适合市场营销人员或内容创作者快速生成高质量营销文本。",
+      "category": "AI",
+      "createdAt": "2026-07-24T19:52:13Z"
+    },
+    {
+      "repo": "fuadmefleh/Shared-Claude-Chats",
+      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "language": "Python",
+      "stars": 931,
+      "summaryZh": "公开的Claude和Grok对话存档库，从分享链接导出为纯Markdown格式。附带自动化导出脚本。适合研究人员或AI爱好者分析大模型对话模式。",
+      "category": "资料教程",
+      "createdAt": "2026-07-26T01:14:17Z"
+    },
+    {
+      "repo": "VictorTaelin/OptMem",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "language": "Python",
+      "stars": 873,
+      "summaryZh": "为AI代理提供的永久记忆解决方案，仅需426个token的提示和脚本即可实现。可插拔式设计，无需复杂集成。适合需要长效记忆功能的AI应用开发者。",
+      "category": "AI",
+      "createdAt": "2026-07-25T16:58:43Z"
+    },
+    {
+      "repo": "MoonshotAI/MoonEP",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "language": "Python",
+      "stars": 861,
+      "summaryZh": "动态冗余专家并行库，通过平衡各专家负载提升训练效率。基于PyTorch实现。适合大规模MoE模型训练的工程师或研究人员。",
+      "category": "AI",
+      "createdAt": "2026-07-24T09:07:21Z"
+    },
+    {
+      "repo": "XYZ-AI-Lab/axrl",
+      "url": "https://github.com/XYZ-AI-Lab/axrl",
+      "description": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
+      "language": "Python",
+      "stars": 596,
+      "summaryZh": "基于SGLang和Megatron的强化学习后训练框架，集成真实Agent工作流。支持混合训练与推理。适合需要构建自主智能体系统的AI研究人员。",
+      "category": "AI",
+      "createdAt": "2026-07-23T06:07:23Z"
+    },
+    {
+      "repo": "0xwilliamortiz/openclaude-improved",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 554,
+      "summaryZh": "跨平台Claude代码助手，支持多种AI模型后端（包括OpenRouter）。提供统一的命令行接口。适合需要在不同环境中使用AI编程助手的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-26T21:58:28Z"
+    },
+    {
+      "repo": "0xwilliamortiz/ponytail-improved",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 545,
+      "summaryZh": "让AI代理模仿资深开发者“少写代码”思维的工具。通过提示优化减少不必要的代码生成。适合追求代码精简和效率的开发团队使用。",
+      "category": "开发工具",
+      "createdAt": "2026-07-28T14:16:19Z"
+    },
+    {
+      "repo": "mikehasa/agentacct",
+      "url": "https://github.com/mikehasa/agentacct",
+      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+      "language": "Python",
+      "stars": 528,
+      "summaryZh": "本地优先的编码代理成本追踪仪表盘，记录每步操作的工具、文件变更、耗时和Token消耗。支持Claude Code、Codex等。适合需要对AI代理使用进行审计和成本控制的团队。",
+      "category": "开发工具",
+      "createdAt": "2026-07-24T16:28:06Z"
+    },
+    {
+      "repo": "xikhar/persona",
+      "url": "https://github.com/xikhar/persona",
+      "description": "Bringing real-time voice to life.",
+      "language": "JavaScript",
+      "stars": 494,
+      "summaryZh": "一个提供实时语音合成能力的 JavaScript 库，专注于将文本转化为自然流畅的语音。它支持高性能流式处理，适合需要低延迟语音交互的场景如虚拟助手或语音播报应用。",
+      "category": "AI",
+      "createdAt": "2026-07-28T11:40:19Z"
+    },
+    {
+      "repo": "XYZ-AI-Lab/AxisAgentic",
+      "url": "https://github.com/XYZ-AI-Lab/AxisAgentic",
+      "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents.",
+      "language": "Python",
+      "stars": 479,
+      "summaryZh": "一个可扩展的长时域 AI Agent 运行时与轨迹收集框架。它支持复杂任务分解与执行记录，适合需要构建和评估长时间自主决策 Agent 的研究者与开发者。",
+      "category": "AI",
+      "createdAt": "2026-07-23T04:03:31Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "dwgx/WindsurfAPI",
+      "url": "https://github.com/dwgx/WindsurfAPI",
+      "description": "Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。",
+      "language": "JavaScript",
+      "stars": 2919,
+      "summaryZh": "将 Windsurf/Devin 等桌面端集成的 100+ 大模型（如 Claude、GPT、Gemini）转化为 OpenAI/Anthropic/Gemini 兼容 API 的自托管反向代理。零依赖，适合需要统一 API 接口管控多模型调用的开发团队。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "把 Windsurf/Devin 的 100+ 模型（Claude、GPT等）转成 OpenAI/Anthropic 兼容 API，零依赖自部署，一个反向代理搞定多模型调用，省去多个 API Key 和费用。"
+    },
+    {
+      "repo": "moltis-org/moltis",
+      "url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "language": "Rust",
+      "stars": 2796,
+      "summaryZh": "用 Rust 编写的安全持久化个人 AI Agent 服务器，单个二进制文件即可运行。支持沙箱执行、多提供商 LLM、语音交互、记忆功能及 Telegram/WhatsApp 等渠道，集成 MCP 工具，确保数据隐私和安全性。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "单二进制自托管 AI 智能体服务器，支持多 LLM 提供者、语音、记忆和 Telegram/WhatsApp/Discord 等渠道，沙箱化执行保障安全，本地运行不掉线。"
+    },
+    {
+      "repo": "gamosoft/NoteDiscovery",
+      "url": "https://github.com/gamosoft/NoteDiscovery",
+      "description": "Your Self-Hosted Knowledge Base",
+      "language": "JavaScript",
+      "stars": 2699,
+      "summaryZh": "自托管的个人知识库应用，支持 Markdown 笔记管理和全文搜索。提供 FastAPI 后端与 Docker 部署，注重隐私，可替代 Evernote/Notion，适合习惯 Zettelkasten 方法的用户。",
+      "category": "资料教程",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "自托管的笔记知识库，支持 Markdown、快速搜索、Docker 一键部署，替代 Evernote/Notion，隐私保护好，适合注重数据自主权的个人或团队。"
+    },
+    {
+      "repo": "maziggy/bambuddy",
+      "url": "https://github.com/maziggy/bambuddy",
+      "description": "Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to a 40-printer farm. ",
+      "language": "Python",
+      "stars": 2691,
+      "summaryZh": "针对 Bambu Lab 3D 打印机的自托管集中管理平台，无需云服务。支持单台到 40 台打印机的农场级控制，包含耗材管理、G-code 上传等功能，适合个人或小型打印农场主。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "Bambu Lab 3D 打印机的自托管管理面板，从单台到 40 台农场的集中控制，绕开云服务，规则由你定，适合打印农场主和隐私党。"
+    },
+    {
+      "repo": "Pouzor/homelable",
+      "url": "https://github.com/Pouzor/homelable",
+      "description": "Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring",
+      "language": "TypeScript",
+      "stars": 2658,
+      "summaryZh": "自托管的家庭实验室基础设施可视化工具，可生成交互式网络拓扑图并实时显示设备状态。支持 Proxmox、Zigbee/Z-Wave 等设备监控，适合 Homelab 爱好者运维和排查。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "自托管家庭实验室网络拓扑可视化工具，交互式图表实时监控设备状态，支持 Proxmox、Zigbee 等，可视化你的「机房」，适合 Homelab 折腾党。"
+    },
+    {
+      "repo": "cwuom/NeriPlayer",
+      "url": "https://github.com/cwuom/NeriPlayer",
+      "description": "A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵",
+      "language": "Kotlin",
+      "stars": 2629,
+      "summaryZh": "原生 Android 音频播放器，支持多源在线/本地播放、丰富歌词显示（含卡拉 OK 效果）和 WebDAV 同步。采用 Kotlin 和 Jetpack Compose 构建，注重隐私，适合音乐爱好者自建同步方案。",
+      "category": "前端",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "原生 Android 音频播放器，集合多源在线播放、本地管理、WebDAV 同步和卡拉 OK 歌词，还支持 USB 独占输出，音质和隐私兼备。"
+    },
+    {
+      "repo": "Afilmory/afilmory",
+      "url": "https://github.com/Afilmory/afilmory",
+      "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
+      "language": "TypeScript",
+      "stars": 2566,
+      "summaryZh": "面向摄影师的现代化照片画廊，支持 S3/GitHub 同步，展示 EXIF 信息、地图位置和实况照片。基于 React 和 Hono，使用 WebGL 查看器提供流畅浏览体验，适合摄影师自托管作品集。",
+      "category": "前端",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "摄影师自建相册，支持 S3/GitHub 同步、EXIF 信息、地图定位和 WebGL 查看器，自托管无平台绑架，适合需要精美展示和全自主控制的作品集。"
+    },
+    {
+      "repo": "dramaclaw/dramaclaw",
+      "url": "https://github.com/dramaclaw/dramaclaw",
+      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
+      "language": "TypeScript",
+      "stars": 2414,
+      "summaryZh": "通用 AIGC 视频引擎，将剧本自动转化为成品影片，支持漫剧、广告、电商视频等类型。集成文本转视频、图像生成、语音合成等 AI 能力，提供流水线式创作流程，适合内容创作者。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "从剧本到成片的一站式 AIGC 视频引擎，支持剧集、广告、电商视频，自托管跑通全流程，比单点工具更省心，适合内容创作者批量生产视频。"
+    },
+    {
+      "repo": "shy3130/tickflow-stock-panel",
+      "url": "https://github.com/shy3130/tickflow-stock-panel",
+      "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
+      "language": "Python",
+      "stars": 2409,
+      "summaryZh": "基于 TickFlow 数据源的 A 股量化工作台，集成选股、实时监控与回测功能。利用 LLM 辅助策略定制和个股分析，支持自定义数据接入，适合个人投资者进行量化研究。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "A 股自托管量化工作台，集选股、监控、回测于一体，支持 LLM 策略定制和第三方数据接入，零运维，适合个人投资者搭建私有量化系统。"
+    },
+    {
+      "repo": "the-momentum/open-wearables",
+      "url": "https://github.com/the-momentum/open-wearables",
+      "description": "Self-hosted platform to unify wearable health data through one AI-ready API.",
+      "language": "Python",
+      "stars": 2252,
+      "summaryZh": "自托管的可穿戴设备健康数据统一平台，通过单一 API 访问 Apple Health、Garmin 等多源数据。基于 FastAPI 和 Python，支持 AI 分析，适合量化自我爱好者或开发者构建健康应用。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "将 Apple Watch、Garmin 等可穿戴数据统一到自托管平台，提供 AI 就绪的 API，隐私可控，适合健康数据爱好者整合和分析自身数据。"
+    }
+  ]
+}
