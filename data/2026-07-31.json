@@ -1,0 +1,419 @@
+{
+  "date": "2026-07-31",
+  "trending": [
+    {
+      "repo": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "stars": 8817,
+      "summaryZh": "一个基于开源模型构建本地语音代理的工具。核心功能是实时语音到语音的转换与交互，无需云端依赖。适合开发者快速搭建语音助手、对话机器人等场景。",
+      "category": "AI",
+      "starsToday": 628
+    },
+    {
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars": 53934,
+      "summaryZh": "微软推出的AI入门课程，为期12周共24课时。内容涵盖神经网络、计算机视觉、NLP等基础，并配有实践项目。适合零基础学习者系统性掌握AI知识。",
+      "category": "资料教程",
+      "starsToday": 155
+    },
+    {
+      "repo": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "stars": 11053,
+      "summaryZh": "系统性交易的精选资源列表，包括库、策略、书籍和教程。覆盖量化交易全栈工具和经典方法论。适合量化研究员和算法交易者快速查找高质量参考资料。",
+      "category": "资料教程",
+      "starsToday": 621
+    },
+    {
+      "repo": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "language": "TypeScript",
+      "stars": 18735,
+      "summaryZh": "Claude Cowork的开源替代品，基于opencode构建。提供类似Copilot的协作式代码生成与编辑能力。适合希望自托管AI编码助手的开发团队。",
+      "category": "开发工具",
+      "starsToday": 915
+    },
+    {
+      "repo": "WhiskeySockets/Baileys",
+      "url": "https://github.com/WhiskeySockets/Baileys",
+      "description": "Socket-based TS/JavaScript API for WhatsApp Web",
+      "language": "JavaScript",
+      "stars": 10437,
+      "summaryZh": "基于socket的TypeScript/JavaScript库，用于实现WhatsApp Web API。支持消息收发、群组管理、媒体传输等功能。适合开发WhatsApp聊天机器人或集成应用。",
+      "category": "开发工具",
+      "starsToday": 19
+    },
+    {
+      "repo": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": 20117,
+      "summaryZh": "一个3D建筑项目创建与分享平台。提供直观的编辑器，支持户型绘制、材质贴图、光照渲染。适合建筑师、室内设计师和爱好者快速展示设计方案。",
+      "category": "其他",
+      "starsToday": 625
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 55554,
+      "summaryZh": "AI代理技能，可跨Reddit、X、YouTube等平台研究任意主题并生成总结。核心是情报聚合与合成，支持自定义时间范围。适合市场调研、舆情监控等场景。",
+      "category": "AI",
+      "starsToday": 378
+    },
+    {
+      "repo": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": 38290,
+      "summaryZh": "跨平台.NET框架，用于构建现代云Web应用。支持MVC、Web API、SignalR等，集成身份认证与依赖注入。适合.NET开发者构建高性能Web服务。",
+      "category": "开发工具",
+      "starsToday": 7
+    },
+    {
+      "repo": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "stars": 137125,
+      "summaryZh": "Windows系统增强工具集，包括取色器、窗口布局管理器、批量重命名等。提升日常操作效率，每个工具独立且轻量。适合所有Windows用户优化工作流。",
+      "category": "其他",
+      "starsToday": 70
+    },
+    {
+      "repo": "ansible/ansible",
+      "url": "https://github.com/ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+      "language": "Python",
+      "stars": 69881,
+      "summaryZh": "极简的IT自动化平台，用于配置管理、应用部署和云编排。使用YAML剧本，无需代理，基于SSH执行。适合运维工程师自动化基础设施管理。",
+      "category": "开发工具",
+      "starsToday": 29
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 48053,
+      "summaryZh": "为编码代理提供的Chrome开发者工具接口。允许代理直接控制浏览器调试面板，进行DOM检查、性能分析和网络监控。适合开发AI驱动的测试或调试工具。",
+      "category": "开发工具",
+      "starsToday": 80
+    },
+    {
+      "repo": "jenkinsci/jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "stars": 26296,
+      "summaryZh": "流行的Java开源CI/CD自动化服务器。支持分布式构建、流水线即代码、丰富的插件生态。适合开发团队实现持续集成与交付。",
+      "category": "开发工具",
+      "starsToday": 25
+    },
+    {
+      "repo": "agavra/tuicr",
+      "url": "https://github.com/agavra/tuicr",
+      "description": "a code review TUI with vim keybindings",
+      "language": "Rust",
+      "stars": 1862,
+      "summaryZh": "终端界面的代码审查工具，支持Vim键绑定。可直接在终端中查看差异、添加注释，操作高效。适合习惯命令行且注重代码审查效率的开发者。",
+      "category": "开发工具",
+      "starsToday": 190
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 236221,
+      "summaryZh": "代理性能优化的增强框架，提供技能、本能、记忆、安全等模块。支持Claude Code、Cursor等多种代理系统。适合开发者提升AI代理的稳定性和表现。",
+      "category": "AI",
+      "starsToday": 804
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "MoonshotAI/Kimi-K3",
+      "url": "https://github.com/MoonshotAI/Kimi-K3",
+      "description": "Open Frontier Intelligence",
+      "language": "",
+      "stars": 7531,
+      "summaryZh": "月之暗面推出的开源前沿智能模型。专注于提升推理能力和知识密度，在多项基准上表现优异。适合研究者和开发者探索大规模语言模型能力。",
+      "category": "AI",
+      "createdAt": "2026-07-27T08:01:37Z"
+    },
+    {
+      "repo": "digimata/quill",
+      "url": "https://github.com/digimata/quill",
+      "description": "Ultra-minimalist macOS recording + transcription.",
+      "language": "Swift",
+      "stars": 2417,
+      "summaryZh": "极简macOS录音与转录工具。支持一键录制音频并自动生成文字转录，适合会议记录、课堂笔记等场景。核心亮点是超低资源占用和离线处理能力。",
+      "category": "开发工具",
+      "createdAt": "2026-07-24T23:31:27Z"
+    },
+    {
+      "repo": "mshumer/Claude-of-Duty",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "language": "JavaScript",
+      "stars": 2403,
+      "summaryZh": "基于Three.js构建的《使命召唤》级FPS游戏，完全由单次AI提示生成。展示了AI驱动游戏开发的潜力，适合技术演示和游戏开发爱好者探索。",
+      "category": "游戏",
+      "createdAt": "2026-07-25T19:32:36Z"
+    },
+    {
+      "repo": "mikiarlo3/ai-copywriter",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "language": "Python",
+      "stars": 988,
+      "summaryZh": "结合真实文案技巧与营销知识的AI文案写作工具。生成带有自然人性化语气的营销文案，适合电商、广告、社交媒体运营人员使用。",
+      "category": "开发工具",
+      "createdAt": "2026-07-24T19:52:13Z"
+    },
+    {
+      "repo": "VictorTaelin/OptMem",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "language": "Python",
+      "stars": 932,
+      "summaryZh": "为AI代理提供永久记忆的轻量方案。仅需426个token的提示词和一个脚本即可实现即插即用，适合需要长期上下文追踪的AI应用开发者。",
+      "category": "AI",
+      "createdAt": "2026-07-25T16:58:43Z"
+    },
+    {
+      "repo": "MoonshotAI/MoonEP",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "language": "Python",
+      "stars": 928,
+      "summaryZh": "动态冗余专家并行库MoonEP，通过优化专家分配实现完美负载均衡。显著提升大模型训练和推理效率，适合ML工程师和AI研究团队。",
+      "category": "AI",
+      "createdAt": "2026-07-24T09:07:21Z"
+    },
+    {
+      "repo": "xikhar/persona",
+      "url": "https://github.com/xikhar/persona",
+      "description": "Bringing real-time voice to life.",
+      "language": "JavaScript",
+      "stars": 672,
+      "summaryZh": "将实时语音转化为逼真交互体验的框架。支持低延迟语音合成与情感表达，适合虚拟助手、游戏NPC或社交机器人等场景。",
+      "category": "AI",
+      "createdAt": "2026-07-28T11:40:19Z"
+    },
+    {
+      "repo": "0xwilliamortiz/ponytail-improved",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 564,
+      "summaryZh": "让AI代理像最懒的资深开发者一样思考——尽可能少写代码。通过优化提示工程实现高效代码生成，适合追求极简主义的开发者使用。",
+      "category": "开发工具",
+      "createdAt": "2026-07-28T14:16:19Z"
+    },
+    {
+      "repo": "0xwilliamortiz/openclaude-improved",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 562,
+      "summaryZh": "可在任何环境运行、使用任何API的通用AI编码代理。支持Claude、Gemini等模型，通过MCP协议与工具集成，适合跨平台AI开发。",
+      "category": "开发工具",
+      "createdAt": "2026-07-26T21:58:28Z"
+    },
+    {
+      "repo": "mikehasa/agentacct",
+      "url": "https://github.com/mikehasa/agentacct",
+      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+      "language": "Python",
+      "stars": 538,
+      "summaryZh": "监控AI编码代理行为和成本的本地优先仪表盘。将每个任务分解为步骤并追踪工具使用、文件变更、token消耗，适合管理AI开发流程的团队。",
+      "category": "开发工具",
+      "createdAt": "2026-07-24T16:28:06Z"
+    },
+    {
+      "repo": "talivia-group/talivia",
+      "url": "https://github.com/talivia-group/talivia",
+      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "language": "TypeScript",
+      "stars": 489,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-07-29T07:56:49Z"
+    },
+    {
+      "repo": "gavamedia/deltafin",
+      "url": "https://github.com/gavamedia/deltafin",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "language": "Python",
+      "stars": 478,
+      "summaryZh": "单设备运行完整Kimi K3模型的推理引擎，并提供OpenAI兼容API。支持本地聊天和编码代理，适合需要本地大模型隐私部署的开发者。",
+      "category": "AI",
+      "createdAt": "2026-07-28T01:01:23Z"
+    },
+    {
+      "repo": "NikolayS/PGSimCity",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "description": "An explorable 3D city that shows how Postgres actually works",
+      "language": "TypeScript",
+      "stars": 440,
+      "summaryZh": "3D模拟城市游戏，可视化展示PostgreSQL内部运作机制。通过交互式探索学习数据库原理，适合数据库初学者和教学场景。",
+      "category": "资料教程",
+      "createdAt": "2026-07-25T22:15:09Z"
+    },
+    {
+      "repo": "wassgha/rescript",
+      "url": "https://github.com/wassgha/rescript",
+      "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+      "language": "TypeScript",
+      "stars": 401,
+      "summaryZh": "基于转录的浏览器端视频/音频编辑器。支持实时字幕编辑、多轨道剪辑，无需上传文件，适合内容创作者和播客制作者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-26T22:43:11Z"
+    },
+    {
+      "repo": "DramaticShape/DramaticShapeVoxelMod",
+      "url": "https://github.com/DramaticShape/DramaticShapeVoxelMod",
+      "description": "",
+      "language": "Lua",
+      "stars": 394,
+      "summaryZh": "Voxel游戏模组，可能添加新地形或玩法。基于Lua脚本，适合《我的世界》等沙盒游戏玩家进行自定义扩展。",
+      "category": "游戏",
+      "createdAt": "2026-07-26T21:47:59Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "nyblnet/bento",
+      "url": "https://github.com/nyblnet/bento",
+      "description": "Bento, the office suite that fits in a file",
+      "language": "TypeScript",
+      "stars": 3162,
+      "summaryZh": "单文件即用的办公套件，包含幻灯片、文档等核心功能。开源且可自托管，兼容Office文件格式，适合追求轻量级离线办公的用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +2063（+188%）",
+      "reasonZh": "一个自托管的办公套件，全部放在单个文件中运行，轻量到可以直接拖进浏览器。和 Office 365 比，它不需要服务器，打开即用，适合个人或小团队快速创建和分享幻灯片。"
+    },
+    {
+      "repo": "arcsin1/oh-my-ppt",
+      "url": "https://github.com/arcsin1/oh-my-ppt",
+      "description": "Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.",
+      "language": "TypeScript",
+      "stars": 1814,
+      "summaryZh": "一个本地优先的 AI PPT 生成器，输入需求即可自动生成干净漂亮的 HTML 幻灯片。支持离线使用，适合需要快速制作演示文稿、课程或故事的用户。",
+      "category": "前端",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "AI 生成 HTML 幻灯片，描述需求即可出稿，本地离线运行。比传统 PPT 工具快得多，适合赶课、演讲或快速制作演示内容，而且无需联网。"
+    },
+    {
+      "repo": "kushalpandya/Petrichor",
+      "url": "https://github.com/kushalpandya/Petrichor",
+      "description": "An offline macOS music player",
+      "language": "Swift",
+      "stars": 1575,
+      "summaryZh": "一款离线 macOS 音乐播放器，支持 MP3 和 OGG Vorbis 格式。专注于本地音频播放，提供简洁的桌面体验，适合在 Mac 上管理并播放本地音乐库的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "macOS 离线音乐播放器，界面简洁，支持 MP3 和 OGG。和 iTunes 或 Spotify 比，它不跟踪你、不联网，纯粹本地播放，适合注重隐私的音乐收藏者。"
+    },
+    {
+      "repo": "twalichiewicz/HNewhere",
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "description": "A lightweight userscript that adds Hacker News discussions to any previously submitted article.",
+      "language": "JavaScript",
+      "stars": 196,
+      "summaryZh": "一个轻量级用户脚本，能在已提交文章的页面自动显示 Hacker News 讨论链接。适合 Hacker News 读者快速查看相关讨论。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 422 分 · 122 评论",
+      "reasonZh": "轻量用户脚本，在已提交的文章页面自动显示 Hacker News 讨论。不用手动搜索，装一次就自动链接到 HN 评论区，对经常看 HN 的技术用户非常实用。"
+    },
+    {
+      "repo": "Jakubantalik/thinking-orbs",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "language": "TypeScript",
+      "stars": 1258,
+      "summaryZh": "为 AI 和智能体界面设计的点状思考球加载指示器，提供六种状态和两种尺寸，支持自动暗色/亮色模式。适合开发者用于 AI 聊天或智能体 UI。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +432（+52%）",
+      "reasonZh": "给 AI 和 Agent UI 用的动态加载球组件，有六种状态、两种尺寸，自动适配暗/亮模式。比普通加载动画更精致，适合开发者直接嵌入自己的 AI 聊天界面。"
+    },
+    {
+      "repo": "patonw/leaves",
+      "url": "https://github.com/patonw/leaves",
+      "description": "A text-mode disk usage visualization utility",
+      "language": "Rust",
+      "stars": 327,
+      "summaryZh": "一款文本模式的磁盘使用可视化工具，用 Rust 编写。以树状图展示磁盘空间占用，适合在终端中快速分析存储情况。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +133（+69%）",
+      "reasonZh": "文本模式的磁盘空间可视化工具，用 Rust 写的，速度飞快。比 du 或 ncdu 更直观，不用图形界面，在终端里就能看清哪些文件占空间，适合服务器维护。"
+    },
+    {
+      "repo": "h3nock/remux",
+      "url": "https://github.com/h3nock/remux",
+      "description": "A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.",
+      "language": "Swift",
+      "stars": 216,
+      "summaryZh": "面向 iPhone 的原生客户端，用于远程管理 tmux 工作区。基于 SwiftUI 和 libghostty，提供自然的移动终端体验，适合需要在手机上操作 tmux 的开发人员。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +82（+61%）",
+      "reasonZh": "原生 iOS 客户端，远程连接 tmux 工作区，操作符合 iPhone 习惯。比 Termius 等通用 SSH 客户端更专注 tmux，适合在手机端管理服务器终端的开发者。"
+    },
+    {
+      "repo": "smixs/pohuy",
+      "url": "https://github.com/smixs/pohuy",
+      "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+      "language": "",
+      "stars": 803,
+      "summaryZh": "为 AI 智能体设计的俄语粗俗模式，使对话更简洁直接。通过调整提示词风格，提升效率，适合需要个性化 AI 交互的俄语用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +221（+38%）",
+      "reasonZh": "给 AI 代理加上俄语俚语模式，让指令更直率、更高效。不是常规工具，但如果你需要俄语环境的 AI，它会比标准 prompt 更接地气，适合俄语开发者做测试。"
+    },
+    {
+      "repo": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "language": "TypeScript",
+      "stars": 2881,
+      "summaryZh": "Claude Code 和 Codex 的 AI 视频技能包，基于 Remotion 生成产品视频。包含 106 个镜头配方和 161 个动作预览，适合用于制作专业级营销视频。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +1955（+211%）",
+      "reasonZh": "AI 视频生成技能包，集成 106 种镜头模板和 161 个动效预览，配合 Claude Code 或 Codex 直接出片。比自己写 Remotion 脚本高效，适合快速做产品演示视频。"
+    },
+    {
+      "repo": "Devin-AXIS/iPolloWork",
+      "url": "https://github.com/Devin-AXIS/iPolloWork",
+      "description": "A source-available, local-first alternative to Codex and Claude Code: an AI workspace for code, files, docs, websites, presentations, design, and video—with editable results and user-controlled tools.",
+      "language": "HTML",
+      "stars": 2249,
+      "summaryZh": "一个源代码可用的本地优先 AI 工作台，替代 Codex 和 Claude Code。支持代码、文件、文档、网页、演示、设计和视频编辑，结果可修改，工具由用户控制。适合需要完整 AI 辅助工作流的开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "本地优先的 AI 工作空间，代码、文档、演示、设计、视频全能做，结果可直接编辑。和 Codex 比，它让你自主操控工具链，适合想一站式完成创意任务的独立开发者。"
+    }
+  ]
+}
