@@ -1,0 +1,439 @@
+{
+  "date": "2026-08-05",
+  "trending": [
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars": 13592,
+      "summaryZh": "腾讯云开源的团队级AI智能体记忆中枢，将对话、文档和代码转化为聊天记忆、技能、LLM维基和代码图谱四类可复用资产。支持治理与复用，适合需要构建持久化记忆的AI Agent团队使用。",
+      "category": "AI",
+      "starsToday": 1111
+    },
+    {
+      "repo": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars": 10016,
+      "summaryZh": "基于Rust的高性能PDF检查与分类库，能智能区分扫描版和文本版PDF，并提取文本。为文档处理流水线提供快速路由决策，适合处理大量PDF的企业或开发者使用。",
+      "category": "开发工具",
+      "starsToday": 2540
+    },
+    {
+      "repo": "uber/ADR",
+      "url": "https://github.com/uber/ADR",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "language": "Python",
+      "stars": 679,
+      "summaryZh": "优步开源的企业级AI智能体安全框架，通过可观测性、安全基准测试和威胁检测保障智能体安全，已在生产环境部署。适合需要强化AI Agent安全性的企业使用。",
+      "category": "AI",
+      "starsToday": 148
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 266481,
+      "summaryZh": "一个实用的智能体技能框架和软件开发方法论，提供结构化的工作方式，帮助提升开发效率。适合希望构建复杂AI智能体应用的开发者或团队使用。",
+      "category": "AI",
+      "starsToday": 653
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "language": "Jupyter Notebook",
+      "stars": 116256,
+      "summaryZh": "微软出品的生成式AI入门教程，包含21节课，覆盖从基础概念到实战构建。适合初学者系统学习生成式AI，内容通俗易懂。",
+      "category": "资料教程",
+      "starsToday": 783
+    },
+    {
+      "repo": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "stars": 50789,
+      "summaryZh": "快速、可靠的前端测试框架，专为浏览器中运行的应用设计，提供简单易用的API。支持端到端、组件和单元测试，适合现代Web开发团队使用。",
+      "category": "开发工具",
+      "starsToday": 11
+    },
+    {
+      "repo": "webpack/webpack",
+      "url": "https://github.com/webpack/webpack",
+      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+      "language": "JavaScript",
+      "stars": 65930,
+      "summaryZh": "流行的JavaScript模块打包器，将众多模块打包为少量资源，通过代码分割按需加载，支持CommonJS等模块规范。适合复杂前端项目的构建与优化。",
+      "category": "前端",
+      "starsToday": 10
+    },
+    {
+      "repo": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": 29374,
+      "summaryZh": "高性能C++日志库，支持异步日志写入、格式化输出和多种目标（文件、控制台等）。性能优异，适合对日志性能有严格要求的C++项目使用。",
+      "category": "开发工具",
+      "starsToday": 10
+    },
+    {
+      "repo": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": 108061,
+      "summaryZh": "现代JavaScript和TypeScript运行时，由Node.js之父打造，内置安全权限模型和TypeScript支持。适合想尝试更安全、现代化运行时环境的开发者使用。",
+      "category": "开发工具",
+      "starsToday": 31
+    },
+    {
+      "repo": "usekaneo/kaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "language": "TypeScript",
+      "stars": 7292,
+      "summaryZh": "开源项目管理工具，界面简洁、功能全面，注重用户体验，提供任务追踪、协作等功能。适合追求高效、简洁项目管理的团队或个人使用。",
+      "category": "开发工具",
+      "starsToday": 559
+    },
+    {
+      "repo": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "language": "Python",
+      "stars": 12412,
+      "summaryZh": "实时语音AI智能体构建框架，支持音频、视频和屏幕分享等多模态交互，提供低延迟的实时通信能力。适合开发语音助手、客服机器人等实时交互应用。",
+      "category": "AI",
+      "starsToday": 432
+    },
+    {
+      "repo": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "language": "TypeScript",
+      "stars": 100827,
+      "summaryZh": "Google维护的现代Web应用开发框架，提供全套工具链，支持组件化开发、依赖注入等特性，适合构建大型企业级应用。",
+      "category": "前端",
+      "starsToday": 13
+    },
+    {
+      "repo": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "language": "TypeScript",
+      "stars": 96475,
+      "summaryZh": "实用优先的CSS框架，提供大量预置类，可快速构建响应式界面，支持自定义主题。适合前端开发者高效开发UI，无需编写自定义CSS。",
+      "category": "前端",
+      "starsToday": 52
+    },
+    {
+      "repo": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 19330,
+      "summaryZh": "允许使用编码智能体编辑视频的开源工具，通过代码控制视频处理流程，支持自动化编辑任务。适合喜欢用代码方式创作和编辑视频的开发者或内容创作者。",
+      "category": "AI",
+      "starsToday": 320
+    },
+    {
+      "repo": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "stars": 30779,
+      "summaryZh": "DeepSeek原生的终端AI编码智能体，专为前缀缓存稳定性优化，可持续运行。适合喜欢在终端中编程并希望获得AI辅助的开发者使用。",
+      "category": "开发工具",
+      "starsToday": 922
+    },
+    {
+      "repo": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars": 23870,
+      "summaryZh": "面向 Claude Code、Codex、Cursor 等 AI 编程工具的官方复合工程插件，用于协调多个 AI 智能体协同完成复杂开发任务。它提供工作流编排和上下文管理能力，适合需要利用多智能体提升开发效率的团队。",
+      "category": "开发工具",
+      "starsToday": 40
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "description": "Multiplayer agent harness for work",
+      "language": "TypeScript",
+      "stars": 11148,
+      "summaryZh": "一个用于工作的多智能体编排平台，旨在帮助团队管理和协调多个 AI 智能体执行任务。它提供了任务分配、进度跟踪和结果聚合等功能，适用于需要将 AI 集成到日常工作流程中的企业或开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-29T20:03:08Z"
+    },
+    {
+      "repo": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "description": "An open-source, agentic-first CRM.",
+      "language": "TypeScript",
+      "stars": 4675,
+      "summaryZh": "一款开源、以智能体为先的 CRM 系统，将 AI 智能体集成到客户关系管理流程中，提供自动化跟进和智能洞察。它适合希望利用 AI 优化销售和客户支持流程的团队。",
+      "category": "其他",
+      "createdAt": "2026-07-31T21:38:51Z"
+    },
+    {
+      "repo": "bashalarmistalt/decimen-optical-transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 4543,
+      "summaryZh": "该项目没有提供说明，但从语言和星标数看可能是一个 TypeScript 库或工具。由于信息不足，无法准确描述其功能。适用场景需根据仓库内容进一步确认。",
+      "category": "其他",
+      "createdAt": "2026-07-30T18:17:54Z"
+    },
+    {
+      "repo": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+      "language": "",
+      "stars": 2917,
+      "summaryZh": "基于范冰《增长黑客》框架编写的 FDE（前沿部署工程师）从零入门指南，涵盖 FDE 的角色定位、技能要求和实战案例。适合希望转型为 FDE 或了解该领域的工程师阅读。",
+      "category": "资料教程",
+      "createdAt": "2026-07-30T05:39:38Z"
+    },
+    {
+      "repo": "microsoft/skill-recorder",
+      "url": "https://github.com/microsoft/skill-recorder",
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "language": "TypeScript",
+      "stars": 1769,
+      "summaryZh": "微软出品的桌面应用，录制屏幕操作并通过 GitHub Copilot CLI 自动重构为意图和有序步骤，进而生成可复用的技能或自动化脚本，用于 Microsoft Scout 等智能体。适合需要构建 AI 智能体技能的开发者和自动化爱好者。",
+      "category": "开发工具",
+      "createdAt": "2026-07-29T18:16:14Z"
+    },
+    {
+      "repo": "imsai-sh/zhuzhiliao",
+      "url": "https://github.com/imsai-sh/zhuzhiliao",
+      "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "language": "HTML",
+      "stars": 1654,
+      "summaryZh": "竹知了是传统竹制玩具的 Web 模拟版，通过真实录音采样和移动端优先设计，让用户在浏览器中体验转动发声的乐趣。零依赖单文件，适合休闲娱乐或作为轻量级互动项目参考。",
+      "category": "其他",
+      "createdAt": "2026-08-01T17:20:54Z"
+    },
+    {
+      "repo": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "language": "Rust",
+      "stars": 1472,
+      "summaryZh": "高性能文档转换工具，可将 Word、PPT、Excel、PDF、EPUB 等格式转换为干净的 Markdown。基于 Rust 实现，提供 Node.js 和 Python 绑定，适合数据处理和文档流水线开发。",
+      "category": "开发工具",
+      "createdAt": "2026-08-03T16:36:14Z"
+    },
+    {
+      "repo": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "language": "TypeScript",
+      "stars": 1335,
+      "summaryZh": "AI 原生办公套件，支持 macOS 和 Windows，涵盖文字处理、表格、演示文稿和 PDF 编辑。集成 AI 功能如智能排版和内容生成，适合需要提升办公效率的个人和团队。",
+      "category": "其他",
+      "createdAt": "2026-07-31T09:40:58Z"
+    },
+    {
+      "repo": "DannyMac180/sol-advisor",
+      "url": "https://github.com/DannyMac180/sol-advisor",
+      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+      "language": "Shell",
+      "stars": 1311,
+      "summaryZh": "Codex 原生的架构编排工具，提供 Luna 和 Terra 实现通道，并强制进行 Sol 审查。它可能用于协调 AI 架构决策，适合使用 Codex 进行复杂项目开发的工程师。",
+      "category": "开发工具",
+      "createdAt": "2026-08-01T13:56:43Z"
+    },
+    {
+      "repo": "thebuggeddev/anatomy",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "language": "TypeScript",
+      "stars": 1217,
+      "summaryZh": "基于 threejs 的交互式 3D 人体解剖浏览应用，结合 GPT-5 Sol 智能体提供知识支持。适合医学教育、学生和任何对人体结构感兴趣的用户。",
+      "category": "AI",
+      "createdAt": "2026-08-02T11:15:16Z"
+    },
+    {
+      "repo": "x4gKing/3x-ui-multi",
+      "url": "https://github.com/x4gKing/3x-ui-multi",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 701,
+      "summaryZh": "该项目未提供描述，从语言和星标数推测可能是基于 3x-ui 的多用户管理面板或代理工具。由于信息不足，无法准确描述。适用场景需根据代码库内容判断。",
+      "category": "其他",
+      "createdAt": "2026-08-01T12:34:51Z"
+    },
+    {
+      "repo": "talivia-group/talivia",
+      "url": "https://github.com/talivia-group/talivia",
+      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "language": "TypeScript",
+      "stars": 689,
+      "summaryZh": "开源、自托管的收入优先分析平台，为创始人提供网络分析、会话回放、收入归因和客户收入集成。作为 datafast 的替代品，适合独立开发者和小团队使用。",
+      "category": "开发工具",
+      "createdAt": "2026-07-29T07:56:49Z"
+    },
+    {
+      "repo": "0xwilliamortiz/humanizer-cli",
+      "url": "https://github.com/0xwilliamortiz/humanizer-cli",
+      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+      "language": "JavaScript",
+      "stars": 569,
+      "summaryZh": "终端工具，提供 33 种检测 AI 生成文本的方法，包含前后对照示例和草稿检查器，零依赖。适合需要辨别或改写 AI 文本的写作者和编辑。",
+      "category": "开发工具",
+      "createdAt": "2026-08-01T20:36:27Z"
+    },
+    {
+      "repo": "brookfacehe2421/flashloan-scalper-bot",
+      "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
+      "description": "Quick profit scalper using flashloan mechanics",
+      "language": "JavaScript",
+      "stars": 553,
+      "summaryZh": "利用闪电贷机制进行快速套利的交易机器人，基于 JavaScript，旨在快速获利。适合对 DeFi 和套利策略有经验的开发者，但需注意高风险。",
+      "category": "其他",
+      "createdAt": "2026-08-01T15:22:27Z"
+    },
+    {
+      "repo": "s1dashu/animated-voiceover",
+      "url": "https://github.com/s1dashu/animated-voiceover",
+      "description": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
+      "language": "",
+      "stars": 493,
+      "summaryZh": "这是一个创建动画配音视频的工具，支持可复用的脚本、视觉指导和一致的语音风格。基于CLI的生成流程，适合自媒体创作者和动画制作人批量制作口播视频。",
+      "category": "AI",
+      "createdAt": "2026-07-31T13:32:12Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "digimata/quill",
+      "url": "https://github.com/digimata/quill",
+      "description": "Ultra-minimalist macOS recording + transcription.",
+      "language": "Swift",
+      "stars": 3671,
+      "summaryZh": "这是一个极简主义的macOS录音和转录应用，界面简洁，操作快速。支持音频录制并实时转换为文字，适合记者、学生和商务人士进行会议记录或采访整理。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +3131（+580%）",
+      "reasonZh": "Mac 上超简洁的录音+转写工具，一条菜单栏命令就能边录边转文字，完全本地处理不上传，隐私党狂喜。比同类工具轻量太多，适合会议记录、采访速记或灵感捕捉，装上就能用。"
+    },
+    {
+      "repo": "FrigadeHQ/yap",
+      "url": "https://github.com/FrigadeHQ/yap",
+      "description": "Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud, no API keys, no account.",
+      "language": "Swift",
+      "stars": 342,
+      "summaryZh": "这是macOS上的免费开源语音听写工具，采用Apple Speech框架在设备端转录，无需云端、API密钥或账号，保护隐私。适合注重数据安全的用户进行语音输入和文字记录。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +101（+42%）",
+      "reasonZh": "免费开源的 Mac 语音转文字工具，用苹果自家 Speech 框架离线识别，不用注册、不用 API key，彻底摆脱云服务。对隐私敏感或常断网的用户特别友好，设置一下就能当系统级听写用，比 Whisper 类方案更省心。"
+    },
+    {
+      "repo": "reflex-dev/xy",
+      "url": "https://github.com/reflex-dev/xy",
+      "description": "Ultra-fast and customizable Python charts",
+      "language": "Python",
+      "stars": 1405,
+      "summaryZh": "这是一个超快速且可高度定制的Python图表库，专注于数据可视化和分析。性能优异，适合数据科学家和开发者快速生成交互式图表。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +1141（+432%）",
+      "reasonZh": "用 Python 直接画超快、可自定义的图表，纯前端渲染，400 多个图表类型随便挑。特别的是它和 Reflex 框架无缝配合，写 Python 就能做交互式数据可视化，不用切 JavaScript。数据分析和快速原型场景下效率极高。"
+    },
+    {
+      "repo": "mshumer/Claude-of-Duty",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "language": "JavaScript",
+      "stars": 2814,
+      "summaryZh": "这是一个用Three.js构建的《使命召唤》品质的第一人称射击游戏，由单次提示词生成。展示了AI生成游戏的可能性，适合游戏开发者和技术爱好者体验AI辅助开发。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +1086（+63%）",
+      "reasonZh": "一个提示词生成的《使命召唤》级 FPS 游戏 Demo，纯 Three.js 实现，打开浏览器就能玩。最大的亮点是展示了 AI 生成完整小游戏的潜力，适合想研究 AI 编程或找点乐子的开发者，部署简单，即开即玩。"
+    },
+    {
+      "repo": "wassgha/rescript",
+      "url": "https://github.com/wassgha/rescript",
+      "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+      "language": "TypeScript",
+      "stars": 622,
+      "summaryZh": "这是一个开源、基于转录的浏览器视频/音频编辑器，允许用户通过编辑文本来编辑媒体。适合播客制作者和视频编辑者高效处理内容。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +221（+55%）",
+      "reasonZh": "基于转录文本的浏览器内视频/音频编辑器，上传素材自动转文字，直接编辑文字就能剪视频，不用时间线拖拽。对播客剪辑、访谈整理特别方便，比传统编辑器上手门槛低太多，适合内容创作者快速产出。"
+    },
+    {
+      "repo": "dominostars/playtranslate",
+      "url": "https://github.com/dominostars/playtranslate",
+      "description": "Real-time screen translation app for Android for both language learners and casual gamers",
+      "language": "Kotlin",
+      "stars": 1024,
+      "summaryZh": "这是一个安卓实时屏幕翻译应用，专为语言学习者和游戏玩家设计，可在游戏或应用中即时翻译屏幕内容。支持模拟器和视觉小说，适合跨语言沟通和游戏理解。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "安卓端的实时屏幕翻译应用，专门针对游戏、漫画、视觉小说场景，开着它就能实时翻译屏幕上的文本。尤其适合玩日文生肉或外文游戏的朋友，无需截图翻译，看剧情不卡壳，比通用翻译工具更懂玩家需求。"
+    },
+    {
+      "repo": "GSManagerXZ/GameServerManager",
+      "url": "https://github.com/GSManagerXZ/GameServerManager",
+      "description": "GameServerManager（简称GSManager）现代化游戏一键部署面板，专为简化游戏服务器的部署、管理和维护而设计；注重steam、MC游戏一键开服",
+      "language": "TypeScript",
+      "stars": 1017,
+      "summaryZh": "这是一个现代游戏一键部署面板，专为简化Steam和Minecraft等游戏服务器的部署、管理和维护而设计。适合游戏服务器管理员和玩家快速搭建和管理服务器。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "现代游戏一键部署面板，核心是 Steam、Minecraft 游戏服务器一键开服，Docker 管理省去繁琐配置。相比手动搭建或命令行工具，它对新手极其友好，适合想和朋友联机又不想折腾服务器配置的玩家。"
+    },
+    {
+      "repo": "Doezer/Questarr",
+      "url": "https://github.com/Doezer/Questarr",
+      "description": "Questarr is an *Arr-inspired game manager that helps you discover, track, and automatically download the games you want.",
+      "language": "TypeScript",
+      "stars": 523,
+      "summaryZh": "这是受Arr系列启发的游戏管理器，帮助用户发现、跟踪并自动下载想要的游戏，支持torrent和Usenet。适合游戏玩家和收藏家自动化管理游戏库。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "灵感来自 Radarr/Sonarr 的游戏管理工具，自动追踪、发现并按你口味下载想玩的游戏，支持 Torrent 和 Usenet。对游戏囤积党是福音，自动帮你监控新作、补齐系列，比手动找下载源省事太多。"
+    },
+    {
+      "repo": "Matteo842/SaveState",
+      "url": "https://github.com/Matteo842/SaveState",
+      "description": "A versatile game save backup manager, featuring Steam detection, Minecraft support, drag & drop, desktop shortcuts and emulator compatible.",
+      "language": "Python",
+      "stars": 485,
+      "summaryZh": "这是一个多功能的游戏存档备份管理器，支持Steam检测、Minecraft支持、拖放操作、桌面快捷键和模拟器兼容。可自动备份到Google Drive，适合玩家保护游戏进度。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "全能的游戏存档备份管理器，支持 Steam 检测、Minecraft、模拟器，拖拽备份或恢复，还能自动备份到 Google Drive。和单纯的文件复制工具不同，它专门面向玩家，统一管理所有游戏存档，换电脑或云备份时基本零操心。"
+    },
+    {
+      "repo": "FrigadeHQ/yap",
+      "url": "https://github.com/FrigadeHQ/yap",
+      "description": "Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud, no API keys, no account.",
+      "language": "Swift",
+      "stars": 342,
+      "summaryZh": "这是macOS上的免费开源语音听写工具，采用Apple Speech框架在设备端转录，无需云端、API密钥或账号，保护隐私。适合注重数据安全的用户进行语音输入和文字记录。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +101（+42%）",
+      "reasonZh": "Mac 上本地离线语音转写，用 Apple Speech 框架，完全不出设备，保护隐私还免费。对比需联网的 Whisper 方案或商业工具，它胜在即刻可用、无订阅，适合需要快速把录音转成文字的记者、学生或残障用户。"
+    }
+  ]
+}
