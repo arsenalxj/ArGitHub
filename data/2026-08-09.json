@@ -1,0 +1,389 @@
+{
+  "date": "2026-08-09",
+  "trending": [
+    {
+      "repo": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": 9070,
+      "summaryZh": "一个自我改进的RLM代理，专为编码工作流和长时间自主任务设计。它能自我优化策略，持续提升效率。适合需要处理复杂编码或自动化长期任务的开发者和团队。",
+      "category": "开发工具",
+      "starsToday": 2483
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 84611,
+      "summaryZh": "为AI编码代理提供生产级工程技能库，包含可复用的技能和最佳实践。帮助开发者增强代理能力，提升代码质量。适合希望充分利用AI辅助编码的开发团队。",
+      "category": "开发工具",
+      "starsToday": 779
+    },
+    {
+      "repo": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 77968,
+      "summaryZh": "收集所有中国小初高及大学PDF教材的仓库，提供免费下载。涵盖各学科和年级，方便获取电子书。适合学生、教师和教育工作者快速查找教材资源。",
+      "category": "资料教程",
+      "starsToday": 118
+    },
+    {
+      "repo": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 16770,
+      "summaryZh": "为Google产品和技术提供AI代理技能库，涵盖搜索、云、地图等API的集成。开发者可据此构建智能代理。适合需要与Google生态交互的AI应用开发。",
+      "category": "开发工具",
+      "starsToday": 481
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 210095,
+      "summaryZh": "来自资深工程师的AI代理技能集，源自其.agents目录，包含实用编码技能。提供高度可复用的工程实践。适合希望提升代理编码能力的开发者。",
+      "category": "开发工具",
+      "starsToday": 1359
+    },
+    {
+      "repo": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": 23990,
+      "summaryZh": "一个身份认证粘合层，提供集中的认证和授权服务。支持多协议和大量集成，可统一管理用户身份。适合需要为应用添加安全认证的企业和开发者。",
+      "category": "开发工具",
+      "starsToday": 467
+    },
+    {
+      "repo": "google/guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars": 51859,
+      "summaryZh": "Google核心Java库，提供集合、缓存、函数式编程等实用工具。经过生产级验证，提升代码效率和可靠性。适合所有Java开发者使用。",
+      "category": "开发工具",
+      "starsToday": 93
+    },
+    {
+      "repo": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": 65009,
+      "summaryZh": "一个真正独立的Web浏览器项目，不依赖现有浏览器引擎。旨在打造从零构建的开放浏览器。适合对浏览器技术有浓厚兴趣的开发者和极客。",
+      "category": "前端",
+      "starsToday": 48
+    },
+    {
+      "repo": "denoland/celld",
+      "url": "https://github.com/denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "stars": 2607,
+      "summaryZh": "自托管、分布式的Durable Objects运行时，用于构建状态化分布式应用。提供强一致性和持久化，简化复杂系统。适合需要管理分布式状态的Rust开发者。",
+      "category": "开发工具",
+      "starsToday": 432
+    },
+    {
+      "repo": "litu54/DevOps-Interview-Guide",
+      "url": "https://github.com/litu54/DevOps-Interview-Guide",
+      "description": "DevOps Interview Guide",
+      "language": "",
+      "stars": 715,
+      "summaryZh": "DevOps面试指南，涵盖常见技术问题和最佳实践。包括CI/CD、容器、云原生等主题，助力面试准备。适合求职DevOps工程师的开发者。",
+      "category": "资料教程",
+      "starsToday": 68
+    },
+    {
+      "repo": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars": 49918,
+      "summaryZh": "提供翻墙工具和科学上网方法，汇总各类资源和教程。帮助用户绕过网络限制，访问更多内容。适合需要访问国际网络的用户。",
+      "category": "其他",
+      "starsToday": 101
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "language": "Rust",
+      "stars": 12162,
+      "summaryZh": "将Word、PowerPoint、Excel、PDF等多种文档格式转换为干净的Markdown。基于Rust构建，提供Node.js和Python绑定。适合需要批量文档转换和处理任务的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-03T16:36:14Z"
+    },
+    {
+      "repo": "thebuggeddev/anatomy",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "language": "TypeScript",
+      "stars": 2037,
+      "summaryZh": "一个交互式3D人体解剖探索工具，使用Three.js构建。可拖动模型查看器官和系统细节，适合医学教育。适合医学学生、教育工作者以及对人体结构感兴趣的用户。",
+      "category": "其他",
+      "createdAt": "2026-08-02T11:15:16Z"
+    },
+    {
+      "repo": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "language": "Python",
+      "stars": 1990,
+      "summaryZh": "让AI写的中文更自然、更人性化的写作技能，帮助AI输出像真人说话一样的原创内容。提供开箱即用的优化方案。适合中文内容创作者和需要高质量AI文本的用户。",
+      "category": "资料教程",
+      "createdAt": "2026-08-05T01:19:41Z"
+    },
+    {
+      "repo": "ZzzLc0405/photo-abstract-editorial",
+      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "description": "",
+      "language": "",
+      "stars": 1741,
+      "summaryZh": "一个摄影抽象编辑项目，涉及图像抽象化处理。目前无描述，但依据项目名称推测。适合对图像风格化和抽象编辑感兴趣的开发者或设计师。",
+      "category": "其他",
+      "createdAt": "2026-08-04T09:35:31Z"
+    },
+    {
+      "repo": "Binaryify/open-kimi-ppt-skill",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "language": "",
+      "stars": 1588,
+      "summaryZh": "非官方的 Kimi Slides 技能包，让 AI Agent 能直接生成可编辑的 PPTD 和 PPTX 文件，并附带本地浏览器编辑器。适合需要快速制作演示文稿的用户，核心亮点是支持格式转换和本地编辑。",
+      "category": "开发工具",
+      "createdAt": "2026-08-05T07:30:56Z"
+    },
+    {
+      "repo": "Accio-org/RealReplicaBench",
+      "url": "https://github.com/Accio-org/RealReplicaBench",
+      "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+      "language": "HTML",
+      "stars": 1042,
+      "summaryZh": "一个用于 Benchmark 长时程 AI Agent 的基准测试工具，它构建了真实在线服务的高保真、有状态且可复现的副本。核心功能包括状态管理和复现性，适合评估 AI Agent 在复杂场景下的性能。",
+      "category": "AI",
+      "createdAt": "2026-08-02T05:38:38Z"
+    },
+    {
+      "repo": "magicrew/doc7",
+      "url": "https://github.com/magicrew/doc7",
+      "description": "Turn documents into AI-ready Markdown with visual understanding",
+      "language": "Go",
+      "stars": 770,
+      "summaryZh": "将文档转换为 AI 就绪的 Markdown 格式，利用视觉理解能力处理 PDF、DOCX 等文件。核心亮点是支持本地 AI 和多模态模型，适合需要将文档转化为可处理数据的开发者和数据科学家。",
+      "category": "开发工具",
+      "createdAt": "2026-08-02T14:03:55Z"
+    },
+    {
+      "repo": "mikiarlo3/awesome-growth-hacking-skills",
+      "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+      "language": "Shell",
+      "stars": 765,
+      "summaryZh": "一个收集用于 Claude、ChatGPT 和 Manus 的 Agent 增长黑客技能的精选列表。核心功能是分类整理各种技能，帮助营销人员快速找到适用工具，适合从事增长营销的团队。",
+      "category": "资料教程",
+      "createdAt": "2026-08-04T19:45:15Z"
+    },
+    {
+      "repo": "0xwilliamortiz/claude-red",
+      "url": "https://github.com/0xwilliamortiz/claude-red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "JavaScript",
+      "stars": 681,
+      "summaryZh": "这是为 Claude 技能系统设计的进攻性安全技能库，每个技能以 SKILL.md 文件结构化提供专家级方法论。核心功能包括红队和渗透测试，适合安全研究人员和渗透测试人员使用。",
+      "category": "开发工具",
+      "createdAt": "2026-08-05T16:54:36Z"
+    },
+    {
+      "repo": "sophiamyang/finger-frame-effect-ai",
+      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 626,
+      "summaryZh": "这是一个创建手指相框效果的 AI 前端项目，使用 JavaScript 实现。核心功能是生成手指边框视觉特效，适合用于创意展示或社交媒体内容，为开发者提供可集成的 Web 组件。",
+      "category": "前端",
+      "createdAt": "2026-08-02T21:58:43Z"
+    },
+    {
+      "repo": "google-gemma/gemma-translator",
+      "url": "https://github.com/google-gemma/gemma-translator",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 585,
+      "summaryZh": "基于 Google Gemma 模型的翻译工具，使用 JavaScript 开发。核心功能是提供高质量的翻译服务，支持多语言，适合需要快速集成翻译功能的开发者或日常用户使用。",
+      "category": "AI",
+      "createdAt": "2026-08-03T18:50:34Z"
+    },
+    {
+      "repo": "wumingqi60/lingxi",
+      "url": "https://github.com/wumingqi60/lingxi",
+      "description": "灵犀跨境-开源共建版",
+      "language": "TypeScript",
+      "stars": 571,
+      "summaryZh": "灵犀跨境是一个开源共建的跨境电商平台，采用 TypeScript 构建。核心功能包括跨境业务流程管理，适合跨境电商从业者及开发者，提供可定制的开源解决方案。",
+      "category": "其他",
+      "createdAt": "2026-08-03T05:46:34Z"
+    },
+    {
+      "repo": "MarcosSete/awesome-free-ai-course-notes",
+      "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+      "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+      "language": "",
+      "stars": 560,
+      "summaryZh": "一个收集全球顶尖大学机器学习和 AI 课程笔记的精选资源库。核心功能是提供免费的高质量学习资料，适合 AI 学习者和研究人员使用，帮助系统化掌握知识。",
+      "category": "资料教程",
+      "createdAt": "2026-08-03T11:36:49Z"
+    },
+    {
+      "repo": "xoreaxeaxeax/asm-hall-of-shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "description": "Racing to the bottom of CPU performance",
+      "language": "C",
+      "stars": 554,
+      "summaryZh": "该项目展示了 CPU 性能极差的汇编代码示例，以讽刺的方式揭示性能陷阱。核心功能是收集和分析反模式，适合底层开发者学习性能优化，提升代码效率。",
+      "category": "资料教程",
+      "createdAt": "2026-08-06T00:08:06Z"
+    },
+    {
+      "repo": "yuhuangerdi/InduSecAgent",
+      "url": "https://github.com/yuhuangerdi/InduSecAgent",
+      "description": "",
+      "language": "Vue",
+      "stars": 536,
+      "summaryZh": "InduSecAgent 是一个工业安全相关的 Agent 项目，基于 Vue 开发。核心功能是提供工业安全监控和管理，适合工业安全领域的技术人员使用，但描述不详，需自行探索。",
+      "category": "AI",
+      "createdAt": "2026-08-03T10:17:31Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "microsoft/skill-recorder",
+      "url": "https://github.com/microsoft/skill-recorder",
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "language": "TypeScript",
+      "stars": 2532,
+      "summaryZh": "微软出品的桌面应用，录制屏幕工作过程，并通过 GitHub Copilot CLI 重构为意图和步骤，最后生成可复用的 Skill 或自动化。核心亮点是集成 Copilot 生态，适合开发者快速创建自动化流程。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1723（+213%）",
+      "reasonZh": "微软出的桌面应用，录制屏幕操作后用 Copilot CLI 自动生成技能或自动化。亮点是把人工操作变成可复用技能，适合做工作流程自动化的人。比纯脚本录制更懂意图，上手即用，跟 Microsoft Scout 无缝衔接。"
+    },
+    {
+      "repo": "QwenAudio/qwen-audio-agent",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "language": "JavaScript",
+      "stars": 1991,
+      "summaryZh": "这是一个实时语音运行时，让 AI Agent 能持续对话和协作。核心功能是语音交互和 Agent 调度，适合构建语音助手或语音驱动的应用，提供流畅的交互体验。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +725（+57%）",
+      "reasonZh": "这是阿里 Qwen 官方的实时语音 Agent 运行时，主打让 AI 能听能说还能干活。亮点是低延迟的语音交互和工具调用，比纯语音助手更实用。适合做语音控制、语音客服或者语音陪伴应用，普通开发者拿到就能跑。"
+    },
+    {
+      "repo": "talivia-group/talivia",
+      "url": "https://github.com/talivia-group/talivia",
+      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "language": "TypeScript",
+      "stars": 1357,
+      "summaryZh": "开源的自主托管分析工具，专注于收入分析，提供 Web 分析、会话回放、收入归因等功能。核心亮点是收入导向和客户整合，适合创始人和产品团队用于商业决策。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +767（+130%）",
+      "reasonZh": "开源自托管的收入分析工具，直接替代 Datafast。亮点是把网站分析、会话回放、收入归因整合在一起，而且完全掌控数据。做独立开发或者小创业公司的，想看清用户从哪来、怎么转化，部署这个就很顺手。"
+    },
+    {
+      "repo": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "language": "TypeScript",
+      "stars": 2265,
+      "summaryZh": "AI 原生的办公套件，支持 macOS 和 Windows，涵盖文字处理、表格、演示和 PDF。核心亮点是 AI 集成和多格式支持，适合需要高效办公和 AI 辅助的用户，替代传统 Office。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1614（+248%）",
+      "reasonZh": "AI 原生的办公套件，支持 Word、PPT、Excel 和 PDF，跨 macOS 和 Windows。亮点是深度集成了 AI 辅助编辑，比传统办公软件更智能。尤其适合需要频繁写文档、做报告的上班族，可以直接当日常主力用。"
+    },
+    {
+      "repo": "imsai-sh/zhuzhiliao",
+      "url": "https://github.com/imsai-sh/zhuzhiliao",
+      "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "language": "HTML",
+      "stars": 2487,
+      "summaryZh": "竹知了是一款传统竹制玩具的网络模拟版，转动时会发出类似蝉鸣的哇哇声。项目零依赖、无第三方库，采用真实录音采样，针对移动端优先设计，可直接在浏览器中体验。适合怀旧爱好者或想了解传统玩具的年轻人。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +1711（+220%）",
+      "reasonZh": "一个零依赖的单文件 HTML 模拟竹知了，点一下会发出真实的哇哇声，移动端适配很好。亮点是怀旧又有趣，纯粹好玩。适合想找点轻松项目或者给孩子逗乐的人，直接扔浏览器就能玩。"
+    },
+    {
+      "repo": "wassgha/rescript",
+      "url": "https://github.com/wassgha/rescript",
+      "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+      "language": "TypeScript",
+      "stars": 686,
+      "summaryZh": "ReScript 是一款完全在浏览器中运行的开源视频/音频编辑器，以转录文本为核心进行时间轴编辑。用户可直接对转写文案进行剪辑，支持视频、音频多种媒体格式。适合需要快速剪辑播客、访谈或字幕视频的内容创作者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +182（+36%）",
+      "reasonZh": "开源的视频/音频编辑器，核心是先把内容转成文本，再对着文本剪。亮点是纯浏览器可用，无需安装，剪视频就像改文档。适合做播客、课程剪辑的人，比传统时间轴工具直观很多。"
+    },
+    {
+      "repo": "mokshablr/gander",
+      "url": "https://github.com/mokshablr/gander",
+      "description": "Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.",
+      "language": "JavaScript",
+      "stars": 562,
+      "summaryZh": "Gander 是一款离线、零权限的安卓文件查看器，可打开 PDF、Word、Excel、PPT、图片、视频、音频、Markdown 和代码文件。基于 Kotlin 与 ExoPlayer 构建，无需联网和权限，注重隐私保护。适合需要低门槛查看文档和媒体的普通用户或隐私敏感人群。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +314（+127%）",
+      "reasonZh": "安卓上离线查看各种文件的应用，PDF、Office、图片、视频、Markdown 都能看，而且不需要任何权限。亮点是隐私友好、零网络，同类中很罕见。适合日常需要查看文件但不想给权限的用户。"
+    },
+    {
+      "repo": "AminBlg/SimpleEnglish",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical",
+      "language": "Python",
+      "stars": 1995,
+      "summaryZh": "SimpleEnglish 是一个 Agent 技能插件，能让大语言模型按照 ASD-STE100 简化技术英语标准撰写文档。它通过约束词汇和句式提高技术文档的一致性和可读性。适合需要生成规范技术说明、维修手册或安全文档的工程师和文档团队。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +710（+55%）",
+      "reasonZh": "这个 Agent 技能让 LLM 用 ASD-STE100 简化技术英语写文档，保证文本好懂且无歧义。亮点是直接提升 AI 输出的专业性和可读性，对航空、工业、技术写作领域特别有用。集成进现有 Agent 流程即可用，省心。"
+    },
+    {
+      "repo": "github/gh-stack",
+      "url": "https://github.com/github/gh-stack",
+      "description": "GitHub Stacked PRs",
+      "language": "Go",
+      "stars": 1185,
+      "summaryZh": "GitHub Stacked PRs 是 GitHub 官方发布的 gh 命令行扩展，用于简化堆叠式 PR 的创建和管理。它自动处理依赖分支、同步和合并顺序，提升大型代码审查的效率。适合使用 GitHub 的开发者团队，尤其是频繁修改多分支代码的协作场景。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +369（+45%）",
+      "reasonZh": "GitHub 官方的 CLI 扩展，专管 Stacked PR 工作流。亮点是自动帮你维护 PR 依赖关系，不用再手动逐个更新。适合频繁开小 PR 的开发者，配合 GitHub CLI 使用，效率提升明显。"
+    },
+    {
+      "repo": "bholmesdev/hubble.md",
+      "url": "https://github.com/bholmesdev/hubble.md",
+      "description": "The best notepad for you and your agents",
+      "language": "TypeScript",
+      "stars": 1230,
+      "summaryZh": "Hubble.md 是一款为人类和 AI Agent 共同设计的极简笔记工具，基于 Markdown，支持快速记录和分享。其核心优势在于让 Agent 也能读取和编辑笔记，适合个人知识管理及人机协作工作流。对于使用 AI 辅助工作、重视笔记可移植性的用户尤为适用。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · note-taking",
+      "reasonZh": "一个给人和 AI Agent 一起用的 Markdown 笔记工具，主打简单干净。亮点是让 AI 能直接读写你的笔记库，而人又不会觉得复杂。适合用 Claude、GPT 辅助写笔记或整理知识的人，本地优先，数据掌握在自己手里。"
+    }
+  ]
+}
