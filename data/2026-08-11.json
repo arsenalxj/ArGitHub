@@ -1,0 +1,381 @@
+{
+  "date": "2026-08-11",
+  "trending": [
+    {
+      "repo": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": 4198,
+      "summaryZh": "这是一个面向上下文和可问责AI系统的图原生基础设施。它利用图结构来管理上下文，确保AI决策可追溯和可解释。适合需要高透明度和责任性的企业级AI应用开发者。",
+      "category": "AI",
+      "starsToday": 970
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 141890,
+      "summaryZh": "这是一个完整的AI代理机构工具包，包含从前端专家到社区管理等多个专业代理，每个代理都有独特个性和工作流程。基于Shell脚本，易于集成和扩展。适合希望快速部署多角色AI协作系统的团队。",
+      "category": "开发工具",
+      "starsToday": 1349
+    },
+    {
+      "repo": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": 61141,
+      "summaryZh": "一个支持多平台（小红书、抖音、快手、B站等）的爬虫工具，可抓取笔记、视频、评论等数据。采用Python实现，功能强大且易于定制。适合需要采集社交媒体数据进行分析或研究的开发者和数据分析师。",
+      "category": "开发工具",
+      "starsToday": 259
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 85790,
+      "summaryZh": "为AI编码代理提供生产级工程技能库，包含最佳实践和可复用组件。基于JavaScript，帮助开发者构建更可靠、高效的AI编程助手。适合希望提升AI代理编码能力的开发团队。",
+      "category": "开发工具",
+      "starsToday": 659
+    },
+    {
+      "repo": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 76563,
+      "summaryZh": "一个开源应用，用于管理工作中的AI代理。提供直观的界面来创建、监控和优化多个代理任务，支持团队协作。基于TypeScript，易于定制和扩展。适合需要高效管理多个AI代理的企业和团队。",
+      "category": "开发工具",
+      "starsToday": 198
+    },
+    {
+      "repo": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": 13174,
+      "summaryZh": "一个自我改进的强化学习代理，专为编码工作流和长期自主任务设计。它能够从经验中学习，优化决策过程，提高任务完成效率。适合需要自动化复杂编程任务的开发者。",
+      "category": "AI",
+      "starsToday": 2642
+    },
+    {
+      "repo": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": 65277,
+      "summaryZh": "一个真正独立的Web浏览器，旨在提供安全、高效的浏览体验。项目从零开始构建，不依赖商业引擎，采用C++开发。适合追求开放标准和隐私保护的技术爱好者和开发者。",
+      "category": "其他",
+      "starsToday": 56
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 89396,
+      "summaryZh": "利用WiFi信号实现实时空间感知、生命体征监测和存在检测，无需摄像头。基于Rust，性能高效且隐私友好。适合智能家居、健康监测等物联网应用场景。",
+      "category": "AI",
+      "starsToday": 154
+    },
+    {
+      "repo": "danielmiessler/LifeOS",
+      "url": "https://github.com/danielmiessler/LifeOS",
+      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "language": "TypeScript",
+      "stars": 17965,
+      "summaryZh": "一个通用爬山AI工具，帮助用户从当前状态向理想状态进步，涵盖生活和工作。基于TypeScript，提供多种策略和可视化反馈。适合个人成长和效率提升爱好者。",
+      "category": "其他",
+      "starsToday": 315
+    },
+    {
+      "repo": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript",
+      "stars": 165152,
+      "summaryZh": "一个上下文API，用于大规模搜索、抓取和交互网页。提供高效的数据提取和自动化功能，基于TypeScript。适合需要处理海量网页数据的开发者和企业。",
+      "category": "开发工具",
+      "starsToday": 835
+    },
+    {
+      "repo": "google-deepmind/weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "description": "",
+      "language": "Python",
+      "stars": 7371,
+      "summaryZh": "谷歌DeepMind推出的天气预报模型，提供高精度、快速的天气预测。采用先进机器学习技术，支持短中期预报。适合气象研究、农业、交通等行业应用。",
+      "category": "AI",
+      "starsToday": 325
+    },
+    {
+      "repo": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars": 3562,
+      "summaryZh": "针对大型代码仓库的RAG工具，通过知识图谱增强代码查询、理解和编辑能力。基于Python，支持多语言代码。适合需要高效导航复杂代码库的开发者。",
+      "category": "开发工具",
+      "starsToday": 682
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 18048,
+      "summaryZh": "一个TypeScript项目模板，集成了T3 Stack的最佳实践，包括Next.js、tRPC、Prisma等。快速启动全栈应用开发。适合希望使用现代化技术的开发者。",
+      "category": "前端",
+      "starsToday": 389
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "stars": 126379,
+      "summaryZh": "最强大的模块化扩散模型GUI和API，基于图/节点界面，可灵活组合图像生成流程。支持多种模型，适合艺术家和AI研究者进行创作。",
+      "category": "AI",
+      "starsToday": 922
+    },
+    {
+      "repo": "opa334/Dopamine",
+      "url": "https://github.com/opa334/Dopamine",
+      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "language": "C",
+      "stars": 6054,
+      "summaryZh": "一个面向iOS 15到26的半不完美越狱工具，提供高稳定性和兼容性。基于C开发，安装简单。适合需要越狱以扩展功能的iOS用户。",
+      "category": "其他",
+      "starsToday": 111
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "language": "Python",
+      "stars": 2290,
+      "summaryZh": "一个让AI写的中文更自然、像真人说话的开箱即用创作与改稿Skill。基于Python实现，提供通用写作技巧，适合需要提升AI文本可读性的创作者和编辑。",
+      "category": "资料教程",
+      "createdAt": "2026-08-05T01:19:41Z"
+    },
+    {
+      "repo": "ZzzLc0405/photo-abstract-editorial",
+      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "description": "",
+      "language": "",
+      "stars": 2277,
+      "summaryZh": "一个将照片处理为抽象编辑风格的工具，暂无详细描述。其高星数表明在图像处理领域有较大潜力，适合需要抽象视觉效果的设计师和摄影师。",
+      "category": "其他",
+      "createdAt": "2026-08-04T09:35:31Z"
+    },
+    {
+      "repo": "Binaryify/open-kimi-ppt-skill",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "language": "",
+      "stars": 1607,
+      "summaryZh": "非官方Kimi Slides技能，让AI Agent生成可编辑的PPTD和PPTX文件，并附带本地浏览器编辑器。适合需要快速制作演示文稿的团队和个人，提升PPT制作效率。",
+      "category": "开发工具",
+      "createdAt": "2026-08-05T07:30:56Z"
+    },
+    {
+      "repo": "ShawnPana/phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "description": "let your agent control your phone",
+      "language": "Python",
+      "stars": 1333,
+      "summaryZh": "让AI代理控制手机的框架，通过Python实现设备集成。核心功能是实现自动化操作，适合开发者构建基于AI的手机自动化应用和测试场景。",
+      "category": "开发工具",
+      "createdAt": "2026-08-07T22:28:53Z"
+    },
+    {
+      "repo": "oil-oil/oil-motion",
+      "url": "https://github.com/oil-oil/oil-motion",
+      "description": "Create smooth, responsive interactive web animations.",
+      "language": "Python",
+      "stars": 1222,
+      "summaryZh": "创建流畅、响应式的交互式网页动画库，基于Python开发。核心功能是简化动画制作流程，适合前端开发者和设计师快速实现复杂动效。",
+      "category": "前端",
+      "createdAt": "2026-08-07T12:36:33Z"
+    },
+    {
+      "repo": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 862,
+      "summaryZh": "微信AI集成项目，基于TypeScript开发，可能涉及聊天机器人和智能回复功能。适合希望将AI能力接入微信生态的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-10T09:06:43Z"
+    },
+    {
+      "repo": "mikiarlo3/awesome-growth-hacking-skills",
+      "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+      "language": "Shell",
+      "stars": 819,
+      "summaryZh": "收集Claude、ChatGPT、Manus等AI代理的增长黑客技能集合，由enso.bot维护。适合市场人员和技术爱好者用AI实现增长策略。",
+      "category": "资料教程",
+      "createdAt": "2026-08-04T19:45:15Z"
+    },
+    {
+      "repo": "MengTo/kage",
+      "url": "https://github.com/MengTo/kage",
+      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "language": "HTML",
+      "stars": 781,
+      "summaryZh": "一个使用Three.js和WebGL技术实时渲染互动式京都山寺夜间漫游体验的交互式故事。结合创意编码与生成艺术，适合对交互叙事和3D视觉感兴趣的前端开发者。",
+      "category": "前端",
+      "createdAt": "2026-08-08T07:05:07Z"
+    },
+    {
+      "repo": "jd-opensource/JoyAI-Video-Edit",
+      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "language": "Python",
+      "stars": 734,
+      "summaryZh": "支持实时开放式视频编辑的JoyAI-Video-Edit项目，采用自回归扩散模型，实现高效视频编辑。适合视频制作者和AI研究者使用，提升视频处理效率。",
+      "category": "AI",
+      "createdAt": "2026-08-04T08:22:24Z"
+    },
+    {
+      "repo": "xoreaxeaxeax/asm-hall-of-shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "description": "Racing to the bottom of CPU performance",
+      "language": "C",
+      "stars": 731,
+      "summaryZh": "展示CPU性能极限的低效汇编代码集合，通过C语言实现。核心亮点是揭示硬件性能瓶颈，适合对汇编优化和底层性能感兴趣的开发者。",
+      "category": "其他",
+      "createdAt": "2026-08-06T00:08:06Z"
+    },
+    {
+      "repo": "eternityspring/shuohao-skills",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+      "language": "JavaScript",
+      "stars": 651,
+      "summaryZh": "AI短剧制作的skill集合，涵盖角色拆解、设定图生成和大纲编排，支持Claude Code和codex。适合剧作家和内容创作者快速开发短剧项目。",
+      "category": "AI",
+      "createdAt": "2026-08-06T10:38:49Z"
+    },
+    {
+      "repo": "T8mars/comfyui-minimax-h3-audio-T8",
+      "url": "https://github.com/T8mars/comfyui-minimax-h3-audio-T8",
+      "description": "",
+      "language": "Python",
+      "stars": 588,
+      "summaryZh": "ComfyUI的MiniMax H3音频处理节点，基于Python实现。核心功能是集成音频生成与编辑，适合ComfyUI用户和AI音频创作者。",
+      "category": "AI",
+      "createdAt": "2026-08-05T15:30:15Z"
+    },
+    {
+      "repo": "AMAP-ML/LongHorizon-Harness",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "language": "Python",
+      "stars": 553,
+      "summaryZh": "长期任务计算机使用框架，支持AI代理跨桌面应用和CLI环境运行，维护任务状态并处理复杂工作流。适合需要长时间自动化任务的开发和研究人员。",
+      "category": "开发工具",
+      "createdAt": "2026-08-04T04:30:58Z"
+    },
+    {
+      "repo": "huangserva/ComfyUI_MiniMaxH3_Director",
+      "url": "https://github.com/huangserva/ComfyUI_MiniMaxH3_Director",
+      "description": "ComfyUI MiniMax H3 Director workflow",
+      "language": "",
+      "stars": 470,
+      "summaryZh": "面向ComfyUI的MiniMax H3导演工作流，提供视频生成与编辑功能。适合ComfyUI用户和视频创作者，简化AI视频制作流程。",
+      "category": "AI",
+      "createdAt": "2026-08-04T10:39:02Z"
+    },
+    {
+      "repo": "SandAI-org/MAGI-2-preview",
+      "url": "https://github.com/SandAI-org/MAGI-2-preview",
+      "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
+      "language": "Python",
+      "stars": 438,
+      "summaryZh": "MAGI-2-preview项目专注于高效缩放视频生成模型，基于Python实现。核心亮点是提升视频生成的效率和流畅度，适合AI视频生成研究者使用。",
+      "category": "AI",
+      "createdAt": "2026-08-04T12:47:38Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "shinyquagsire23/Klepton",
+      "url": "https://github.com/shinyquagsire23/Klepton",
+      "description": "JIT-less relinker and compatibility layer for running Quest/Android XR APKs on visionOS and macOS",
+      "language": "C",
+      "stars": 111,
+      "summaryZh": "Klepton 是一个无 JIT 的 relinker 和兼容层，用于在 visionOS 和 macOS 上运行 Quest/Android XR APK。它通过重链接二进制文件绕过 JIT 需求，并提供了系统调用映射。适合想在不支持的平台上测试 XR 应用的开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 169 分 · 57 评论",
+      "reasonZh": "想在 Mac 上跑安卓 VR/AR 应用吗？这个无 JIT 的 relinker 能把 Quest/安卓 XR 的 APK 直接搬到 visionOS 和 macOS 上，不用模拟器，性能损失小，对开发者和极客来说简直是黑科技，可玩性和实用性都拉满。"
+    },
+    {
+      "repo": "jmarshall23/msword",
+      "url": "https://github.com/jmarshall23/msword",
+      "description": "Port of Microsoft Word 1.1a to x64 with extra features for research purposes.",
+      "language": "C",
+      "stars": 226,
+      "summaryZh": "该项目将 Microsoft Word 1.1a 移植到 x64 架构，并添加了额外研究功能。它保留了原始代码，但增加了现代系统兼容性。适合对早期文字处理软件历史或逆向工程感兴趣的研究者。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 170 分 · 75 评论",
+      "reasonZh": "把 1990 年的微软 Word 1.1a 移植到了 x64 还能在现役系统跑，情怀拉满还加了研究功能。适合怀旧党、软件考古学家和想研究早期 GUI 应用的人。对比同类复古项目，它完整可运行，不是花瓶。"
+    },
+    {
+      "repo": "thebuggeddev/anatomy",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "language": "TypeScript",
+      "stars": 2163,
+      "summaryZh": "Anatomy 是一个基于 Three.js 的交互式 3D 人体解剖学浏览器，利用 GPT-5.6 Sol 提供智能解答。用户可旋转、缩放模型，并点击部位获取详情。适合医学学生、教育工作者和好奇者。",
+      "category": "资料教程",
+      "source": "dark-horse",
+      "signal": "周涨星 +1410（+187%）",
+      "reasonZh": "用 Three.js 做的 3D 人体解剖浏览器，可以交互式旋转、缩放查看器官和骨骼，配合 AI 还能讲解。对医学生、教育工作者或单纯好奇的人都是很直观的学习工具，比传统图谱更生动，而且直接网页打开就能用。"
+    },
+    {
+      "repo": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
+      "language": "TypeScript",
+      "stars": 2481,
+      "summaryZh": "GenOffice 是一款开源免费的跨平台 AI 办公套件，支持 Word、Excel、PowerPoint、PDF 和 Markdown 编辑，并内置 AI 代理。它提供文档生成、数据分析等功能，适合个人和团队提高办公效率。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +1830（+281%）",
+      "reasonZh": "开源跨平台的 AI 办公套件，能编辑 Word、Excel、PPT、PDF 和 Markdown，还内置 AI 代理自动生成内容。对比 LibreOffice 多了 AI 协作，对比 Office 免费且支持全格式，适合学生和轻办公用户，省订阅费。"
+    },
+    {
+      "repo": "h3nock/remux",
+      "url": "https://github.com/h3nock/remux",
+      "description": "A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.",
+      "language": "Swift",
+      "stars": 437,
+      "summaryZh": "Remux 是一个原生 iOS 客户端，用于远程 tmux 工作区，设计注重 iPhone 体验。它支持 SSH 连接、多会话管理和触摸优化，让移动办公更流畅。适合经常需要远程管理终端的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +145（+50%）",
+      "reasonZh": "iOS 原生 tmux 客户端，专门为 iPhone 设计，SSH 远程连接服务器操作终端体验顺滑。适合程序员在移动端应急管理服务器，对比 Termius 更专注 tmux，界面原生流畅，不折腾。"
+    },
+    {
+      "repo": "qingchencloud/clawpanel",
+      "url": "https://github.com/qingchencloud/clawpanel",
+      "description": "🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言",
+      "language": "JavaScript",
+      "stars": 2918,
+      "summaryZh": "ClawPanel 是基于 Tauri v2 的跨平台 AI 管理面板，支持 OpenClaw 和 Hermes Agent 多引擎，内置 AI 助手（工具调用、图片识别、多模态）。提供一键安装，支持 11 种语言，适合管理 AI 代理和聊天的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "多引擎 AI 管理面板，支持 OpenClaw 和 Hermes Agent，一键安装，Tauri 桌面应用 11 种语言。适合本地部署 AI 代理的用户集中管理多个 agent，可视化操作降低门槛，类似但更有桌面 app 的便利。"
+    }
+  ]
+}
