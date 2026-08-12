@@ -1,0 +1,439 @@
+{
+  "date": "2026-08-12",
+  "trending": [
+    {
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 143427,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 958
+    },
+    {
+      "repo": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": 4978,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 893
+    },
+    {
+      "repo": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": 94499,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 22
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 86274,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 578
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": 62211,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 243
+    },
+    {
+      "repo": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars": 3869,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 341
+    },
+    {
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 168200,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 485
+    },
+    {
+      "repo": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars": 90239,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 197
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "stars": 34805,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 812
+    },
+    {
+      "repo": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "language": "TypeScript",
+      "stars": 42906,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 875
+    },
+    {
+      "repo": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 77221,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 748
+    },
+    {
+      "repo": "harveyai/harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "language": "Python",
+      "stars": 1101,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 28
+    },
+    {
+      "repo": "jaywcjlove/awesome-mac",
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "language": "Swift",
+      "stars": 110524,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 298
+    },
+    {
+      "repo": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 47416,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 458
+    },
+    {
+      "repo": "practical-tutorials/project-based-learning",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "language": "Python",
+      "stars": 278514,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 401
+    },
+    {
+      "repo": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": 14207,
+      "summaryZh": "",
+      "category": "其他",
+      "starsToday": 1138
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "language": "Python",
+      "stars": 2437,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-05T01:19:41Z"
+    },
+    {
+      "repo": "Binaryify/open-kimi-ppt-skill",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "language": "",
+      "stars": 1603,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-05T07:30:56Z"
+    },
+    {
+      "repo": "ShawnPana/phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "description": "let your agent control your phone",
+      "language": "Python",
+      "stars": 1519,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-07T22:28:53Z"
+    },
+    {
+      "repo": "oil-oil/oil-motion",
+      "url": "https://github.com/oil-oil/oil-motion",
+      "description": "Create smooth, responsive interactive web animations.",
+      "language": "Python",
+      "stars": 1488,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-07T12:36:33Z"
+    },
+    {
+      "repo": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1449,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-10T09:06:43Z"
+    },
+    {
+      "repo": "eternityspring/shuohao-skills",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+      "language": "JavaScript",
+      "stars": 945,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-06T10:38:49Z"
+    },
+    {
+      "repo": "sohaibdevv/youtube-music",
+      "url": "https://github.com/sohaibdevv/youtube-music",
+      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "language": "TypeScript",
+      "stars": 836,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-11T18:17:18Z"
+    },
+    {
+      "repo": "MengTo/kage",
+      "url": "https://github.com/MengTo/kage",
+      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "language": "HTML",
+      "stars": 822,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-08T07:05:07Z"
+    },
+    {
+      "repo": "xoreaxeaxeax/asm-hall-of-shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "description": "Racing to the bottom of CPU performance",
+      "language": "C",
+      "stars": 771,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-06T00:08:06Z"
+    },
+    {
+      "repo": "Flaminis/Dalaran",
+      "url": "https://github.com/Flaminis/Dalaran",
+      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "language": "Rust",
+      "stars": 691,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-07T09:37:32Z"
+    },
+    {
+      "repo": "T8mars/comfyui-minimax-h3-audio-T8",
+      "url": "https://github.com/T8mars/comfyui-minimax-h3-audio-T8",
+      "description": "",
+      "language": "Python",
+      "stars": 618,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-05T15:30:15Z"
+    },
+    {
+      "repo": "SaladDay/pi-from-scratch",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "language": "TypeScript",
+      "stars": 564,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-09T12:15:30Z"
+    },
+    {
+      "repo": "Appllama/top-welcome-screens",
+      "url": "https://github.com/Appllama/top-welcome-screens",
+      "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
+      "language": "TypeScript",
+      "stars": 453,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-08T12:44:52Z"
+    },
+    {
+      "repo": "mewamew/my_ai_town",
+      "url": "https://github.com/mewamew/my_ai_town",
+      "description": "我的AI小镇",
+      "language": "GDScript",
+      "stars": 440,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-07T07:10:40Z"
+    },
+    {
+      "repo": "gvzdv/claudish-to-english",
+      "url": "https://github.com/gvzdv/claudish-to-english",
+      "description": "",
+      "language": "Shell",
+      "stars": 438,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-10T18:32:23Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "AntigmaLabs/ante",
+      "url": "https://github.com/AntigmaLabs/ante",
+      "description": "Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints. ",
+      "language": "Rust",
+      "stars": 1210,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 159 分 · 88 评论",
+      "reasonZh": "这个自包含的 agent 外壳用 Rust 写的，无依赖、不绑定模型，像 Claude Code 或 Codex 一样工作但更轻更快。适合喜欢折腾命令行、想完全掌控 AI 工作流的开发者，比同类工具更灵活。"
+    },
+    {
+      "repo": "ben-z/findphone",
+      "url": "https://github.com/ben-z/findphone",
+      "description": "Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available",
+      "language": "Swift",
+      "stars": 1237,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 67 分 · 24 评论",
+      "reasonZh": "在 Mac 命令行里直接定位附近的蓝牙设备，不用开 Find My，适合偶尔找不到耳机、钥匙的日常场景。用信号强度算距离，简单直接，比装一堆 App 方便多了。"
+    },
+    {
+      "repo": "halcyon-video/halcyon-video",
+      "url": "https://github.com/halcyon-video/halcyon-video",
+      "description": "Your Jellyfin library as a walkable 1990s video rental store — three.js, first-person, self-hosted",
+      "language": "TypeScript",
+      "stars": 290,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 70 分 · 17 评论",
+      "reasonZh": "把你的 Jellyfin 媒体库变成一个 90 年代录像带租赁店，用 Three.js 做第一人称散步，复古感拉满。自托管爱好者装上就能玩，装逼利器，也是送朋友的好礼物。"
+    },
+    {
+      "repo": "TheRealYT/git-knife",
+      "url": "https://github.com/TheRealYT/git-knife",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 166,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 138 分 · 88 评论",
+      "reasonZh": "这是我在候选里看到的唯一一个 Git 工具，但描述太简略了。从名字和星数看，可能是用 TS 写的 Git 增强工具，能像瑞士军刀一样处理 Git 操作。如果你经常在终端里玩 Git，值得看看。"
+    },
+    {
+      "repo": "activeing123/mcptoon",
+      "url": "https://github.com/activeing123/mcptoon",
+      "description": "Token-efficient MCP CLI client. 97% less tokens on tool discovery, 40-60% on results. Zero deps. Cross-platform. Works with every AI agent.",
+      "language": "Python",
+      "stars": 113,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 70 分 · 43 评论",
+      "reasonZh": "MCP 的 CLI 客户端，号称工具发现省 97% token，结果省 40-60%，零依赖，跨平台，兼容所有 AI agent。对经常跑 MCP 服务的开发者来说，能省不少 API 费用，而且极简，真的实用。"
+    },
+    {
+      "repo": "h3nock/remux",
+      "url": "https://github.com/h3nock/remux",
+      "description": "A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.",
+      "language": "Swift",
+      "stars": 442,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +150（+51%）",
+      "reasonZh": "原生 iOS 客户端，专门连接远程 tmux 工作区，在手机上终端操作很流畅，支持 SSH。适合喜欢在 iPhone 上敲命令的极客，比通用 SSH 客户端更专、更顺手。"
+    },
+    {
+      "repo": "wm94i/Work-Review",
+      "url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "language": "Rust",
+      "stars": 1719,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "自动记录你一天用了哪些 App、逛了哪些网站、花了多少时间，然后生成日报。用 Rust 写的，性能好，隐私优先。适合自由职业者和想提高效率的人，定时复盘自己都在干嘛。"
+    },
+    {
+      "repo": "dongdongbh/Mindwtr",
+      "url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "language": "TypeScript",
+      "stars": 1652,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "一个 GTD 跨平台任务管理应用，支持桌面和移动端，适合把脑子里所有事倒出来然后看下一步干啥。界面简洁，专注计划，比 Todoist 更轻，适合 ADHD 患者和想理清生活的人。"
+    },
+    {
+      "repo": "unhappychoice/gittype",
+      "url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "language": "Rust",
+      "stars": 1549,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "把你自己项目的源码变成打字游戏，命令行里玩，用 Rust 和 ratatui 写的，看着就带感。既能练打字速度，又能熟悉代码，比枯燥的练习软件有意思多了。"
+    },
+    {
+      "repo": "eval-exec/neomacs",
+      "url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "language": "Rust",
+      "stars": 1069,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "用 Rust 重写 Emacs，GPU 加速显示，多线程 Elisp，目标是性能翻十倍还有现代界面，兼容现有配置。虽然还在早期，但对 Emacs 党来说太兴奋了，值得 watch，等成熟了肯定爽。"
+    }
+  ]
+}
