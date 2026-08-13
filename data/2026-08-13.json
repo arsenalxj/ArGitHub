@@ -1,0 +1,419 @@
+{
+  "date": "2026-08-13",
+  "trending": [
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "stars": 10964,
+      "summaryZh": "为 Claude Code 提供 29 种编辑级图表模板，纯 HTML+SVG 实现，无阴影、无 Mermaid 风格。适合需要在文档或演示中快速生成专业图表的开发者。",
+      "category": "开发工具",
+      "starsToday": 2855
+    },
+    {
+      "repo": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars": 1939,
+      "summaryZh": "Macro 是一个统一团队工作空间，集邮件、聊天、文档、任务、智能体、通话和 CRM 于一体，通过 @ 链接和共享 AI 记忆协同。适合需要整合多种工具并提升协作效率的团队。",
+      "category": "其他",
+      "starsToday": 227
+    },
+    {
+      "repo": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": 5802,
+      "summaryZh": "Semantica 是面向上下文和可问责 AI 系统的图原生基础设施，用 Python 构建。它提供图形化数据管理和追踪能力，适合需要构建可解释、可审计 AI 应用的开发者。",
+      "category": "AI",
+      "starsToday": 845
+    },
+    {
+      "repo": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "language": "TypeScript",
+      "stars": 44033,
+      "summaryZh": "Orca 是并行智能体开发环境（ADE），支持使用自己的订阅运行任意编码智能体，可在桌面、移动端和 VPS 上使用。适合需要管理多个编码智能体并行工作的开发者。",
+      "category": "开发工具",
+      "starsToday": 1235
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 144649,
+      "summaryZh": "一个完整的 AI 代理集合，从前端专家到 Reddit 社区运营、从创意注入到事实核查，每个代理都有个性、流程和文档。适合需要多样化 AI 助手完成特定任务的用户。",
+      "category": "AI",
+      "starsToday": 1873
+    },
+    {
+      "repo": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": 62053,
+      "summaryZh": "MediaCrawler 是一个社交媒体爬虫工具，支持小红书、抖音、快手、B 站、微博、百度贴吧和知乎等平台的内容抓取。适合数据分析师和研究者收集社媒数据。",
+      "category": "开发工具",
+      "starsToday": 215
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "language": "Python",
+      "stars": 45766,
+      "summaryZh": "AI 将文档或主题转变为原生 PowerPoint 演示文稿，支持原生形状、过渡动画、数据图表、音频旁白和演讲者备注。适合需要快速生成专业演示文稿的商务人士和教育者。",
+      "category": "AI",
+      "starsToday": 476
+    },
+    {
+      "repo": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "stars": 87602,
+      "summaryZh": "RAGFlow 是领先的开源检索增强生成（RAG）引擎，结合了前沿 RAG 与智能体能力，为 LLM 提供优质上下文层。适合需要构建企业级知识库问答系统的开发者。",
+      "category": "AI",
+      "starsToday": 139
+    },
+    {
+      "repo": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 77787,
+      "summaryZh": "Paperclip 是开源的智能体管理应用，专注于在团队中管理工作场景下的 AI 智能体。它提供统一界面来管理和协调多个智能体，适合需要团队协作使用 AI 的企业。",
+      "category": "开发工具",
+      "starsToday": 571
+    },
+    {
+      "repo": "NVIDIA-NeMo/Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "",
+      "language": "Rust",
+      "stars": 884,
+      "summaryZh": "Switchyard 是 NVIDIA NeMo 生态中的工具，用 Rust 编写，目前描述为空。可能用于模型部署或推理优化，适合 NVIDIA GPU 集群的开发者。",
+      "category": "AI",
+      "starsToday": 421
+    },
+    {
+      "repo": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "description": "人人都能用英语",
+      "language": "TypeScript",
+      "stars": 36168,
+      "summaryZh": "“人人都能用英语”是一个学习项目，用 TypeScript 构建，提供英语学习资源和工具。适合希望提高英语水平的学习者，通过实践性强的内容掌握英语。",
+      "category": "资料教程",
+      "starsToday": 86
+    },
+    {
+      "repo": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python",
+      "stars": 20380,
+      "summaryZh": "SpiderFoot 是自动化 OSINT 工具，用于威胁情报和攻击面映射。它集成多种数据源，自动收集和分析信息，适合安全分析师和渗透测试人员使用。",
+      "category": "开发工具",
+      "starsToday": 74
+    },
+    {
+      "repo": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "language": "Dart",
+      "stars": 87880,
+      "summaryZh": "LocalSend 是跨平台的开源 AirDrop 替代品，支持在设备间无网络传输文件。它基于 Dart 开发，支持多种平台，适合个人用户快速分享文件。",
+      "category": "其他",
+      "starsToday": 213
+    },
+    {
+      "repo": "embabel/embabel-agent",
+      "url": "https://github.com/embabel/embabel-agent",
+      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "language": "Kotlin",
+      "stars": 4238,
+      "summaryZh": "Embabel 是 JVM 平台的智能体框架，用 Kotlin 编写。它提供构建 AI 智能体的工具，适合 Kotlin 和 Java 开发者创建企业级智能体应用。",
+      "category": "开发工具",
+      "starsToday": 40
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "language": "Python",
+      "stars": 2619,
+      "summaryZh": "一个工具，用于去除多种 AI 来源标记，包括 Unicode 文本清理、统计重写、C2PA 和元数据移除，支持多种文件格式。适合关注隐私和去水印的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-08-11T16:32:38Z"
+    },
+    {
+      "repo": "ShawnPana/phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "description": "let your agent control your phone",
+      "language": "Python",
+      "stars": 1651,
+      "summaryZh": "让AI代理直接控制你的手机，实现自动化操作。核心功能是模拟点击、滑动等交互，适合需要手机自动化测试或AI助手应用场景的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-07T22:28:53Z"
+    },
+    {
+      "repo": "oil-oil/oil-motion",
+      "url": "https://github.com/oil-oil/oil-motion",
+      "description": "Create smooth, responsive interactive web animations.",
+      "language": "Python",
+      "stars": 1624,
+      "summaryZh": "创建流畅、响应式的网页交互动画。提供高性能的动画引擎和易用的API，适合前端开发者用于提升用户体验。",
+      "category": "前端",
+      "createdAt": "2026-08-07T12:36:33Z"
+    },
+    {
+      "repo": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1550,
+      "summaryZh": "微信集成AI助手的工具，支持对话和自动回复。利用微信接口实现智能交互，适合个人或企业提升微信运营效率。",
+      "category": "开发工具",
+      "createdAt": "2026-08-10T09:06:43Z"
+    },
+    {
+      "repo": "LaoFeng-mouse/flyingmouse-format",
+      "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
+      "description": "飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
+      "language": "JavaScript",
+      "stars": 1283,
+      "summaryZh": "Windows万能文件格式转换工具，离线可用。内置FFmpeg、LibreOffice等，支持图片、文档、音视频等互转及OCR，适合需要批量转换文件的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-08-06T03:59:32Z"
+    },
+    {
+      "repo": "eternityspring/shuohao-skills",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
+      "language": "JavaScript",
+      "stars": 1200,
+      "summaryZh": "AI短剧制作的技能集合，包含拆角色、排大纲、写剧本等功能。运行于Claude Code和codex，适合编剧和短剧创作者快速生成内容。",
+      "category": "AI",
+      "createdAt": "2026-08-06T10:38:49Z"
+    },
+    {
+      "repo": "Flaminis/Dalaran",
+      "url": "https://github.com/Flaminis/Dalaran",
+      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "language": "Rust",
+      "stars": 889,
+      "summaryZh": "面向机器人的可视化与数据基础设施，支持多模态时间序列。原生ROS 2，可读取现有.rrd记录，是Rerun的硬分支，适合机器人开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-07T09:37:32Z"
+    },
+    {
+      "repo": "MengTo/kage",
+      "url": "https://github.com/MengTo/kage",
+      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "language": "HTML",
+      "stars": 861,
+      "summaryZh": "使用Three.js实现的京都山中寺庙夜行互动故事。涵盖五章体验，融合生成艺术，适合对创意编程和交互叙事感兴趣的开发者。",
+      "category": "前端",
+      "createdAt": "2026-08-08T07:05:07Z"
+    },
+    {
+      "repo": "sohaibdevv/youtube-music",
+      "url": "https://github.com/sohaibdevv/youtube-music",
+      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "language": "TypeScript",
+      "stars": 851,
+      "summaryZh": "轻量、无广告的YouTube Music客户端。支持后台播放、搜索和自定义播放列表，无需订阅，适合喜欢免费音乐流媒体的用户。",
+      "category": "其他",
+      "createdAt": "2026-08-11T18:17:18Z"
+    },
+    {
+      "repo": "xoreaxeaxeax/asm-hall-of-shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "description": "Racing to the bottom of CPU performance",
+      "language": "C",
+      "stars": 811,
+      "summaryZh": "展示CPU性能瓶颈的汇编代码集。通过糟糕的示例帮助开发者理解底层优化，适合对性能调优感兴趣的开发者。",
+      "category": "资料教程",
+      "createdAt": "2026-08-06T00:08:06Z"
+    },
+    {
+      "repo": "SaladDay/pi-from-scratch",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "language": "TypeScript",
+      "stars": 796,
+      "summaryZh": "600行TypeScript写成的迷你版pi-agent，教从零构建AI代理。涵盖工具调用、代理循环等核心机制，适合学习AI编程的开发者。",
+      "category": "资料教程",
+      "createdAt": "2026-08-09T12:15:30Z"
+    },
+    {
+      "repo": "gvzdv/claudish-to-english",
+      "url": "https://github.com/gvzdv/claudish-to-english",
+      "description": "",
+      "language": "Shell",
+      "stars": 639,
+      "summaryZh": "将Claude的Claudish方言翻译为英文的工具。帮助用户理解非标准表达，适合Claude用户和开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-10T18:32:23Z"
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 611,
+      "summaryZh": "开源项目，可能用于鼠标或机器人控制，但描述不明确。需进一步查看代码，适合探索型开发者。",
+      "category": "其他",
+      "createdAt": "2026-08-11T18:58:55Z"
+    },
+    {
+      "repo": "shadcn-ui/chatbot-template",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "language": "TypeScript",
+      "stars": 594,
+      "summaryZh": "基于Next.js、AI SDK和shadcn/ui的极简聊天机器人模板。支持Vercel AI Gateway，适合开发者快速搭建聊天应用。",
+      "category": "前端",
+      "createdAt": "2026-08-11T11:53:02Z"
+    },
+    {
+      "repo": "mewamew/my_ai_town",
+      "url": "https://github.com/mewamew/my_ai_town",
+      "description": "我的AI小镇",
+      "language": "GDScript",
+      "stars": 488,
+      "summaryZh": "我的AI小镇，一个模拟AI互动的项目。使用GDScript开发，可能基于Godot引擎，适合游戏开发和AI模拟爱好者。",
+      "category": "游戏",
+      "createdAt": "2026-08-07T07:10:40Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
+      "language": "TypeScript",
+      "stars": 2739,
+      "summaryZh": "免费开源的跨平台AI办公套件，支持Word、Excel、PPT等编辑。内置AI代理，适用于macOS、Windows和Linux，适合需要智能办公的用户。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +909（+50%）",
+      "reasonZh": "免费开源跨平台 AI 办公套件，支持 Word、Excel、PPT、PDF 和 Markdown 编辑，内置 AI 智能体。同类中少见的完整度高，开箱即用，替代付费 Office 和在线文档，适合个人和团队日常办公、内容创作。"
+    },
+    {
+      "repo": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars": 4103,
+      "summaryZh": "基于知识图谱的RAG系统，专为大型代码库设计。利用AST和tree-sitter解析多语言代码，构建语义检索与编辑能力，支持MCP集成。适合需要高效理解和修改复杂项目的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1033（+34%）",
+      "reasonZh": "给代码仓库做 RAG 检索，用知识图谱理解多语言大仓库，支持 AI 问答和编辑。比普通 RAG 更懂代码结构，适合开发者快速上手陌生项目、排查问题，和 Claude Code 等工具搭配效率翻倍。"
+    },
+    {
+      "repo": "karanhudia/borg-ui",
+      "url": "https://github.com/karanhudia/borg-ui",
+      "description": "Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.",
+      "language": "Python",
+      "stars": 1576,
+      "summaryZh": "为Borg Backup提供Web UI，替代复杂命令行操作。支持备份创建、调度和恢复，具备去重功能，可自托管并支持Docker部署。适合寻求易用备份方案的个人或小型团队。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · automation",
+      "reasonZh": "给 Borg 备份套了个漂亮 Web 界面，点几下就能创建、调度和恢复备份，不用记命令行。自托管、支持 Docker，对家庭服务器用户和想简化备份的小团队很友好，省心省力。"
+    },
+    {
+      "repo": "ben-z/findphone",
+      "url": "https://github.com/ben-z/findphone",
+      "description": "Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available",
+      "language": "Swift",
+      "stars": 1251,
+      "summaryZh": "macOS命令行工具，通过信号强度定位附近蓝牙设备，替代Find My不可用时的查找需求。轻量快速，适合在iPhone或AirPods丢失时快速寻找。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +629（+101%）",
+      "reasonZh": "macOS 命令行工具，用蓝牙信号强度找附近设备，比如找不到 AirTag 或耳机时。比 Find My 更轻量，无需网络，适合快速定位家里或办公室常见的蓝牙小物件，极客范儿十足。"
+    },
+    {
+      "repo": "mokshablr/gander",
+      "url": "https://github.com/mokshablr/gander",
+      "description": "Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.",
+      "language": "JavaScript",
+      "stars": 746,
+      "summaryZh": "离线、零权限的Android文件查看器，支持PDF、Word、Excel、PPT、图片、视频、音频、Markdown和代码等格式。注重隐私，无需网络权限，适合追求纯粹本地阅读的用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +408（+121%）",
+      "reasonZh": "Android 离线零权限文件查看器，能看 PDF、Office、视频、音频和代码，隐私友好。比同类 App 干净，完全本地运行，适合注重隐私或常离线办公的用户，看文件不求人。"
+    },
+    {
+      "repo": "h3nock/remux",
+      "url": "https://github.com/h3nock/remux",
+      "description": "A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.",
+      "language": "Swift",
+      "stars": 447,
+      "summaryZh": "原生iOS客户端，用于远程操作tmux会话，优化了iPhone触控体验。基于SwiftUI和SSH，支持移动终端需求，适合需要随时管理远程开发工作区的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +155（+53%）",
+      "reasonZh": "原生 iOS 客户端，让 iPhone 远程连 tmux 工作区，操作手感像本地终端。对喜欢在手机管服务器的开发者特别实用，出门也能改代码，是移动办公的好帮手。"
+    },
+    {
+      "repo": "yikerman/tamron-lens-control",
+      "url": "https://github.com/yikerman/tamron-lens-control",
+      "description": "Linux-only CLI for viewing and changing settings on compatible Tamron lenses.",
+      "language": "Rust",
+      "stars": 21,
+      "summaryZh": "Linux专用CLI工具，用于查看和修改兼容腾龙镜头的参数。通过Rust实现，无需额外依赖，适合摄影爱好者在Linux环境下快速调整镜头设置。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 80 分 · 8 评论",
+      "reasonZh": "Linux 下用命令行调适马镜头参数，比如对焦和防抖，开源免费。相机用户不用再依赖原厂软件，适合摄影爱好者或需要自动化控制镜头的工作流，新颖又实用。"
+    },
+    {
+      "repo": "microsoft/skill-recorder",
+      "url": "https://github.com/microsoft/skill-recorder",
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "language": "TypeScript",
+      "stars": 3006,
+      "summaryZh": "微软出品的桌面应用，记录屏幕操作并通过Copilot CLI生成意图和步骤，自动构建可复用的Skill或自动化。适合希望将重复工作流程转化为AI代理技能的开发者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +848（+39%）",
+      "reasonZh": "桌面应用录制屏幕操作，再用 GitHub Copilot CLI 把过程重建成技能或自动化，可复用。对想沉淀自己工作流、让 AI 帮忙跑重复任务的效率控很有吸引力，微软出品。"
+    },
+    {
+      "repo": "thebuggeddev/anatomy",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "language": "TypeScript",
+      "stars": 2286,
+      "summaryZh": "基于Three.js的交互式3D人体解剖浏览工具，集成GPT-5.6 Sol增强智能交互。提供直观的三维可视化，适合医学生或教育工作者辅助学习解剖学。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +651（+40%）",
+      "reasonZh": "用 Three.js 做的交互式 3D 人体解剖图，能旋转缩放看器官，基于 GPT 生成。医学生或科普爱好者可以直观学人体结构，比静态图生动，适合教育和展示场景。"
+    },
+    {
+      "repo": "AntigmaLabs/ante",
+      "url": "https://github.com/AntigmaLabs/ante",
+      "description": "Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints. ",
+      "language": "Rust",
+      "stars": 1389,
+      "summaryZh": "用Rust编写的智能体harness，自包含且无外部依赖，类似Claude Code或Codex但更轻量。不限制模型，运行高效，适合开发者构建自定义AI代理。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 163 分 · 90 评论",
+      "reasonZh": "自包含的 AI 智能体外壳，类似 Claude Code 但更轻量，无依赖和模型限制，核心用 Rust 优化。对追求性能、想自定义 Agent 的开发者吸引力大，可集成到各种命令行工作流。"
+    }
+  ]
+}
