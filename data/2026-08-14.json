@@ -1,0 +1,419 @@
+{
+  "date": "2026-08-14",
+  "trending": [
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "stars": 14940,
+      "summaryZh": "为 Claude Code 提供 29 种编辑部级图表类型。自包含 HTML+SVG，无阴影、无 Mermaid 风格，支持直接生成高质量图形。适合需要精确控制图表样式的数据可视化或开发文档场景。",
+      "category": "开发工具",
+      "starsToday": 4475
+    },
+    {
+      "repo": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": 6803,
+      "summaryZh": "面向上下文与可信 AI 系统的图原生基础设施。以图结构管理上下文，支持可追溯的 AI 推理流程，增强系统透明度与问责性。适用于知识图谱、多智能体协作等负责任 AI 建设场景。",
+      "category": "开发工具",
+      "starsToday": 713
+    },
+    {
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 169092,
+      "summaryZh": "Anthropic 官方公开的 Agent Skills 仓库，包含可复用的技能定义与示例，用于增强 Claude 等 Agent 的能力。开发者可学习、引用并扩展这些技能。适合构建定制化 AI 助手的团队。",
+      "category": "AI",
+      "starsToday": 312
+    },
+    {
+      "repo": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+      "language": "Swift",
+      "stars": 9902,
+      "summaryZh": "macOS 上最快的听写应用，支持设备端 STT 与自训练 AI 增强模型，是 Wispr Flow 的本地替代品。无需联网即可实现高精度语音转文字，Windows 与 iOS 等待开放，Linux 即将推出。",
+      "category": "开发工具",
+      "starsToday": 76
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars": 71110,
+      "summaryZh": "用于运行和训练 LLM 与扩散模型的本地 UI，支持 Qwen3.8、Kimi K3、DeepSeek-V4、FLUX 等众多模型。提供低资源占用、高效率的微调与推理环境，适合研究和开发者在本地部署实验。",
+      "category": "AI",
+      "starsToday": 328
+    },
+    {
+      "repo": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars": 2651,
+      "summaryZh": "面向团队的统一工作空间，整合邮箱、聊天、文档、任务、智能体、通话和 CRM 等工具，通过 @ 链接与共享 AI 记忆协同。核心亮点为基于 Rust 构建的高性能架构，提升团队协作效率。适合需要整合多工具的团队。",
+      "category": "其他",
+      "starsToday": 1239
+    },
+    {
+      "repo": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "stars": 12465,
+      "summaryZh": "检查邮箱是否注册了 Twitter、Instagram 等众多网站，并利用密码找回功能获取相关信息。功能为批量检测邮箱在各平台的注册情况，适用于邮箱安全审计和用户信息泄露排查。",
+      "category": "开发工具",
+      "starsToday": 195
+    },
+    {
+      "repo": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python",
+      "stars": 20694,
+      "summaryZh": "自动化 OSINT 工具，用于威胁情报和测绘攻击面。集成多种数据源，自动收集信息并构建关联图谱，帮助安全团队识别潜在风险。适合安全研究人员和渗透测试人员使用。",
+      "category": "开发工具",
+      "starsToday": 283
+    },
+    {
+      "repo": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "language": "TypeScript",
+      "stars": 6676,
+      "summaryZh": "开源的一体化 AI 智能体工作空间，可运行 Claude Code、Codex 等任意智能体，跨工具（100+ 集成与 MCP）、应用、浏览器和文件操作，并支持共享记忆。内置模型或自带 API，适合复杂 AI 流程管理。",
+      "category": "AI",
+      "starsToday": 241
+    },
+    {
+      "repo": "kepano/obsidian-skills",
+      "url": "https://github.com/kepano/obsidian-skills",
+      "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+      "language": "",
+      "stars": 45865,
+      "summaryZh": "为 Obsidian 提供 Agent 技能，指导智能体使用 CLI 和开放格式（Markdown、Bases、JSON Canvas）。通过技能库增强 Obsidian 的自动化与智能交互，适合笔记管理和知识库自动化场景。",
+      "category": "开发工具",
+      "starsToday": 292
+    },
+    {
+      "repo": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars": 90915,
+      "summaryZh": "用于制作解说性数学视频的动画引擎。核心功能是将数学概念转化为清晰生动的动画，支持高度定制化的图形和场景。适合数学科普创作者和教育工作者，帮助制作教学视频。",
+      "category": "其他",
+      "starsToday": 176
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 145238,
+      "summaryZh": "提供完整 AI 机构所需的各类专家智能体，涵盖前端开发、Reddit 社区运营、创意注入、现实检查等角色，每个角色具有个性化设定与流程。适合需要快速部署多智能体协作体系的团队。",
+      "category": "AI",
+      "starsToday": 778
+    },
+    {
+      "repo": "lightningpixel/modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+      "language": "TypeScript",
+      "stars": 5481,
+      "summaryZh": "桌面应用，利用本地 AI 从图像生成 3D 模型，完全在 GPU 上运行，保护隐私。核心亮点是本地化处理和高效率，适合设计人员快速生成 3D 预览。",
+      "category": "AI",
+      "starsToday": 118
+    },
+    {
+      "repo": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "stars": 88080,
+      "summaryZh": "领先的开源检索增强生成（RAG）引擎，融合先进 RAG 与智能体能力，为 LLM 打造高质量的上下文层。支持复杂知识库检索与多轮对话，适合企业级问答和文档分析。",
+      "category": "AI",
+      "starsToday": 465
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "language": "TypeScript",
+      "stars": 61984,
+      "summaryZh": "DeepSeek 的插件化系统，一切皆可插拔。基于 Cordis 架构，支持灵活扩展功能模块，用于构建定制化 AI 应用。适合开发者构建可扩展的智能体或多模块系统。",
+      "category": "AI",
+      "createdAt": "2026-08-13T11:56:32Z"
+    },
+    {
+      "repo": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "language": "Python",
+      "stars": 5584,
+      "summaryZh": "一个用于去除多种AI生成内容水印的工具，支持从PNG、JPEG、SVG、PDF、DOCX等文件中清理Unicode文本痕迹、统计重写钩子、C2PA元数据等。适用于需要处理AI生成文件并保护隐私的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-08-11T16:32:38Z"
+    },
+    {
+      "repo": "ShawnPana/phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "description": "let your agent control your phone",
+      "language": "Python",
+      "stars": 1719,
+      "summaryZh": "让AI智能体能够控制你的手机，实现自动化操作。基于Python，适合开发者构建手机自动化任务，如自动回复、定时操作等。",
+      "category": "开发工具",
+      "createdAt": "2026-08-07T22:28:53Z"
+    },
+    {
+      "repo": "oil-oil/oil-motion",
+      "url": "https://github.com/oil-oil/oil-motion",
+      "description": "Create smooth, responsive interactive web animations.",
+      "language": "Python",
+      "stars": 1690,
+      "summaryZh": "用于创建流畅、响应式交互式网页动画的工具。基于Python，提供简单易用的接口，适合前端开发者快速添加动态效果。",
+      "category": "前端",
+      "createdAt": "2026-08-07T12:36:33Z"
+    },
+    {
+      "repo": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1688,
+      "summaryZh": "一个为微信打造的AI助手项目，基于TypeScript开发。可能提供聊天机器人、自动回复等功能，适合个人或企业提升微信交互效率。",
+      "category": "其他",
+      "createdAt": "2026-08-10T09:06:43Z"
+    },
+    {
+      "repo": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "language": "C",
+      "stars": 1068,
+      "summaryZh": "通过DRAM扰码技术解锁CPU的全部潜力，该项目深入硬件底层，适合对计算机体系结构感兴趣的研究者或安全专家。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T13:50:42Z"
+    },
+    {
+      "repo": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 1031,
+      "summaryZh": "将技术书籍PDF转换为Claude Code技能，方便学习、参考和使用。基于Python，适合希望将知识转化为可复用AI技能的用户。",
+      "category": "资料教程",
+      "createdAt": "2026-08-13T13:15:23Z"
+    },
+    {
+      "repo": "Flaminis/Dalaran",
+      "url": "https://github.com/Flaminis/Dalaran",
+      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "language": "Rust",
+      "stars": 937,
+      "summaryZh": "机器人优先的可视化与数据基础设施，用于多模态时序数据，原生支持ROS2，可读取.rrd文件。基于Rust，适合机器人开发者和研究人员。",
+      "category": "开发工具",
+      "createdAt": "2026-08-07T09:37:32Z"
+    },
+    {
+      "repo": "gvzdv/claudish-to-english",
+      "url": "https://github.com/gvzdv/claudish-to-english",
+      "description": "",
+      "language": "Shell",
+      "stars": 935,
+      "summaryZh": "一个将Claudish语言转换为英语的Shell脚本项目，可能用于帮助用户理解或翻译Claude相关的特定内容。",
+      "category": "其他",
+      "createdAt": "2026-08-10T18:32:23Z"
+    },
+    {
+      "repo": "SaladDay/pi-from-scratch",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "language": "TypeScript",
+      "stars": 899,
+      "summaryZh": "用600行TypeScript从零实现一个超级迷你版的pi-agent，适合想深入理解AI代理原理的开发者学习。",
+      "category": "资料教程",
+      "createdAt": "2026-08-09T12:15:30Z"
+    },
+    {
+      "repo": "MengTo/kage",
+      "url": "https://github.com/MengTo/kage",
+      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "language": "HTML",
+      "stars": 895,
+      "summaryZh": "一个交互式五章节虚拟夜游京都山间寺庙的视觉项目，使用Three.js渲染，融合创意编码和生成艺术，适合艺术与编程爱好者。",
+      "category": "其他",
+      "createdAt": "2026-08-08T07:05:07Z"
+    },
+    {
+      "repo": "sohaibdevv/youtube-music",
+      "url": "https://github.com/sohaibdevv/youtube-music",
+      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "language": "TypeScript",
+      "stars": 855,
+      "summaryZh": "一个轻量级、无广告的YouTube音乐流媒体客户端，支持后台播放、搜索和自定义播放列表，基于TypeScript，无需订阅，适合免费用户。",
+      "category": "其他",
+      "createdAt": "2026-08-11T18:17:18Z"
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 842,
+      "summaryZh": "一个开源的机器人项目，基于TypeScript，可能用于实现鼠标自动化控制，适合需要模拟鼠标操作的场景。",
+      "category": "其他",
+      "createdAt": "2026-08-11T18:58:55Z"
+    },
+    {
+      "repo": "cordiverse/paper",
+      "url": "https://github.com/cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "language": "",
+      "stars": 833,
+      "summaryZh": "一种用于时空可组合性的编程范式，该项目可能提供新的编程模型，适合编程语言研究者和前沿开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T09:53:33Z"
+    },
+    {
+      "repo": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "language": "TypeScript",
+      "stars": 830,
+      "summaryZh": "DeepSeek Harness (DSH) Web UI的插件和皮肤集合，包括任务板、Git图、右侧面板等，基于TypeScript，适合DSH用户定制界面。",
+      "category": "前端",
+      "createdAt": "2026-08-12T05:15:20Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "ZzzLc0405/photo-abstract-editorial",
+      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "description": "",
+      "language": "",
+      "stars": 3513,
+      "summaryZh": "一个围绕摄影的抽象编辑项目，周星增长显著，可能提供照片编辑的抽象风格推荐，适合摄影爱好者探索创意。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +2438（+227%）",
+      "reasonZh": "把照片变成抽象杂志风格，一键出图，适合做封面或海报。和滤镜类应用比，它更懂设计感，直接给编辑排版效果，普通用户也能轻松玩出高级感。"
+    },
+    {
+      "repo": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
+      "language": "TypeScript",
+      "stars": 2984,
+      "summaryZh": "一款免费开源的跨平台 AI 办公套件，支持 Word、Excel、PPT、PDF 和 Markdown 文档编辑。内置 AI 智能体，可辅助创作、排版和数据处理。适合个人和团队在 macOS、Windows、Linux 上高效处理办公文档。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +920（+45%）",
+      "reasonZh": "开源免费的AI办公套件，支持Word、Excel、PPT、PDF，内置AI助手，跨平台。比LibreOffice更智能，比微软Office更轻量，日常办公和文档处理的好选择。"
+    },
+    {
+      "repo": "mokshablr/gander",
+      "url": "https://github.com/mokshablr/gander",
+      "description": "Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.",
+      "language": "JavaScript",
+      "stars": 762,
+      "summaryZh": "一个离线、零权限的安卓文件查看器，支持 PDF、Office 文档、图片、音视频、Markdown 和代码。无需网络和权限，注重隐私，适合本地快速查看各种文件。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +345（+83%）",
+      "reasonZh": "安卓上零权限、离线的全能文件查看器，PDF、Office、图片、视频都能看，不用联网也不怕隐私泄露。同类应用大多要权限，它真正做到极简和隐私保护，通勤路上看文件很实用。"
+    },
+    {
+      "repo": "microsoft/skill-recorder",
+      "url": "https://github.com/microsoft/skill-recorder",
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "language": "TypeScript",
+      "stars": 3067,
+      "summaryZh": "微软出品的桌面应用，录制屏幕工作过程，并通过 GitHub Copilot CLI 自动重建为意图和步骤，生成可复用的技能或自动化。适合开发者将重复性操作转化为 AI 自动化流程。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +909（+42%）",
+      "reasonZh": "录屏记录操作，自动用AI还原成步骤和技能，还能生成自动化脚本。对想学习或复用工作流程的人来说，是神器，比普通录屏工具多了AI分析，效率提升明显。"
+    },
+    {
+      "repo": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "language": "Python",
+      "stars": 2658,
+      "summaryZh": "让 AI 写的中文更自然，像一个具体的人在说话。提供通用创作与改稿技能，开箱即用。适合需要高质量中文写作的用户，帮助调整语气和风格。",
+      "category": "资料教程",
+      "source": "dark-horse",
+      "signal": "周涨星 +1008（+61%）",
+      "reasonZh": "让AI写的中文更像真人说话，开箱即用的写作技能。和普通润色工具比，它更懂中文语感，适合自媒体、文案工作者，能让内容自然不僵硬。"
+    },
+    {
+      "repo": "h3nock/remux",
+      "url": "https://github.com/h3nock/remux",
+      "description": "A native iOS client for remote tmux workspaces, designed to feel natural on iPhone.",
+      "language": "Swift",
+      "stars": 450,
+      "summaryZh": "一款原生 iOS 客户端，用于远程管理 tmux 工作区，在 iPhone 上提供自然流畅的操作体验。核心功能包括 SSH 连接和终端控制，适合移动开发者远程维护服务器。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +117（+35%）",
+      "reasonZh": "原生iOS的tmux远程客户端，在手机上操作服务器终端，手感像本地。比SSH工具更专注，配合Ghostty渲染，流畅度一流，程序员随时随地管服务器，真的很方便。"
+    },
+    {
+      "repo": "ben-z/findphone",
+      "url": "https://github.com/ben-z/findphone",
+      "description": "Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available",
+      "language": "Swift",
+      "stars": 1256,
+      "summaryZh": "macOS 命令行工具，通过信号强度定位附近的蓝牙设备，在无法使用 Find My 时提供备用方案。适合快速查找丢失的手机或其他蓝牙设备。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +415（+49%）",
+      "reasonZh": "macOS命令行工具，根据蓝牙信号找附近设备，Find My不好使时有奇效。轻量实用，适合丢三落四的人，比开Find My快多了，直接命令行扫。"
+    },
+    {
+      "repo": "ozeranskii/httptap",
+      "url": "https://github.com/ozeranskii/httptap",
+      "description": "Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.",
+      "language": "Python",
+      "stars": 787,
+      "summaryZh": "强大的命令行 HTTP 诊断工具，将每个请求分解为 DNS、连接、TLS、等待和传输阶段，并以瀑布图或指标输出。适合开发者调试网络性能、分析请求瓶颈。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "CLI工具把HTTP请求拆成DNS、连接、TLS等阶段，瀑布图一目了然。比curl详细，比浏览器F12轻量，调试接口性能问题时特顺手，终端党必备。"
+    },
+    {
+      "repo": "TanStack/charts",
+      "url": "https://github.com/TanStack/charts",
+      "description": "A tiny TypeScript visualization grammar for responsive, accessible, server-rendered charts—powered by granular D3 primitives.",
+      "language": "TypeScript",
+      "stars": 594,
+      "summaryZh": "一个小巧的 TypeScript 可视化语法，基于 D3 原语构建响应式、可访问、支持服务端渲染的图表。核心特点是轻量、灵活，适合 React 开发者快速创建定制化图表。",
+      "category": "前端",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "小巧的TS图表库，服务端渲染、无障碍、响应式，基于D3但更简单。和重量级图表库比，它适合React项目，SSR友好，用起来不费劲，数据展示场景很实用。"
+    },
+    {
+      "repo": "SeanWong17/building-sunlight-simulator",
+      "url": "https://github.com/SeanWong17/building-sunlight-simulator",
+      "description": "纯前端楼盘采光模拟工具链：规划图标注 → 3D 阴影可视化 | Frontend-only building sunlight simulator: plan annotation to 3D shadow visualization",
+      "language": "JavaScript",
+      "stars": 465,
+      "summaryZh": "纯前端楼盘采光模拟工具链，支持从规划图标注到 3D 阴影可视化。核心功能包括太阳路径模拟和实时光影渲染，适合建筑设计师和房地产从业者评估采光效果。",
+      "category": "前端",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "纯前端楼盘采光模拟，规划图变3D阴影，看房选房超实用。同类偏专业GIS，它简单直观，普通用户也能用，买房算采光很实用。"
+    }
+  ]
+}
