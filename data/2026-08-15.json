@@ -1,0 +1,427 @@
+{
+  "date": "2026-08-15",
+  "trending": [
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "stars": 17306,
+      "summaryZh": "为 Claude Code 设计的 29 种编辑图表类型，采用自包含的 HTML+SVG 实现，无阴影、无 Mermaid 生成。适合需要在 AI 编码工具中快速制作清晰图表的开发者，提供高度可控的矢量图形输出。",
+      "category": "开发工具",
+      "starsToday": 3646
+    },
+    {
+      "repo": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "stars": 12860,
+      "summaryZh": "检查邮箱在 Twitter、Instagram 等网站是否注册过的工具，能通过找回密码功能获取相关信息。用于隐私审计、账户关联检测和安全研究，Python 编写，简单易用。",
+      "category": "其他",
+      "starsToday": 427
+    },
+    {
+      "repo": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars": 3041,
+      "summaryZh": "面向团队的统一工作空间，整合邮件、聊天、文档、任务、智能体、通话和 CRM，通过 @ 链接和共享 AI 记忆协同。适合需要集中管理多种工具并提升团队效率的组织。",
+      "category": "其他",
+      "starsToday": 436
+    },
+    {
+      "repo": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python",
+      "stars": 20952,
+      "summaryZh": "自动化 OSINT 工具，用于威胁情报和攻击面测绘。可自动收集和分析公开信息，帮助安全人员发现潜在风险，适合渗透测试和网络防御场景。",
+      "category": "开发工具",
+      "starsToday": 293
+    },
+    {
+      "repo": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars": 10384,
+      "summaryZh": "为 AI 智能体（如 Codex、Claude Code）提供最快的浏览器自动化，可共享登录状态，零成本、低配置。适合开发者在本地 AI 工具中运行自动化任务，无需手动干预。",
+      "category": "开发工具",
+      "starsToday": 165
+    },
+    {
+      "repo": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "language": "TypeScript",
+      "stars": 7311,
+      "summaryZh": "开源 AI 智能体工作空间，支持 Claude Code、Codex 等，集成 100+ 工具和 MCP，提供共享内存和内置模型或自带密钥。适合需要跨工具高效管理 AI 智能体的团队和个人。",
+      "category": "开发工具",
+      "starsToday": 769
+    },
+    {
+      "repo": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 128538,
+      "summaryZh": "助力规范驱动开发（Spec-Driven Development）的工具包，提供脚手架和示例，帮助团队从规范开始快速搭建项目。适合追求流程化和文档化的工程团队。",
+      "category": "开发工具",
+      "starsToday": 1160
+    },
+    {
+      "repo": "lightningpixel/modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+      "language": "TypeScript",
+      "stars": 5953,
+      "summaryZh": "桌面应用，利用本地 GPU 从图像或提示生成 3D 模型，完全离线运行，保护隐私。适合设计师和开发者快速创建原型，无需云端服务。",
+      "category": "AI",
+      "starsToday": 579
+    },
+    {
+      "repo": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "stars": 88394,
+      "summaryZh": "领先的开源检索增强生成（RAG）引擎，结合 RAG 与智能体能力，为 LLM 提供高级上下文层。适合企业构建知识库问答系统或增强生成准确性。",
+      "category": "AI",
+      "starsToday": 473
+    },
+    {
+      "repo": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 2814,
+      "summaryZh": "Cursor 编辑器的插件规范及官方插件集合，帮助开发者扩展功能。适合需要在 Cursor 中自定义工具链的用户。",
+      "category": "开发工具",
+      "starsToday": 41
+    },
+    {
+      "repo": "deepseek-ai/awesome-deepseek-agent",
+      "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+      "description": "",
+      "language": "",
+      "stars": 5718,
+      "summaryZh": "收集 DeepSeek 相关的智能体资源、工具和教程，主题聚焦于 AI 代理开发。适合使用 DeepSeek 模型构建应用的开发者。",
+      "category": "资料教程",
+      "starsToday": 222
+    },
+    {
+      "repo": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": 7542,
+      "summaryZh": "面向上下文和可问责 AI 系统的图原生基础设施，提供数据组织和推理支持。适合构建复杂 AI 应用、需要严格上下文管理的开发者。",
+      "category": "AI",
+      "starsToday": 1181
+    },
+    {
+      "repo": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": 120646,
+      "summaryZh": "开源远程桌面软件，可自托管，作为 TeamViewer 的替代品。支持跨平台，提供安全连接和文件传输，适合个人和企业远程办公。",
+      "category": "开发工具",
+      "starsToday": 143
+    },
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 83183,
+      "summaryZh": "开源视频剪辑软件，作为 CapCut 的替代品，提供类似功能。支持多轨编辑、特效和导出，适合视频创作者免费使用。",
+      "category": "其他",
+      "starsToday": 255
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars": 71521,
+      "summaryZh": "本地界面，用于运行和训练 LLM 及扩散模型，支持 Qwen3.8、Kimi K3、Gemma 4、DeepSeek-V4、FLUX 等。适合 AI 爱好者和研究者低成本微调模型。",
+      "category": "AI",
+      "starsToday": 501
+    },
+    {
+      "repo": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars": 39090,
+      "summaryZh": "ToolJet 是一个开源的低代码平台，用于快速构建内部工具、仪表盘、业务应用和工作流。它支持可视化设计界面与 JavaScript 扩展，可连接多种数据源，适合企业搭建内部系统。",
+      "category": "开发工具",
+      "starsToday": 132
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "language": "TypeScript",
+      "stars": 96853,
+      "summaryZh": "DeepSeek Harness 是一个基于插件的 AI 代理框架，强调模块化与可扩展性。通过插件机制，用户可以灵活组合功能，构建定制化的 AI 工作流，适合开发者打造自己的代理系统。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T11:56:32Z"
+    },
+    {
+      "repo": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "language": "Python",
+      "stars": 8255,
+      "summaryZh": "这是一个用于去除多种 AI 生成内容水印（如C2PA元数据、Unicode隐藏标记）的工具，支持常见文件格式。它可以清洗AI痕迹，适合需要处理AI生成内容的开发者或研究人员。",
+      "category": "开发工具",
+      "createdAt": "2026-08-11T16:32:38Z"
+    },
+    {
+      "repo": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "language": "TypeScript",
+      "stars": 2093,
+      "summaryZh": "这是为 DeepSeek Harness（DSH）打造的桌面客户端，带来原生应用体验。核心功能包括插件管理、本地文件访问和更流畅的交互，适合喜欢桌面环境的 DSH 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T16:30:50Z"
+    },
+    {
+      "repo": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "language": "TypeScript",
+      "stars": 1977,
+      "summaryZh": "这是一个为 DeepSeek Harness 提供 Web UI 的插件包，包含任务面板、Git 图形、侧边栏、皮肤中心等扩展。适合需要更丰富Web界面的 DSH 用户，提升操作效率。",
+      "category": "开发工具",
+      "createdAt": "2026-08-12T05:15:20Z"
+    },
+    {
+      "repo": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1712,
+      "summaryZh": "该项目为微信接入 AI 提供解决方案，支持 AI 自动回复、消息处理等功能。适合希望在微信聊天中集成 AI 助手的个人或团队使用。",
+      "category": "开发工具",
+      "createdAt": "2026-08-10T09:06:43Z"
+    },
+    {
+      "repo": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "language": "C",
+      "stars": 1574,
+      "summaryZh": "这是一个探索 CPU DRAM 加扰机制的研究项目，通过逆向工程揭示了内存物理地址的映射关系。适合对硬件安全与底层系统感兴趣的研究人员。",
+      "category": "其他",
+      "createdAt": "2026-08-13T13:50:42Z"
+    },
+    {
+      "repo": "cordiverse/paper",
+      "url": "https://github.com/cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "language": "",
+      "stars": 1328,
+      "summaryZh": "Paper 是一种用于时空可组合性的编程范式，支持动态数据流与位置感知计算。它适合需要处理复杂时空数据或构建实时系统的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T09:53:33Z"
+    },
+    {
+      "repo": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "language": "Python",
+      "stars": 1194,
+      "summaryZh": "这是 DeepSeek Harness 插件的精选列表，收录了社区生态中的各类插件，方便查找与学习。适合 DSH 用户快速发现可用插件，扩展功能。",
+      "category": "资料教程",
+      "createdAt": "2026-08-13T13:55:31Z"
+    },
+    {
+      "repo": "gvzdv/claudish-to-english",
+      "url": "https://github.com/gvzdv/claudish-to-english",
+      "description": "",
+      "language": "Shell",
+      "stars": 1104,
+      "summaryZh": "这个项目是一个简单的转换工具，将 Claude 聊天中的非英文内容转为英文。适合非英文用户使用以改善沟通，但功能相对单一。",
+      "category": "其他",
+      "createdAt": "2026-08-10T18:32:23Z"
+    },
+    {
+      "repo": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 1073,
+      "summaryZh": "将技术 PDF 书籍转换为 Claude Code 技能的工具，使其可在编程过程中引用。适合开发者将书籍知识转化为可调用技能，提高开发效率。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T13:15:23Z"
+    },
+    {
+      "repo": "SaladDay/pi-from-scratch",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "language": "TypeScript",
+      "stars": 982,
+      "summaryZh": "用600行TypeScript实现一个迷你AI代理，展示核心循环、工具调用等原理。适合想学习AI代理内部实现的开发者，是很好的教育项目。",
+      "category": "资料教程",
+      "createdAt": "2026-08-09T12:15:30Z"
+    },
+    {
+      "repo": "MengTo/kage",
+      "url": "https://github.com/MengTo/kage",
+      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "language": "HTML",
+      "stars": 964,
+      "summaryZh": "这是一个在 Three.js 中实现的交互式京都寺庙夜间场景，包含五章导览和生成艺术。适合对创意编码与WebGL感兴趣的开发者，作为艺术欣赏或技术参考。",
+      "category": "前端",
+      "createdAt": "2026-08-08T07:05:07Z"
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 924,
+      "summaryZh": "这是一个开源机器人项目，可能涉及自动化或交互控制。但描述不明确，功能细节未知，适合对机器人开发感兴趣的开发者自行探索。",
+      "category": "其他",
+      "createdAt": "2026-08-11T18:58:55Z"
+    },
+    {
+      "repo": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
+      "language": "TypeScript",
+      "stars": 913,
+      "summaryZh": "为 DeepSeek Harness 打造的终端 UI 插件，采用 Claude Code 风格，支持快捷键与流式输出。适合偏好命令行操作的 DSH 用户，提升终端效率。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T12:49:31Z"
+    },
+    {
+      "repo": "sohaibdevv/youtube-music",
+      "url": "https://github.com/sohaibdevv/youtube-music",
+      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "language": "TypeScript",
+      "stars": 857,
+      "summaryZh": "一个轻量、无广告的 YouTube Music 桌面客户端，无需订阅即可免费流媒体播放。支持后台播放、搜索和自定义播放列表，基于逆向工程 API 实现。适合希望免费、无干扰地享受 YouTube Music 用户。",
+      "category": "其他",
+      "createdAt": "2026-08-11T18:17:18Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "Shrey113/Android-Dex",
+      "url": "https://github.com/Shrey113/Android-Dex",
+      "description": "Enable a full desktop experience from any Android device over Wi‑Fi. No root, scrcpy-powered, Flutter desktop app with wireless ADB, per‑app audio, and quick controls.",
+      "language": "HTML",
+      "stars": 1299,
+      "summaryZh": "基于 scrcpy 的 Flutter 桌面应用，通过无线 ADB 让 Android 设备在 Wi-Fi 上提供完整桌面体验，无需 root，支持每应用音频和快速控制。适合游戏玩家和希望在 Android 设备上获得桌面级体验的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "无需 root 就能把安卓手机变成桌面环境，基于 scrcpy 还支持无线 ADB 和分应用音频，比 Samsung DeX 更通用。适合想用手机办公或玩桌面应用但没设备的场景。"
+    },
+    {
+      "repo": "oil-oil/oil-motion",
+      "url": "https://github.com/oil-oil/oil-motion",
+      "description": "Create smooth, responsive interactive web animations.",
+      "language": "Python",
+      "stars": 1728,
+      "summaryZh": "一个用于创建流畅、响应式交互式 Web 动画的 Python 库，简化复杂动画的开发流程。适合前端开发者快速构建动态界面。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +1121（+185%）",
+      "reasonZh": "用 Python 生成流畅的网页交互动画，主打开箱即用和响应式，不用写复杂前端代码。同类工具要么笨重要么要学 JS，这个特别轻量，适合想做炫酷网页效果的开发者。"
+    },
+    {
+      "repo": "GSManagerXZ/GameServerManager",
+      "url": "https://github.com/GSManagerXZ/GameServerManager",
+      "description": "GameServerManager（简称GSManager）现代化游戏一键部署面板，专为简化游戏服务器的部署、管理和维护而设计；注重steam、MC游戏一键开服",
+      "language": "TypeScript",
+      "stars": 1028,
+      "summaryZh": "现代化游戏服务器一键部署面板，专为简化 Steam 和 Minecraft 等游戏的部署、管理和维护而设计，支持 Docker。适合游戏服务器管理员快速开服和管理。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "一键部署 Steam 和 Minecraft 游戏服务器，用 Docker 管理，有现代化面板。比手动配置命令行友好太多，适合想快速开服和朋友联机的普通玩家或小团队。"
+    },
+    {
+      "repo": "mokshablr/gander",
+      "url": "https://github.com/mokshablr/gander",
+      "description": "Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.",
+      "language": "JavaScript",
+      "stars": 777,
+      "summaryZh": "一个离线、零权限的 Android 文件查看器，支持 PDF、Word、Excel、PPT、照片、视频、音频、Markdown 和代码。注重隐私，无需任何权限即可在本地查看文件。适合注重隐私的移动办公用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +255（+49%）",
+      "reasonZh": "安卓上离线、零权限的万能文件查看器，支持 PDF、Office、视频、代码等，不用联网也不用授权。同类应用大多要联网或权限，这个隐私保护拉满，适合常看本地文件的用户。"
+    },
+    {
+      "repo": "dominostars/playtranslate",
+      "url": "https://github.com/dominostars/playtranslate",
+      "description": "Real-time screen translation app for Android for both language learners and casual gamers",
+      "language": "Kotlin",
+      "stars": 1065,
+      "summaryZh": "Android 实时屏幕翻译应用，适用于语言学习者和休闲游戏玩家，可实时翻译游戏或应用界面。支持日文等语言，适合视觉小说或模拟器游戏翻译。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "实时屏幕翻译工具，专为玩日文游戏或看漫画设计，翻译速度很快。同类翻译应用多是整屏处理，这个针对游戏场景优化，适合想玩外文游戏但又看不懂的玩家。"
+    },
+    {
+      "repo": "Matteo842/SaveState",
+      "url": "https://github.com/Matteo842/SaveState",
+      "description": "A versatile game save backup manager, featuring Steam detection, Minecraft support, drag & drop, desktop shortcuts and emulator compatible.",
+      "language": "Python",
+      "stars": 489,
+      "summaryZh": "一个多功能的游戏存档备份管理器，支持 Steam 检测、Minecraft 支持、拖放操作、桌面快捷方式和模拟器兼容，并可同步到 Google Drive。适合玩家自动化备份和管理游戏存档。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "游戏存档备份管理器，支持 Steam 和 Minecraft，还能拖拽、建快捷方式，甚至兼容模拟器。同类工具少且不够全面，适合怕丢存档或想多设备同步进度的玩家。"
+    },
+    {
+      "repo": "Doezer/Questarr",
+      "url": "https://github.com/Doezer/Questarr",
+      "description": "Questarr is an *Arr-inspired game manager that helps you discover, track, and automatically download the games you want.",
+      "language": "TypeScript",
+      "stars": 556,
+      "summaryZh": "受 *Arr 启发的游戏管理器，帮助发现、跟踪并自动下载想要的游戏。支持 torrent 和 usenet。适合希望自动化管理游戏库的玩家。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "像 Radarr 那样管理游戏，自动发现、追踪和下载，支持多平台。比手动找游戏高效得多，适合喜欢折腾自动化下载的游戏收藏家。"
+    },
+    {
+      "repo": "rangermix/TwitchDropsMiner",
+      "url": "https://github.com/rangermix/TwitchDropsMiner",
+      "description": "An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching. Web GUI, dockerised.",
+      "language": "Python",
+      "stars": 232,
+      "summaryZh": "一个自动化 Twitch 掉宝挂机工具，可自动领取掉宝并切换频道，带有 Web GUI 和 Docker 支持。适合希望挂机获取 Twitch 掉宝奖励的玩家。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "自动挂机刷 Twitch 掉宝，自动领取并切换频道，有 Web 界面还能 Docker 部署。同类工具少见，适合想白嫖游戏掉落但没时间盯直播的人。"
+    },
+    {
+      "repo": "Saramanda9988/LunaBox",
+      "url": "https://github.com/Saramanda9988/LunaBox",
+      "description": "Lightweight, sleek, and feature-rich visual novel management and game statistics tool",
+      "language": "Go",
+      "stars": 325,
+      "summaryZh": "一款轻量、美观且功能丰富的视觉小说管理器和游戏统计工具，基于 Go 和 React，支持 AI 功能。适合视觉小说爱好者整理和统计游戏数据。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "轻量好看的管理视觉小说和游戏统计，用 Go 和 Wails 写的，界面现代。同类工具要么老要么重，适合宅圈玩家整理自己的 galgame 库。"
+    }
+  ]
+}
