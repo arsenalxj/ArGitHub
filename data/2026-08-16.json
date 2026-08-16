@@ -1,0 +1,389 @@
+{
+  "date": "2026-08-16",
+  "trending": [
+    {
+      "repo": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "stars": 4090,
+      "summaryZh": "Cordis 是一个关注时空组合性的元框架，提供跨维度组件编排与状态管理能力。核心亮点在于将空间与时间维度抽象为统一模型，适合构建复杂交互场景或需要精确时空控制的 Web 应用。",
+      "category": "开发工具",
+      "starsToday": 599
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "stars": 18661,
+      "summaryZh": "为 Claude Code 提供 29 种编辑类图表类型的自包含 HTML+SVG 方案，无阴影、无 Mermaid 依赖。强调轻量与高保真输出，适合在 AI 编码流程中直接生成高质量示意图。",
+      "category": "开发工具",
+      "starsToday": 1607
+    },
+    {
+      "repo": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 2955,
+      "summaryZh": "Cursor 官方插件规范与示例集合，定义插件 API 和扩展机制。开发者可借此创建自定义命令、UI 组件或与外部工具集成，适合需要深度定制 Cursor 编辑器功能的使用者。",
+      "category": "开发工具",
+      "starsToday": 149
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars": 72064,
+      "summaryZh": "本地运行的 LLM 和扩散模型训练与推理 UI，支持 Qwen3.8、Kimi K3、DeepSeek-V4、FLUX 等模型。通过优化底层内核实现显著加速，适合个人或小团队在消费级硬件上微调模型。",
+      "category": "AI",
+      "starsToday": 434
+    },
+    {
+      "repo": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 460220,
+      "summaryZh": "聚合了海量免费公开 API 的精选列表，涵盖类目广泛（如动物、金融、游戏等），每条均含描述与链接。适合开发者快速查找可用 API，用于原型开发、学习或非商业项目。",
+      "category": "资料教程",
+      "starsToday": 2260
+    },
+    {
+      "repo": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 129213,
+      "summaryZh": "帮助开发者启动 Spec-Driven Development 的工具包，提供规范编写、示例与脚手架。核心价值在于让需求、设计与实现对齐，适合需要严谨流程的团队或追求文档驱动开发的项目。",
+      "category": "开发工具",
+      "starsToday": 892
+    },
+    {
+      "repo": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "stars": 13126,
+      "summaryZh": "检查邮箱是否在 Twitter、Instagram 等网站注册过的工具，利用忘记密码功能返回信息。适合安全研究、账号溯源或个人信息管理，需注意合规使用。",
+      "category": "其他",
+      "starsToday": 382
+    },
+    {
+      "repo": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
+      "language": "Swift",
+      "stars": 10340,
+      "summaryZh": "macOS 上最快的听写应用，基于本地语音识别和自训练 AI 增强模型，无需联网。作为本地 Wispr Flow 替代品，性能出色，适合追求隐私、低延迟的语音输入场景。",
+      "category": "其他",
+      "starsToday": 104
+    },
+    {
+      "repo": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars": 39554,
+      "summaryZh": "开源的企业级应用生成平台，用于构建内部工具、仪表盘、业务应用、工作流和 AI 代理。提供可视化编辑器与丰富组件，适合快速搭建企业内部管理系统，降低开发成本。",
+      "category": "开发工具",
+      "starsToday": 544
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "stars": 47368,
+      "summaryZh": "让所有软件 Agent 化，即通过 CLI 统一封装各类应用。该库提供通用接口，使 AI 代理能直接操控软件，适合自动化任务编排与 AI 集成，项目配套 CLI-Hub 社区。",
+      "category": "开发工具",
+      "starsToday": 118
+    },
+    {
+      "repo": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars": 10989,
+      "summaryZh": "专为 AI 代理设计的浏览器，用于运行浏览器自动化，并与 Codex、Claude Code 共享登录状态，且不打扰用户。零成本、零配置，适合需要让 AI 在真实网页环境执行任务的场景。",
+      "category": "开发工具",
+      "starsToday": 545
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "language": "TypeScript",
+      "stars": 116255,
+      "summaryZh": "DeepSeek Harness 是一个万物皆插件的 AI 代理框架，核心为高度模块化的插件体系，相关生态丰富。适合开发者构建可扩展的 AI 工具，或深度集成到多步骤自动化流程中。",
+      "category": "AI",
+      "createdAt": "2026-08-13T11:56:32Z"
+    },
+    {
+      "repo": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "language": "Python",
+      "stars": 9786,
+      "summaryZh": "剥离多厂商 AI 来源标记的工具，支持 Unicode 文本清洗、统计重写钩子，以及从图片、PDF、Office 文档中去除 C2PA 元数据。适用于研究或隐私保护场景，需注意伦理和法律边界。",
+      "category": "其他",
+      "createdAt": "2026-08-11T16:32:38Z"
+    },
+    {
+      "repo": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "language": "TypeScript",
+      "stars": 6053,
+      "summaryZh": "为 DeepSeek Harness 生态打造的现代化桌面端应用，提供图形界面管理插件与任务。适合不熟悉 CLI 的用户使用，降低入门门槛，同时保留 DSH 的全部插件能力。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T16:30:50Z"
+    },
+    {
+      "repo": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "language": "Python",
+      "stars": 3057,
+      "summaryZh": "DeepSeek Harness (dsh) 插件精选列表，收录高质量插件并分类展示。适合希望扩展 DSH 功能或了解生态的开发者，同时提供中英双语简介，便于中文用户参考。",
+      "category": "资料教程",
+      "createdAt": "2026-08-13T13:55:31Z"
+    },
+    {
+      "repo": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "language": "TypeScript",
+      "stars": 2746,
+      "summaryZh": "这是 DeepSeek Harness (DSH) Web UI 的插件和皮肤集合，包含任务看板、Git 图、右侧面板、远程移动端 UI、宠物、实时令牌统计和皮肤中心等丰富功能。适合 DSH 用户通过插件扩展 Web 界面，实现更高效的开发管理和个性化定制。",
+      "category": "开发工具",
+      "createdAt": "2026-08-12T05:15:20Z"
+    },
+    {
+      "repo": "xiaobright/dsh-anchored-standard",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "language": "JavaScript",
+      "stars": 2230,
+      "summaryZh": "这是一个两阶段的 DeepSeek Harness 预设，先进行最小化对齐引导，再启用完整标准工具集，在 Project2 上达到 98/99 的高分。适合需要快速部署并最大化 DSH 工具能力的开发者，尤其适用于追求高基准测试成绩的场景。",
+      "category": "开发工具",
+      "createdAt": "2026-08-14T14:06:39Z"
+    },
+    {
+      "repo": "yjh051108/dsh-routing-suite",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "language": "PowerShell",
+      "stars": 1780,
+      "summaryZh": "这是一个 DSH 路由套件，包含注入器和路由器标准套件，需先安装运行时注入器，再配置任务感知的推理模式路由器预设，经测量覆盖 P1 至 P23。适合需要精细化控制 DeepSeek 推理路由的高级用户，以优化任务执行效率。",
+      "category": "开发工具",
+      "createdAt": "2026-08-14T21:20:55Z"
+    },
+    {
+      "repo": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1743,
+      "summaryZh": "这是一个基于 TypeScript 的微信 AI 集成项目，具体功能未在描述中说明，但推测是用于将 AI 能力接入微信生态，实现智能对话或自动化操作。适合希望在微信平台中使用 AI 辅助的开发者或普通用户，具体细节需查看仓库文档。",
+      "category": "其他",
+      "createdAt": "2026-08-10T09:06:43Z"
+    },
+    {
+      "repo": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "language": "C",
+      "stars": 1677,
+      "summaryZh": "这是一个通过 DRAM 加扰技术解锁 CPU 全部潜在功能的项目，深入底层硬件层面进行调优。适合对 CPU 硬件逆向、安全研究或性能极限探索感兴趣的专业开发者，用于研究和实验。",
+      "category": "其他",
+      "createdAt": "2026-08-13T13:50:42Z"
+    },
+    {
+      "repo": "cordiverse/paper",
+      "url": "https://github.com/cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "language": "",
+      "stars": 1636,
+      "summaryZh": "这是一个关于时空可组合性的编程范式项目，文档较少但概念新颖，可能涉及基于时间和空间的模块化编程方式。适合编程语言研究者、系统架构师或对创新编程范式感兴趣的开发者，用于探索新的抽象方法。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T09:53:33Z"
+    },
+    {
+      "repo": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "language": "TypeScript",
+      "stars": 1292,
+      "summaryZh": "这是一个针对 TypeScript 和 JavaScript 的 Oxlint 规则集，旨在拒绝低质量或低证据的编码模式，提升代码质量。适合使用 Oxlint 的团队，尤其是追求严谨代码风格和高质量开发的场景。",
+      "category": "开发工具",
+      "createdAt": "2026-08-12T13:48:50Z"
+    },
+    {
+      "repo": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
+      "language": "TypeScript",
+      "stars": 1282,
+      "summaryZh": "这是一个针对 DeepSeek Harness 官方缺少终端 TUI 的补位插件，采用 Claude Code 风格的全屏交互终端界面，包含像素鲸鱼顶栏、实时状态行、思考流式展开等功能，支持 npm 一键安装。适合偏好命令行界面的极客开发者，提升 DSH 使用效率。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T12:49:31Z"
+    },
+    {
+      "repo": "gvzdv/claudish-to-english",
+      "url": "https://github.com/gvzdv/claudish-to-english",
+      "description": "",
+      "language": "Shell",
+      "stars": 1195,
+      "summaryZh": "这是一个 Shell 语言项目，描述为空，可能用于将 Claudish (某种方言或格式) 转换为英文，具体功能需查看仓库。适合需要处理相关格式转换的用户。",
+      "category": "其他",
+      "createdAt": "2026-08-10T18:32:23Z"
+    },
+    {
+      "repo": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 1127,
+      "summaryZh": "这是一个将技术书籍 PDF 转换为 Claude Code 技能的工具，以 Python 编写，支持研究、参考和工作中使用。适合使用 Claude Code 的开发者，便于将书籍知识转化为可交互的技能，提升学习与工作效率。",
+      "category": "资料教程",
+      "createdAt": "2026-08-13T13:15:23Z"
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1030,
+      "summaryZh": "这是一个 TypeScript 项目，描述为空，从名称推测可能是开源鼠标机器人，用于自动化鼠标操作。适合需要自动化点击或脚本化鼠标动作的用户，具体功能有待仓库说明。",
+      "category": "其他",
+      "createdAt": "2026-08-11T18:58:55Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "denoland/celld",
+      "url": "https://github.com/denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "stars": 3670,
+      "summaryZh": "这是一个用 Rust 编写的自托管分布式 Durable Objects 库，由 Deno 团队维护，提供持久化对象在分布式环境中的支持。适合需要构建高可用、一致性的分布式应用的开发者，与 Deno 生态集成紧密。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1063（+41%）",
+      "reasonZh": "用 Rust 写的自托管分布式 Durable Objects，和 Deno 生态打通，适合跑地理分布的多人在线应用。比传统数据库方案更简单，部署后能直接提供强一致的持久化状态，适合独立开发者或小团队做实时协作工具。目前涨星很猛，但整体还是新项目，值得抢先体验。"
+    },
+    {
+      "repo": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
+      "language": "TypeScript",
+      "stars": 3111,
+      "summaryZh": "这是一个免费开源的跨平台 AI 办公套件，支持 Word、Excel、PowerPoint、PDF 和 Markdown 编辑，并内置 AI 代理，可在 macOS、Windows 和 Linux 上运行。适合需要 AI 辅助办公文档处理的个人或团队，提升工作效率。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +846（+37%）",
+      "reasonZh": "免费开源的跨平台 AI 办公套件，能直接替代 Word/Excel/PPT，还内置 AI 智能体，支持 .docx、.xlsx、.pptx、PDF 和 Markdown。和 LibreOffice 之类比，更现代、界面友好，并且自带 AI 功能。日常办公、做文档和表格都能用，尤其适合想摆脱订阅制又需要 AI 辅助的人。"
+    },
+    {
+      "repo": "mokshablr/gander",
+      "url": "https://github.com/mokshablr/gander",
+      "description": "Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.",
+      "language": "JavaScript",
+      "stars": 782,
+      "summaryZh": "这是一个零权限、离线优先的 Android 文件查看器，支持 PDF、Word、Excel、PowerPoint、照片、视频、音频、Markdown 和代码，无需网络或存储权限，注重隐私。适合注重隐私、经常浏览多种文件类型的移动端用户。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +220（+39%）",
+      "reasonZh": "零权限、离线优先的 Android 全能文件查看器，支持 PDF、Office、音视频、Markdown 和代码。最大亮点是完全不需要任何权限就能打开文件，隐私性极强。同类应用大多要存储权限，这个做到了零权限，适合注重隐私、只想快速浏览文件的安卓用户。"
+    },
+    {
+      "repo": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars": 4373,
+      "summaryZh": "这是一个针对单体仓库的终极 RAG (检索增强生成) 工具，利用知识图谱和 AI (如 Claude Code) 查询、理解和编辑多语言代码库，支持 MCP 服务器。适合大型项目开发者，用于快速搜索和理解代码。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1303（+42%）",
+      "reasonZh": "为大型代码库打造的知识图谱 RAG 工具，能让你用 AI 查询、理解和修改多语言代码。它把 AST、知识图谱和语义搜索结合，解决了普通 RAG 在代码上容易出错的问题。开发者想深入理解不熟悉的项目、做代码重构时会非常有用，比单纯的向量检索更准确。"
+    },
+    {
+      "repo": "ShawnPana/phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "description": "let your agent control your phone",
+      "language": "Python",
+      "stars": 1815,
+      "summaryZh": "一个让AI代理控制手机的框架，通过桥接实现对设备的自动化操作。它支持Python，提供开发者工具集，适用于构建手机自动化或智能助理等场景。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +899（+98%）",
+      "reasonZh": "让 AI 代理直接控制你的手机完成自动化操作。类似 Appium 但更轻、更专注。最大亮点是零代码配置，用自然语言就能描述任务。对想提升效率、让手机自动完成琐事的普通用户很有吸引力，也可以用于测试或个人助理场景。"
+    },
+    {
+      "repo": "kirodotdev/KiroCrew",
+      "url": "https://github.com/kirodotdev/KiroCrew",
+      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+      "language": "Python",
+      "stars": 2912,
+      "summaryZh": "一个持久化开发工作区，能自我改进并超越单次会话。基于AI代理技术，支持自动化任务，适用于需要长期迭代的复杂开发项目。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · ai-agent",
+      "reasonZh": "一个自我改进的持久化 AI 开发工作空间，能跨会话继续工作。亮点是它不只是聊天，而是有一个持续运行的状态，能记住上下文并不断优化自己的工作流程。对开发者来说，它会像一个越来越懂你的编程搭档，适合处理大型、多步骤的开发任务。"
+    },
+    {
+      "repo": "shy3130/tickflow-stock-panel",
+      "url": "https://github.com/shy3130/tickflow-stock-panel",
+      "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
+      "language": "Python",
+      "stars": 2864,
+      "summaryZh": "自托管的A股量化工作台，集选股、监控、回测于一体。基于TickFlow数据源，利用LLM驱动策略定制与个股分析，支持第三方数据源扩展。适合个人量化投资者使用。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · ai-agent",
+      "reasonZh": "自托管、零运维的 A 股量化工作台，集选股、监控、回测于一体，还能接入 LLM 定制策略。和付费炒股软件比，它是开放、可定制的，能接入自己的数据源。适合喜欢 DIY、想用数据说话的个人投资者。"
+    },
+    {
+      "repo": "Netw0rkNoob/VulnClaw",
+      "url": "https://github.com/Netw0rkNoob/VulnClaw",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "language": "Python",
+      "stars": 2807,
+      "summaryZh": "基于AI Agent和MCP工具链的渗透测试工具，可通过自然语言输入自动完成信息收集、漏洞发现、利用及报告生成。适用于安全测试和CTF竞赛。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · ai-agent",
+      "reasonZh": "用 AI Agent 自动完成渗透测试全流程，从信息收集到漏洞利用再到生成报告。亮点是把复杂的渗透流程标准化，只需要自然语言输入。对安全小白来说，可以快速学习或测试；对于专业人士，则能极大提高效率。开源的工具，价值很高。"
+    },
+    {
+      "repo": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 2080,
+      "summaryZh": "开源、开箱即用的AI代理，支持多种平台。能理解指令并自动完成任务，集成了Claude等模型，适用于个人助理和自动化场景。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · ai-agent",
+      "reasonZh": "开箱即用的开源 AI Agent，支持桌面和移动端。它没有复杂的配置，装好就能用。而且开源意味着数据由自己掌控，功能也可以自由扩展。对普通用户来说，想找个免费、私密的语音助手或 AI 助理，这几乎是首选。它和 Claude Code 等类似，但定位更大众化。"
+    },
+    {
+      "repo": "lajosdeme/mole",
+      "url": "https://github.com/lajosdeme/mole",
+      "description": "A deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.",
+      "language": "Go",
+      "stars": 194,
+      "summaryZh": "深度研究代理，带有预算控制和引用验证，并保护本地数据隐私。基于Go实现，适用于需要可靠引用的研究任务。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 92 分 · 13 评论",
+      "reasonZh": "一个带预算控制和隐私边界的深度研究代理。它能像人一样先做计划，然后花限额里的钱去查资料，并且所有引用都可验证。最大亮点是可控成本和保护本地数据。对学生、记者或任何需要做研究报告但不想花大价钱的人来说，非常实用。"
+    }
+  ]
+}
