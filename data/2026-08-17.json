@@ -1,0 +1,279 @@
+{
+  "date": "2026-08-17",
+  "trending": [
+    {
+      "repo": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "stars": 4812,
+      "summaryZh": "Cordis 是一个用于时空组合性的元框架，专注于构建可组合的时空应用。它提供核心基础设施，支持插件化扩展，适合需要复杂时空数据处理或事件驱动架构的开发者。",
+      "category": "开发工具",
+      "starsToday": 720
+    },
+    {
+      "repo": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": 25429,
+      "summaryZh": "Omarchy 是一个美观、现代且注重观点的 Linux 发行版，旨在提供开箱即用的优雅体验。它整合了常用工具和配置，适合追求高效与美感的开发者或日常用户。",
+      "category": "其他",
+      "starsToday": 270
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars": 72635,
+      "summaryZh": "Unsloth 提供本地 UI，用于运行和训练 LLM 及扩散模型，支持 Qwen3.8、Kimi K3、DeepSeek-V4 等多种模型。它优化了资源占用和速度，适合需要在本地进行模型实验或微调的研究者和开发者。",
+      "category": "开发工具",
+      "starsToday": 572
+    },
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 83933,
+      "summaryZh": "OpenCut 是开源的 CapCut 替代品，提供视频剪辑功能。它注重开放性，支持多平台，适合需要免费、灵活剪辑工具的创作者。",
+      "category": "其他",
+      "starsToday": 150
+    },
+    {
+      "repo": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 461853,
+      "summaryZh": "这是一个集体整理的免费 API 列表，涵盖各类领域如天气、金融、娱乐等。它为开发者提供一站式 API 发现资源，适合快速寻找公共接口用于项目开发。",
+      "category": "资料教程",
+      "starsToday": 1588
+    },
+    {
+      "repo": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars": 40071,
+      "summaryZh": "ToolJet 是开源的企业应用生成平台，用于构建内部工具、仪表盘、业务应用和工作流，支持 AI 代理。它提供可视化界面和丰富的连接器，适合企业快速搭建内部系统。",
+      "category": "开发工具",
+      "starsToday": 452
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "language": "TypeScript",
+      "stars": 133936,
+      "summaryZh": "DeepSeek Harness 是一个插件化框架，强调“一切皆插件”，用于构建 AI 代理和工具。它支持灵活扩展，适合开发者构建定制化 AI 解决方案。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T11:56:32Z"
+    },
+    {
+      "repo": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "language": "Python",
+      "stars": 11678,
+      "summaryZh": "这是用于去除多厂商 AI 来源标记的工具，包括 Unicode 文本清理、统计重写钩子，以及从 PNG/JPEG/SVG/PDF/DOCX/HTML/MD 中移除 C2PA 元数据。它适合需要保护隐私或清理文档来源标记的用户。",
+      "category": "其他",
+      "createdAt": "2026-08-11T16:32:38Z"
+    },
+    {
+      "repo": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+      "language": "TypeScript",
+      "stars": 9268,
+      "summaryZh": "这是为 DeepSeek Harness 插件生态打造的现代化桌面端解决方案，提供直观的界面管理 DSH 插件。适合希望以桌面应用方式使用 DSH 的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T16:30:50Z"
+    },
+    {
+      "repo": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "language": "Python",
+      "stars": 5431,
+      "summaryZh": "这是一个 DeepSeek Harness (DSH) 插件的精选列表，汇集了各类插件资源。它为 DSH 用户提供发现优质插件的入口，适合扩展 DSH 功能。",
+      "category": "资料教程",
+      "createdAt": "2026-08-13T13:55:31Z"
+    },
+    {
+      "repo": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "language": "TypeScript",
+      "stars": 3507,
+      "summaryZh": "这是 DeepSeek Harness 的 Web UI 插件和皮肤集合，包括任务板、Git 图、侧面板、移动端 UI、宠物、实时 token 统计和皮肤中心。它增强了 DSH 的可视化体验，适合喜欢自定义界面的用户。",
+      "category": "前端",
+      "createdAt": "2026-08-12T05:15:20Z"
+    },
+    {
+      "repo": "xiaobright/dsh-anchored-standard",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "language": "JavaScript",
+      "stars": 3086,
+      "summaryZh": "这是 DeepSeek Harness 的两阶段预设，先最小化引导，再加载完整标准工具，Project2 达 98/99 分。它适合需要标准化 DSH 配置的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-14T14:06:39Z"
+    },
+    {
+      "repo": "yjh051108/dsh-routing-suite",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "language": "PowerShell",
+      "stars": 2907,
+      "summaryZh": "这是 dsh-routing-suite，包含注入器和路由器标准套件，先安装运行时注入器，再应用任务感知推理模式路由器预设。它适合需要优化 DSH 路由场景的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-14T21:20:55Z"
+    },
+    {
+      "repo": "cordiverse/paper",
+      "url": "https://github.com/cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "language": "",
+      "stars": 1894,
+      "summaryZh": "Paper 是一种时空组合性的编程范式，用于编写可组合的时空逻辑。它提供新的编程模型，适合研究或探索复杂时空交互的应用开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T09:53:33Z"
+    },
+    {
+      "repo": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1768,
+      "summaryZh": "WeChat-AI 是一个使用 TypeScript 编写的项目，但没有描述。从仓库名推测，它可能涉及将 AI 集成到微信，但具体功能不明。适合对微信 AI 应用感兴趣的开发者。",
+      "category": "其他",
+      "createdAt": "2026-08-10T09:06:43Z"
+    },
+    {
+      "repo": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "language": "C",
+      "stars": 1731,
+      "summaryZh": "这是一个通过分解DRAM加扰来解锁CPU隐藏功能的项目，利用硬件逆向工程技术揭示处理器未公开特性。适合对底层硬件安全与逆向工程感兴趣的研究人员和爱好者。",
+      "category": "其他",
+      "createdAt": "2026-08-13T13:50:42Z"
+    },
+    {
+      "repo": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "language": "TypeScript",
+      "stars": 1683,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-12T13:48:50Z"
+    },
+    {
+      "repo": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "language": "TypeScript",
+      "stars": 1572,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-13T12:49:31Z"
+    },
+    {
+      "repo": "gvzdv/claudish-to-english",
+      "url": "https://github.com/gvzdv/claudish-to-english",
+      "description": "",
+      "language": "Shell",
+      "stars": 1240,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-10T18:32:23Z"
+    },
+    {
+      "repo": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 1155,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-13T13:15:23Z"
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open Source Alternative to Grok Bot with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": 1116,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-11T18:58:55Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "mokshablr/gander",
+      "url": "https://github.com/mokshablr/gander",
+      "description": "Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.",
+      "language": "JavaScript",
+      "stars": 787,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +196（+33%）",
+      "reasonZh": "一款零权限、离线的安卓文件查看器，能看 PDF、Word、PPT、视频、代码等，完全保护隐私。同类工具要么联网要么要权限，它却完全离线且免费，适合注重隐私或经常离线看文件的用户。"
+    },
+    {
+      "repo": "lajosdeme/mole",
+      "url": "https://github.com/lajosdeme/mole",
+      "description": "A deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.",
+      "language": "Go",
+      "stars": 216,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 100 分 · 14 评论",
+      "reasonZh": "一个带预算控制、可验证引用的深度研究代理，还能保护本地数据隐私。和普通研究工具比，它强制预算、确保引用真实，适合做严肃调研又怕 AI 胡说八道的场景，比如写报告或查资料。"
+    },
+    {
+      "repo": "carpdiem/ember",
+      "url": "https://github.com/carpdiem/ember",
+      "description": "Redshift-aware terminal, categorical, and sequential color palettes",
+      "language": "Python",
+      "stars": 132,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 112 分 · 23 评论",
+      "reasonZh": "为终端、分类和连续色板设计的红移感知调色板，能根据环境光线自动调整颜色，保护眼睛。同类工具少见，特别适合长时间在终端工作的开发者，减少视觉疲劳。"
+    },
+    {
+      "repo": "ArcadeMakerSources/ArcadeMaker",
+      "url": "https://github.com/ArcadeMakerSources/ArcadeMaker",
+      "description": "A 2D Game Engine with its own programming language and IDE.",
+      "language": "C#",
+      "stars": 111,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 118 分 · 64 评论",
+      "reasonZh": "一个自带编程语言和 IDE 的 2D 游戏引擎，提供了完整的游戏开发环境。对比其他引擎，它一体化的设计让新手也能快速上手，适合想学游戏开发或做小游戏的开发者。"
+    },
+    {
+      "repo": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "language": "Python",
+      "stars": 2773,
+      "summaryZh": "",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +659（+31%）",
+      "reasonZh": "让 AI 写的中文更像真人，开箱即用的写作 Skill。和普通润色工具相比，它针对中文语境优化，适合需要大量创作中文内容的用户，比如自媒体、文案写手，能显著提升文本自然度。"
+    }
+  ]
+}
