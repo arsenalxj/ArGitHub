@@ -1,0 +1,351 @@
+{
+  "date": "2026-08-19",
+  "trending": [
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 108647,
+      "summaryZh": "这是一个基于AI大模型和自动化工作流的短视频生成工具，输入主题或关键词即可一键生成高清短视频。核心亮点是整合了文案生成、素材匹配、配音和剪辑的全流程自动化，无需人工干预。适合内容创作者、营销人员或需要快速产出视频的个人和团队使用。",
+      "category": "AI",
+      "starsToday": 2304
+    },
+    {
+      "repo": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": 2077,
+      "summaryZh": "这是一个本地多智能体协作框架，用于协调多个AI代理协同完成任务。它提供了代理间通信与任务分配机制，支持灵活配置工作流。适合开发者构建复杂的多代理应用，或在本地环境中进行智能体实验。",
+      "category": "开发工具",
+      "starsToday": 306
+    },
+    {
+      "repo": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 2761,
+      "summaryZh": "这是一个为AI编码CLI提供长期记忆的解决方案，支持在不同AI代理供应商之间切换时保持上下文。它通过持久化记忆存储实现状态延续，减少重复输入。适合频繁使用AI编程工具或跨平台切换代理的开发者。",
+      "category": "开发工具",
+      "starsToday": 648
+    },
+    {
+      "repo": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars": 29442,
+      "summaryZh": "这是一个自进化的上下文数据库，用于AI代理的统一记忆、知识检索和技能管理。它支持动态更新知识库并优化RAG效果。适合需要长期记忆或知识库增强的AI应用开发者。",
+      "category": "AI",
+      "starsToday": 213
+    },
+    {
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 29234,
+      "summaryZh": "这是一个包含817个结构化网络安全技能的集合，映射到MITRE ATT&CK等6个框架，符合agentskills.io标准。它可直接集成到AI代理中，用于自动化安全分析和响应。适合安全研究人员和AI开发者在安全场景中使用。",
+      "category": "AI",
+      "starsToday": 730
+    },
+    {
+      "repo": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 464630,
+      "summaryZh": "这是一个收集了数百个免费公共API的列表，涵盖各种类别。它提供了按分类索引的API清单，方便开发者快速查找和集成。适合需要免费数据或服务的开发者。",
+      "category": "其他",
+      "starsToday": 1005
+    },
+    {
+      "repo": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": 26451,
+      "summaryZh": "这是一个美观、现代且具有主见性的Linux发行版，旨在提供开箱即用的精致体验。它集成了自定义主题和优化配置，适合追求美观和易用性的Linux用户。",
+      "category": "其他",
+      "starsToday": 356
+    },
+    {
+      "repo": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars": 53706,
+      "summaryZh": "这是一个功能全面的下载管理器，支持HTTP、FTP、BitTorrent等多种协议。它拥有简洁的界面和强大的任务调度功能，跨平台支持。适合需要高效、稳定下载工具的用户。",
+      "category": "开发工具",
+      "starsToday": 609
+    },
+    {
+      "repo": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars": 24332,
+      "summaryZh": "这是一个开源、低成本的10.5 GHz相控阵雷达系统，基于PLFM架构。它提供了雷达信号处理和成像的基本功能，适合教育、科研或低成本雷达实验。",
+      "category": "其他",
+      "starsToday": 192
+    },
+    {
+      "repo": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": 19428,
+      "summaryZh": "这是一个为Apple Silicon优化的LLM推理服务器，支持连续批处理和SSD缓存，可从菜单栏管理。它提供了高效的本地推理能力，适合Mac用户进行AI模型部署和实验。",
+      "category": "AI",
+      "starsToday": 370
+    },
+    {
+      "repo": "genlayerlabs/genlayer-project-boilerplate",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 15973,
+      "summaryZh": "这是一个项目模板，用于快速启动GenLayer项目。它提供了标准化的项目结构和配置，方便开发者快速上手。适合使用GenLayer的开发者。",
+      "category": "开发工具",
+      "starsToday": 535
+    },
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 84814,
+      "summaryZh": "这是一个开源视频编辑软件，作为CapCut的替代品。它提供了时间线编辑、转场、滤镜等基本功能，支持多种导出格式。适合需要免费、开源视频编辑工具的创作者。",
+      "category": "其他",
+      "starsToday": 192
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "language": "TypeScript",
+      "stars": 160949,
+      "summaryZh": "这是一个插件化AI代理框架，声称万物皆插件，提供灵活扩展性。它基于Cordis架构，支持自定义插件开发。适合开发者构建个性化AI代理。",
+      "category": "AI",
+      "createdAt": "2026-08-13T11:56:32Z"
+    },
+    {
+      "repo": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "language": "TypeScript",
+      "stars": 13724,
+      "summaryZh": "这是DeepSeek Harness的桌面端解决方案，将桌面本身作为插件。它集成了现代化界面和插件管理，提供更好的用户体验。适合使用DeepSeek Harness的桌面用户。",
+      "category": "AI",
+      "createdAt": "2026-08-13T16:30:50Z"
+    },
+    {
+      "repo": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "language": "Python",
+      "stars": 8991,
+      "summaryZh": "这是一个DeepSeek Harness插件的精选列表，收集了各种有用的插件。它提供了分类索引和说明，方便用户发现和选择插件。适合DeepSeek Harness用户。",
+      "category": "资料教程",
+      "createdAt": "2026-08-13T13:55:31Z"
+    },
+    {
+      "repo": "yjh051108/dsh-routing-suite",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "language": "PowerShell",
+      "stars": 6064,
+      "summaryZh": "这是为 DeepSeek Harness 设计的注入器与路由标准套件：先安装运行时注入器，再安装任务感知的推理模式路由预设。内置 P1-P23 的测量数据，可提升任务路由效率。适合需要精细控制推理模式的高级 DSH 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-08-14T21:20:55Z"
+    },
+    {
+      "repo": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "language": "TypeScript",
+      "stars": 4598,
+      "summaryZh": "这是 DeepSeek Harness 网页 UI 的插件与皮肤合集，提供任务看板、Git 图、右侧面板、远程移动界面、宠物、实时 Token 统计及皮肤中心。用 TypeScript 构建，可扩展定制界面。适合希望丰富 DSH 网页端功能的开发者。",
+      "category": "前端",
+      "createdAt": "2026-08-12T05:15:20Z"
+    },
+    {
+      "repo": "xiaobright/dsh-anchored-standard",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "language": "JavaScript",
+      "stars": 3566,
+      "summaryZh": "这是 DeepSeek Harness 的两阶段预设：先进行最小化引导，再启用完整标准工具集。实测在 Project2 上达到 98/99 的通过率。适合需要稳定且完整 DSH 配置的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-14T14:06:39Z"
+    },
+    {
+      "repo": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "language": "TypeScript",
+      "stars": 2644,
+      "summaryZh": "这是为 Oxlint 设计的意见性规则集，专门拒绝低质量的 TypeScript 和 JavaScript 代码模式。可帮助团队保持代码整洁、可靠。适合追求高代码标准的 JavaScript/TypeScript 项目。",
+      "category": "开发工具",
+      "createdAt": "2026-08-12T13:48:50Z"
+    },
+    {
+      "repo": "yetone/cumora",
+      "url": "https://github.com/yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "language": "TypeScript",
+      "stars": 2408,
+      "summaryZh": "这是面向 AI 代理团队的跨平台聊天工具，将 AI 代理视为一等队友，支持云端或自带大脑（如 Claude Code、Codex）。适合需要人机协作的团队。",
+      "category": "其他",
+      "createdAt": "2026-08-17T09:13:52Z"
+    },
+    {
+      "repo": "cordiverse/paper",
+      "url": "https://github.com/cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "language": "",
+      "stars": 2303,
+      "summaryZh": "这是一个面向时空可组合性的编程范式，旨在处理时空相关的问题。目前尚处于概念阶段。适合对新型编程范式感兴趣的研究者。",
+      "category": "其他",
+      "createdAt": "2026-08-13T09:53:33Z"
+    },
+    {
+      "repo": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "language": "TypeScript",
+      "stars": 1981,
+      "summaryZh": "这是 DSH 官方公众号收录的终端界面插件，采用 Claude Code 风格，提供鲸鱼顶栏、实时状态、流式思考等功能，支持双击 Esc 回滚及上下文进度显示。通过 npm 即可安装。适合在终端中使用 DSH 的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T12:49:31Z"
+    },
+    {
+      "repo": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "language": "C",
+      "stars": 1826,
+      "summaryZh": "这个项目通过 DRAM 加扰技术解锁 CPU 的全部潜力，涉及底层硬件操作。适合对硬件安全或系统底层感兴趣的技术人员。",
+      "category": "其他",
+      "createdAt": "2026-08-13T13:50:42Z"
+    },
+    {
+      "repo": "Small-tailqwq/dsh-deep-whale",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "language": "TypeScript",
+      "stars": 1382,
+      "summaryZh": "这是 DSH 网页端的鲸鱼娘皮肤系列，属于深海女仆工坊作品，采用 CC BY-NC-SA 4.0 许可。可美化 DSH 界面。适合喜欢个性化界面的 DSH 用户。",
+      "category": "前端",
+      "createdAt": "2026-08-13T13:02:14Z"
+    },
+    {
+      "repo": "Hisn00w/ASu-skills",
+      "url": "https://github.com/Hisn00w/ASu-skills",
+      "description": "简历包装",
+      "language": "HTML",
+      "stars": 1354,
+      "summaryZh": "这个项目提供简历包装的技能或资源，帮助用户优化简历。内容以 HTML 形式呈现。适合求职者参考。",
+      "category": "其他",
+      "createdAt": "2026-08-12T07:12:05Z"
+    },
+    {
+      "repo": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 1193,
+      "summaryZh": "这个工具可将技术书籍 PDF 转换为 Claude Code 技能，方便学习、参考和工作中使用。基于 Python 开发，支持多种 PDF 处理功能。适合需要将书籍知识集成到编码助手的使用者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T13:15:23Z"
+    },
+    {
+      "repo": "jdshfhds/northcinder",
+      "url": "https://github.com/jdshfhds/northcinder",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "language": "JavaScript",
+      "stars": 1158,
+      "summaryZh": "这是一个买家主导、无广告的购物代理 MCP 软件，提供确定性排序、签名购买授权和本地审计追踪。适合注重购物透明度和自主权的用户。",
+      "category": "其他",
+      "createdAt": "2026-08-17T11:42:31Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "LaoFeng-mouse/flyingmouse-format",
+      "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
+      "description": "飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳",
+      "language": "JavaScript",
+      "stars": 3746,
+      "summaryZh": "这是 Windows 上的免费离线文件格式转换工具，支持图片、文档、表格、PPT、PDF、音视频及 WPS 格式互转，内置 OCR 和批量转换功能。基于 Electron 和 FFmpeg 等构建。适合需要离线转换文件且重视隐私的个人用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +2463（+192%）",
+      "reasonZh": "Windows 上免费用、离线可用的全能格式转换工具，内置 FFmpeg、LibreOffice、OCR，文档、音视频、PDF 批量互转一把梭，比在线转换靠谱又能保护隐私。装了它基本不用再找格式转换网站了。"
+    },
+    {
+      "repo": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars": 3678,
+      "summaryZh": "Macro 是团队统一工作空间，集成邮件、聊天、文档、任务、代理、通话和 CRM，通过 @ 链接和共享 AI 记忆。基于 Rust 和 TypeScript 开发。适合需要整合多种工具的团队。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +1739（+90%）",
+      "reasonZh": "一个把邮件、聊天、文档、任务、CRM 全部 @ 链接起来的统一工作台，带 AI 记忆。对想摆脱 Slack、Notion、邮箱来回切换的团队来说，是真正的 all-in-one 方案，用 Rust 写的，性能也猛。"
+    },
+    {
+      "repo": "DenisSergeevitch/desktop-fly",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+      "language": "Swift",
+      "stars": 170,
+      "summaryZh": "这是一个在 macOS 桌面上运行的 3D 果蝇，由真实 FlyWire 连接组的实时脉冲模拟驱动。基于 Swift 开发。适合对神经科学或桌面趣味应用感兴趣的用户。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 160 分 · 37 评论",
+      "reasonZh": "新奇得离谱：一只 3D 果蝇就在你 Mac 桌面上爬，大脑是实时跑的 FlyWire 连接组脉冲模拟。对神经科学爱好者和折腾党来说，这是把真实生物模型变成桌面伴侣的硬核浪漫。"
+    },
+    {
+      "repo": "halcyon-video/halcyon-video",
+      "url": "https://github.com/halcyon-video/halcyon-video",
+      "description": "Your Jellyfin or Plex library as a walkable 1990s video rental store — three.js, first-person, self-hosted",
+      "language": "TypeScript",
+      "stars": 401,
+      "summaryZh": "将Jellyfin或Plex媒体库以可漫步的1990年代录像带租赁店形式呈现，基于three.js实现第一人称视角。核心亮点是复古怀旧的交互体验，支持自托管。适合喜欢怀旧风格、希望以沉浸方式浏览个人媒体库的自托管爱好者。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +111（+38%）",
+      "reasonZh": "把 Jellyfin 或 Plex 的影片库变成能走进去的 90 年代录像带店，第一视角在货架间穿行选片，怀旧感拉满。自托管影音玩家值得一试，比普通海报墙好玩太多。"
+    },
+    {
+      "repo": "TheRealYT/git-knife",
+      "url": "https://github.com/TheRealYT/git-knife",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 394,
+      "summaryZh": "一个基于TypeScript的开发工具，目前没有详细描述，但周涨星高达137%，表明其功能可能高效实用。具体用途需进一步了解，但推测与Git相关操作或代码处理有关。适合开发者日常使用。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +228（+137%）",
+      "reasonZh": "名字很锋利：用交互式的方式帮你执行 Git 操作，可视化地挑文件、看 diff、做提交。对不熟命令行的新手和想减少误操作的开发者都友好，效率提升明显。"
+    },
+    {
+      "repo": "mewamew/my_ai_town",
+      "url": "https://github.com/mewamew/my_ai_town",
+      "description": "我的AI小镇",
+      "language": "GDScript",
+      "stars": 609,
+      "summaryZh": "中文社区项目“我的AI小镇”，用GDScript编写，可能是一个模拟AI角色在虚拟小镇中生活的游戏或引擎演示。核心功能是AI互动与场景构建，适合对AI模拟或Godot引擎感兴趣的开发者。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +169（+38%）",
+      "reasonZh": "用 GDScript 在 Godot 里搭的一个 \"AI 小镇\"，直观展示多个 AI 角色在场景里活动。对想做 AI NPC 或游戏原型的开发者来说，是个有趣、易上手的玩具式学习项目。"
+    }
+  ]
+}
