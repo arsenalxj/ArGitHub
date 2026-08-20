@@ -1,0 +1,397 @@
+{
+  "date": "2026-08-20",
+  "trending": [
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 110837,
+      "summaryZh": "利用AI大模型和自动化工作流，根据主题或关键词一键生成高清短视频。核心功能包括自动文案、配音、配图和剪辑，适合内容创作者快速批量产出视频。",
+      "category": "其他",
+      "starsToday": 2221
+    },
+    {
+      "repo": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars": 30245,
+      "summaryZh": "为AI代理设计的自进化上下文数据库，统一代理记忆、知识RAG和技能。支持动态更新与检索，适合构建需要长期记忆和知识管理的智能助手应用。",
+      "category": "开发工具",
+      "starsToday": 804
+    },
+    {
+      "repo": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": 2714,
+      "summaryZh": "本地多代理协调框架，用于管理和编排多个AI代理协同工作。提供代理通信、任务分配和状态管理功能，适合在本地环境中开发和测试多代理系统。",
+      "category": "开发工具",
+      "starsToday": 795
+    },
+    {
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 29868,
+      "summaryZh": "提供817个结构化网络安全技能，映射到MITRE ATT&CK等6个框架，符合agentskills.io标准。适合安全分析师和AI代理开发者，用于增强代理的安全知识和应对能力。",
+      "category": "资料教程",
+      "starsToday": 766
+    },
+    {
+      "repo": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars": 26458,
+      "summaryZh": "基于Rust的高性能交易引擎，采用确定性事件驱动架构，支持生产级量化交易。提供低延迟和高可靠性，适合专业量化交易团队和算法交易系统开发。",
+      "category": "开发工具",
+      "starsToday": 80
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 223893,
+      "summaryZh": "为工程师提供的实用技能集合，源自作者.agents目录。包含多种编程和工程实践技能，可直接用于AI代理或开发环境，提升工作效率。",
+      "category": "资料教程",
+      "starsToday": 1894
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 274306,
+      "summaryZh": "一套代理技能框架和软件开发方法论，强调实用性。提供结构化技能定义和开发流程，帮助团队高效构建和管理AI代理应用。",
+      "category": "开发工具",
+      "starsToday": 557
+    },
+    {
+      "repo": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": 19852,
+      "summaryZh": "专为Apple Silicon设计的LLM推理服务器，支持连续批处理和SSD缓存，可从macOS菜单栏管理。适合在Mac上本地运行大型语言模型，提供高效推理。",
+      "category": "开发工具",
+      "starsToday": 472
+    },
+    {
+      "repo": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars": 65824,
+      "summaryZh": "开源AI求职工具，扫描招聘门户并用A-F评分评估职位，定制简历并跟踪申请，可本地运行。适合求职者自动化搜索和申请工作。",
+      "category": "其他",
+      "starsToday": 198
+    },
+    {
+      "repo": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": 111893,
+      "summaryZh": "高性能自托管照片和视频管理解决方案，支持自动备份、智能相册和分享。适合注重隐私、希望自主控制媒体数据的个人或家庭用户。",
+      "category": "其他",
+      "starsToday": 128
+    },
+    {
+      "repo": "amadeusprotocol/node",
+      "url": "https://github.com/amadeusprotocol/node",
+      "description": "",
+      "language": "Rust",
+      "stars": 4574,
+      "summaryZh": "阿玛迪斯协议节点，用于去中心化网络。具体功能可能涉及区块链或分布式系统，适合技术开发者研究和部署节点。",
+      "category": "其他",
+      "starsToday": 1397
+    },
+    {
+      "repo": "marceloprates/prettymaps",
+      "url": "https://github.com/marceloprates/prettymaps",
+      "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+      "language": "Python",
+      "stars": 13158,
+      "summaryZh": "从OpenStreetMap数据绘制美观地图，基于osmnx、matplotlib和shapely。适合地理信息可视化、数据分析和艺术创作。",
+      "category": "其他",
+      "starsToday": 63
+    },
+    {
+      "repo": "genlayerlabs/genlayer-project-boilerplate",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 16226,
+      "summaryZh": "GenLayer项目的样板代码，用于快速搭建项目。提供基础结构和配置，适合开发者初始化新应用。",
+      "category": "开发工具",
+      "starsToday": 430
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "language": "TypeScript",
+      "stars": 167849,
+      "summaryZh": "DeepSeek Harness：万物皆可插件。提供插件化架构，支持AI代理和工具扩展，适合构建灵活可扩展的AI系统。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T11:56:32Z"
+    },
+    {
+      "repo": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "language": "TypeScript",
+      "stars": 15276,
+      "summaryZh": "为DeepSeek Harness插件生态打造的桌面端解决方案，桌面本身作为插件。提供现代化界面和交互，适合在桌面环境中管理和使用DSH插件。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T16:30:50Z"
+    },
+    {
+      "repo": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "language": "Python",
+      "stars": 10080,
+      "summaryZh": "这是一个DeepSeek Harness (dsh)插件的精选列表，汇集了各类高质量插件资源。它整理了插件目录和分类，方便用户发现和选择。适合dsh用户和开发者浏览探索，快速找到满足需求的插件。",
+      "category": "资料教程",
+      "createdAt": "2026-08-13T13:55:31Z"
+    },
+    {
+      "repo": "yjh051108/dsh-routing-suite",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "language": "PowerShell",
+      "stars": 6315,
+      "summaryZh": "dsh-routing-suite为DeepSeek Harness提供注入器和路由器标准套件。它先安装运行时注入器，再配置任务感知的推理模式路由器，据称性能提升显著（P1-P23）。适合需要精细控制dsh推理流程的进阶用户。",
+      "category": "开发工具",
+      "createdAt": "2026-08-14T21:20:55Z"
+    },
+    {
+      "repo": "xiaobright/dsh-anchored-standard",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "language": "JavaScript",
+      "stars": 3641,
+      "summaryZh": "这是一个DeepSeek Harness预设，采用两阶段配置：先最小对齐引导，再加载完整标准工具集，据称达到Project2 98/99的高分。它简化了复杂环境设置，适合追求开箱即用且性能优秀的dsh用户。",
+      "category": "开发工具",
+      "createdAt": "2026-08-14T14:06:39Z"
+    },
+    {
+      "repo": "yetone/cumora",
+      "url": "https://github.com/yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "language": "TypeScript",
+      "stars": 2697,
+      "summaryZh": "Cumora是一个跨平台团队聊天应用，让AI代理成为团队的一等成员。它支持云服务或自带Claude Code/Codex等AI大脑，实现多代理协同工作。适合需要AI协作的团队，提升工作效率。",
+      "category": "其他",
+      "createdAt": "2026-08-17T09:13:52Z"
+    },
+    {
+      "repo": "cordiverse/paper",
+      "url": "https://github.com/cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "language": "",
+      "stars": 2401,
+      "summaryZh": "Paper提出了一种时空可组合性的编程范式，强调代码的时间和空间组合能力。它可能涉及新的抽象方式，适合对编程语言设计和系统架构感兴趣的开发者。该仓库暂无语言和详细说明，但概念新颖。",
+      "category": "其他",
+      "createdAt": "2026-08-13T09:53:33Z"
+    },
+    {
+      "repo": "s1dashu/ip-as-logo-skill",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "language": "",
+      "stars": 2136,
+      "summaryZh": "这是一个简洁的Agent技能，用于生成高度简化、圆润、微妙新拟物风格的IP吉祥物Logo。它集成了图像生成和设计功能，适合需要快速创建品牌形象的创作者和设计师。",
+      "category": "AI",
+      "createdAt": "2026-08-18T13:59:23Z"
+    },
+    {
+      "repo": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "language": "TypeScript",
+      "stars": 2085,
+      "summaryZh": "这是一个DeepSeek Harness的终端界面插件，采用Claude Code风格，具有鲸鱼顶栏、实时状态、流式思考、双击Esc回滚等功能。它通过npm一键安装，适合喜欢终端操作的dsh用户。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T12:49:31Z"
+    },
+    {
+      "repo": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "language": "C",
+      "stars": 1852,
+      "summaryZh": "这个项目通过DRAM加扰技术解锁CPU的全部能力，涉及底层硬件安全研究。它可能提供利用内存扰动进行特权访问的方法，适合对系统安全和硬件逆向感兴趣的开发者。",
+      "category": "其他",
+      "createdAt": "2026-08-13T13:50:42Z"
+    },
+    {
+      "repo": "Small-tailqwq/dsh-deep-whale",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "description": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。",
+      "language": "TypeScript",
+      "stars": 1461,
+      "summaryZh": "这是DeepSeek Harness的鲸鱼娘系列皮肤，为终端界面提供可爱的视觉主题。它用TypeScript编写，适合希望美化dsh界面的用户。安装后即可切换皮肤。",
+      "category": "前端",
+      "createdAt": "2026-08-13T13:02:14Z"
+    },
+    {
+      "repo": "dsh-market/dsh-market",
+      "url": "https://github.com/dsh-market/dsh-market",
+      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+      "language": "TypeScript",
+      "stars": 1267,
+      "summaryZh": "dsh-market是DeepSeek Harness的可视化插件市场，支持浏览、搜索和一键安装插件。它提供了友好的界面，大大简化了插件管理流程。适合所有dsh用户使用。",
+      "category": "开发工具",
+      "createdAt": "2026-08-14T04:58:15Z"
+    },
+    {
+      "repo": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 1202,
+      "summaryZh": "这个工具能将技术书籍PDF转换成Claude Code技能，方便在编程工作流中参考和学习。它支持PDF解析、知识提取，并生成结构化技能，适合希望将书籍知识融入编程实践的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T13:15:23Z"
+    },
+    {
+      "repo": "cinderline/northcinder",
+      "url": "https://github.com/cinderline/northcinder",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "language": "JavaScript",
+      "stars": 1193,
+      "summaryZh": "Northcinder是一个自托管的购物代理MCP软件，由买家运行，无广告。它提供确定性排序、签名购买授权和本地审计日志，保障购物的隐私和透明。适合注重隐私的购物者。",
+      "category": "其他",
+      "createdAt": "2026-08-17T11:42:31Z"
+    },
+    {
+      "repo": "dataelement/dsh-desktop",
+      "url": "https://github.com/dataelement/dsh-desktop",
+      "description": "DeepSeek Harness Desktop",
+      "language": "TypeScript",
+      "stars": 1118,
+      "summaryZh": "这是DeepSeek Harness的桌面客户端，基于TypeScript开发。它提供了图形化界面，方便用户管理代理和插件，并集成AI功能。适合偏好桌面应用而非命令行的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-08-13T13:45:50Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "LaoFeng-mouse/flyingmouse-format",
+      "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
+      "description": "飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳",
+      "language": "JavaScript",
+      "stars": 3879,
+      "summaryZh": "飞鼠格式是Windows平台免费的文件格式转换工具，支持图片、文档、表格、PPT、PDF、音视频等互转，内置OCR和批量转换功能，离线可用。它适合需要高效处理多种格式文件的用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +2596（+202%）",
+      "reasonZh": "Windows 上最强的免费格式转换工具，离线可用，内置 FFmpeg 和 LibreOffice，图片、文档、PDF、音视频随便转，还支持 OCR 和批量处理。比在线转换网站快且隐私安全，适合办公或日常处理各种格式文件，装机必备！"
+    },
+    {
+      "repo": "Shrey113/Android-Dex",
+      "url": "https://github.com/Shrey113/Android-Dex",
+      "description": "Enable a full desktop experience from any Android device over Wi‑Fi. No root, scrcpy-powered, Flutter desktop app with wireless ADB, per‑app audio, and quick controls.",
+      "language": "HTML",
+      "stars": 1717,
+      "summaryZh": "Android-Dex让Android设备通过Wi-Fi实现完整桌面体验，无需root，基于scrcpy引擎。它提供无线ADB、逐应用音频和快捷控件，适合希望将手机当作桌面电脑使用的用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +418（+32%）",
+      "reasonZh": "把任何 Android 手机变桌面电脑，无线连接、免 root，基于 scrcpy 还支持单独应用音频。比 Samsung Dex 通用得多，出差或办公时连上显示器就能用，适合想摆脱手机小屏幕的 Android 用户。"
+    },
+    {
+      "repo": "cwuom/NeriPlayer",
+      "url": "https://github.com/cwuom/NeriPlayer",
+      "description": "A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵",
+      "language": "Kotlin",
+      "stars": 2835,
+      "summaryZh": "一款原生 Android 音频播放器，支持多源在线播放、本地音乐管理、丰富歌词（含卡拉OK模式）和自建WebDAV同步。基于ExoPlayer和Jetpack Compose，提供USB独占、均衡器及GLSL着色器视觉效果。适合追求功能全面且注重隐私的自托管音乐爱好者。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "一个集在线播放、本地管理和歌词同步于一体的 Android 音乐播放器，还能自己搭服务同步，支持 WebDAV。比起流媒体 App 更自由，适合喜欢折腾、注重隐私又想听全网音乐的朋友。"
+    },
+    {
+      "repo": "NeptuneHub/AudioMuse-AI",
+      "url": "https://github.com/NeptuneHub/AudioMuse-AI",
+      "description": "AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex: no metadata or external services required.",
+      "language": "Python",
+      "stars": 2461,
+      "summaryZh": "利用声学分析（Librosa、ONNX）和LLM，为Navidrome、Jellyfin、Plex等媒体服务器生成智能播放列表，发现音乐库中隐藏联系和遗忘歌曲。提供Docker部署和Kubernetes支持，适合希望以AI驱动音乐发现的自托管用户。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "它用 AI 分析音乐库，帮你找回“遗忘的歌曲”并生成智能歌单，支持 Navidrome、Jellyfin 等主流媒体服务。对拥有大量本地音乐的发烧友来说，能重新发现自己的收藏，太实用了。"
+    },
+    {
+      "repo": "DenisSergeevitch/desktop-fly",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+      "language": "Swift",
+      "stars": 522,
+      "summaryZh": "在macOS桌面放置一只3D果蝇，其运动由真实FlyWire连接组的实时脉冲模拟驱动。基于Swift实现，将神经科学数据转化为生动的桌面宠物，适合对脑科学或趣味技术感兴趣的用户。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 372 分 · 182 评论",
+      "reasonZh": "桌面上的 3D 果蝇，背后是实时的果蝇脑 connectome 模拟，炫酷又硬核。比普通桌面宠物有科学内涵，适合对 AI/神经科学感兴趣的人，纯娱乐也能让人眼前一亮。"
+    },
+    {
+      "repo": "Pouzor/homelable",
+      "url": "https://github.com/Pouzor/homelable",
+      "description": "Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring",
+      "language": "TypeScript",
+      "stars": 2941,
+      "summaryZh": "自托管的家庭实验室基础设施可视化工具，交互式网络图实时监控Proxmox、网络、Zigbee等设备状态。基于TypeScript，帮助homelab爱好者直观管理和监控复杂自建环境。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "自托管家庭网络拓扑可视化工具，能实时展示设备状态，支持 Proxmox 和 Zigbee，一目了然。比起自己画图或用复杂的监控面板，它更简单直观，适合家里设备多、想一眼看清网络的人。"
+    },
+    {
+      "repo": "gamosoft/NoteDiscovery",
+      "url": "https://github.com/gamosoft/NoteDiscovery",
+      "description": "Your Self-Hosted Knowledge Base",
+      "language": "JavaScript",
+      "stars": 2760,
+      "summaryZh": "自托管知识库，支持Markdown笔记、Zettelkasten工作流，提供Docker部署，是Evernote、Notion、Obsidian的开源替代方案。适合注重隐私和个人知识管理的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "自托管的笔记和知识库系统，支持 Docker、Markdown 和 Zettelkasten，替代 Notion/Evernote 完全没问题。数据全在自己手里，适合注重隐私、喜欢用双链记笔记的人。"
+    },
+    {
+      "repo": "bestruirui/octopus",
+      "url": "https://github.com/bestruirui/octopus",
+      "description": "One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关",
+      "language": "TypeScript",
+      "stars": 2450,
+      "summaryZh": "为个人打造的LLM API聚合网关，统一管理OpenAI、Anthropic、Claude等多家模型接口，支持Codex和Claude Code。基于TypeScript，简化AI接入流程，适合开发者或团队整合多种LLM服务。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "个人 LLM API 网关，把 OpenAI、Claude 等多家模型统一成一套接口，还能装在自己服务器上。平时用 Cursor 或者写代码时想切换模型，不用改代码，适合多模型党。"
+    },
+    {
+      "repo": "bookorbit/bookorbit",
+      "url": "https://github.com/bookorbit/bookorbit",
+      "description": "BookOrbit: Your Reading Space",
+      "language": "TypeScript",
+      "stars": 2446,
+      "summaryZh": "自托管的数字图书馆管理平台，支持电子书阅读、音频播放、元数据管理和OPDS，基于NestJS和Vue构建，提供OIDC单点登录。适合个人或组织打造私有的阅读空间，替代商业云服务。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "自托管电子书和有声书库，支持 OPDS 和多种元数据管理，界面现代。比 Calibre-Web 更好用，适合爱囤书、想在浏览器里舒服读书管书的人。"
+    }
+  ]
+}
