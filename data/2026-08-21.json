@@ -1,0 +1,437 @@
+{
+  "date": "2026-08-21",
+  "trending": [
+    {
+      "repo": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "language": "Mojo",
+      "stars": 27989,
+      "summaryZh": "Modular平台，包含MAX和Mojo语言。Mojo是一种面向AI开发的编程语言，结合Python易用性与C性能，支持GPU加速。适合需要高性能AI计算和数据科学场景的开发者。",
+      "category": "开发工具",
+      "starsToday": 268
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 226669,
+      "summaryZh": "从作者.agents目录直接提取的真实工程师技能集合，以Shell脚本形式提供。旨在将实际经验沉淀为可复用的技能模块，帮助开发者提升工作效率。适合希望借鉴专业人士实践的工程师。",
+      "category": "资料教程",
+      "starsToday": 2192
+    },
+    {
+      "repo": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "stars": 11945,
+      "summaryZh": "用Rust编写的罗技Options+替代品，本地优先，支持按钮重映射、DPI调整和SmartShift，通过HID++协议实现，无需账号或遥测。适合注重隐私的罗技外设用户。",
+      "category": "开发工具",
+      "starsToday": 1545
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 274977,
+      "summaryZh": "一个代理技能框架和软件开发方法论，旨在提供系统化的工程实践。通过结构化技能定义提升AI代理的开发能力，适用于追求高效软件交付的团队。",
+      "category": "开发工具",
+      "starsToday": 727
+    },
+    {
+      "repo": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 4104,
+      "summaryZh": "Cursor插件的官方规范和示例插件集，用TypeScript编写。为Cursor编辑器扩展提供标准化接口，帮助开发者创建自定义功能。适合需要增强编辑器能力的开发者。",
+      "category": "开发工具",
+      "starsToday": 449
+    },
+    {
+      "repo": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars": 66734,
+      "summaryZh": "开源AI求职工具，自动扫描求职门户，用结构化A-F评分配置评估职位，定制简历并跟踪申请，全程在本地AI编码CLI中运行。适合求职者提高匹配效率。",
+      "category": "开发工具",
+      "starsToday": 816
+    },
+    {
+      "repo": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 3642,
+      "summaryZh": "为AI编码CLI提供长期记忆解决方案，支持跨不同代理供应商的交接。用Rust实现，帮助代理记住上下文从而减少重复交互。适合依赖多种AI工具的开发者。",
+      "category": "开发工具",
+      "starsToday": 332
+    },
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 113018,
+      "summaryZh": "利用AI大模型和自动化工作流，根据主题或关键词一键生成高清短视频。集成内容生成、剪辑和配音功能，适合内容创作者快速制作视频。",
+      "category": "其他",
+      "starsToday": 2761
+    },
+    {
+      "repo": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "stars": 1410,
+      "summaryZh": "Agent Substrate核心系统，提供多代理基础设施，用Go编写。支持构建分布式代理应用，强调可扩展性和稳定性，适合需要协调多个AI代理的开发者。",
+      "category": "开发工具",
+      "starsToday": 22
+    },
+    {
+      "repo": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": 3141,
+      "summaryZh": "本地多代理协调框架，用TypeScript实现。支持在本地机器上运行多个AI代理协同工作，适合开发和测试多代理系统。",
+      "category": "开发工具",
+      "starsToday": 507
+    },
+    {
+      "repo": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 38019,
+      "summaryZh": "产品分析平台，提供AI可观测性、行为分析、会话重放、功能开关、实验、错误追踪和日志等功能，帮助构建自驱型产品。适合需要数据洞察的产品团队。",
+      "category": "开发工具",
+      "starsToday": 60
+    },
+    {
+      "repo": "mahlernim/google-timeline-visualizer",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "language": "Kotlin",
+      "stars": 1617,
+      "summaryZh": "使用Google位置历史数据可视化年度旅行足迹，用Kotlin开发。生成地图和时间线展示，适合喜欢记录和回顾旅行经历的用户。",
+      "category": "其他",
+      "starsToday": 657
+    },
+    {
+      "repo": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars": 31059,
+      "summaryZh": "自进化上下文数据库，统一代理记忆、知识RAG和技能，支持AI代理。通过动态上下文提升检索和生成质量，适合需要持久记忆的AI应用开发者。",
+      "category": "开发工具",
+      "starsToday": 950
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "stars": 99664,
+      "summaryZh": "Claude Code技能，通过模拟穴居人语言风格削减65%的token使用。以幽默方式优化提示词，适合希望通过减少token消耗降低成本的用户。",
+      "category": "开发工具",
+      "starsToday": 258
+    },
+    {
+      "repo": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars": 56531,
+      "summaryZh": "开源项目管理平台，定位为Jira、Linear、Monday和ClickUp的替代品。支持任务管理、冲刺、文档和分类，适合追求灵活可定制工具的团队。",
+      "category": "开发工具",
+      "starsToday": 98
+    },
+    {
+      "repo": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "language": "Python",
+      "stars": 4999,
+      "summaryZh": "这是一个全栈AI红队平台，用于保护AI生态系统。它通过Agent扫描、技能扫描、MCP扫描、AI基础设施扫描和LLM越狱评估来识别安全漏洞。适合安全研究人员和AI开发者评估和加固他们的AI系统。",
+      "category": "开发工具",
+      "starsToday": 50
+    },
+    {
+      "repo": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Rust",
+      "stars": 15964,
+      "summaryZh": "这是一个用Rust编写的向量索引，基于TurboQuant，并提供Python绑定。它专为高性能相似性搜索设计，适合需要大规模向量检索的机器学习应用。",
+      "category": "开发工具",
+      "starsToday": 230
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "yjh051108/dsh-routing-suite",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "language": "PowerShell",
+      "stars": 6459,
+      "summaryZh": "这是一个用于DeepSeek Harness的注入器和路由标准工具包。需要先安装运行时注入器，然后使用任务感知的推理模式路由器预设，可提升性能（P1-P23）。适合希望优化DeepSeek Harness性能的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-14T21:20:55Z"
+    },
+    {
+      "repo": "xiaobright/dsh-anchored-standard",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "language": "JavaScript",
+      "stars": 3685,
+      "summaryZh": "这是一个DeepSeek Harness的两阶段预设：先进行最小对齐引导，再使用完整标准工具，在项目2上达到98/99分。适合需要快速配置和优化DeepSeek Harness的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-08-14T14:06:39Z"
+    },
+    {
+      "repo": "s1dashu/ip-as-logo-skill",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "language": "",
+      "stars": 3139,
+      "summaryZh": "这是一个紧凑的Agent技能，用于生成高度简化、圆润、微妙的拟物风格的IP吉祥物标志。它可集成到Codex等智能体中，适合需要快速生成品牌标志的设计场景。",
+      "category": "AI",
+      "createdAt": "2026-08-18T13:59:23Z"
+    },
+    {
+      "repo": "yetone/cumora",
+      "url": "https://github.com/yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "language": "TypeScript",
+      "stars": 2779,
+      "summaryZh": "这是一个跨平台的团队聊天工具，让AI代理成为一等公民。支持云或自带大脑（Claude Code/Codex）。适合需要与AI代理协作的团队。",
+      "category": "AI",
+      "createdAt": "2026-08-17T09:13:52Z"
+    },
+    {
+      "repo": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "stars": 1669,
+      "summaryZh": "这是一个开源的AI同事平台，每个AI拥有独立的浏览器、文件和工具，所有操作先决策后记录。支持AG-UI代理，提供代理治理和浏览器自动化。适合需要复杂AI代理工作流的开发者。",
+      "category": "AI",
+      "createdAt": "2026-08-17T00:44:59Z"
+    },
+    {
+      "repo": "dsh-market/dsh-market",
+      "url": "https://github.com/dsh-market/dsh-market",
+      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+      "language": "TypeScript",
+      "stars": 1461,
+      "summaryZh": "这是DeepSeek Harness的插件市场，支持浏览、搜索和一键安装插件，提供可视化界面。适合DeepSeek Harness用户扩展功能。",
+      "category": "开发工具",
+      "createdAt": "2026-08-14T04:58:15Z"
+    },
+    {
+      "repo": "cinderline/northcinder",
+      "url": "https://github.com/cinderline/northcinder",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "language": "JavaScript",
+      "stars": 1199,
+      "summaryZh": "这是一个由买家主导的购物代理MCP软件，无广告，采用确定性排序、签名购买授权和本地审计追踪。它注重隐私，可自托管，适合追求透明和安全的在线购物场景。",
+      "category": "AI",
+      "createdAt": "2026-08-17T11:42:31Z"
+    },
+    {
+      "repo": "alchaincyf/deepseek-harness-orange-book",
+      "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "language": "HTML",
+      "stars": 1103,
+      "summaryZh": "这是DeepSeek Harness的橙皮书，包含完整系统提示词、129行启动清单和三份原始会话日志，是官方文档没有的一手实测。提供PDF/EPUB/HTML免费下载，适合DeepSeek Harness用户深入了解。",
+      "category": "资料教程",
+      "createdAt": "2026-08-14T03:14:33Z"
+    },
+    {
+      "repo": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+      "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+      "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+      "language": "",
+      "stars": 1038,
+      "summaryZh": "这是DeepSeek V4与J-Space的能力实现报告，通过基准测试证明J-Space能减少DeepSeek V4的能力实现损失。适合对DeepSeek V4优化感兴趣的开发者。",
+      "category": "资料教程",
+      "createdAt": "2026-08-16T11:38:42Z"
+    },
+    {
+      "repo": "zouyuxuan122/Deepseek-Harness-EAC",
+      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "language": "JavaScript",
+      "stars": 1031,
+      "summaryZh": "这是DeepSeek Harness的桌面客户端，支持Windows和Linux，内置Node.js和CLI，一键启动，提供10种UI皮肤。适合希望以桌面应用方式使用DeepSeek Harness的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-08-14T16:29:54Z"
+    },
+    {
+      "repo": "Leutenegger/watermarks-remover",
+      "url": "https://github.com/Leutenegger/watermarks-remover",
+      "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "language": "Python",
+      "stars": 924,
+      "summaryZh": "这是一个移除AI水印的工具，支持多种AI供应商的水印，包括Unicode文本清理、统计重写技巧，以及从PNG/JPEG/SVG/PDF/DOCX/HTML/MD文件中剥离C2PA和元数据。适合需要清除AI生成内容痕迹的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-08-19T15:20:24Z"
+    },
+    {
+      "repo": "vvxw/deploy-vercel",
+      "url": "https://github.com/vvxw/deploy-vercel",
+      "description": "Install Command：npm install",
+      "language": "JavaScript",
+      "stars": 810,
+      "summaryZh": "这是一个用于Vercel部署的简单项目，安装命令为npm install。它适合需要快速部署到Vercel的JavaScript项目。",
+      "category": "其他",
+      "createdAt": "2026-08-18T13:25:45Z"
+    },
+    {
+      "repo": "Leutenegger/vanity-eth",
+      "url": "https://github.com/Leutenegger/vanity-eth",
+      "description": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
+      "language": "Python",
+      "stars": 801,
+      "summaryZh": "这是一个离线的比特币和以太坊地址生成器，支持CPU多进程搜索和交互式CLI菜单。支持Legacy、Nested SegWit、Native SegWit、Taproot和ETH（EIP-55）。适合需要生成个性化地址的用户。",
+      "category": "其他",
+      "createdAt": "2026-08-21T00:42:33Z"
+    },
+    {
+      "repo": "hairyf/deepseek-harness-desktop",
+      "url": "https://github.com/hairyf/deepseek-harness-desktop",
+      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
+      "language": "Rust",
+      "stars": 730,
+      "summaryZh": "DeepSeek Harness 的 Tauri 桌面版，安装包仅 5MB，无需配置环境，内置预设插件，支持 Windows、macOS 和 Linux。适合希望快速使用 DeepSeek 模型的开发者，享受跨平台轻量桌面体验。",
+      "category": "开发工具",
+      "createdAt": "2026-08-14T02:36:29Z"
+    },
+    {
+      "repo": "wang2122/sprix-sage-router",
+      "url": "https://github.com/wang2122/sprix-sage-router",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "language": "Python",
+      "stars": 678,
+      "summaryZh": "Sprix AI 的智能路由工具，实现 A2A 代理网络中的状态感知路由，支持 SELF、COLLABORATE 和 HANDOFF 模式。通过 Python 实现，适用于多智能体系统的任务调度和协作，提升代理网络的效率。",
+      "category": "AI",
+      "createdAt": "2026-08-18T04:08:11Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "cordiverse/paper",
+      "url": "https://github.com/cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "language": "",
+      "stars": 2518,
+      "summaryZh": "Paper 提出了一种时空可组合性的编程范式，旨在解决复杂系统建模问题。其核心思想是让组件在时间和空间上灵活组合，适用于需要高并发和分布式计算的场景。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +1685（+202%）",
+      "reasonZh": "把空间时间组合性变成编程范式，不是普通框架，是一种全新思考方式。UI 布局、动画、状态管理一把梭，写起来很爽。适合做复杂交互界面和创意编程，比 React 那套状态管理直观多了。"
+    },
+    {
+      "repo": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "language": "TypeScript",
+      "stars": 2189,
+      "summaryZh": "DSH 官方收录的 TUI 插件，采用 Claude Code 风格，拥有鲸鱼顶栏、实时状态、流式思考、双击 Esc 回滚等功能。通过 npm 一键安装，适合终端爱好者提升 DeepSeek Harness 的交互体验。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1276（+140%）",
+      "reasonZh": "深度定制 Claude Code 的终端体验，鲸鱼顶栏、实时状态、流式思考、双击 Esc 回滚，全都本地跑，npm 一键装。看腻了默认界面的开发者必装，能让日常 AI 编码工作流舒服一大截。"
+    },
+    {
+      "repo": "onecli/onecli",
+      "url": "https://github.com/onecli/onecli",
+      "description": "Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.",
+      "language": "TypeScript",
+      "stars": 3318,
+      "summaryZh": "OneCli 是面向团队的开源沙盒代理框架，为每位员工提供安全的个人代理。基于 TypeScript 构建，集成了 MCP、Postgres、Rust 和安全密钥管理，适合企业级团队协作与自动化。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 85 分 · 25 评论",
+      "reasonZh": "给团队每个员工配一个沙箱 AI 代理，不是玩具，带完整的安全隔离和密钥管理。企业落地 AI 自动化时能直接部署，比自己在 VPS 上摆弄各种 agent 安全省心得多。"
+    },
+    {
+      "repo": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "language": "TypeScript",
+      "stars": 3149,
+      "summaryZh": "Anti-slop 是一组 Oxlint 规则，用于拒绝低质量的 TypeScript 和 JavaScript 代码模式。适合希望提高代码质量和可维护性的开发者，通过静态检查拦截常见反模式。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1857（+144%）",
+      "reasonZh": "用 Oxlint 规则自动拦截低质量 AI 生成代码，专治那些看起来像样但没逻辑的 TypeScript 和 JavaScript。和同类 lint 器比它是为 AI 时代设计的，直接接进 CI 就能用，适合被 AI 写代码坑过的人。"
+    },
+    {
+      "repo": "MengTo/kage",
+      "url": "https://github.com/MengTo/kage",
+      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "language": "HTML",
+      "stars": 1288,
+      "summaryZh": "Kage 是一个交互式五章夜间漫步项目，通过 Three.js 在浏览器中渲染京都山间寺庙的场景。将创意编码与日本设计结合，适合对 WebGL 和数字艺术感兴趣的开发者探索。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +393（+44%）",
+      "reasonZh": "一个京都寺庙的夜间漫步，用 Three.js 实时渲染，五章交互式叙事。它不只是 Demo，是完整的艺术品，能当 Web 体验直接打开玩。想学 WebGL 或找灵感时看它，比教程有趣多了。"
+    },
+    {
+      "repo": "katiahayati/lucasartsifier",
+      "url": "https://github.com/katiahayati/lucasartsifier",
+      "description": "Static analysis for Sierra adventure games: finds softlocks by abstract interpretation of decompiled SCI scripts, derives and verifies guards, recompiles them into the game",
+      "language": "Python",
+      "stars": 40,
+      "summaryZh": "LucasArtsifier 是一款针对 Sierra 冒险游戏的静态分析工具，通过抽象解释反编译的 SCI 脚本检测软锁，并验证守卫条件后重新编译。适合复古游戏爱好者和逆向工程研究者。",
+      "category": "游戏",
+      "source": "hn",
+      "signal": "HN 157 分 · 97 评论",
+      "reasonZh": "用抽象解释分析 Sierra 老游戏的软锁，找到死局还能自动打补丁。复古游戏玩家和逆向工程爱好者的神器，ScummVM 上直接跑。同类工具几乎没有，硬核又有情怀。"
+    },
+    {
+      "repo": "Shrey113/Android-Dex",
+      "url": "https://github.com/Shrey113/Android-Dex",
+      "description": "Enable a full desktop experience from any Android device over Wi‑Fi. No root, scrcpy-powered, Flutter desktop app with wireless ADB, per‑app audio, and quick controls.",
+      "language": "HTML",
+      "stars": 1740,
+      "summaryZh": "Android-Dex 让任何安卓设备通过 Wi-Fi 获得完整桌面体验，无需 root，基于 scrcpy 和 Flutter 实现无线 ADB、应用级音频和快速控制。适合想用手机体验桌面环境的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +441（+34%）",
+      "reasonZh": "把安卓手机变成完整桌面环境，无线 ADB 连接，不 root，Flutter 界面。比 Samsung DeX 开源、比 scrcpy 好用，装手机上就能把废旧安卓变成电脑，折腾党福音。"
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open Source Alternative to Grok Bot with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": 1346,
+      "summaryZh": "OpenMausBot 是 Grok Bot 的开源替代品，提供可供机器人使用的虚拟机。基于 TypeScript 构建，适合开发者构建和管理自动化代理，实现自主任务执行。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +504（+60%）",
+      "reasonZh": "开源的 Grok Bot 替代品，自带虚拟机给 AI 代理跑代码。想自己搭一个能动手干活的 AI 机器人，不用被云服务绑死，这个能本地跑，灵活扩展，适合玩 AI 自动化的人。"
+    },
+    {
+      "repo": "skalesapp/skales",
+      "url": "https://github.com/skalesapp/skales",
+      "description": "Personal AI desktop agent for Windows, macOS, Linux, Android & iOS. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
+      "language": "TypeScript",
+      "stars": 1710,
+      "summaryZh": "Skales 是个人 AI 桌面代理，支持 Windows、macOS、Linux 和移动端。它可自主设定目标并执行任务，支持团队协作和 Agent2Agent 通信，集成 MCP 和 Ollama，注重本地优先和隐私保护。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "个人 AI 桌面代理，全平台覆盖，设个目标它就自己干活。支持本地方案和移动端，和同类相比最突出的是跨设备和团队协作，适合想用 AI 自动化日常任务又注重隐私的人。"
+    }
+  ]
+}
