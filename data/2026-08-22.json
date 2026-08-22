@@ -1,0 +1,439 @@
+{
+  "date": "2026-08-22",
+  "trending": [
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 229587,
+      "summaryZh": "这是一个面向真实工程师的实用技能集合，来自同一作者的 .agents 目录。它提供了各种开发相关的技能和最佳实践，帮助工程师提升工作效率。适合希望借鉴资深开发者经验的工程师使用。",
+      "category": "资料教程",
+      "starsToday": 3362
+    },
+    {
+      "repo": "mahlernim/google-timeline-visualizer",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "language": "Kotlin",
+      "stars": 2240,
+      "summaryZh": "这是一个用于可视化 Google 位置历史数据的工具，基于 Kotlin 开发。它可以解析你的 Timeline 数据，并生成年度旅行视图，让你直观地回顾一年中的移动轨迹。适合喜欢记录和回顾自己旅行足迹的用户。",
+      "category": "开发工具",
+      "starsToday": 1053
+    },
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 113958,
+      "summaryZh": "这是一个利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频的项目。它集成了内容生成、剪辑和渲染等环节，可以快速产出视频。适合需要批量制作短视频的内容创作者和营销人员。",
+      "category": "AI",
+      "starsToday": 1201
+    },
+    {
+      "repo": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "stars": 12982,
+      "summaryZh": "这是一个用 Rust 编写的罗技 Options+ 的本地优先替代品，无需账户和遥测。它支持在 HID++ 协议上重映射按钮、调整 DPI 和启用 SmartShift 功能。适合在意隐私、希望完全本地控制鼠标设置的罗技用户。",
+      "category": "开发工具",
+      "starsToday": 1380
+    },
+    {
+      "repo": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 38302,
+      "summaryZh": "PostHog 是一个领先的自驾产品开发平台，提供 AI 可观测性、分析、会话回放、功能开关、实验、错误追踪、日志等开发者工具。它可以一站式捕获和分析产品数据，帮助团队快速迭代和优化产品。适合需要全面产品分析能力的开发团队。",
+      "category": "开发工具",
+      "starsToday": 335
+    },
+    {
+      "repo": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "Go",
+      "stars": 110385,
+      "summaryZh": "TypeScript 是 JavaScript 的超集，编译为干净的 JavaScript 输出。它提供了类型检查和现代 JavaScript 特性，增强了代码的可维护性和可扩展性。适合在大型项目或团队协作中使用的开发者。",
+      "category": "前端",
+      "starsToday": 65
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 275670,
+      "summaryZh": "这是一个有效的 agent 技能框架和软件开发方法论。它提供了一套结构化的技能和流程，帮助开发者构建和管理 AI 代理应用。适合希望系统化开发 AI 代理的工程师。",
+      "category": "开发工具",
+      "starsToday": 790
+    },
+    {
+      "repo": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars": 67470,
+      "summaryZh": "这是一个开源的 AI 求职工具，可扫描职位门户、按 A-F 评分标准评估职位并给出 1.0-5.0 的分数，还能定制简历和跟踪申请。它运行在本地 AI 编码 CLI 中，如 Claude Code，适合求职者高效管理求职流程。",
+      "category": "AI",
+      "starsToday": 921
+    },
+    {
+      "repo": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 4416,
+      "summaryZh": "这是 Cursor 编辑器的插件规范和官方插件集合。它定义了插件 API，并提供官方示例，方便开发者扩展 Cursor 的功能。适合想要为 Cursor 开发插件的开发者。",
+      "category": "开发工具",
+      "starsToday": 388
+    },
+    {
+      "repo": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "language": "Mojo",
+      "stars": 28695,
+      "summaryZh": "Modular 平台是一个包含 MAX 和 Mojo 的 AI 开发平台。它旨在简化 AI 模型的开发和部署，提供高性能的运行时和编程语言。适合构建高性能 AI 应用的开发者。",
+      "category": "AI",
+      "starsToday": 913
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 241808,
+      "summaryZh": "这是一个代理性能优化系统，提供技能、直觉、记忆、安全等功能，支持 Claude Code、Codex、Opencode、Cursor 等工具。它专注于研究优先的开发，提升代理的效率和可靠性。适合深度使用 AI 代理的开发者。",
+      "category": "AI",
+      "starsToday": 357
+    },
+    {
+      "repo": "TryGhost/Ghost",
+      "url": "https://github.com/TryGhost/Ghost",
+      "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+      "language": "JavaScript",
+      "stars": 54898,
+      "summaryZh": "Ghost 是一个独立的现代出版平台，支持会员、订阅和新闻通讯。它提供了简洁的编辑器、主题系统和订阅管理功能，适合内容创作者和出版商建立付费订阅的在线刊物。",
+      "category": "资料教程",
+      "starsToday": 32
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": 68660,
+      "summaryZh": "这是一个原始的代理元框架，用于部署智能多智能体 swarm、协调自主工作流和构建对话式 AI 系统。它具备自适应记忆、自学习智能等功能。适合构建复杂多智能体系统的研究人员和开发者。",
+      "category": "AI",
+      "starsToday": 140
+    },
+    {
+      "repo": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "stars": 2033,
+      "summaryZh": "Apache Maka 是一个本地优先的 AI 代理工作区，记录模型消息、工具调用、工具结果、权限决策和终止事件，以追加式日志形式保存。它提供了可审计的代理操作流程，适合需要高度透明和可追溯性的 AI 应用。",
+      "category": "AI",
+      "starsToday": 148
+    },
+    {
+      "repo": "elder-plinius/OBLITERATUS",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+      "language": "Python",
+      "stars": 7801,
+      "summaryZh": "该项目用于‘解除束缚’，可能涉及绕过 AI 模型限制的工具或方法。由于描述不明确，用途可能引起争议。适合对 AI 安全边界感兴趣的研究者，但需谨慎使用。",
+      "category": "其他",
+      "starsToday": 63
+    },
+    {
+      "repo": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": 21464,
+      "summaryZh": "ONNX Runtime 是一个跨平台高性能机器学习推理和训练加速器，支持多种硬件和框架导出的模型。它优化了模型执行效率，适合在生产环境中部署和加速 AI 模型。",
+      "category": "AI",
+      "starsToday": 5
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "s1dashu/ip-as-logo-skill",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "language": "",
+      "stars": 3496,
+      "summaryZh": "这是一个紧凑的 Agent Skill，用于生成极简、圆润、柔和新拟物风格的 IP 吉祥物 Logo。它利用图像生成技术，适合设计者和开发者快速创建品牌形象。",
+      "category": "AI",
+      "createdAt": "2026-08-18T13:59:23Z"
+    },
+    {
+      "repo": "yetone/cumora",
+      "url": "https://github.com/yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "language": "TypeScript",
+      "stars": 2858,
+      "summaryZh": "Cumora 是一个跨平台团队聊天应用，专为 AI 代理设计，将 AI 代理作为一等公民。它支持云端或自带的 Claude Code 和 Codex 大脑，适合团队协作和代理管理。",
+      "category": "AI",
+      "createdAt": "2026-08-17T09:13:52Z"
+    },
+    {
+      "repo": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "stars": 2132,
+      "summaryZh": "OpenBot 提供开源 AI 同事，每个同事都拥有独立的计算机环境，包括浏览器、文件和工具。它记录所有操作，支持任何 AG-UI 代理，适合自动化任务和代理治理。",
+      "category": "AI",
+      "createdAt": "2026-08-17T00:44:59Z"
+    },
+    {
+      "repo": "cinderline/northcinder",
+      "url": "https://github.com/cinderline/northcinder",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "language": "JavaScript",
+      "stars": 1203,
+      "summaryZh": "NorthCinder 是一个买家运行、无广告的购物代理 MCP 软件，具有确定性排序、签名购买指令和本地审计追踪。它支持人类介入，注重隐私，适合自托管购物助手。",
+      "category": "AI",
+      "createdAt": "2026-08-17T11:42:31Z"
+    },
+    {
+      "repo": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+      "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+      "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+      "language": "",
+      "stars": 1036,
+      "summaryZh": "该报告展示了 DeepSeek V4 与 J-Space 结合时的能力实现效果，通过基准测试证明 J-Space 能减少 DeepSeek V4 的能力损失。适合评估和改进 AI 代理技能。",
+      "category": "AI",
+      "createdAt": "2026-08-16T11:38:42Z"
+    },
+    {
+      "repo": "wang2122/sprix-sage-router",
+      "url": "https://github.com/wang2122/sprix-sage-router",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "language": "Python",
+      "stars": 1009,
+      "summaryZh": "Sprix Sage Router 是一个状态感知的路由系统，用于 A2A 代理网络中的 SELF、COLLABORATE 和 HANDOFF 路由。它适用于多代理系统的任务调度和编排。",
+      "category": "AI",
+      "createdAt": "2026-08-18T04:08:11Z"
+    },
+    {
+      "repo": "vvxw/deploy-vercel",
+      "url": "https://github.com/vvxw/deploy-vercel",
+      "description": "Install Command：npm install",
+      "language": "JavaScript",
+      "stars": 992,
+      "summaryZh": "这是一个用于 Vercel 部署的简单项目，安装命令为 npm install。它适合快速部署应用到 Vercel 平台，但缺乏详细文档。",
+      "category": "开发工具",
+      "createdAt": "2026-08-18T13:25:45Z"
+    },
+    {
+      "repo": "Leutenegger/watermarks-remover",
+      "url": "https://github.com/Leutenegger/watermarks-remover",
+      "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "language": "Python",
+      "stars": 929,
+      "summaryZh": "该工具可去除多种 AI 来源的踪迹，包括 Unicode 文本清洗、统计重写技术，以及从 PNG、JPEG、SVG 等文件剥离 C2PA 和元数据。适合处理 AI 生成内容的痕迹。",
+      "category": "AI",
+      "createdAt": "2026-08-19T15:20:24Z"
+    },
+    {
+      "repo": "Leutenegger/vanity-eth",
+      "url": "https://github.com/Leutenegger/vanity-eth",
+      "description": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
+      "language": "Python",
+      "stars": 803,
+      "summaryZh": "这是一个比特币和以太坊的离线虚荣地址生成器，利用 CPU 多进程搜索，提供交互式 CLI 菜单。支持多种地址类型，适合追求个性化地址的用户。",
+      "category": "其他",
+      "createdAt": "2026-08-21T00:42:33Z"
+    },
+    {
+      "repo": "browser-use/macos-harness",
+      "url": "https://github.com/browser-use/macos-harness",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "language": "Python",
+      "stars": 687,
+      "summaryZh": "这是最简洁的 macOS 控制工具，赋予 LLM 完全控制电脑的能力。通过辅助功能、CDP 等技术实现自动化，适合用于 AI 驱动的桌面自动化。",
+      "category": "AI",
+      "createdAt": "2026-08-17T00:22:20Z"
+    },
+    {
+      "repo": "DenisSergeevitch/desktop-fly",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+      "language": "Swift",
+      "stars": 677,
+      "summaryZh": "这是一个在 macOS 桌面上运行的 3D 果蝇，由真实 FlyWire 连接组的实时脉冲模拟驱动。适合对神经科学和可视化感兴趣的开发者。",
+      "category": "其他",
+      "createdAt": "2026-08-18T17:29:17Z"
+    },
+    {
+      "repo": "Alain00/blobatar",
+      "url": "https://github.com/Alain00/blobatar",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 657,
+      "summaryZh": "Blobatar 是一个 TypeScript 项目，但描述缺失。它可能是一个头像或图形生成工具，具体功能需进一步探索。",
+      "category": "其他",
+      "createdAt": "2026-08-15T11:51:19Z"
+    },
+    {
+      "repo": "jeremy-prt/bloub",
+      "url": "https://github.com/jeremy-prt/bloub",
+      "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "language": "TypeScript",
+      "stars": 615,
+      "summaryZh": "Bloub 是一个 SVG 动画项目，重新创建了 x.ai 机器人头像，通过 14 个状态变形，基于参考视频逐帧测量。适合前端开发者学习 SVG 动画。",
+      "category": "前端",
+      "createdAt": "2026-08-15T13:21:23Z"
+    },
+    {
+      "repo": "Nervercc/gpt_nerver",
+      "url": "https://github.com/Nervercc/gpt_nerver",
+      "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "language": "Python",
+      "stars": 614,
+      "summaryZh": "这是一个 ChatGPT Plus 自动化工具包，包含 PyQt6 桌面界面、JSON-RPC 注册引擎和卡/CDK/PayPal/GCash 支付流程。适合自动化管理 ChatGPT Plus 订阅。",
+      "category": "AI",
+      "createdAt": "2026-08-15T18:51:26Z"
+    },
+    {
+      "repo": "missuo/herdrm",
+      "url": "https://github.com/missuo/herdrm",
+      "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+      "language": "Swift",
+      "stars": 593,
+      "summaryZh": "这是一个为 herdr 设计的原生 macOS 控制台，让你在一个界面里管理所有编码代理和它们的实时终端，并支持跨设备使用。它提升了多任务处理效率，适合同时使用多个编码代理的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-19T06:55:39Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "language": "TypeScript",
+      "stars": 3317,
+      "summaryZh": "这是一个基于 Oxlint 的规则集，用于检测并拒绝低质量的 TypeScript 和 JavaScript 代码模式。它帮助开发者避免常见的易错代码，提升代码质量和可维护性，适合追求代码严谨性的团队。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +2025（+157%）",
+      "reasonZh": "这玩意儿是给你写的 TypeScript 和 JavaScript 代码做‘质检’的，用 Oxlint 规则把那些没依据的、低质量的写法都揪出来。亮点是特别有主见，能强制团队写出干净代码。同类的 linter 很多，但这个专治 AI 生成的水文。日常开发前跑一遍，能省不少 review 时间。"
+    },
+    {
+      "repo": "dembrandt/dembrandt",
+      "url": "https://github.com/dembrandt/dembrandt",
+      "description": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
+      "language": "TypeScript",
+      "stars": 2926,
+      "summaryZh": "这个工具可以快速提取任意网站的设计系统，包括 logo、颜色、字体、边框等，并生成设计令牌。只需一条命令，适合设计师和前端开发者进行品牌审计或设计系统梳理。",
+      "category": "前端",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "一条命令就能把任意网站的设计系统扒下来，颜色、字体、边框全变成 token，还能导出 Tailwind 配置。亮点是逆向工程做得特别爽，省去手动抄样式的时间。同类的工具有，但没这个快和准。做前端重构、学别人设计或者做品牌审计的时候，一用就回不去了。"
+    },
+    {
+      "repo": "BarutSRB/OmniWM",
+      "url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "language": "Swift",
+      "stars": 2522,
+      "summaryZh": "这是一个受 Niri 和 Hyprland 启发的 macOS 平铺窗口管理器，已签名并公证，适用于企业环境。它支持多种平铺布局，并集成额外的创新功能，为 macOS 用户带来高效的窗口管理体验。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "macOS 上少见的平铺窗口管理器，灵感来自 Niri 和 Hyprland，开发者签名和公证都搞定了，企业环境也能放心用。亮点是丝滑的平铺体验，还能开创新的交互方式。同类的有 Aerospace 等，但这个更激进、更像 Linux 那边的玩法。喜欢折腾桌面效率的 macOS 用户值得装来试试。"
+    },
+    {
+      "repo": "snownico0722/PaperTodo",
+      "url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "language": "C#",
+      "stars": 2025,
+      "summaryZh": "这是一个极简的 Windows 桌面便签工具，采用 WPF 原生开发，支持待办事项和 Markdown，提供安静、不打扰的笔记体验。适合需要简单桌面备忘和任务管理的用户。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "极简的 Windows 桌面便签，纯 WPF 原生，不占用资源。亮点就是安静，像真的在桌上贴了张纸，支持待办和 Markdown。同类的便签工具要么功能太多太吵，要么是 Electron 吃内存。平时临时记个事、列个今天要做的事，打开就能写，不打断思路。"
+    },
+    {
+      "repo": "wm94i/Work-Review",
+      "url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "language": "Rust",
+      "stars": 1742,
+      "summaryZh": "这是一个 Rust 编写的工具，自动追踪你使用的应用、访问的网站以及每项应用的耗时，并生成每日报告。注重隐私，适合需要了解自己时间分配、提升效率的用户。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "自动记录你今天用了哪些应用、逛了哪些网站，生成时间线报告，强调隐私。亮点是纯 Rust 写的，快且安静，数据全本地。同类的有时间追踪工具，但这个不用手动点开始，全自动。适合想了解自己时间花哪了、写周报月报的朋友，装上就完事。"
+    },
+    {
+      "repo": "dongdongbh/Mindwtr",
+      "url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "language": "TypeScript",
+      "stars": 1724,
+      "summaryZh": "这是一个跨平台的 Getting Things Done (GTD) 应用，帮助你把想法和任务记录下来，并规划下一步行动。适合有 ADHD 倾向或希望系统管理个人事务的用户。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "把脑子里的任务都倒出来，然后告诉你下一步该干啥，是给拖延症和 ADHD 患者设计的 GTD 应用，支持桌面和移动端。亮点是它不只是列清单，还会引导你聚焦下一步。同类的 GTD 工具有很多，但这个更符合大脑运作方式。每天一醒来打开它，就知道从哪件事开始。"
+    },
+    {
+      "repo": "steven-jianhao-li/zotero-AI-Butler",
+      "url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "language": "TypeScript",
+      "stars": 1635,
+      "summaryZh": "这是一个 Zotero 插件，调用大模型自动精读论文库中的文献，并生成详尽的笔记总结。支持主流大模型平台，帮助科研人员快速理解论文，适合学术研究场景。",
+      "category": "资料教程",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "Zotero 的 AI 插件，能自动精读你论文库里的 PDF，生成笔记，支持主流大模型。亮点是像给论文库请了个管家，不用自己逐篇读。同类的有各种文献管理工具，但没这个自动化程度高。做科研、读文献时，丢进去就能快速了解每篇论文在讲啥。"
+    },
+    {
+      "repo": "unhappychoice/gittype",
+      "url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "language": "Rust",
+      "stars": 1570,
+      "summaryZh": "这是一个终端打字练习游戏，将你的源代码转化为打字挑战，帮助程序员练习指法并熟悉代码。使用 Rust 和 ratatui 构建，适合希望提高打字速度和代码熟练度的开发者。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "把你的源代码变成打字练习的 CLI 游戏，用 Rust 写的。亮点是既练打字又熟悉自己项目的代码，在终端里玩很带感。同类的打字游戏很多，但这个跟真实代码结合了。平时码代码累了，开一局既能放松又能熟悉代码库。"
+    },
+    {
+      "repo": "amicalhq/amical",
+      "url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "language": "TypeScript",
+      "stars": 1499,
+      "summaryZh": "这是一个本地优先的开源 AI 听写应用，无需键盘即可快速输入，速度提高 3 倍。由开源模型驱动，支持离线使用，准确度高，适合需要高效记录笔记或不喜欢键盘输入的用户。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "开源的 AI 听写应用，主打本地优先，用开源模型离线就能用，打字速度直接翻三倍。亮点是隐私安全，完全本地跑。同类的语音转文字工具不少，但这个做得又快又准。开会、写笔记、不想敲键盘的时候，直接说话就完事。"
+    },
+    {
+      "repo": "eval-exec/neomacs",
+      "url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "language": "Rust",
+      "stars": 1100,
+      "summaryZh": "这是一个用 Rust 编写的 NEO Emacs，采用 GPU 渲染，目标是与 Emacs 完全兼容，但性能提升 10 倍，支持多线程 Elisp 和零暂停并发 GC。适合追求高性能和现代设计的 Emacs 用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "瞄准 10 倍性能、现代化设计重写的 Emacs，用 Rust 写，GPU 加速渲染，还说要兼容 100% 的 Elisp。亮点是野心很大，给老旧 Emacs 续命。同类的有各种 Emacs 发行版，但这是真正重写。Emacs 粉可以盯着，等它成熟了应该是个神兵利器。"
+    }
+  ]
+}
