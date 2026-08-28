@@ -1,0 +1,469 @@
+{
+  "date": "2026-08-28",
+  "trending": [
+    {
+      "repo": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "stars": 25325,
+      "summaryZh": "Archify 是一款用于创建精美且可验证的架构、工作流、时序、数据流和生命周期图的 Agent 技能。它生成自包含的 HTML 文件，支持动态效果和清晰的导出，帮助开发者快速生成专业图表。适合需要可视化系统设计的技术文档编写或架构评审场景。",
+      "category": "开发工具",
+      "starsToday": 4239
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 35669,
+      "summaryZh": "该库提供 163 个验证过的科学 Agent 技能和 100+ 科学数据库，将任何 AI Agent 转化为 AI 科学家。覆盖生物学等学科，适合科研人员与开发者集成到工作流中，提升研究效率。它是全球 175,000+ 科学家使用的首选技能库。",
+      "category": "资料教程",
+      "starsToday": 498
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 34840,
+      "summaryZh": "这是 Anthropic 官方维护的 Claude Code 插件目录，收录高质量插件，方便开发者发现、安装和管理 Claude Code 的扩展功能。由官方团队背书，确保插件质量与兼容性，适合需要扩展 Claude Code 能力的开发者。",
+      "category": "开发工具",
+      "starsToday": 292
+    },
+    {
+      "repo": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 9915,
+      "summaryZh": "Gods Eye View 是一个浏览器内的间谍卫星模拟器，使用真实数据在逼真 3D 地球上展示实时空间情报。用户可以探索全球地理信息，体验卫星视角。适合教育、数据可视化或对地理空间技术感兴趣的爱好者。",
+      "category": "其他",
+      "starsToday": 1984
+    },
+    {
+      "repo": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": 46011,
+      "summaryZh": "GitNexus 是一个纯浏览器端的代码智能引擎，可将 Git 仓库（支持 GitHub、Gitlab、Azure 等）或 ZIP 文件转换为客户端知识图谱。无需服务器，帮助开发者快速理解代码结构和依赖关系。适合代码审查、项目分析等场景。",
+      "category": "开发工具",
+      "starsToday": 189
+    },
+    {
+      "repo": "JetBrains/go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "language": "Go",
+      "stars": 2418,
+      "summaryZh": "这是 JetBrains 提供的现代 Go 语言编码指南，帮助 AI 编码代理编写符合最佳实践的 Go 代码。涵盖惯用模式、性能优化和错误处理等，适合 Go 开发者或使用 AI 辅助编码的团队参考。",
+      "category": "资料教程",
+      "starsToday": 300
+    },
+    {
+      "repo": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 52871,
+      "summaryZh": "OpenMontage 是全球首个开源 Agent 视频制作系统，包含 12 条生产管线、100+ 工具和 700+ 技能文件。可将 AI 编程助手转化为完整的视频制作团队，适合内容创作者和视频制作人快速生成高质量视频。",
+      "category": "开发工具",
+      "starsToday": 1292
+    },
+    {
+      "repo": "abi/screenshot-to-code",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "language": "Python",
+      "stars": 75232,
+      "summaryZh": "Screenshot-to-code 可以将截图转换为干净的代码（HTML/Tailwind/React/Vue）。只需上传截图即可生成相应前端代码，大幅提升开发效率。适合前端开发者在原型设计或快速实现页面时使用。",
+      "category": "前端",
+      "starsToday": 309
+    },
+    {
+      "repo": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 5819,
+      "summaryZh": "Cursor 官方插件规范与插件库，提供标准化的插件开发指南和现成插件。开发者可扩展 Cursor 编辑器的功能，满足自定义需求。适合希望增强开发环境的 Cursor 用户。",
+      "category": "开发工具",
+      "starsToday": 257
+    },
+    {
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars": 23940,
+      "summaryZh": "GPT-Image2 提示词引擎与模板库，包含 530+ 案例逆向工程和 20+ 工业级模板，提炼出可复用的 Skills。帮助用户生成高质量的图像生成提示词，持续更新。适合 AI 绘画爱好者和提示词工程师。",
+      "category": "资料教程",
+      "starsToday": 2096
+    },
+    {
+      "repo": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "language": "Go",
+      "stars": 2265,
+      "summaryZh": "Tailcat 是一个类似 netcat 的工具，但使用 Tailscale 的数据平面而不依赖其控制平面，可实现安全的网络连接和测试。适合网络工程师或开发者在 Tailscale 环境中进行调试和数据传输。",
+      "category": "开发工具",
+      "starsToday": 986
+    },
+    {
+      "repo": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": 73109,
+      "summaryZh": "Ghidra 是由美国国家安全局开发的开源软件逆向工程框架，提供反汇编、反编译、脚本扩展等功能。它支持多种架构和平台，适合安全研究人员、恶意软件分析人员和逆向工程爱好者。",
+      "category": "开发工具",
+      "starsToday": 117
+    },
+    {
+      "repo": "marin-community/marin",
+      "url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "language": "Python",
+      "stars": 2790,
+      "summaryZh": "Marin 是一个开源的基座模型研究与开发框架，提供模型训练、评估和部署的模块化工具。支持大规模实验，方便研究者快速迭代。适合 AI 研究人员和工程师探索前沿模型。",
+      "category": "AI",
+      "starsToday": 255
+    },
+    {
+      "repo": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "stars": 21289,
+      "summaryZh": "FreeLLMAPI 提供每月 74 亿 tokens 的免费 LLM API，聚合 34 个免费提供商和 635 个模型端点，统一用于 /v1 接口，支持智能路由、自动故障转移和加密密钥。适合开发者低成本集成多种 LLM 模型。",
+      "category": "开发工具",
+      "starsToday": 405
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 49854,
+      "summaryZh": "Chrome DevTools MCP 为编码 Agent 提供 Chrome 开发者工具的能力，使 Agent 能够控制浏览器、调试和检查页面。它连接 AI 代理与浏览器，适合自动化测试、网页抓取和前端开发辅助。",
+      "category": "开发工具",
+      "starsToday": 61
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 50437,
+      "summaryZh": "一个从零开始学习AI工程的开源项目，提供从基础到实战的完整学习路径。核心是系统性的教程和项目实践，帮助开发者理解AI原理并动手构建应用。适合希望深入AI工程领域的开发者自学。",
+      "category": "资料教程",
+      "starsToday": 552
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 114754,
+      "summaryZh": "一个让AI代理像最懒惰的高级开发人员一样思考的工具。它鼓励生成最少的代码，避免不必要的实现。适合希望减少AI生成代码冗余、提高代码简洁性的开发场景。",
+      "category": "开发工具",
+      "starsToday": 1613
+    },
+    {
+      "repo": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 39108,
+      "summaryZh": "Google的C++测试框架，支持单元测试和模拟对象，功能强大且易用。提供丰富的断言、测试固件和参数化测试，被广泛用于C++项目。适合需要高质量测试的C++开发者。",
+      "category": "开发工具",
+      "starsToday": 9
+    },
+    {
+      "repo": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "language": "Python",
+      "stars": 13202,
+      "summaryZh": "用于构建实时语音AI代理的框架，支持音频和视频交互。核心是低延迟的实时通信和语音处理，可集成多种AI模型。适合开发语音助手、实时翻译等应用的开发者。",
+      "category": "AI",
+      "starsToday": 14
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "MengTo/threeui",
+      "url": "https://github.com/MengTo/threeui",
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "language": "HTML",
+      "stars": 4384,
+      "summaryZh": "开源ThreeUI组件库，包含可交互的React组件，基于Three.js和WebGL，用于创建3D UI。提供丰富的视觉效果和交互示例。适合前端开发者构建沉浸式网页体验。",
+      "category": "前端",
+      "createdAt": "2026-08-21T11:56:39Z"
+    },
+    {
+      "repo": "b-nnett/grok-bot-0.18-reconstructed",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "language": "TypeScript",
+      "stars": 3394,
+      "summaryZh": "Grok Bot 0.18.0的非官方源码级重建和扩展，针对macOS。提供原始版本的功能并增加新特性。适合需要自定义或学习Grok Bot实现的开发者。",
+      "category": "其他",
+      "createdAt": "2026-08-23T20:53:01Z"
+    },
+    {
+      "repo": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+      "description": "",
+      "language": "TeX",
+      "stars": 3309,
+      "summaryZh": "一个用LaTeX编写的项目，展现情书或浪漫表达。核心是LaTeX排版技巧，可生成美观的文档。适合想用LaTeX表达情感或学习排版的人。",
+      "category": "其他",
+      "createdAt": "2026-08-27T11:28:44Z"
+    },
+    {
+      "repo": "tobi/walgit",
+      "url": "https://github.com/tobi/walgit",
+      "description": "",
+      "language": "Rust",
+      "stars": 2276,
+      "summaryZh": "一个用Rust实现的Git工具，提供更快的性能和更现代的命令行界面。核心是高性能和易用性，兼容Git功能。适合追求效率的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-23T22:28:01Z"
+    },
+    {
+      "repo": "duty1g/x64dbg-mcp-server",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "language": "Zig",
+      "stars": 1623,
+      "summaryZh": "为x64dbg调试器提供MCP服务器插件，通过HTTP暴露调试器功能，可连接AI助手进行调试。核心是MCP协议和二进制分析。适合逆向工程师和AI辅助调试用户。",
+      "category": "开发工具",
+      "createdAt": "2026-08-22T14:28:41Z"
+    },
+    {
+      "repo": "ApodexAI/FrontierAgent",
+      "url": "https://github.com/ApodexAI/FrontierAgent",
+      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "language": "Python",
+      "stars": 1189,
+      "summaryZh": "开源的AI代理框架，提供命令行TUI、ReAct和代理团队模式。支持多代理协作，无需预装，一键启动。适合在终端中构建和运行AI代理的开发者。",
+      "category": "AI",
+      "createdAt": "2026-08-22T05:07:35Z"
+    },
+    {
+      "repo": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "language": "Python",
+      "stars": 1148,
+      "summaryZh": "自主研究系统，用于可测量、可执行的计算机研究。核心是自动化研究流程并生成可执行结果。适合科研人员或数据科学家进行自动化实验。",
+      "category": "AI",
+      "createdAt": "2026-08-27T14:20:58Z"
+    },
+    {
+      "repo": "nateherkai/scroll-craft",
+      "url": "https://github.com/nateherkai/scroll-craft",
+      "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+      "language": "JavaScript",
+      "stars": 1123,
+      "summaryZh": "Claude Code技能，用于创建高级滚动驱动网站，将滚动作为时间线，通过截图验证效果。核心是滚动动画和设计系统。适合前端开发者设计营销页面。",
+      "category": "前端",
+      "createdAt": "2026-08-22T15:25:08Z"
+    },
+    {
+      "repo": "bryllim/workout-guide",
+      "url": "https://github.com/bryllim/workout-guide",
+      "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+      "language": "Astro",
+      "stars": 947,
+      "summaryZh": "开源健身指南项目，包含302个运动插图和框架无关的npm包。提供标准化运动图示，易于集成到各类应用。适合健身应用开发者或健身爱好者。",
+      "category": "其他",
+      "createdAt": "2026-08-24T02:14:20Z"
+    },
+    {
+      "repo": "wide-trace/open-higgsfield",
+      "url": "https://github.com/wide-trace/open-higgsfield",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "language": "TypeScript",
+      "stars": 916,
+      "summaryZh": "图像和视频生成工作室，提供统一提示栏、各模型独立设置和作品画廊。支持多种生成模型，方便管理创作。适合数字艺术家和内容创作者。",
+      "category": "AI",
+      "createdAt": "2026-08-26T06:09:58Z"
+    },
+    {
+      "repo": "ShadowAqueduct/watermark-remover",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "language": "Python",
+      "stars": 822,
+      "summaryZh": "清除多种AI水印的工具，包括Unicode文本、统计重写和C2PA元数据清除，支持多种文件格式。核心是全面移除水印痕迹。适合需要清理AI生成内容水印的用户。",
+      "category": "其他",
+      "createdAt": "2026-08-23T21:14:28Z"
+    },
+    {
+      "repo": "Tencent/WeMM-Embedding",
+      "url": "https://github.com/Tencent/WeMM-Embedding",
+      "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+      "language": "Python",
+      "stars": 750,
+      "summaryZh": "腾讯微信视觉团队推出的通用多模态嵌入模型家族，支持图文音等多模态理解与检索。核心功能是将不同模态数据映射到统一向量空间，适用于多模态搜索、推荐和问答等场景。适合需要跨模态语义匹配的开发者或研究者。",
+      "category": "AI",
+      "createdAt": "2026-08-25T02:46:10Z"
+    },
+    {
+      "repo": "themartiano/try-omarchy",
+      "url": "https://github.com/themartiano/try-omarchy",
+      "description": "Run Omarchy on MacOS without any setup.",
+      "language": "Shell",
+      "stars": 707,
+      "summaryZh": "在 macOS 上无需任何配置即可运行 Omarchy 的脚本，基于 QEMU 虚拟化，支持 Apple Silicon。核心优势是即开即用，免去手动搭建虚拟机的繁琐。适合想体验 Omarchy（Arch Linux 衍生版）的 Mac 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-08-23T21:55:30Z"
+    },
+    {
+      "repo": "N4darae/anti-mage",
+      "url": "https://github.com/N4darae/anti-mage",
+      "description": "Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters.",
+      "language": "Go",
+      "stars": 696,
+      "summaryZh": "一个浏览器测试工具，利用多种方法和算法，基于多参数进行计算。核心功能可能涉及自动化测试或反检测，具体需查看源码。适合需要浏览器自动化或测试场景的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-22T04:11:00Z"
+    },
+    {
+      "repo": "yding-git/personal-edge-proxy",
+      "url": "https://github.com/yding-git/personal-edge-proxy",
+      "description": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
+      "language": "",
+      "stars": 635,
+      "summaryZh": "一套实用的个人代理搭建方案，支持多入站多出站，集成了 Xray、Hysteria2、REALITY Vision、WARP 以及可选的静态 SOCKS5 路由。适合需要自建代理、追求稳定和灵活配置的高级用户。",
+      "category": "其他",
+      "createdAt": "2026-08-24T16:35:49Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "experientiallabs/experiential",
+      "url": "https://github.com/experientiallabs/experiential",
+      "description": "An open source model gateway that provides one control plane across closed, open-source, local, and custom models.",
+      "language": "Python",
+      "stars": 648,
+      "summaryZh": "开源模型网关，提供统一控制平面，管理闭源、开源、本地和自定义模型。核心功能是简化多模型接入、路由和密钥管理。适合需要整合多个 LLM 提供商的团队或开发者。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 183 分 · 37 评论",
+      "reasonZh": "把各家模型统一到一个控制面，用一套接口管理和路由闭源、开源、本地、自定义模型。做 AI 应用时想灵活切换模型供应商又不想写一堆适配代码，这个网关能大大简化工作。"
+    },
+    {
+      "repo": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "stars": 3240,
+      "summaryZh": "开源 AI 同事，每个都拥有独立的电脑环境（浏览器、文件、工具），所有操作在行动前决策并记录。兼容任何 AG-UI 代理。核心亮点是代理治理和浏览器自动化。适合构建自主 AI 代理的开发者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +1571（+94%）",
+      "reasonZh": "给每个 AI 助手独立电脑，浏览器、文件、工具，所有动作先决策后记录，还兼容任意 AG-UI agent。相比传统自动化，它注重治理和可审计，适合需要安全可靠执行任务的企业场景。"
+    },
+    {
+      "repo": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "stars": 3835,
+      "summaryZh": "Apache 孵化项目，本地优先的 AI 代理工作区。以追加日志记录模型消息、工具调用、权限决策等，提供可审计、可回溯的代理运行环境。支持桌面和 CLI，适合需要高透明度和可控性的 AI 代理开发。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +1802（+89%）",
+      "reasonZh": "本地优先的 AI Agent 工作台，把消息、工具调用、权限决策等记成追加日志，主打透明可控。Apache 孵化项目，适合追求数据自主、需要完整审计记录的个人开发者或小团队。"
+    },
+    {
+      "repo": "s1dashu/ip-as-logo-skill",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "language": "",
+      "stars": 4485,
+      "summaryZh": "一个简洁的 Agent Skill，用于生成高度简化、圆润、带新拟物风格的 IP 吉祥物 Logo。核心是直接集成到 Codex 等环境，输入描述即可出图。适合需要快速生成品牌 Logo 的设计师或业务人员。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +1346（+43%）",
+      "reasonZh": "一条技能让 AI 生成圆润新拟物风格的 IP 吉祥物 Logo，简单输入即可获得高质量设计。适合需要快速产出品牌形象的创作者或小企业，比通用绘图模型更专业好用。"
+    },
+    {
+      "repo": "hairyf/deepseek-harness-desktop",
+      "url": "https://github.com/dsh-tauri-desk/deepseek-harness-desktop",
+      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
+      "language": "Rust",
+      "stars": 1322,
+      "summaryZh": "DeepSeek Harness 的 Tauri 桌面版，安装包仅 5MB，零环境配置，内置插件，支持 Windows/macOS/Linux。核心是提供轻量级的 DeepSeek 客户端。适合希望低门槛使用 DeepSeek 模型的普通用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +592（+81%）",
+      "reasonZh": "DeepSeek Harness 的 Tauri 桌面版，安装包仅 5MB，零环境配置，自带插件，支持三大系统。想用 DeepSeek 但不想折腾命令行环境的普通用户，装上就能用，非常友好。"
+    },
+    {
+      "repo": "wang2122/sprix-sage-router",
+      "url": "https://github.com/wang2122/sprix-sage-router",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "language": "Python",
+      "stars": 2405,
+      "summaryZh": "Sprix AI 的智能路由层，为 A2A 代理网络提供状态感知的 SELF/COLLABORATE/HANDOFF 路由。核心是基于任务状态动态调度代理协作。适合多代理系统或复杂任务编排的开发者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +1727（+255%）",
+      "reasonZh": "面向 A2A 智能体网络的智能路由，支持状态感知、协作和交接模式。在多智能体协作场景中，它能智能调度任务，提升整体效率，适合搭建复杂 AI 系统的开发者。"
+    },
+    {
+      "repo": "sirkirby/unifi-mcp",
+      "url": "https://github.com/sirkirby/unifi-mcp",
+      "description": "MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive",
+      "language": "Python",
+      "stars": 753,
+      "summaryZh": "为 UniFi 系列应用（Network、Protect、Access、Drive）提供的 MCP 服务器，使 AI 代理能够控制和查询 UniFi 设备。核心是通过 MCP 协议标准化集成。适合家庭自动化或网络管理的 AI 应用场景。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "为 UniFi 全家桶提供 MCP 服务器，让 AI 助手直接操控网络、监控、门禁等设备。家里或公司用 UniFi 的，能让 AI 自动化管理设备，省去手动操作，玩法新颖。"
+    },
+    {
+      "repo": "Nervercc/gpt_nerver",
+      "url": "https://github.com/Nervercc/gpt_nerver",
+      "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "language": "Python",
+      "stars": 1117,
+      "summaryZh": "ChatGPT Plus 自动化工具包，提供 PyQt6 桌面界面、JSON-RPC 注册引擎，支持卡密/CDK/PayPal/GCash 支付流程。核心是自动化管理和分发 ChatGPT Plus 账号。适合做账号运营或自动化服务的人。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +503（+82%）",
+      "reasonZh": "ChatGPT Plus 自动化套件，PyQt6 桌面界面，支持卡密、PayPal 等批量注册和支付流程。适合需要管理多个 ChatGPT 账号或做自动化运营的个人和团队，提升效率很直观。"
+    },
+    {
+      "repo": "kelviq/tare",
+      "url": "https://github.com/kelviq/tare",
+      "description": "Ask Claude Code where your usage went. Token audit, limit diagnosis and usage forensics — built from the session logs already on your machine, nothing leaves it.",
+      "language": "Python",
+      "stars": 95,
+      "summaryZh": "询问 Claude Code 的 token 使用情况，进行审计、限制诊断和使用取证。全部基于本机会话日志，数据不出本地。适合需要管理 AI 使用成本和排查配额问题的用户。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 81 分 · 58 评论",
+      "reasonZh": "本地审计 Claude Code 的 token 用量和限额，数据不出机器，私密安全。对经常用 Claude Code 的开发者，能清晰了解花费分布，及时调整使用，很实用。"
+    },
+    {
+      "repo": "mahlernim/google-timeline-visualizer",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "language": "Kotlin",
+      "stars": 2894,
+      "summaryZh": "用 Google 位置历史（Timeline）数据可视化你一年的行程。核心是将导出数据渲染成地图、时间线等视图。适合想回顾旅行足迹、分析个人活动的用户。",
+      "category": "资料教程",
+      "source": "dark-horse",
+      "signal": "周涨星 +1277（+79%）",
+      "reasonZh": "导出你的 Google 位置历史，一键生成年度旅行轨迹图。喜欢记录足迹、做年度总结的朋友，可以直观看到一年去过的地方，比单纯看地图有意思多了。"
+    }
+  ]
+}
