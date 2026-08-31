@@ -1,0 +1,435 @@
+{
+  "date": "2026-08-31",
+  "trending": [
+    {
+      "repo": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars": 24777,
+      "summaryZh": "开源多智能体交互课堂，一键开启沉浸式多智能体学习体验。核心亮点是构建多智能体协作环境，支持自定义教学场景。适合教育机构、AI研究者及希望体验多智能体交互的学习者。",
+      "category": "开发工具",
+      "starsToday": 1370
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 39712,
+      "summaryZh": "科学智能体技能库，提供165个验证过的技能和100多个科学数据库，覆盖生物等多领域。核心亮点是即插即用的技能模块，提升AI代理科研能力。适合科研人员、数据科学家及AI开发者。",
+      "category": "开发工具",
+      "starsToday": 1114
+    },
+    {
+      "repo": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "language": "Swift",
+      "stars": 9792,
+      "summaryZh": "命令行工具，用于管理虚拟手机（vPhone）。核心功能是快速创建、配置和操作模拟设备，支持iOS/Android环境。适合移动开发者在CI/CD或测试场景中使用。",
+      "category": "开发工具",
+      "starsToday": 361
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "stars": 35665,
+      "summaryZh": "AI代理技能，生成架构图、流程图、时序图等，输出自包含HTML并支持动画和导出。核心亮点是自动生成可验证的图表，适合系统设计、文档编写及开发协作。",
+      "category": "开发工具",
+      "starsToday": 3722
+    },
+    {
+      "repo": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars": 29287,
+      "summaryZh": "用于语言模型的自动审查移除工具，核心功能是过滤或中和模型输出中的受限内容，同时保持语义连贯。适合需要自定义内容策略的AI应用开发者或研究者。",
+      "category": "开发工具",
+      "starsToday": 369
+    },
+    {
+      "repo": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars": 80371,
+      "summaryZh": "开源LLM友好的网页爬虫与抓取工具。核心亮点是提供结构化数据提取、JS渲染支持及与LLM无缝集成。适合需要从网页获取数据供AI模型使用的开发者。",
+      "category": "开发工具",
+      "starsToday": 221
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 60621,
+      "summaryZh": "AI代理技能，跨Reddit、X、YouTube等平台研究任意主题，并合成有依据的摘要。核心亮点是聚合多源实时数据，适合市场调研、舆情监测及内容创作者。",
+      "category": "开发工具",
+      "starsToday": 230
+    },
+    {
+      "repo": "majd/ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "language": "Go",
+      "stars": 10301,
+      "summaryZh": "命令行工具，用于从App Store搜索和下载iOS、iPadOS等平台的IPA包。核心功能是自动化获取应用文件，适合逆向分析、应用存档及测试场景。",
+      "category": "开发工具",
+      "starsToday": 58
+    },
+    {
+      "repo": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "language": "",
+      "stars": 93454,
+      "summaryZh": "MCP服务器集合列表，整理各类模型上下文协议服务。适合开发者快速查找和集成MCP服务器，提升AI应用的可扩展性。",
+      "category": "资料教程",
+      "starsToday": 96
+    },
+    {
+      "repo": "checkstyle/checkstyle",
+      "url": "https://github.com/checkstyle/checkstyle",
+      "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "language": "Java",
+      "stars": 9246,
+      "summaryZh": "Java静态代码检查工具，确保代码符合编码标准（如Google Java Style）。支持高度定制规则，适合Java开发团队用于代码质量控制和规范统一。",
+      "category": "开发工具",
+      "starsToday": 115
+    },
+    {
+      "repo": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": 74011,
+      "summaryZh": "NSA开源的软件逆向工程框架，提供反汇编、反编译、脚本分析等功能。核心亮点是图形化界面和扩展性，适合安全分析师、漏洞研究者及CTF玩家。",
+      "category": "开发工具",
+      "starsToday": 198
+    },
+    {
+      "repo": "pollen-robotics/microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "description": "RL training environments for Microduck (mjlab)",
+      "language": "Python",
+      "stars": 882,
+      "summaryZh": "Microduck机器人的强化学习训练环境，基于mjlab。核心功能是模拟物理环境并支持策略训练，适合机器人研究者验证RL算法。",
+      "category": "AI",
+      "starsToday": 168
+    },
+    {
+      "repo": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "stars": 5855,
+      "summaryZh": "中国专利技能，支持专利点挖掘、交底书编写（发明/实用/外观）、通俗解读及政策嗅探。适合专利代理人、发明人及企业法务。",
+      "category": "开发工具",
+      "starsToday": 62
+    },
+    {
+      "repo": "corsairdev/corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "description": "Connect your users to their apps",
+      "language": "TypeScript",
+      "stars": 11033,
+      "summaryZh": "连接用户到他们的应用的工具，核心功能是提供应用发现和快捷访问。适合移动端或Web应用的用户引导和入口管理。",
+      "category": "前端",
+      "starsToday": 126
+    },
+    {
+      "repo": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars": 15311,
+      "summaryZh": "开源SEO工具，作为Semrush和Ahrefs的替代品。核心功能包括关键词研究、排名追踪和站点分析，适合SEO从业者和网站管理员。",
+      "category": "开发工具",
+      "starsToday": 469
+    },
+    {
+      "repo": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "stars": 22976,
+      "summaryZh": "这是一个聚合了34家免费LLM提供商、635个免费模型端点的统一API服务。它提供了一个标准化的/v1端点，并支持智能路由、自动故障转移和加密密钥管理，每月可处理74亿个令牌。适合需要低成本调用多种大模型的开发者或小型项目使用。",
+      "category": "开发工具",
+      "starsToday": 504
+    },
+    {
+      "repo": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "language": "Python",
+      "stars": 13835,
+      "summaryZh": "这是一个用于构建实时语音AI代理的框架。它支持音频和视频交互，提供了构建语音机器人所需的工具和组件，可快速集成到应用中。适合需要开发实时语音助手、语音客服等场景的开发者。",
+      "category": "AI",
+      "starsToday": 132
+    },
+    {
+      "repo": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": 46641,
+      "summaryZh": "这是一个完全在浏览器中运行的代码智能引擎，可直接从GitHub、GitLab等仓库构建客户端知识图谱。它无需服务器，能帮助开发者可视化和探索代码库结构，实现智能代码导航和理解。适合需要在本地快速分析和理解大型代码库的开发者。",
+      "category": "开发工具",
+      "starsToday": 182
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "language": "Python",
+      "stars": 4808,
+      "summaryZh": "一个自主研究系统，能够进行可度量的、可执行的计算机研究。它自动化了研究过程的多个环节，能生成可验证的结果。适合科研人员或数据分析师进行系统性研究。",
+      "category": "AI",
+      "createdAt": "2026-08-27T14:20:58Z"
+    },
+    {
+      "repo": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+      "description": "",
+      "language": "TeX",
+      "stars": 4160,
+      "summaryZh": "这是一个用LaTeX书写的幽默程序，模拟与“女朋友”景天的日常对话，包含一系列搞笑和温馨的段子。它适合程序员休闲娱乐，或用于LaTeX排版练习。",
+      "category": "其他",
+      "createdAt": "2026-08-27T11:28:44Z"
+    },
+    {
+      "repo": "MetaMask-AI/metamask-desktop",
+      "url": "https://github.com/MetaMask-AI/metamask-desktop",
+      "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "language": "CSS",
+      "stars": 1228,
+      "summaryZh": "MetaMask桌面版应用，用于浏览以太坊等区块链上的网页应用。它提供了桌面客户端，集成了钱包功能，支持以太坊、Solana等网络，便于管理数字资产和访问DApp。适合需要更便捷的加密货币交互体验的用户。",
+      "category": "其他",
+      "createdAt": "2026-08-28T08:07:10Z"
+    },
+    {
+      "repo": "wide-trace/open-higgsfield",
+      "url": "https://github.com/wide-trace/open-higgsfield",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "language": "TypeScript",
+      "stars": 1096,
+      "summaryZh": "一个用于图像和视频生成的创意工坊，提供统一的提示词栏和单独的模型设置，所有生成结果汇集在一个画廊中。它支持多模型切换，便于比较和选择最佳输出。适合需要批量生成或实验不同模型的创作者。",
+      "category": "AI",
+      "createdAt": "2026-08-26T06:09:58Z"
+    },
+    {
+      "repo": "bryllim/workout-guide",
+      "url": "https://github.com/bryllim/workout-guide",
+      "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+      "language": "Astro",
+      "stars": 1032,
+      "summaryZh": "这是一个开源健身指南，包含302个运动动作的插画和与框架无关的npm包。它提供了清晰的视觉指导，适合健身应用开发者和健身爱好者参考和使用。",
+      "category": "前端",
+      "createdAt": "2026-08-24T02:14:20Z"
+    },
+    {
+      "repo": "Nanako0129/sepia",
+      "url": "https://github.com/Nanako0129/sepia",
+      "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "language": "",
+      "stars": 979,
+      "summaryZh": "这是一个基于StoryScope的写作技能包，为Claude Code等AI编码助手提供去AI化写作能力。它修复小说的叙事架构，并为专业写作提供适配的规则。适合需要提升AI写作质量的小说家或专业写作者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-28T05:56:49Z"
+    },
+    {
+      "repo": "Tencent/WeMM-Embedding",
+      "url": "https://github.com/Tencent/WeMM-Embedding",
+      "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+      "language": "Python",
+      "stars": 946,
+      "summaryZh": "腾讯微信视觉团队发布的多模态通用嵌入模型，支持多模态理解和检索。它能够将图像、文本等不同模态数据嵌入到统一向量空间，可用于跨模态搜索和相似性匹配。适合需要多模态检索能力的AI应用开发者。",
+      "category": "AI",
+      "createdAt": "2026-08-25T02:46:10Z"
+    },
+    {
+      "repo": "amosblomqvist/learn",
+      "url": "https://github.com/amosblomqvist/learn",
+      "description": "My AI learning system.",
+      "language": "TypeScript",
+      "stars": 930,
+      "summaryZh": "这是一个个人AI学习系统，相当于一个智能化的学习管理平台。它可能整合了学习计划、笔记和AI辅助功能，帮助用户高效学习。适合想用AI提升学习效率的个人。",
+      "category": "资料教程",
+      "createdAt": "2026-08-24T16:45:07Z"
+    },
+    {
+      "repo": "tradecatlabs/shulihuazixuecongshu",
+      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
+      "description": "",
+      "language": "Python",
+      "stars": 809,
+      "summaryZh": "关于“书利华自学丛书”的扩展项目，可能包含编程学习材料或代码示例。具体内容需要进一步查看，但基于描述，它可能提供自学资源。",
+      "category": "资料教程",
+      "createdAt": "2026-08-27T18:02:35Z"
+    },
+    {
+      "repo": "kacperkapusciak/goldie",
+      "url": "https://github.com/kacperkapusciak/goldie",
+      "description": "✨ agentic app store previews and screenshots",
+      "language": "TypeScript",
+      "stars": 808,
+      "summaryZh": "一个通过AI代理生成应用商店预览和截图的工具。它自动化创建美观的截图和预览视频，提升应用商店的展示效果。适合移动应用开发者快速制作营销素材。",
+      "category": "开发工具",
+      "createdAt": "2026-08-24T12:36:59Z"
+    },
+    {
+      "repo": "jub0t/Concat",
+      "url": "https://github.com/jub0t/Concat",
+      "description": "Free & Open-Source CapCut replacement.",
+      "language": "TypeScript",
+      "stars": 747,
+      "summaryZh": "这是CapCut的开源替代品，支持非线形视频编辑，提供自动字幕、音频处理和跨平台桌面应用。基于Tauri和FFmpeg构建，注重离线优先。适合需要免费且功能丰富的视频编辑软件的用户。",
+      "category": "其他",
+      "createdAt": "2026-08-25T18:34:47Z"
+    },
+    {
+      "repo": "cbrock84/headcount",
+      "url": "https://github.com/cbrock84/headcount",
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "language": "Markdown",
+      "stars": 742,
+      "summaryZh": "这是一个为Claude Code设计的代理组织，结构仿照公司运营，包含了15个以上的部门和125个技能，每个技能都可独立安装。它通过技能协作提高开发效率。适合使用Claude Code的开发者进行复杂任务管理。",
+      "category": "开发工具",
+      "createdAt": "2026-08-28T18:03:04Z"
+    },
+    {
+      "repo": "yding-git/personal-edge-proxy",
+      "url": "https://github.com/yding-git/personal-edge-proxy",
+      "description": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
+      "language": "",
+      "stars": 703,
+      "summaryZh": "一个实用的个人代理配置方案，基于Xray等工具实现多入站多出站，支持REALITY Vision和WARP，并可灵活路由SOCKS5流量。适合需要高级翻墙或稳定代理的个人用户，部署后能显著提升网络访问的灵活性和隐私性。",
+      "category": "其他",
+      "createdAt": "2026-08-24T16:35:49Z"
+    },
+    {
+      "repo": "jprx/darwin-vm",
+      "url": "https://github.com/jprx/darwin-vm",
+      "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "language": "Python",
+      "stars": 637,
+      "summaryZh": "在Qemu中运行iOS和macOS的虚拟机工具，支持虚拟iPhone 12至17以及M1至M5芯片的Mac，让你在非Apple硬件上体验苹果系统。适合开发者和极客用于测试、逆向或体验不同系统，但需注意性能和兼容性限制。",
+      "category": "开发工具",
+      "createdAt": "2026-08-27T22:24:31Z"
+    },
+    {
+      "repo": "chrisgreg/boop",
+      "url": "https://github.com/chrisgreg/boop",
+      "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+      "language": "Go",
+      "stars": 627,
+      "summaryZh": "一个轻量级的自托管通知收件箱，专为开发者设计。当你的应用发生事件时，它可以推送到手机，让你及时知晓，无需打开电脑查看。适合多项目开发者集中管理通知，增强响应速度。",
+      "category": "开发工具",
+      "createdAt": "2026-08-28T15:38:33Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "gbin/defragger",
+      "url": "https://github.com/gbin/defragger",
+      "description": "Linux filesystem defragger written in Rust and Qt Quick/Kirigami",
+      "language": "Rust",
+      "stars": 42,
+      "summaryZh": "用Rust和Qt Quick编写的Linux文件系统碎片整理工具，提供图形界面，支持常见文件系统。适用于定期维护Linux系统、提升磁盘性能的用户，尤其适合喜欢现代化界面和高效工具的爱好者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 87 分 · 68 评论",
+      "reasonZh": "用 Rust 和 Qt 写的 Linux 文件系统碎片整理工具，界面现代，操作直观。同类工具多为命令行或老旧 UI，它把碎片整理变得可视化、易上手。系统盘越来越卡、想安全整理碎片时尤其好用。\n\n"
+    },
+    {
+      "repo": "KodeMunkie/sm750hdmifb",
+      "url": "https://github.com/KodeMunkie/sm750hdmifb",
+      "description": "Experimental Linux DRM/KMS driver for the SM750G10 SE-DP750A-HDMI, with HDMI, custom RGB565 dithering, DMA and software-scaled ultrawide modes.",
+      "language": "C",
+      "stars": 14,
+      "summaryZh": "一个实验性的Linux DRM/KMS驱动，用于SM750G10显示芯片，支持HDMI、自定义RGB565抖动、DMA和软件缩放超宽模式。适合嵌入式开发者或修复特定硬件显示问题的场景，但需谨慎测试。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 96 分 · 35 评论",
+      "reasonZh": "给 SM750 HDMI 显卡做的实验性 Linux 驱动，支持超宽屏、软件缩放和自定义抖动。对 DIY 玩家和用这类廉价显卡做显示输出的场景很有价值，是难得的硬件驱动项目。\n\n"
+    },
+    {
+      "repo": "mk6i/open-oscar-server",
+      "url": "https://github.com/mk6i/open-oscar-server",
+      "description": "Self-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang. (Independently developed, not affiliated with or endorsed by AOL)",
+      "language": "Go",
+      "stars": 1550,
+      "summaryZh": "用Go写的自托管即时通讯服务器，兼容经典AIM和ICQ客户端，由社区独立开发，不依赖AOL服务。适合怀旧用户或需要私有聊天系统的企业/团队，既能体验复古IM，又能保障数据自主。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 63 分 · 19 评论",
+      "reasonZh": "用 Go 写的自托管即时通讯服务器，兼容经典 AIM/ICQ 客户端，能找回老聊天软件的感觉。代码简洁、部署方便，怀旧党或想搭建复古聊天室的人直接就能用。\n\n"
+    },
+    {
+      "repo": "thiagotigaz/ocr-it",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "description": "Chrome extension: pin a screen region once, then hotkey your way through a paginated document. OCR runs 100% offline via bundled Tesseract.",
+      "language": "JavaScript",
+      "stars": 339,
+      "summaryZh": "一个Chrome扩展，可固定屏幕区域并通过快捷键快速OCR识别，支持分页文档，所有处理离线进行，基于Tesseract。适合经常需要提取屏幕文字的研究者、办公人员，保护隐私且高效。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +139（+70%）",
+      "reasonZh": "Chrome 扩展，可以固定屏幕区域、一键 OCR 识别分页文档，而且完全离线运行。适合需要频繁扫描纸质书、合同、PDF 又注重隐私的用户，比在线 OCR 工具更省心。\n\n"
+    },
+    {
+      "repo": "Syngnat/GoNavi",
+      "url": "https://github.com/Syngnat/GoNavi",
+      "description": "High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库客户端：约 30MB，AI 与 MCP 就绪，告别 Electron 膨胀。",
+      "language": "TypeScript",
+      "stars": 1886,
+      "summaryZh": "高性能多数据源数据库客户端，约30MB，支持AI和MCP，基于Wails构建，无Electron冗肿。支持MySQL、PostgreSQL、Redis等多种数据库，适合开发者和DBA跨平台管理数据库，追求轻量和效率。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "一个约 30MB 的跨平台数据库客户端，支持 MySQL、PostgreSQL、Redis、Kafka 等，原生性能、无 Electron 臃肿，还带 AI 和 MCP 能力。数据库开发者日常管理多数据源的轻量利器。\n\n"
+    },
+    {
+      "repo": "harry0703/MangoDisk",
+      "url": "https://github.com/harry0703/MangoDisk",
+      "description": "Safety-first disk cleaner and space analyzer for macOS and Windows, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
+      "language": "Rust",
+      "stars": 1768,
+      "summaryZh": "安全优先的跨平台磁盘清理与分析工具，支持重复文件清理、应用卸载、启动项管理及系统优化。适合macOS和Windows用户定期维护系统，释放空间并提升性能，界面友好。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "主打安全的磁盘清理和空间分析工具，支持重复文件查找、应用卸载、启动项管理，跨 macOS 和 Windows。设计注重防止误删，用 Rust 写的高效又稳定。\n\n"
+    },
+    {
+      "repo": "kushalpandya/Petrichor",
+      "url": "https://github.com/kushalpandya/Petrichor",
+      "description": "An offline macOS music player",
+      "language": "Swift",
+      "stars": 1621,
+      "summaryZh": "一款离线的macOS音乐播放器，专注于播放本地音频如MP3和OGG，无网络依赖，保持简洁。适合注重隐私、喜欢离线听歌且需要轻量应用的macOS用户。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "一款离线 macOS 音乐播放器，支持 MP3、OGG 等格式，界面简洁流畅。不联网、无广告，专注本地音乐库，适合收藏本地音乐、在意隐私的 Mac 用户。\n\n"
+    },
+    {
+      "repo": "arcsin1/oh-my-ppt",
+      "url": "https://github.com/arcsin1/oh-my-ppt",
+      "description": "Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.",
+      "language": "TypeScript",
+      "stars": 1912,
+      "summaryZh": "输入需求描述，AI自动生成简洁美观的HTML幻灯片，支持本地优先、离线运行。适合教师、演讲者快速制作演示文稿，无需在线工具，保障内容安全，并支持灵活定制。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "只要描述需求，AI 就能生成精美的 HTML 幻灯片，完全本地运行、支持离线。比在线 PPT 工具更注重隐私和自定义，适合教师、讲师快速做演示文稿。\n"
+    }
+  ]
+}
