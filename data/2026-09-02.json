@@ -1,0 +1,407 @@
+{
+  "date": "2026-09-02",
+  "trending": [
+    {
+      "repo": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 31466,
+      "summaryZh": "OpenClaude 是一个能在任何环境运行的开放 Claude 客户端，支持接入多种模型服务。其技术亮点是高度的可移植性和灵活的配置，适合需要跨平台使用 Claude 或深度定制 AI 交互体验的开发者。",
+      "category": "开发工具",
+      "starsToday": 80
+    },
+    {
+      "repo": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 45064,
+      "summaryZh": "该项目为 Claude Code 提供学术研究技能集，覆盖从研究、写作到审阅和定稿的完整流程。它利用 Python 实现自动化研究辅助，适合需要系统化完成学术论文写作的研究人员和学生。",
+      "category": "资料教程",
+      "starsToday": 193
+    },
+    {
+      "repo": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars": 29749,
+      "summaryZh": "OpenMAIC 是清华开源的沉浸式多智能体互动课堂，一键即可体验多智能体学习环境。它基于 TypeScript 构建，适合对多智能体系统感兴趣且渴望互动式学习体验的师生和开发者。",
+      "category": "AI",
+      "starsToday": 3128
+    },
+    {
+      "repo": "iv-org/invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "stars": 23830,
+      "summaryZh": "Invidious 是 YouTube 的替代前端，注重用户隐私和自由。它用 Crystal 语言开发，无广告且提供 API 访问，适合渴望摆脱追踪和广告、希望深度定制视频观看体验的用户。",
+      "category": "开发工具",
+      "starsToday": 577
+    },
+    {
+      "repo": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars": 57269,
+      "summaryZh": "MiniMind 是一个从零训练 64M 参数 LLM 的项目，仅需 2 小时。它展示了轻量级模型训练的完整流程和技术细节，适合想快速上手 LLM 训练的学生或开发者。",
+      "category": "资料教程",
+      "starsToday": 1005
+    },
+    {
+      "repo": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars": 92651,
+      "summaryZh": "Manim 是 3Blue1Brown 开发的数学动画引擎，用于制作解释性数学视频。它通过 Python 代码精准控制动画，适合数学教育者和内容创作者制作高质量讲解视频。",
+      "category": "开发工具",
+      "starsToday": 86
+    },
+    {
+      "repo": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars": 18053,
+      "summaryZh": "PDF-Inspector 是一个用 Rust 编写的高性能 PDF 检查库，能智能检测扫描件和文本型 PDF 并进行分类与提取。它提供快速的文本提取能力，适合需要自动化处理大量 PDF 文档的开发者。",
+      "category": "开发工具",
+      "starsToday": 541
+    },
+    {
+      "repo": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 23100,
+      "summaryZh": "Video-use 允许通过编码智能体来编辑视频，将 AI 自动化应用于视频处理流程。它基于 Python，适合希望用编程方式剪辑视频、提升后期制作效率的创作者和开发者。",
+      "category": "AI",
+      "starsToday": 472
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 41684,
+      "summaryZh": "该项目提供科学领域的 Agent Skills 库，包含超 165 种验证技能和 100 多个科学数据库，能转化任何 AI 智能体为 AI 科学家。它对于科研人员加速文献分析、实验设计等具有高度实用性。",
+      "category": "AI",
+      "starsToday": 912
+    },
+    {
+      "repo": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "stars": 6839,
+      "summaryZh": "中国专利.skill 是辅助进行中国专利工作的工具，涵盖专利点挖掘、交底书编写和审查答复。它面向专利代理人或发明人，提供通俗解读和政策嗅探，以提升专利申请效率。",
+      "category": "开发工具",
+      "starsToday": 501
+    },
+    {
+      "repo": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "language": "",
+      "stars": 113013,
+      "summaryZh": "该仓库收集了主流品牌设计系统的 DESIGN.md 文件，通过分析后可直接用于指导编码智能体生成匹配的 UI。它适合前端开发者或设计系统爱好者，能大幅简化 UI 开发流程。",
+      "category": "前端",
+      "starsToday": 323
+    },
+    {
+      "repo": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "stars": 7816,
+      "summaryZh": "Reclip 是一个轻量级、自托管的媒体下载器，可从任意网站下载视频并附带干净的 Web UI。它功能简洁且注重隐私，适合想要灵活定制、避免云服务的个人及小团队使用。",
+      "category": "开发工具",
+      "starsToday": 56
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 245832,
+      "summaryZh": "ECC 是智能体性能调优系统，提供技能、直觉、记忆、安全等增强功能，支持多种编码智能体。其以研究为导向的开发模式适合追求高效能开发流程的进阶用户。",
+      "category": "开发工具",
+      "starsToday": 623
+    },
+    {
+      "repo": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars": 80932,
+      "summaryZh": "Crawl4AI 是一个对 LLM 友好的开源网页爬虫与抓取工具，能高效抓取并清理网页数据供 AI 使用。它支持多种网页解析策略，尤其适合需要大量高质量文本做语料的数据科学家。",
+      "category": "开发工具",
+      "starsToday": 145
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "language": "Python",
+      "stars": 6289,
+      "summaryZh": "PRAXIST 是自主研究系统，旨在产生可测量且计算机可执行的研究成果。其技术专注于自动化流程和结果验证，适合研究人员用于长周期重复性实验与数据驱动的探索。",
+      "category": "AI",
+      "createdAt": "2026-08-27T14:20:58Z"
+    },
+    {
+      "repo": "crmne/fastpotify",
+      "url": "https://github.com/crmne/fastpotify",
+      "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+      "language": "Rust",
+      "stars": 1585,
+      "summaryZh": "fastpotify 是一个用 Rust 编写的轻量级 Spotify 客户端，支持在 Linux、macOS 和 Windows 上播放本地音乐库并连接 Spotify Connect。其核心优势在于使用 egui 构建的原生界面，提供快速流畅的体验，适合追求性能的 Spotify 用户。",
+      "category": "其他",
+      "createdAt": "2026-08-27T12:46:32Z"
+    },
+    {
+      "repo": "Nanako0129/sepia",
+      "url": "https://github.com/Nanako0129/sepia",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "language": "Python",
+      "stars": 1371,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-28T05:56:49Z"
+    },
+    {
+      "repo": "MetaMask-AI/metamask-desktop",
+      "url": "https://github.com/MetaMask-AI/metamask-desktop",
+      "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "language": "CSS",
+      "stars": 1229,
+      "summaryZh": "MetaMask 桌面版是一款跨平台应用，让用户能够浏览基于以太坊等 EVM 链构建的网站和去中心化应用（dApp）。它整合了多链钱包功能，支持比特币、Solana 等资产，适合需要在桌面端安全使用 DeFi 和 Web3 服务的用户。",
+      "category": "其他",
+      "createdAt": "2026-08-28T08:07:10Z"
+    },
+    {
+      "repo": "wide-trace/open-higgsfield",
+      "url": "https://github.com/wide-trace/open-higgsfield",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "language": "TypeScript",
+      "stars": 1213,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-26T06:09:58Z"
+    },
+    {
+      "repo": "damejan80/tokentab",
+      "url": "https://github.com/damejan80/tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "language": "Python",
+      "stars": 1140,
+      "summaryZh": "tokentab 是一个 CLI 工具，用于读取 Claude Code、Codex 和 Gemini CLI 的会话日志，并按模型、项目和日期统计 token 消耗和费用。它帮助开发者分析和优化 AI 工具的使用成本，适合深度依赖 AI 编程助手的团队。",
+      "category": "开发工具",
+      "createdAt": "2026-08-27T14:16:09Z"
+    },
+    {
+      "repo": "cbrock84/headcount",
+      "url": "https://github.com/cbrock84/headcount",
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "language": "Markdown",
+      "stars": 970,
+      "summaryZh": "headcount 为 Claude Code 提供了一个类似公司结构的“代理组织”，包含 15 个以上部门和 125 种可独立安装的技能。它旨在将任务分解给多个专业化代理，提高复杂工作流程的执行效率，适用于需要组织化 AI 协作的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-28T18:03:04Z"
+    },
+    {
+      "repo": "jprx/darwin-vm",
+      "url": "https://github.com/jprx/darwin-vm",
+      "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "language": "Python",
+      "stars": 892,
+      "summaryZh": "darwin-vm 可以让你在 QEMU 中运行 iOS 和 macOS 系统，支持虚拟 iPhone 12 至 17 以及 Apple Silicon Mac。它适合开发者在非苹果硬件上测试和运行苹果生态应用，但需注意性能和兼容性问题。",
+      "category": "开发工具",
+      "createdAt": "2026-08-27T22:24:31Z"
+    },
+    {
+      "repo": "tradecatlabs/shulihuazixuecongshu",
+      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
+      "description": "",
+      "language": "Python",
+      "stars": 849,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-27T18:02:35Z"
+    },
+    {
+      "repo": "GangTailorUpgrade/CoomeRtool",
+      "url": "https://github.com/GangTailorUpgrade/CoomeRtool",
+      "description": "Coomer Tool",
+      "language": "Python",
+      "stars": 840,
+      "summaryZh": "CoomeRtool 是一个专门用于下载 Coomer 和 Kemono 网站内容的工具，支持批量下载创作者发布的内容。它面向需要备份或离线访问这些平台内容的用户。",
+      "category": "其他",
+      "createdAt": "2026-08-31T00:12:45Z"
+    },
+    {
+      "repo": "chrisgreg/boop",
+      "url": "https://github.com/chrisgreg/boop",
+      "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+      "language": "Go",
+      "stars": 679,
+      "summaryZh": "boop 是一个轻量级的自托管通知收件箱，面向开发者。当应用发生事件时，它会将通知推送到你的手机，支持自定义渠道，适合监控多个应用状态而无需自己搭建复杂系统。",
+      "category": "开发工具",
+      "createdAt": "2026-08-28T15:38:33Z"
+    },
+    {
+      "repo": "soirihiroka/shrimply",
+      "url": "https://github.com/soirihiroka/shrimply",
+      "description": "you're telling me a shrimp made this video?",
+      "language": "Rust",
+      "stars": 668,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-26T01:55:08Z"
+    },
+    {
+      "repo": "Git-Agni/prod-FARM-IOS-Core",
+      "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+      "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+      "language": "TypeScript",
+      "stars": 648,
+      "summaryZh": "prod-FARM-IOS-Core 让你从 Mac 上操作一个真实的 iPhone 农场，提供开源 iOS 自动化，包含实时控制和 Postgres 调度的任务队列，并内置 TikTok 工作流模板。适合需要大规模设备测试或社交媒体自动化的开发者，可自行托管。",
+      "category": "开发工具",
+      "createdAt": "2026-08-27T04:55:36Z"
+    },
+    {
+      "repo": "hkqr/my-free-code",
+      "url": "https://github.com/hkqr/my-free-code",
+      "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+      "language": "Python",
+      "stars": 618,
+      "summaryZh": "my-free-code 是一个开源 AI 网关，为 Claude Code 等编码代理提供多提供商路由、流式响应、工具调用和本地模型支持。它允许你自由组合多种 AI 后端，降低成本并提高可用性。",
+      "category": "开发工具",
+      "createdAt": "2026-08-27T17:59:23Z"
+    },
+    {
+      "repo": "brayonpi/hexstellar",
+      "url": "https://github.com/brayonpi/hexstellar",
+      "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
+      "language": "Python",
+      "stars": 567,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-08-27T20:53:42Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "amicalhq/amical",
+      "url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "language": "TypeScript",
+      "stars": 1518,
+      "summaryZh": "amical 是一款开源的本地优先 AI 听写应用，利用 Whisper 等开源模型实现快速准确的语音转文字，支持离线使用。其核心亮点是集成 MCP，可直接将听写内容发送到其他应用，适合需要高效记录或不想打字的个人用户。",
+      "category": "前端",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "本地优先的AI听写应用，基于开源模型离线工作，打字速度慢或不想敲键盘时特别好用。相比同类云端方案，它完全免费且保护隐私，还能通过Ollama接入本地模型，适合会议记录、快速写作场景。Mac和Windows都能用，开箱即走。"
+    },
+    {
+      "repo": "bryllim/workout-guide",
+      "url": "https://github.com/bryllim/workout-guide",
+      "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+      "language": "Astro",
+      "stars": 1061,
+      "summaryZh": "一个开源健身项目，提供 302 幅精心绘制的动作示意图和一个与框架无关的 npm 包。适用于健身应用或网站开发，方便快速集成标准动作展示。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +523（+97%）",
+      "reasonZh": "302张开源健身动作插画加一个框架无关的npm包，不用再为教程图到处找素材。做健身App、训练网站或教学内容时直接引用，图标风格统一还免费。比自绘或购买素材省大力气，React Native和Expo项目也能用。"
+    },
+    {
+      "repo": "tobi/walgit",
+      "url": "https://github.com/tobi/walgit",
+      "description": "",
+      "language": "Rust",
+      "stars": 2389,
+      "summaryZh": "一个用 Rust 开发的高星项目，具体功能因描述缺失未明确，可能涉及 Git 底层操作或效率提升。适合对 Rust 和 Git 工具链有兴趣的开发者关注。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +823（+53%）",
+      "reasonZh": "让Git仓库像文件管理器一样可视化管理，Rust写的速度快。命令行党常觉得Git难记，这工具把分支、提交、历史都变成直观界面，适合团队里不爱敲命令的同事和刚学Git的新手。相比SourceTree这类重型客户端，它轻量又现代。"
+    },
+    {
+      "repo": "dongdongbh/Mindwtr",
+      "url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.",
+      "language": "TypeScript",
+      "stars": 1900,
+      "summaryZh": "一款轻量级的桌面/移动端 GTD 任务管理应用，帮助你清空大脑记录待办，并直观看到接下来该做什么。支持跨平台，内置 ADHD 友好功能，适合注重个人效率的用户。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "跨平台GTD应用，把任务从脑子里清空然后告诉你下一步干啥，对ADHD和容易焦虑的人特别友好。不是简单待办清单，而是完整流程管理，桌面和手机都能用。同类工具大多收费或封闭，它开源免费，设计理念也更人性化。"
+    },
+    {
+      "repo": "steven-jianhao-li/zotero-AI-Butler",
+      "url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "language": "TypeScript",
+      "stars": 1669,
+      "summaryZh": "一个 Zotero 插件，集成大模型自动精读论文摘要并生成 Markdown 笔记，支持主流 AI 平台。适合科研人员快速掌握文献要点，节省时间。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "Zotero插件自动精读文献并生成笔记，研究者、研究生读论文的省力神器。扔进PDF就帮你总结要点，10分钟掌握一篇论文。支持多家大模型API，比手动一篇篇读高效太多。同类工具要么配置复杂，要么只支持特定模型，它做得很均衡。"
+    },
+    {
+      "repo": "snownico0722/PaperTodo",
+      "url": "https://github.com/snownico0722/PaperTodo",
+      "description": "极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.",
+      "language": "C#",
+      "stars": 2201,
+      "summaryZh": "极简 Windows 桌面便签，使用原生 WPF 开发，支持待办和 Markdown。界面安静不打扰，适合轻量记录和任务管理。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "极简Windows桌面便签，就像真的贴几张纸在桌上，安静可用不打扰。WPF原生，支持Markdown和待办，比系统自带的便签好用，又没那些花里胡哨的笔记应用重。适合喜欢极简、不想被复杂功能绑架的Windows用户，拿来记灵感、列待办都很顺手。"
+    },
+    {
+      "repo": "Tianyu199509/DeskBox",
+      "url": "https://github.com/Tianyu199509/DeskBox",
+      "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
+      "language": "C#",
+      "stars": 2629,
+      "summaryZh": "免费开源的 Windows 桌面整理工具，基于 WinUI 3 提供原生风格小组件，支持文件分类与快速找回。适用于 Windows 11 用户整理杂乱桌面。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "Windows桌面整理工具，原生WinUI 3组件，免费开源。桌面乱七八糟但不想用大而全的整理软件？它提供干净的原生体验，分类文件、放小组件都行，比Fences这类商业软件自由，Win11用户尤其合适。"
+    },
+    {
+      "repo": "unhappychoice/gittype",
+      "url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "language": "Rust",
+      "stars": 1584,
+      "summaryZh": "一个终端打字游戏，使用真实源代码作为打字练习素材，根据语法高亮模拟代码逐字符输入场景。适合开发者边练打字边熟悉编程。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "把代码变成打字游戏的Rust CLI工具，练打字顺便熟悉源码。好玩又实用，支持tree-sitter高亮多种语言，比那些无聊的字母练习有意思多了。程序员娱乐摸鱼同时还能提升编码相关输入速度，摸鱼学习两不误。"
+    },
+    {
+      "repo": "marswaveai/TypeNo",
+      "url": "https://github.com/marswaveai/TypeNo",
+      "description": "A free, open source, privacy-first voice input app for macOS.",
+      "language": "Swift",
+      "stars": 892,
+      "summaryZh": "macOS 免费语音输入应用，注重隐私，本地处理语音转文字。支持菜单栏快速调用，适合不想用云服务但需要高效语音记录的用户。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "macOS隐私优先的语音输入应用，完全免费开源，声音本地处理不上传。不想用系统自带或商业听写怕泄露隐私，就选它。菜单栏快捷调用，支持多语言，对打字慢和手腕疲劳的人简直是救星。Swift原生，流畅不占资源。"
+    }
+  ]
+}
