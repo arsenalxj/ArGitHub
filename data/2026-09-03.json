@@ -1,0 +1,437 @@
+{
+  "date": "2026-09-03",
+  "trending": [
+    {
+      "repo": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": 24409,
+      "summaryZh": "一个现代的C++字符串格式化库，提供类型安全、可扩展的格式化功能，类似Python的format语法。支持自定义类型格式化、宽字符和Unicode，性能优于传统printf。适合需要高效、安全字符串输出的C++开发者。",
+      "category": "开发工具",
+      "starsToday": 14
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 121997,
+      "summaryZh": "一个JavaScript项目，旨在让AI代理像最懒的高级开发人员一样思考，强调最小化代码编写。通过特定提示或策略，减少不必要的代码生成，提高效率。适合希望AI辅助编码更简洁的开发团队。",
+      "category": "开发工具",
+      "starsToday": 1354
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 15076,
+      "summaryZh": "一个开源、完全本地的语音克隆和音频处理工具，支持语音设计、视频配音、听写、转录和有声书创建，覆盖646种语言。提供类似ElevenLabs的功能但无需云服务，保护隐私。适合内容创作者和需要多语言音频处理的用户。",
+      "category": "开发工具",
+      "starsToday": 832
+    },
+    {
+      "repo": "sngyai/Sequoia-X",
+      "url": "https://github.com/sngyai/Sequoia-X",
+      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "language": "Python",
+      "stars": 6234,
+      "summaryZh": "一个针对A股市场的自动选股系统，能够扫描多种技术形态，并在收盘后自动运行分析结果推送至飞书。通过自动化筛选，节省人工盯盘时间。适合个人投资者或量化交易爱好者。",
+      "category": "开发工具",
+      "starsToday": 63
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 50707,
+      "summaryZh": "一个TypeScript项目，为编码代理提供Chrome DevTools的调试功能，使其能够执行JavaScript、检查DOM和网络请求等。通过MCP协议集成到AI编码环境中，增强自动化测试和调试能力。适合使用AI辅助开发的工程师。",
+      "category": "开发工具",
+      "starsToday": 148
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 240245,
+      "summaryZh": "一个Python项目，构建一个随用户成长而进化的智能代理，可能涉及持久化记忆和学习行为。旨在提供个性化、长期使用的人工智能助手。适合需要定制化智能体的研究者和开发者。",
+      "category": "AI",
+      "starsToday": 533
+    },
+    {
+      "repo": "superlinked/sie",
+      "url": "https://github.com/superlinked/sie",
+      "description": "Open-source inference server and production cluster for all the models your agent needs.",
+      "language": "Python",
+      "stars": 3108,
+      "summaryZh": "一个开源的推理服务器和生产集群，用于部署AI代理所需的各种模型。支持模型推理、管理和扩展，简化生产环境中的模型部署。适合需要将多模型集成到应用中的AI工程师。",
+      "category": "AI",
+      "starsToday": 60
+    },
+    {
+      "repo": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "stars": 2986,
+      "summaryZh": "一个用Rust编写的源控制工具，专为AI代理设计，支持多个代理的变更跟踪和查询。类似Git但针对代理工作流优化，可统一管理多个AI代理的代码修改。适合使用多个AI代理的团队。",
+      "category": "开发工具",
+      "starsToday": 888
+    },
+    {
+      "repo": "zyronon/TypeWords",
+      "url": "https://github.com/zyronon/TypeWords",
+      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+      "language": "Vue",
+      "stars": 9413,
+      "summaryZh": "一个Vue项目，通过打字练习来学习英语，每次敲击对应一点进步。提供单词和句子练习，结合输入法学习，适合想通过实践提升英语拼写的学习者。",
+      "category": "资料教程",
+      "starsToday": 21
+    },
+    {
+      "repo": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 45651,
+      "summaryZh": "一个Python项目，提供学术研究技能集，涵盖研究、写作、审查、修订和完成的全流程。为Claude Code等AI代理提供系统化的学术工作指引，确保产出高质量论文。适合学术研究用户。",
+      "category": "资料教程",
+      "starsToday": 799
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 246460,
+      "summaryZh": "一个JavaScript项目，用于优化代理性能，包含技能、直觉、记忆、安全和研究优先的开发框架，支持多种AI代理工具如Claude Code、Codex等。旨在提升代理在多环境下的工作效率和可靠性。",
+      "category": "AI",
+      "starsToday": 516
+    },
+    {
+      "repo": "vercel-labs/portless",
+      "url": "https://github.com/vercel-labs/portless",
+      "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+      "language": "TypeScript",
+      "stars": 11856,
+      "summaryZh": "一个TypeScript项目，用稳定的命名本地URL替代端口号，便于开发过程中访问本地服务，对人和AI代理都友好。避免端口冲突和记忆负担，提升开发体验。适合前端和全栈开发者。",
+      "category": "开发工具",
+      "starsToday": 73
+    },
+    {
+      "repo": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": 40604,
+      "summaryZh": "一个Python技能，用于移除文本中AI生成的痕迹，使其更自然或人类化。通过语言调整减少机械感，适合需要输出内容更人文化的内容创作者和AI助手的后续处理。",
+      "category": "AI",
+      "starsToday": 374
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "stars": 102725,
+      "summaryZh": "一个Go项目，通过使用原始、简短的语言风格来削减Claude Code技能中65%的token消耗。采用类似穴居人的表达方式，大幅减少通信开销。适合需要节省API成本的大量AI调用场景。",
+      "category": "AI",
+      "starsToday": 238
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 245470,
+      "summaryZh": "一个Shell项目，打包了作者作为真实工程师的经验技能，直接从其.agents目录中提取，用于增强AI代理在编码任务中的实用性。涵盖各类实战技巧，适合希望提升AI辅助编码效率的工程师。",
+      "category": "资料教程",
+      "starsToday": 1166
+    },
+    {
+      "repo": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 32049,
+      "summaryZh": "openclaude 是一个跨平台 AI 客户端，支持在任何设备上运行 Claude 模型并连接各种服务。它提供统一的聊天界面和工具集成，适合需要在多平台使用 AI 助手的开发者和普通用户。",
+      "category": "开发工具",
+      "starsToday": 775
+    },
+    {
+      "repo": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars": 18597,
+      "summaryZh": "pdf-inspector 是一个用 Rust 编写的高性能 PDF 检查工具，可识别 PDF 是扫描件还是文本型，并提取文字内容。其智能分类功能便于做出路由决策，适合处理大量 PDF 的自动化流程。",
+      "category": "开发工具",
+      "starsToday": 586
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "language": "Python",
+      "stars": 6693,
+      "summaryZh": "PRAXIST 是自主研究系统，专注于可测量且能直接由计算机执行的研究。它自动化研究流程并生成可运行的代码或命令，适合科研人员和数据科学家加速实验验证。",
+      "category": "其他",
+      "createdAt": "2026-08-27T14:20:58Z"
+    },
+    {
+      "repo": "crmne/fastpotify",
+      "url": "https://github.com/crmne/fastpotify",
+      "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+      "language": "Rust",
+      "stars": 2362,
+      "summaryZh": "fastpotify 是一个用 Rust 开发的原生 Spotify 桌面客户端，跨 Linux、macOS 和 Windows 平台。它支持本地音乐库播放和 Spotify Connect，界面用 egui 构建，轻量且高效，适合追求速度与控制的用户。",
+      "category": "游戏",
+      "createdAt": "2026-08-27T12:46:32Z"
+    },
+    {
+      "repo": "Nanako0129/sepia",
+      "url": "https://github.com/Nanako0129/sepia",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "language": "Python",
+      "stars": 1656,
+      "summaryZh": "sepia 是一个去 AI 化的写作技能，兼容超 77 个 Agert Skills 平台，支持 Claude Code 等插不件。它修复叙事结构，使文本更像人类创作，适合使用 AI 辅助却要避免 AI 痕迹的写作者。",
+      "category": "其他",
+      "createdAt": "2026-08-28T05:56:49Z"
+    },
+    {
+      "repo": "MetaMask-AI/metamask-desktop",
+      "url": "https://github.com/MetaMask-AI/metamask-desktop",
+      "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "language": "CSS",
+      "stars": 1230,
+      "summaryZh": "metamask-desktop 是 MetaMask 桌面应用，用于浏览以太坊及兼容区块链网站，并管理以太坊等加密货币。它提供原生桌面体验，支持多网络和代币，适合需要便捷管理链上交易和 DApp 的用户。",
+      "category": "其他",
+      "createdAt": "2026-08-28T08:07:10Z"
+    },
+    {
+      "repo": "damejan80/tokentab",
+      "url": "https://github.com/damejan80/tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "language": "Python",
+      "stars": 1148,
+      "summaryZh": "tokentab 是一个命令行工具，能读取 Claude Code、Codex 等 AI 编程工具的会话日志，按模型、项目、日期统计 token 消耗成本。开发者可用它监控 API 开支，优化 AI 工具的使用效率。",
+      "category": "开发工具",
+      "createdAt": "2026-08-27T14:16:09Z"
+    },
+    {
+      "repo": "cbrock84/headcount",
+      "url": "https://github.com/cbrock84/headcount",
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "language": "Markdown",
+      "stars": 1124,
+      "summaryZh": "headcount 是面向 Claude Code 的智能体组织工具，将工作拆分为 15+ 部门和 125+ 技能模块，均可独立安装。它帮助 Claude 更结构化地处理复杂任务，适合需要规模化 AI 协作的项目。",
+      "category": "开发工具",
+      "createdAt": "2026-08-28T18:03:04Z"
+    },
+    {
+      "repo": "jprx/darwin-vm",
+      "url": "https://github.com/jprx/darwin-vm",
+      "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "language": "Python",
+      "stars": 958,
+      "summaryZh": "darwin-vm 通过 QEMU 虚拟化运行 iOS 和 macOS 系统，支持多种 iPhone 及 Apple Silicon Mac 机型。开发者可用它测试应用，无需实体设备，适合跨平台开发场景。",
+      "category": "开发工具",
+      "createdAt": "2026-08-27T22:24:31Z"
+    },
+    {
+      "repo": "GangTailorUpgrade/undress-service",
+      "url": "https://github.com/GangTailorUpgrade/undress-service",
+      "description": "Dress AI Sponsor",
+      "language": "Python",
+      "stars": 943,
+      "summaryZh": "undress-service 提供了内容受限网站的下载和探索工具，但包含成人内容。技术上有视频和图像处理功能，但仅适合研究用途，普通用户应遵守相关法律法规。",
+      "category": "其他",
+      "createdAt": "2026-08-31T00:12:45Z"
+    },
+    {
+      "repo": "tradecatlabs/shulihuazixuecongshu",
+      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
+      "description": "",
+      "language": "Python",
+      "stars": 859,
+      "summaryZh": "shulihuazixuecongshu 是一个自学丛书项目，提供系列化学习材料，但描述不详。从仓库名推测可能涵盖多个主题，适合想系统学习特定技能的读者。",
+      "category": "资料教程",
+      "createdAt": "2026-08-27T18:02:35Z"
+    },
+    {
+      "repo": "Git-Agni/prod-FARM-IOS-Core",
+      "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+      "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+      "language": "TypeScript",
+      "stars": 780,
+      "summaryZh": "prod-FARM-IOS-Core 是一个 iOS 真机设备农场，可通过 Mac 远程控制并自动化测试多台 iPhone。它基于 postgres 调度，支持 TikTok 工作流，适合大规模移动端测试和自动化运营。",
+      "category": "开发工具",
+      "createdAt": "2026-08-27T04:55:36Z"
+    },
+    {
+      "repo": "brayonpi/hexstellar",
+      "url": "https://github.com/brayonpi/hexstellar",
+      "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
+      "language": "Python",
+      "stars": 722,
+      "summaryZh": "hexstellar 能将任何 AI 智能体转化为计算研究员，提供算法优化、量子计算和科学计算支持。它生成可验证的执行代码，适合研究人员和工程师结合 AI 进行复杂数值分析。",
+      "category": "开发工具",
+      "createdAt": "2026-08-27T20:53:42Z"
+    },
+    {
+      "repo": "rakanki911/DLSS5-Swapper",
+      "url": "https://github.com/rakanki911/DLSS5-Swapper",
+      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+      "language": "JavaScript",
+      "stars": 693,
+      "summaryZh": "DLSS5-Swapper 是一个图形工具，用于安装和切换游戏及模拟器中的 DLSS 5 版本。它能自动检测游戏，并提供驱动扫描，方便玩家管理不同版本的 DLSS 文件以提高画质和性能。",
+      "category": "游戏",
+      "createdAt": "2026-08-29T23:51:32Z"
+    },
+    {
+      "repo": "chrisgreg/boop",
+      "url": "https://github.com/chrisgreg/boop",
+      "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+      "language": "Go",
+      "stars": 688,
+      "summaryZh": "boop 是一个轻量自托管应用通知中心，当你的应用发生事件时，会推送到手机。它简单易部署，适合开发者快速集成告警，无需依赖大型消息服务。",
+      "category": "开发工具",
+      "createdAt": "2026-08-28T15:38:33Z"
+    },
+    {
+      "repo": "shadcn-ui/cn",
+      "url": "https://github.com/shadcn-ui/cn",
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "language": "TypeScript",
+      "stars": 641,
+      "summaryZh": "cn 是一个用于 Tailwind CSS 类名合并和冲突解决的引擎，可替代 tailwind-merge 和 clsx。它提供相同的 API，完全兼容，但速度快 30 倍。适合使用 Tailwind 的开发者在项目中高效处理类名。",
+      "category": "开发工具",
+      "createdAt": "2026-08-31T07:04:03Z"
+    },
+    {
+      "repo": "hkqr/my-free-code",
+      "url": "https://github.com/hkqr/my-free-code",
+      "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+      "language": "Python",
+      "stars": 623,
+      "summaryZh": "my-free-code 是一个开源的多供应商 AI 网关，专为 Claude Code 和其他编码代理设计。支持模型路由、流式传输、工具调用、推理、回退以及本地模型。适合需要灵活接入多个 LLM 的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-27T17:59:23Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "karanhudia/borg-ui",
+      "url": "https://github.com/karanhudia/borg-ui",
+      "description": "Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.",
+      "language": "Python",
+      "stars": 1603,
+      "summaryZh": "borg-ui 提供美观的 Web 界面来管理 Borg Backup，通过几次点击即可创建、调度和恢复备份。适合希望简化备份操作的用户，尤其是使用 BorgBackup 的自托管爱好者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · automation",
+      "reasonZh": "给 Borg Backup 套上漂亮 Web 界面，点几下就能创建、定时和恢复备份，不用再记命令行。自托管用户或 Nas 党很受用，比纯终端操作直观太多，是个实用又省心的工具。"
+    },
+    {
+      "repo": "ChrispyBacon-dev/DockFlare",
+      "url": "https://github.com/ChrispyBacon-dev/DockFlare",
+      "description": "DockFlare: Automate Cloudflare Tunnels with Docker Labels",
+      "language": "Python",
+      "stars": 2410,
+      "summaryZh": "DockFlare 通过 Docker 标签自动化 Cloudflare Tunnels 的配置和管理。它集成了 Cloudflare API、DNS、隧道和访问控制。适合使用 Docker 和 Cloudflare 的家庭实验室用户，简化内网穿透和反向代理设置。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · automation",
+      "reasonZh": "用 Docker 标签自动管理 Cloudflare Tunnel，省去手动配置的麻烦。适合 Homelab 玩家，想快速把内网服务安全暴露出去，又不想折腾复杂网络设置，这个工具能明显提升效率。"
+    },
+    {
+      "repo": "VoidenHQ/voiden",
+      "url": "https://github.com/VoidenHQ/voiden",
+      "description": "Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.",
+      "language": "TypeScript",
+      "stars": 1644,
+      "summaryZh": "voiden 允许在纯 Markdown 中设计、测试和记录 API。使用 API 块组合请求，像代码一样重用、替换和版本管理。离线、原生 Git 支持，无锁定。适合希望以文本为中心管理 API 的开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · automation",
+      "reasonZh": "用 Markdown 写 API 设计、测试和文档，像写代码一样复用和版本管理，离线且 Git 原生。对受够 Postman 臃肿和锁定的开发者来说，是个轻量又灵活的替代品。"
+    },
+    {
+      "repo": "omnimind-ai/OmniBot",
+      "url": "https://github.com/omnimind-ai/OmniBot",
+      "description": "Your on-phone / mobile AI Agent / Claw, capable of operating terminals and performing a wide range of tasks in the Android world || 你的手机 AI 代理，她可以操作终端，也可以完成 Android 世界的广泛任务 ",
+      "language": "Dart",
+      "stars": 1954,
+      "summaryZh": "OmniBot 是运行在手机上的 AI 代理，可操作终端并在 Android 世界中执行任务。它支持通过 GUI 自动化操作，利用无障碍服务实现广泛的移动端自动化。适合希望自动化 Android 任务的用户。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · automation",
+      "reasonZh": "让 AI 直接操作你的安卓手机，完成终端和各类任务，相当于随身带个智能助手。对想自动化手机操作、或者折腾手机 AI 的人来说，是个新颖又实用的开源方案。"
+    },
+    {
+      "repo": "Core-Mate/OpenGUI",
+      "url": "https://github.com/Core-Mate/OpenGUI",
+      "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the GUI.",
+      "language": "TypeScript",
+      "stars": 1626,
+      "summaryZh": "OpenGUI 是一个 Android GUI 代理框架，使 AI 能够查看、规划并通过界面操作真实应用。它利用无障碍服务，支持多模态 AI 和自动化。适合开发能够理解屏幕并执行任务的 Android 代理。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · automation",
+      "reasonZh": "安卓 GUI Agent 框架，AI 能看懂屏幕并操作真实 App，实现手机自动化。支持 Claude 和 Codex，适合想开发手机自动化脚本或研究 GUI 智能体的开发者，比普通脚本灵活得多。"
+    },
+    {
+      "repo": "fuxicodex/Fuxi",
+      "url": "https://github.com/fuxicodex/Fuxi",
+      "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
+      "language": "Python",
+      "stars": 3278,
+      "summaryZh": "FuXi 是一个运行在终端中的快速、自主的 AI 编码代理，能编辑代码、运行命令和操作工具。它具备成本感知的路由功能，可在不同 LLM 提供商之间选择。适合希望高效使用 AI 编码的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1112（+51%）",
+      "reasonZh": "终端里的 AI 编程代理，能改代码、跑命令，还懂跨 LLM 提供商的路由省钱。对常驻命令行、需要快速完成编码任务的开发者来说，是个高效且成本可控的选择。"
+    },
+    {
+      "repo": "SenteLabsAI/OpenExecutive",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "description": "AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js).",
+      "language": "Python",
+      "stars": 3489,
+      "summaryZh": "OpenExecutive 是一个 AI 驱动的虚拟管理团队，由 8 个专业 Claude 代理组成的单一连贯执行人格。基于 FastAPI 和 Next.js 构建，支持多种任务。适合希望利用多代理 AI 辅助管理的场景。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +2618（+301%）",
+      "reasonZh": "一个 AI 虚拟高管团队，背后是 8 个不同专长的 Claude 智能体，形成统一人格。适合想要一个能处理多类任务、像团队一样协作的 AI 助理的用户，体验新颖。"
+    },
+    {
+      "repo": "skalesapp/skales",
+      "url": "https://github.com/skalesapp/skales",
+      "description": "Personal AI desktop agent for Windows, macOS, Linux, Android & iOS. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
+      "language": "TypeScript",
+      "stars": 1743,
+      "summaryZh": "Skales 是个人 AI 桌面代理，支持 Windows、macOS、Linux 及移动平台。它可以自主设定目标并完成任务，支持团队协作、代理间通信、工作流和代码任务。适合需要跨设备自动化操作的个人或团队。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · automation",
+      "reasonZh": "跨平台桌面 AI Agent，设好目标它能自动干活，还支持双人协作和 Agent 间通信，本地优先兼顾隐私。适合想体验自动完成复杂任务的个人或小团队，配置灵活。"
+    },
+    {
+      "repo": "themartiano/try-omarchy",
+      "url": "https://github.com/themartiano/try-omarchy",
+      "description": "Run Omarchy on MacOS without any setup.",
+      "language": "Swift",
+      "stars": 1403,
+      "summaryZh": "try-omarchy 让用户在 macOS 上无需任何设置即可运行 Omarchy。它利用 QEMU 和虚拟化技术，支持 Apple Silicon。适合希望在 Mac 上体验 Omarchy Linux 环境的用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +798（+132%）",
+      "reasonZh": "在 macOS 上零配置跑 Omarchy 系统，点开就能用，不用装虚拟机。对想尝鲜不同操作系统但怕折腾的 Mac 用户很友好，省时省力，是个低门槛的体验入口。"
+    }
+  ]
+}
