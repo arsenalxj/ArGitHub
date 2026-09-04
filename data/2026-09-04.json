@@ -1,0 +1,459 @@
+{
+  "date": "2026-09-04",
+  "trending": [
+    {
+      "repo": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": 25187,
+      "summaryZh": "一个现代C++格式化库，提供类型安全、快速且可扩展的格式化功能，支持类似Python的占位符风格。其核心亮点是编译期格式字符串检查和高性能实现。适合需要替代传统C++ iostream或printf的开发者，尤其在追求输出效率与代码可读性的场景中。",
+      "category": "开发工具",
+      "starsToday": 963
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 247849,
+      "summaryZh": "为AI编码代理提供真实工程师的技能集合，源自作者的.agents目录。包含大量实战经验总结的提示词和专业工作流，旨在提升代理处理复杂工程任务的能力。适合希望让AI助手更贴近真实开发习惯的工程师，可直接嵌入常用代理环境。",
+      "category": "开发工具",
+      "starsToday": 1601
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 240969,
+      "summaryZh": "一个智能代理项目，强调与用户共同成长，通过持续交互适应用户需求。核心功能包括个性化上下文学习和自适应任务处理。适合希望拥有一款能随使用而变得更懂自己的AI助手的研究者或开发者。",
+      "category": "AI",
+      "starsToday": 774
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 123725,
+      "summaryZh": "一个让AI代理像最懒的高级工程师一样思考的JavaScript工具，核心哲学是“最好的代码是未写的代码”。它通过减少不必要的代码生成，避免过度设计，提升效率。适合希望优化AI开发流程、减少冗余输出的团队。",
+      "category": "开发工具",
+      "starsToday": 2128
+    },
+    {
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 173745,
+      "summaryZh": "Anthropic官方公开的Agent Skills仓库，提供预构建的技能模块，用于增强AI代理在具体任务上的能力，如代码审查、文档编写等。核心亮点是官方维护的高质量技能。适合所有使用Claude Code或兼容代理的开发者。",
+      "category": "开发工具",
+      "starsToday": 281
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 247365,
+      "summaryZh": "一个用于性能优化的代理框架系统，整合了技能、直觉、记忆、安全与研究优先的开发模式。它支持Claude Code、Codex、Opencode、Cursor等主流工具，提供统一提升方案。适合希望系统化增强AI代理效能与安全性的高级用户。",
+      "category": "开发工具",
+      "starsToday": 751
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "stars": 103183,
+      "summaryZh": "一个Claude Code技能，通过让代理采用“穴居人”式简短语言，可将Token消耗降低65%。它通过精简表达来压缩提示和输出，从而节省成本并加快响应。适合需要大规模使用代理且控制API开销的场景。",
+      "category": "AI",
+      "starsToday": 543
+    },
+    {
+      "repo": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": 41694,
+      "summaryZh": "一个去除AI生成文本痕迹的代理技能，通过重新措辞和调整风格，使输出更接近人工写作，降低机器味。核心亮点是文本自然化处理。适合需要将AI产出用于正式或非正式交流场合的开发者。",
+      "category": "AI",
+      "starsToday": 1208
+    },
+    {
+      "repo": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "stars": 8475,
+      "summaryZh": "一个轻量、自托管的视频下载工具，支持从几乎所有网站下载视频，提供简洁的Web界面。核心功能强大且易于部署。适合需要批量保存在线视频的个人或小团队，尤其注重隐私和自主控制。",
+      "category": "其他",
+      "starsToday": 88
+    },
+    {
+      "repo": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars": 52355,
+      "summaryZh": "提供翻墙/科学上网的工具和教程汇总，包含多种平台的客户端配置指南。核心亮点是持续更新且覆盖全面。适合需要访问境外网络资源但受限于网络环境的用户。",
+      "category": "资料教程",
+      "starsToday": 522
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 92087,
+      "summaryZh": "为AI编程代理提供生产级工程技能集，覆盖代码审查、测试、性能优化等实战场景。核心亮点是高标准的质量控制与实用模板。适合希望将AI代理用于真实产品代码开发的工程团队。",
+      "category": "开发工具",
+      "starsToday": 264
+    },
+    {
+      "repo": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "language": "",
+      "stars": 88452,
+      "summaryZh": "用可视化图表与简明语言解释复杂系统概念，帮助准备系统设计面试。内容涵盖分布式系统、数据库、缓存等核心主题。适合系统设计面试候选人、软件架构师或希望快速理解技术架构的工程师。",
+      "category": "资料教程",
+      "starsToday": 171
+    },
+    {
+      "repo": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "language": "TypeScript",
+      "stars": 2026,
+      "summaryZh": "一个开源推理服务器，根据硬件自动运行最佳本地模型，并天然集成到现有代理工具（如Pi、Claude Code等）。核心功能是硬件适配的模型调度，兼顾性能与易用。适合在本地资源受限但想使用AI代理的用户。",
+      "category": "AI",
+      "starsToday": 161
+    },
+    {
+      "repo": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 46059,
+      "summaryZh": "为Claude Code提供的学术研究技能包，覆盖从研究、写作到审稿和定稿的完整流程。核心亮点是结构化提高学术产出质量。适合需要AI辅助进行学术论文撰写的学生或研究人员。",
+      "category": "资料教程",
+      "starsToday": 496
+    },
+    {
+      "repo": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 32398,
+      "summaryZh": "一个运行位置灵活（anywhere）且兼容广泛（uses anything）的代理工具，基于TypeScript构建。核心功能强调适配不同环境与后端，提供高度可移植性。适合希望在不同平台无缝使用统一AI代理体验的开发者。",
+      "category": "开发工具",
+      "starsToday": 451
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 16501,
+      "summaryZh": "开源、完全本地的类 ElevenLabs 语音工具，支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声书创作，无需联网，保护隐私。适合需要高保真多语言语音合成且重视数据安全的个人或团队。",
+      "category": "AI",
+      "starsToday": 1672
+    },
+    {
+      "repo": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "stars": 169093,
+      "summaryZh": "社区驱动的 ChatGPT 提示词分享平台，原名 Awesome ChatGPT Prompts，支持发现、分享和收藏提示词。开源且可自托管，为组织提供隐私保护，帮助用户更有效地使用 ChatGPT。适合 AI 使用者与提示词工程师。",
+      "category": "资料教程",
+      "starsToday": 168
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 281429,
+      "summaryZh": "一套可操作的智能体技能框架和软件开发方法论，强调实际执行能力，而非理论。它帮助开发者结构化地构建和部署 AI 智能体技能，适合追求高效软件交付的团队。",
+      "category": "开发工具",
+      "starsToday": 462
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "Nanako0129/sepia",
+      "url": "https://github.com/Nanako0129/sepia",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "language": "Python",
+      "stars": 1912,
+      "summaryZh": "针对任何兼容 Agent Skills 的智能体（77+）的去 AI 化写作技能，提供原生插件支持 Claude Code、Codex 等。通过叙事架构修复，改善小说等虚构作品的写作质量，使其更自然。作家和内容创作者可用它润色文本。",
+      "category": "AI",
+      "createdAt": "2026-08-28T05:56:49Z"
+    },
+    {
+      "repo": "anthropics/commerce-agents",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "language": "Python",
+      "stars": 1654,
+      "summaryZh": "Anthropic 提供的参考蓝图，用于构建基于 Claude 的购物和商家智能体，涵盖零售、电商、电信和娱乐等领域示例。开发者可借鉴架构快速创建智能客服或导购助手。",
+      "category": "开发工具",
+      "createdAt": "2026-09-01T12:30:12Z"
+    },
+    {
+      "repo": "MetaMask-AI/metamask-desktop",
+      "url": "https://github.com/MetaMask-AI/metamask-desktop",
+      "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "language": "CSS",
+      "stars": 1230,
+      "summaryZh": "MetaMask 桌面应用，支持浏览启用以太坊区块链的网站，管理以太坊和多种 EVM 加密资产。基于 CSS，提供安全的钱包功能，适合需要桌面端管理 DeFi 和 dApp 的用户。",
+      "category": "其他",
+      "createdAt": "2026-08-28T08:07:10Z"
+    },
+    {
+      "repo": "cbrock84/headcount",
+      "url": "https://github.com/cbrock84/headcount",
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "language": "Markdown",
+      "stars": 1193,
+      "summaryZh": "把 Claude Code 智能体组织成“公司”结构的框架，拥有 15 个以上部门和 125 项技能，每个技能可独立安装。适合需要模块化、可扩展的 AI 代理团队进行复杂任务协作的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-28T18:03:04Z"
+    },
+    {
+      "repo": "rakanki911/DLSS5-Swapper",
+      "url": "https://github.com/rakanki911/DLSS5-Swapper",
+      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+      "language": "JavaScript",
+      "stars": 1143,
+      "summaryZh": "用于安装、管理和恢复 DLSS 5 的图形工具，自动检测游戏和模拟器，支持可选驱动器扫描。帮助玩家简便地替换 DLSS 版本以优化游戏性能和画质。适合游戏技术玩家和模拟器用户。",
+      "category": "游戏",
+      "createdAt": "2026-08-29T23:51:32Z"
+    },
+    {
+      "repo": "GangTailorUpgrade/undress-service",
+      "url": "https://github.com/GangTailorUpgrade/undress-service",
+      "description": "Dress AI Sponsor",
+      "language": "Python",
+      "stars": 1019,
+      "summaryZh": "该项目提供所谓的“AI 脱衣”服务，包含不安全内容，违反伦理和 OpenAI 政策。强烈不建议使用或传播此类应用。",
+      "category": "其他",
+      "createdAt": "2026-08-31T00:12:45Z"
+    },
+    {
+      "repo": "shadcn-ui/cn",
+      "url": "https://github.com/shadcn-ui/cn",
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "language": "TypeScript",
+      "stars": 992,
+      "summaryZh": "Tailwind CSS 类名合并与冲突解决的新引擎，替代 tailwind-merge 和 clsx，API 一致且功能完整，速度快 30 倍。专为 Tailwind 开发者设计，提升样式处理效率。",
+      "category": "前端",
+      "createdAt": "2026-08-31T07:04:03Z"
+    },
+    {
+      "repo": "Player-YN/PawWork_ZhuaZhua",
+      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "language": "JavaScript",
+      "stars": 873,
+      "summaryZh": "Chrome 中优先选择的 Web 智能体工具：在实时页面上选择、描述结果，再输出可编辑的 Office 文件。自带密钥，沙盒运行无需服务器，适合需要自动化网页数据提取与文档生成的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-08-28T10:56:56Z"
+    },
+    {
+      "repo": "2akouwu/reverify",
+      "url": "https://github.com/2akouwu/reverify",
+      "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+      "language": "Python",
+      "stars": 815,
+      "summaryZh": "对抗 AI 智能体阅读二进制文件时产生幻觉的防幻觉工具。模型提出主张，确定性工具通过真实字节验证或反驳，并给出证据，确保结论可靠。适用于逆向工程、CTF 和安全分析。",
+      "category": "开发工具",
+      "createdAt": "2026-08-31T01:02:18Z"
+    },
+    {
+      "repo": "chrisgreg/boop",
+      "url": "https://github.com/chrisgreg/boop",
+      "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+      "language": "Go",
+      "stars": 709,
+      "summaryZh": "极简自托管的开发者通知收件箱，应用有事件时通过手机推送提醒。无需复杂配置，帮助开发者实时掌握应用状态变化，尤其适合独立开发者和小型团队。",
+      "category": "开发工具",
+      "createdAt": "2026-08-28T15:38:33Z"
+    },
+    {
+      "repo": "jlrouzies-fr/DLSS5-Feeder",
+      "url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
+      "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+      "language": "C++",
+      "stars": 676,
+      "summaryZh": "允许在原本不包含 DLSS 的 D3D11/12/Vulkan 游戏中启用 DLSS 5 神经渲染，通过 ReShade 深度和运动向量生成合成 DLAA 契约。针对技术爱好者和游戏 Mod 开发者，提升游戏画面表现。",
+      "category": "游戏",
+      "createdAt": "2026-08-29T19:52:37Z"
+    },
+    {
+      "repo": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "language": "TypeScript",
+      "stars": 596,
+      "summaryZh": "浏览器中绘制 Material 3 Expressive 草图屏幕，并转换为 vibe-coding 提示词。集成 Next.js、React，便于快速产生设计提示，适用于设计师和前端开发者进行 UI 原型与 AI 编码。",
+      "category": "前端",
+      "createdAt": "2026-09-02T04:36:34Z"
+    },
+    {
+      "repo": "MSNightmare/FalconFlank",
+      "url": "https://github.com/MSNightmare/FalconFlank",
+      "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+      "language": "C",
+      "stars": 434,
+      "summaryZh": "CrowdStrike Falcon 0day 本地提权漏洞利用工具。技术亮点：利用符号链接和条件竞争攻击 Falcon 内核驱动中的检查机制，以普通用户权限获得 root 权限。适合安全研究员测试 Falcon 防护、蓝队验证加固场景。",
+      "category": "其他",
+      "createdAt": "2026-09-03T02:48:22Z"
+    },
+    {
+      "repo": "fanhao375/microduck-replica",
+      "url": "https://github.com/fanhao375/microduck-replica",
+      "description": "Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck",
+      "language": "Python",
+      "stars": 424,
+      "summaryZh": "Microduck 开源复刻项目，从官方 MJCF 与 Rust 源码反推出装配图、CAD 装配体和完整电控方案。含机械设计和 Python 电控代码，适合机器人爱好者和研究者学习组装、定制双足机器人。",
+      "category": "其他",
+      "createdAt": "2026-08-28T13:42:48Z"
+    },
+    {
+      "repo": "Ryze-AI-Adgent/open-seo-mcp-skills",
+      "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+      "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+      "language": "Shell",
+      "stars": 423,
+      "summaryZh": "开源 SEO + GEO 技能集，供 Claude 等 AI 代理使用，涵盖关键词研究、排名跟踪、站点审计、外链和 AI 可见性分析。通过 MCP 连接真实 Search Console/GA4/广告数据，用 DataFrames 处理，适合 SEO 从业者或 AI 开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-08-29T23:37:01Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "themartiano/try-omarchy",
+      "url": "https://github.com/omacom/try-omarchy",
+      "description": "Run Omarchy on MacOS without any setup.",
+      "language": "Swift",
+      "stars": 1482,
+      "summaryZh": "macOS 上一键运行 Omarchy 的工具，基于 QEMU 虚拟化实现，无需额外设置。支持 Apple Silicon 和 ARM 架构，提供预配置的 Arch Linux 环境，适合想快速体验 Omarchy 的 Mac 用户和 Linux 爱好者。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +775（+110%）",
+      "reasonZh": "想在Mac上零配置体验Arch Linux？这个项目直接用QEMU帮你跑起来，一键启动，不用装虚拟机软件。对喜欢折腾但怕麻烦的玩家特别友好，是体验Omarchy系统的最快方式。"
+    },
+    {
+      "repo": "workweave/router",
+      "url": "https://github.com/weave-os/router",
+      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
+      "language": "Go",
+      "stars": 3780,
+      "summaryZh": "面向智能体系统的模型路由器，每请求 <50ms 延迟选模型，可降低 40-70% 成本。兼容 OpenAI API，支持多种模型提供商，适合 agent 开发者和企业集成。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +929（+33%）",
+      "reasonZh": "给AI Agent用的智能路由，50毫秒内自动选最合适的模型，据称能省40-70%成本。只需改一个接口就能接入，对重度使用Claude Code等工具的人来说，是实实在在的省钱利器。"
+    },
+    {
+      "repo": "CodeBoarding/CodeBoarding",
+      "url": "https://github.com/CodeBoarding/CodeBoarding",
+      "description": "Interactive architecture diagrams for codebases",
+      "language": "Python",
+      "stars": 2410,
+      "summaryZh": "交互式架构图工具，自动生成代码库的可视化图表。基于语言服务器协议（LSP）和静态分析，支持 Python、Go、TypeScript 等，适合开发者理解大型代码库、编写文档和 AI 辅助编码。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "把代码库变成交互式架构图，支持多种语言，还能用自然语言提问。比静态文档好用得多，适合接手老项目或想快速理解团队代码的开发者，看图说话比读代码快多了。"
+    },
+    {
+      "repo": "nateherkai/scroll-craft",
+      "url": "https://github.com/nateherkai/scroll-craft",
+      "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+      "language": "JavaScript",
+      "stars": 1688,
+      "summaryZh": "Claude Code 技能，用于创建高端滚动驱动网站。以滚动为时间轴，集成设计系统和可访问性验证，自动截图检查实现效果，适合开发者用 AI 构建创意着陆页。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +565（+50%）",
+      "reasonZh": "Claude Code的专用技能包，能打造高级的滚动叙事网站。它自己会截图检查效果，确保交互动画正常。设计感和技术含量兼备，适合做产品宣传页或创意展示的开发者。"
+    },
+    {
+      "repo": "RackulaLives/Rackula",
+      "url": "https://github.com/RackulaLives/Rackula",
+      "description": "rack layout designer",
+      "language": "TypeScript",
+      "stars": 1692,
+      "summaryZh": "自托管的机架布局设计器，支持拖拽规划服务器机架，集成 NetBox 和 DCIM，适合数据中心管理员或 Homelab 爱好者规划硬件和容量。以 Svelte 构建，可视化清晰。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "网页版的机架布局设计工具，拖拽就能规划服务器、网络设备位置。支持homelab和Netbox，界面现代化。比用表格画图直观太多，是网络和系统管理员整理机柜的好帮手。"
+    },
+    {
+      "repo": "wide-trace/open-higgsfield",
+      "url": "https://github.com/wide-trace/open-higgsfield",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "language": "TypeScript",
+      "stars": 1311,
+      "summaryZh": "图像/视频生成工作室，统一提示栏调多个模型，每个模型独立设置，成果汇集成画廊。集成多种生成工具，适合创作者和开发者处理多媒体生成。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +395（+43%）",
+      "reasonZh": "一个图像和视频生成的工作室，一个提示词栏配多种模型，产出统一展示。省去在多个工具间切换的麻烦，适合内容创作者和设计师快速试验不同风格，提升创作效率。"
+    },
+    {
+      "repo": "kelviq/tare",
+      "url": "https://github.com/kelviq/tare",
+      "description": "Ask Claude Code where your usage went. Token audit, limit diagnosis and usage forensics — built from the session logs already on your machine, nothing leaves it.",
+      "language": "Python",
+      "stars": 200,
+      "summaryZh": "问 Claude Code 使用量去向，执行 token 审计、限额诊断和用量取证，从本地会话日志分析，隐私安全。适合深度使用 Claude Code 的开发者优化成本。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +105（+111%）",
+      "reasonZh": "想知道Claude Code的额度都用在哪了？这个工具分析本地日志，帮你审计Token消耗和用量，数据不出本机。对控制成本、优化提示词很有帮助，是Claude重度用户的必备工具。"
+    },
+    {
+      "repo": "ozeranskii/httptap",
+      "url": "https://github.com/ozeranskii/httptap",
+      "description": "Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.",
+      "language": "Python",
+      "stars": 808,
+      "summaryZh": "Rich 增强的命令行工具，将每个 HTTP 请求拆分为 DNS、连接、TLS、等待和传输阶段，以瀑布时间线、紧凑摘要或指标输出，适合网络调试和性能分析。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "一条命令就能把HTTP请求拆解成DNS、连接、TLS等各阶段的水域图，清晰展示耗时。调试前后端性能问题时，比看浏览器开发者工具更直接，是网络诊断的利器。"
+    },
+    {
+      "repo": "jprx/darwin-vm",
+      "url": "https://github.com/jprx/darwin-vm",
+      "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "language": "Python",
+      "stars": 995,
+      "summaryZh": "QEMU 内运行 iOS/macOS 的虚拟机方案，支持 iPhone 12-17 和 M1 等 Apple Silicon Mac。可跑虚拟 iPhone，适用于测试、逆向或体验不同 Apple 生态。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +435（+78%）",
+      "reasonZh": "用QEMU虚拟化运行iOS和macOS，从iPhone 12到M5 Mac都支持。对想要跨平台测试或体验苹果系统的开发者极有价值，无需苹果硬件就能模拟，实用性和可玩性都很高。"
+    },
+    {
+      "repo": "sachinhosmani/torchvista",
+      "url": "https://github.com/sachinhosmani/torchvista",
+      "description": "Interactive Pytorch forward pass visualization in notebooks",
+      "language": "Python",
+      "stars": 761,
+      "summaryZh": "笔记本内的交互式 PyTorch 前向传播可视化，实时展示张量维度变化和运算。支持 Jupyter/Colab，适合深度学习初学者理解。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "在Jupyter笔记本里直观看到PyTorch前向传播的过程，能帮助理解张量如何流动变化。学习深度学习时图表比脑补强太多，是个不错的辅助教学和理解工具。"
+    }
+  ]
+}
