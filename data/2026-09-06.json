@@ -1,0 +1,343 @@
+{
+  "date": "2026-09-06",
+  "trending": [
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 252935,
+      "summaryZh": "这是一套面向开发者的技能集合，源自作者日常使用的 .agents 目录，旨在提升编码效率。包含多种实用技能，适用于各类编程场景。适合希望借鉴专家工作流、优化开发实践的工程师。",
+      "category": "开发工具",
+      "starsToday": 2692
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 250100,
+      "summaryZh": "这是一个智能体（Agent）性能优化系统，支持 Claude Code、Codex 等工具。集成了技能、记忆、安全等功能，并强调研究驱动开发。适合希望提升 AI 编程辅助效果、构建高效工作流的开发者。",
+      "category": "开发工具",
+      "starsToday": 1314
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 128167,
+      "summaryZh": "该项目旨在让 AI 智能体像资深懒惰开发者一样思考，强调少写代码而非多写。通过内置策略，为 AI 编程提供高效建议。适合使用 AI 辅助开发的程序员，追求最小化代码。",
+      "category": "开发工具",
+      "starsToday": 2845
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 242091,
+      "summaryZh": "这是一个与用户共同成长的 AI 智能体项目，提供个性化开发体验。聚焦于同步用户习惯，实现渐进优化。适合长期使用 AI 辅助的个人开发者。",
+      "category": "开发工具",
+      "starsToday": 575
+    },
+    {
+      "repo": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": 25579,
+      "summaryZh": "这是一个现代 C++ 格式化库，为 C++ 提供类型安全、易读的格式化输出功能。它支持占位符与参数绑定，替代传统 printf 和 iostream。适合需要高质量日志和字符串处理的 C++ 项目。",
+      "category": "开发工具",
+      "starsToday": 134
+    },
+    {
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 174621,
+      "summaryZh": "这是 Anthropic 官方发布的 Agent Skills 公共仓库，包含多种技能实现。用于扩展 Claude 等智能体的能力，覆盖各类任务。适合开发者集成、学习和复现官方推荐技能。",
+      "category": "开发工具",
+      "starsToday": 475
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 31805,
+      "summaryZh": "这是一个提供 38 种编辑型图表设计以及自包含 HTML + SVG 的仓库，适用于 Claude Code 等工具。专门用于生成高质量纯前端图表，避免使用 Mermaid。适合需要可视化流程或架构图的开发者。",
+      "category": "前端",
+      "starsToday": 855
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": 204755,
+      "summaryZh": "这是一个开源编码智能体，旨在自动化和辅助编程任务。它集成了代码编辑、执行等功能，为开发者提供可定制服务。适合追求开源自托管编码辅助的开发者。",
+      "category": "开发工具",
+      "starsToday": 725
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": 70729,
+      "summaryZh": "这是一个用于构建智能多智能体群，并协调自主工作流的元框架。它支持自适应记忆、自学习等功能，适合搭建复杂 AI 系统。适合研究和部署多智能体应用的技术人员。",
+      "category": "开发工具",
+      "starsToday": 136
+    },
+    {
+      "repo": "humanlayer/skills",
+      "url": "https://github.com/humanlayer/skills",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 2786,
+      "summaryZh": "这是一个技能集合，用于扩展智能体在多种工具中的表现，可能包含业务集成技能。由于描述不完整，其主要功能不明确。适合希望从开源社区获取通用技能的用户。",
+      "category": "开发工具",
+      "starsToday": 442
+    },
+    {
+      "repo": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": 43599,
+      "summaryZh": "这是一个 Agent 技能，用来移除文本中 AI 生成的痕迹。它可能通过改写和调整语法，提升文本的自然感和可读性。适合内容创作者和非技术人员优化 AI 输出。",
+      "category": "开发工具",
+      "starsToday": 990
+    },
+    {
+      "repo": "BraveOPotato/FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "language": "TypeScript",
+      "stars": 2947,
+      "summaryZh": "这是一个无需注册、在浏览器中即可使用的开源工具及列表。它为开发者提供免注册的在线服务和工具索引。适合需要快速访问无账号工具的开发者。",
+      "category": "开发工具",
+      "starsToday": 68
+    },
+    {
+      "repo": "WorldFlowAI/everything-claude-code",
+      "url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+      "language": "JavaScript",
+      "stars": 2398,
+      "summaryZh": "这是一个 Claude Code 工具集，包含丰富的编程辅助组件。它集成智能体、命令、规则等，旨在提升开发效率。适合使用 Claude 进行日常开发的程序员。",
+      "category": "开发工具",
+      "starsToday": 95
+    },
+    {
+      "repo": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "language": "TypeScript",
+      "stars": 3287,
+      "summaryZh": "这是一个开源推理服务器，能在本地硬件上运行多种模型，并兼容多款 AI 工具。它提供自动选择和优化推理能力，为各类智能体提供支持。适合需要本地模型推理的开发者。",
+      "category": "开发工具",
+      "starsToday": 674
+    },
+    {
+      "repo": "bikini/exploitarium",
+      "url": "https://github.com/bikini/exploitarium",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "language": "Python",
+      "stars": 4728,
+      "summaryZh": "这是收集公共漏洞利用和漏洞研究记录的归档库，集中发布未报告的漏洞。其目的可能是安全研究，但或许未获授权。适合安全研究人员用于分析漏洞利用。",
+      "category": "开发工具",
+      "starsToday": 230
+    },
+    {
+      "repo": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+      "language": "Shell",
+      "stars": 94940,
+      "summaryZh": "nvm 是 POSIX 兼容的 bash 脚本，用于管理多个 Node.js 版本。它允许用户轻松安装、切换和卸载不同版本的 Node.js，每个版本独立运行。适合需要在不同项目间切换 Node 版本的开发者，通过简单的命令行操作即可管理环境。",
+      "category": "开发工具",
+      "starsToday": 22
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "language": "TypeScript",
+      "stars": 3844,
+      "summaryZh": "在浏览器中绘制 Material 3 Expressive 风格的界面草图，并将其转换为可用于 vibe coding 的提示词。提供丰富的设计工具和实时预览，帮助设计师和开发者快速生成设计稿并过渡到代码编写。适合 UI/UX 设计师和前端开发者配合 AI 工作流使用。",
+      "category": "前端",
+      "createdAt": "2026-09-02T04:36:34Z"
+    },
+    {
+      "repo": "anthropics/commerce-agents",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "language": "Python",
+      "stars": 2079,
+      "summaryZh": "一个参考蓝图，展示了如何用 Claude 构建购物和商家智能体。包含零售、电商、通信和娱乐等行业的示例，帮助开发者快速实现智能购物助手、个性化推荐或订单管理等功能。适合希望利用 AI 提升商业场景效率的开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-01T12:30:12Z"
+    },
+    {
+      "repo": "shadcn-ui/cn",
+      "url": "https://github.com/shadcn-ui/cn",
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "language": "TypeScript",
+      "stars": 1177,
+      "summaryZh": "cn 是一个用于 Tailwind CSS 类名合并和冲突解决的引擎，替代 tailwind-merge 和 clsx。具备完全相同的 API，并宣称速度快 30 倍。适用于使用 Tailwind 的 React 或任何 JS 项目，简化动态类名管理。",
+      "category": "前端",
+      "createdAt": "2026-08-31T07:04:03Z"
+    },
+    {
+      "repo": "GangTailorUpgrade/undress-service",
+      "url": "https://github.com/GangTailorUpgrade/undress-service",
+      "description": "Dress AI Sponsor",
+      "language": "Python",
+      "stars": 1103,
+      "summaryZh": "该项目声称是“Dress AI Sponsor”，但根据其描述和标签，可能涉及不当内容。出于安全和合规考虑，我们无法提供详细摘要。",
+      "category": "其他",
+      "createdAt": "2026-08-31T00:12:45Z"
+    },
+    {
+      "repo": "2akouwu/reverify",
+      "url": "https://github.com/2akouwu/reverify",
+      "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+      "language": "Python",
+      "stars": 924,
+      "summaryZh": "reverify 是一个防止 AI 幻觉的工具，它让 AI 提出方案，但由确定性工具根据真实数据验证每一项声明。支持逆二进制分析、上下文工程和安全研究，集成 MCP 服务器。适用于需要高可靠性的 AI 助手和安全分析场景。",
+      "category": "AI",
+      "createdAt": "2026-08-31T01:02:18Z"
+    },
+    {
+      "repo": "yczz/oc-english",
+      "url": "https://github.com/yczz/oc-english",
+      "description": "养成类游戏英语学习",
+      "language": "JavaScript",
+      "stars": 823,
+      "summaryZh": "一款养成类游戏用于学习英语，通过游戏化的交互方式提升学习兴趣。用户可能在游戏过程中完成词汇、语法等任务，让学习过程更轻松有趣。适合想坚持学英语但又觉得传统方式枯燥的学习者。",
+      "category": "游戏",
+      "createdAt": "2026-09-01T23:45:27Z"
+    },
+    {
+      "repo": "anthropics/fermats-last-theorem",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "description": "",
+      "language": "Lean",
+      "stars": 717,
+      "summaryZh": "该仓库是 Lean 语言项目，可能包含费马大定理的形式化证明。Lean 是一种交互式定理证明器，这个项目适合数学和计算机科学领域的研究者，用来验证复杂数学定理的逻辑正确性。",
+      "category": "其他",
+      "createdAt": "2026-09-04T14:21:04Z"
+    },
+    {
+      "repo": "danielblnc/DLSS-NR-on-AMD",
+      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+      "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "language": "",
+      "stars": 666,
+      "summaryZh": "这是一个让 AMD 显卡运行 DLSS 5 神经渲染的工具，可能通过某种兼容层或技巧实现。它能让 AMD 用户尝鲜 NVIDIA 的特有功能，适合游戏爱好者和技术探索者。",
+      "category": "游戏",
+      "createdAt": "2026-09-03T00:42:03Z"
+    },
+    {
+      "repo": "nahrek/polyledger",
+      "url": "https://github.com/nahrek/polyledger",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "language": "Python",
+      "stars": 620,
+      "summaryZh": "一个可恢复的 Polymarket 索引器，将 CLOB 市场元数据和 Polygon 链上交易整合到一个 DuckDB 数据库中，可用 SQL 查询。适合数据科学家和分析师用于预测市场数据研究。",
+      "category": "其他",
+      "createdAt": "2026-09-02T17:00:13Z"
+    },
+    {
+      "repo": "Merserk/dlss5-visual-enhancer",
+      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "language": "Python",
+      "stars": 549,
+      "summaryZh": "DLSS 5 视觉增强器，提供视频和图像增强及帧插值功能。它利用神经渲染技术提升内容和帧率，适合游戏录制、视频制作和图像处理等场景。",
+      "category": "AI",
+      "createdAt": "2026-08-30T19:45:52Z"
+    },
+    {
+      "repo": "ashemag/human-atlas",
+      "url": "https://github.com/ashemag/human-atlas",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "language": "TypeScript",
+      "stars": 534,
+      "summaryZh": "开源 3D 解剖学探索器，拥有 2234 个可选择的 BodyParts3D 网格模型，支持系统分层、搜索和分解视图。适合医学生、教育工作者和医疗可视化开发人员使用。",
+      "category": "资料教程",
+      "createdAt": "2026-09-05T00:24:43Z"
+    },
+    {
+      "repo": "codejunkie99/fable-orchestrator",
+      "url": "https://github.com/codejunkie99/fable-orchestrator",
+      "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+      "language": "Shell",
+      "stars": 516,
+      "summaryZh": "Fable Orchestrator 调度多个 AI 模型（如 GPT-5.6 Luna 和 DeepSeek V4 Flash）协同工作。它可能是一个编排工具，用于管理多模型任务分配和结果整合，适合需要复杂 AI 工作流的开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-02T21:48:23Z"
+    },
+    {
+      "repo": "MSNightmare/FalconFlank",
+      "url": "https://github.com/MSNightmare/FalconFlank",
+      "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+      "language": "C",
+      "stars": 515,
+      "summaryZh": "该仓库声称是 Crowdstrike Falcon 的 0day 权限提升漏洞，可能涉及安全研究。由于涉及潜在的攻击利用，出于安全考虑，我们不提供更详细描述。",
+      "category": "其他",
+      "createdAt": "2026-09-03T02:48:22Z"
+    },
+    {
+      "repo": "Human-Agent-Society/reef",
+      "url": "https://github.com/Human-Agent-Society/reef",
+      "description": "Continual learning infra for self-improving agents",
+      "language": "Python",
+      "stars": 497,
+      "summaryZh": " REEF 是一个持续学习的基础设施，用于构建自我改进的 AI 代理。它支持强化学习、推理和训练，帮助代理从经验中不断学习和提升性能。适合 AI 研究人员和工程师开发自适应系统。",
+      "category": "AI",
+      "createdAt": "2026-08-31T01:39:18Z"
+    },
+    {
+      "repo": "Rion-Wu-tech/wechat-intelligence-hub",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "language": "Python",
+      "stars": 482,
+      "summaryZh": "这是一个本地优先的微信智能系统，提供只读CLI、Codex技能、可搜索的聊天历史、每日简报、跟进和机会跟踪功能。适合需要管理微信沟通记录、提高工作效率的个人或团队使用。",
+      "category": "开发工具",
+      "createdAt": "2026-09-04T15:00:53Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "jub0t/Concat",
+      "url": "https://github.com/jub0t/Concat",
+      "description": "Free & Open-Source CapCut replacement.",
+      "language": "Rust",
+      "stars": 1316,
+      "summaryZh": "这是一个免费开源的CapCut替代品，基于Rust和Slint构建，支持跨平台离线视频编辑，包含音频处理、自动字幕、非线编辑等功能。适合需要免费、隐私友好的视频创作者使用。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +569（+76%）",
+      "reasonZh": "开源免费的视频剪辑工具，定位是 CapCut 替代品，但比它更轻量。支持自动字幕（内置 Whisper）和丰富音视频处理，离线优先。适合想做简单剪辑、又不想用付费或在线工具的用户。"
+    },
+    {
+      "repo": "themartiano/try-omarchy",
+      "url": "https://github.com/omacom/try-omarchy",
+      "description": "Run Omarchy on MacOS without any setup.",
+      "language": "Swift",
+      "stars": 1572,
+      "summaryZh": "这个项目让MacOS用户无需配置即可运行Omarchy，通过QEMU虚拟化支持Apple Silicon，实现ARM架构的Linux环境。适合想在Mac上体验Omarchy或进行开发和测试的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +672（+75%）",
+      "reasonZh": "在 macOS 上一键运行 Omarchy Linux 的 Swift 应用，支持 Apple Silicon，免去手动配置 QEMU 的麻烦。适合想尝鲜或日常使用 Linux 的 Mac 用户，但也暴露了 Omarchy 生态尚在早期。"
+    }
+  ]
+}
