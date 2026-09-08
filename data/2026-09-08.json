@@ -1,0 +1,407 @@
+{
+  "date": "2026-09-08",
+  "trending": [
+    {
+      "repo": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": 46448,
+      "summaryZh": "面向AI代理的HTML视频渲染引擎，可将HTML代码转换为视频。专为代理场景设计，支持高效渲染，适合需要动态生成视频的AI应用或自动化流程。",
+      "category": "开发工具",
+      "starsToday": 474
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 180642,
+      "summaryZh": "Python工具，用于将各类文件和办公文档（如PDF、Word、PPT）转换为Markdown格式。支持多种输入格式，输出干净文本，便于大语言模型处理，适合数据预处理和信息提取场景。",
+      "category": "开发工具",
+      "starsToday": 886
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 20986,
+      "summaryZh": "为AI编码代理优化上下文窗口的扩展，通过沙盒化工具输出（减少98%）、持久会话记忆，并基于MCP及钩子在17个平台间强制路由。适合需要长上下文、多平台协作的开发工作流。",
+      "category": "开发工具",
+      "starsToday": 96
+    },
+    {
+      "repo": "jo-inc/camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "language": "JavaScript",
+      "stars": 9899,
+      "summaryZh": "为AI代理设计的隐身无头浏览器，可绕过Cloudflare、机器人检测和反爬机制。作为Puppeteer/Playwright的即插即用替代品，适合需要稳定网页数据抓取的自动化任务。",
+      "category": "开发工具",
+      "starsToday": 135
+    },
+    {
+      "repo": "MoonTechLab/LunaTV",
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "language": "TypeScript",
+      "stars": 9867,
+      "summaryZh": "本项目为技术分享或教程内容，采用CC BY-NC-SA协议，禁止商业化，衍生项目需保留地址并以相同协议开源。适合学习交流或二次开发，但需遵守协议。",
+      "category": "资料教程",
+      "starsToday": 197
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 253072,
+      "summaryZh": "面向代理的性能优化系统，提供技能、直觉、记忆、安全等功能，支持Claude Code、Codex、Opencode、Cursor等主流编码代理。适合需要提升代理执行效率和成果的开发者。",
+      "category": "开发工具",
+      "starsToday": 1897
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 48273,
+      "summaryZh": "面向Claude Code和AI代理的营销技能包，涵盖转化率优化、文案撰写、SEO、分析和增长工程。能增强代理解析和优化营销内容的能力，适合营销自动化和创意辅助。",
+      "category": "开发工具",
+      "starsToday": 580
+    },
+    {
+      "repo": "The-Swarm-Corporation/AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "language": "Python",
+      "stars": 5345,
+      "summaryZh": "构建自主对冲基金的工具，利用群体智能和AI代理实现市场分析、风险管理和交易执行自动化。适合量化交易爱好者或机构快速搭建策略，但需注意金融风险。",
+      "category": "其他",
+      "starsToday": 517
+    },
+    {
+      "repo": "BraveOPotato/FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "language": "TypeScript",
+      "stars": 3904,
+      "summaryZh": "开源、浏览器内无需注册的工具汇总列表，收集各类免登录即可使用的Web应用。适合想便捷使用在线服务、避免繁琐注册的用户，提供实用资源导航。",
+      "category": "资料教程",
+      "starsToday": 501
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars": 81916,
+      "summaryZh": "开源长周期超级代理框架，能研究、编码和创作，集沙盒、记忆、工具、技能、子代理及消息网关于一体。适合需要复杂多步任务自动化或开发AI代理的开发者和团队。",
+      "category": "开发工具",
+      "starsToday": 195
+    },
+    {
+      "repo": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": 26133,
+      "summaryZh": "OpenAI提供的Codex技能目录，包含预定义的技能集合，指导代理高效完成编程任务。适合Codex用户快速扩展功能，提升AI编码的准确性和效率。",
+      "category": "开发工具",
+      "starsToday": 351
+    },
+    {
+      "repo": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "language": "Zig",
+      "stars": 34960,
+      "summaryZh": "专为AI和自动化设计的无头浏览器，用Zig编写，追求高性能和低消耗。适合需要快速、轻量级网页爬取或代理交互的场景，优于传统无头浏览器。",
+      "category": "开发工具",
+      "starsToday": 58
+    },
+    {
+      "repo": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": 22433,
+      "summaryZh": "可在浏览器中创建和分享3D建筑项目的编辑器，支持设计并导出模型。适合建筑、室内设计等领域的可视化协作，支持实时交互与分享。",
+      "category": "前端",
+      "starsToday": 168
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": 71464,
+      "summaryZh": "原创代理元框架，可部署多智能体群组、协调自主工作流，构建对话式AI系统，具备自适应记忆、自学习能力。适合需要复杂多代理编排的AI平台和开发者。",
+      "category": "开发工具",
+      "starsToday": 394
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "language": "TypeScript",
+      "stars": 4754,
+      "summaryZh": "在浏览器中绘制Material 3 Expressive 界面草图，并转换为Vibe-coding提示。适合设计人员和开发者快速从手绘样式生成代码，简化UI原型到实现的流程。",
+      "category": "前端",
+      "createdAt": "2026-09-02T04:36:34Z"
+    },
+    {
+      "repo": "anthropics/commerce-agents",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "language": "Python",
+      "stars": 2429,
+      "summaryZh": "这是一个基于Claude构建购物与商户代理的参考蓝图，包含零售、电商、电信和娱乐等场景示例，帮助开发者快速上手AI商业应用开发。",
+      "category": "开发工具",
+      "createdAt": "2026-09-01T12:30:12Z"
+    },
+    {
+      "repo": "ashemag/human-atlas",
+      "url": "https://github.com/ashemag/human-atlas",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "language": "TypeScript",
+      "stars": 2098,
+      "summaryZh": "这是一个开源的3D人体解剖浏览器，提供2234个可选择的BodyParts3D网格模型，支持系统分层查看、搜索和分解视图。适合医学生、教师及医学可视化爱好者。",
+      "category": "资料教程",
+      "createdAt": "2026-09-05T00:24:43Z"
+    },
+    {
+      "repo": "Rion-Wu-tech/wechat-intelligence-hub",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "language": "Python",
+      "stars": 1862,
+      "summaryZh": "这是一个本地优先的微信智能系统，提供只读CLI、Codex技能和可搜索的聊天记录，支持每日简报、跟进与机会追踪等功能。适合需要从微信数据中获取洞察的个人或小型团队。",
+      "category": "开发工具",
+      "createdAt": "2026-09-04T15:00:53Z"
+    },
+    {
+      "repo": "pierrenade/short-video-generator-AI",
+      "url": "https://github.com/pierrenade/short-video-generator-AI",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "language": "Python",
+      "stars": 1185,
+      "summaryZh": "这是一个免费开源工具，可将YouTube视频自动转换为热门短视频，集成了亮点检测、字幕生成、翻译和配音功能。适用于自媒体运营者或内容创作者批量生产短视频。",
+      "category": "AI",
+      "createdAt": "2026-09-05T11:55:18Z"
+    },
+    {
+      "repo": "vinzdg/codenotch",
+      "url": "https://github.com/vinzdg/codenotch",
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "language": "Swift",
+      "stars": 958,
+      "summaryZh": "这是一款macOS应用，可将Claude Code、Cursor、Codex和Antigravity的使用限制固定在屏幕边缘，帮助用户管理AI工具的使用时长，适合需要自律监控的开发人员。",
+      "category": "开发工具",
+      "createdAt": "2026-09-05T14:55:35Z"
+    },
+    {
+      "repo": "anthropics/fermats-last-theorem",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "description": "",
+      "language": "Lean",
+      "stars": 945,
+      "summaryZh": "这是一个用Lean语言编写费马大定理证明的项目，属于形式化数学验证领域。该仓库展示了使用Lean进行复杂数学证明的探索，适合对数学正式化感兴趣的开发者或研究人员。",
+      "category": "资料教程",
+      "createdAt": "2026-09-04T14:21:04Z"
+    },
+    {
+      "repo": "EverettFish/holo-card-studio",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "language": "Python",
+      "stars": 925,
+      "summaryZh": "这是一个将用户描述或上传的参考图转换为可编辑的Blender卡片和交互式Three.js页面的技能，支持保留主题、样式、排版和目的地。适合3D美术师或全栈开发者快速制作视觉原型。",
+      "category": "开发工具",
+      "createdAt": "2026-09-07T00:41:18Z"
+    },
+    {
+      "repo": "danielblnc/DLSS-NR-on-AMD",
+      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+      "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "language": "",
+      "stars": 870,
+      "summaryZh": "该工具旨在让AMD GPU上运行DLSS 5神经渲染功能，通过特定方法实现兼容。适合希望利用NVIDIA技术但使用AMD硬件进行游戏或渲染任务的用户。",
+      "category": "其他",
+      "createdAt": "2026-09-03T00:42:03Z"
+    },
+    {
+      "repo": "yczz/oc-english",
+      "url": "https://github.com/yczz/oc-english",
+      "description": "养成类游戏英语学习",
+      "language": "JavaScript",
+      "stars": 850,
+      "summaryZh": "这是一个养成类游戏学英语项目，结合游戏化元素提升学习动力，用户通过互动和任务形式来记忆单词或语法。适合英语学习者尤其是喜欢游戏化挑战的用户。",
+      "category": "游戏",
+      "createdAt": "2026-09-01T23:45:27Z"
+    },
+    {
+      "repo": "ahujasid/camera-to-blender",
+      "url": "https://github.com/ahujasid/camera-to-blender",
+      "description": "Take a photo of real objects, and paste them in Blender",
+      "language": "JavaScript",
+      "stars": 714,
+      "summaryZh": "该工具可将真实物体的照片直接粘贴到Blender中，用于建模或场景参考。适合Blender用户快速将现实物体数字化，简化建模过程。",
+      "category": "开发工具",
+      "createdAt": "2026-09-03T10:34:30Z"
+    },
+    {
+      "repo": "Albert-Weasker/niubigeo",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "description": "Open-source AI brand visibility and competitor reports",
+      "language": "TypeScript",
+      "stars": 680,
+      "summaryZh": "这是一个开源的AI品牌可见性和竞争对手报告工具，帮助分析品牌在网络上的表现并对比竞品。适合市场营销人员或中小型企业用于竞争情报收集。",
+      "category": "AI",
+      "createdAt": "2026-09-03T15:55:54Z"
+    },
+    {
+      "repo": "KJGX66F/usque-custom-pro",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "language": "JavaScript",
+      "stars": 623,
+      "summaryZh": "这是一个基于Cloudflare WARP/MASQUE的可视化注册与配置生成工具，支持Clash/Mihomo智能分流、Shadowrocket、sing-box及本地VLESS桥接，并提供WARP出口检测。适合需要管理网络代理配置的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-04T01:15:28Z"
+    },
+    {
+      "repo": "nahrek/polyledger",
+      "url": "https://github.com/nahrek/polyledger",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "language": "Python",
+      "stars": 621,
+      "summaryZh": "这是一个可恢复的Polymarket索引器，将CLOB市场元数据与Polygon上的链上交易整合到一个可用SQL查询的DuckDB文件中。适合数据科学或预测市场分析人士。",
+      "category": "AI",
+      "createdAt": "2026-09-02T17:00:13Z"
+    },
+    {
+      "repo": "codejunkie99/fable-orchestrator",
+      "url": "https://github.com/codejunkie99/fable-orchestrator",
+      "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+      "language": "Shell",
+      "stars": 568,
+      "summaryZh": "这是一个编排工具，整合了Fable 5.1、GPT-5.6 Luna和DeepSeek V4 Flash等AI模型来实现特定功能。适合需要多模型调度的AI应用开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-02T21:48:23Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "crmne/fastpotify",
+      "url": "https://github.com/crmne/fastpotify",
+      "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+      "language": "Rust",
+      "stars": 3494,
+      "summaryZh": "这是一个用Rust编写的快速原生Spotify客户端，支持全库管理、本地播放和Spotify Connect，可跨Linux、macOS和Windows平台运行。适合追求轻量高效桌面应用的Spotify用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +2672（+325%）",
+      "reasonZh": "原生速度的 Spotify 客户端，一个 Rust 应用搞定整个曲库、本地播放和 Connect。相比官方客户端臃肿资源占用，Linux/macOS/Windows 全覆盖且轻快。适合嫌弃 Electron 版卡顿、想要极简纯粹听歌体验的朋友。"
+    },
+    {
+      "repo": "jub0t/Concat",
+      "url": "https://github.com/jub0t/Concat",
+      "description": "Free & Open-Source CapCut replacement.",
+      "language": "Rust",
+      "stars": 1380,
+      "summaryZh": "这是一款免费开源的视频剪辑工具，定位为 CapCut 的替代品，采用 Rust 和 Slint 开发，支持跨平台且注重离线优先。它集成了音频处理、自动字幕等特性，并利用 ffmpeg 和 whisper-cpp 实现高效编辑与转录，适合追求轻量、免费、本地化剪辑体验的内容创作者使用。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +434（+46%）",
+      "reasonZh": "开源免费、离线优先的 CapCut 替代品，用 Rust 实现，跨平台。最大亮点是集成 whisper-cpp 自动字幕，堪称创作利器。和剪映等专业软件比更轻量透明，不需联网账号。适合视频剪辑爱好者尝试新鲜工具做内容创作。"
+    },
+    {
+      "repo": "cbrock84/headcount",
+      "url": "https://github.com/cbrock84/headcount",
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "language": "Markdown",
+      "stars": 1314,
+      "summaryZh": "该项目将 Claude Code 的 Agent 组织成一个公司结构，提供超过 15 个部门和 125 项技能，每项技能均可独立安装，并兼容 MCP。它作为一个 Agent 市场，使用户能够按需组合技能，适合需要为 Claude Code 扩展复杂、模块化工作流的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +442（+51%）",
+      "reasonZh": "把 Claude Code 组织成一个虚拟公司，15+ 部门、125+ 技能，每个都能独立安装。最大亮点是模块化技能生态，像订阅服务一样选择你要的功能。比零散脚本集成更系统规范。适合重度使用 Claude Code 的开发者或团队想定制专属 agent。"
+    },
+    {
+      "repo": "Nanako0129/sepia",
+      "url": "https://github.com/Nanako0129/sepia",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "language": "Python",
+      "stars": 2420,
+      "summaryZh": "这是一个去 AI 化写作技能，适用于任何支持 Skills 的 Agent，并针对 Claude Code、Codex 等提供原生插件。它通过修复叙事架构来使小说创作更自然、更人性化，适合需要优化 AI 生成文本、追求真实文风的写作场景。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1153（+91%）",
+      "reasonZh": "让 AI 写作去 AI 味，专为小说等叙事文本设计，兼容 77+ agent 工具如 Claude Code、Codex。最大亮点是叙事架构修复而非简单改写，比通用润色工具更懂故事节奏。适合作家或写手用 AI 助手但不想带上机器腔的创作者。"
+    },
+    {
+      "repo": "nateherkai/scroll-craft",
+      "url": "https://github.com/nateherkai/scroll-craft",
+      "description": "An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.",
+      "language": "JavaScript",
+      "stars": 2152,
+      "summaryZh": "该项目为编码 Agent 提供一项技能，用于构建高级、沉浸式的滚动驱动网站，兼容 Codex 和 Claude Code 等。它专注于滚动叙事、交互设计和视觉吸引力，适合需要快速生成高质量、富有创意落地页的前端开发者和设计师。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +806（+60%）",
+      "reasonZh": "给编程 agent 提供的技能，专注打造沉浸式滚动网站。最大亮点是内置设计系统与交互动画库，让 AI 产出高级质感页面。和手写或传统模板比，强调叙事性滚动叙事体验。适合前端想快速搭惊艳落地页、或用 AI 提升设计上限。"
+    },
+    {
+      "repo": "Tianyu199509/DeskBox",
+      "url": "https://github.com/Tianyu199509/DeskBox",
+      "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
+      "language": "C#",
+      "stars": 3568,
+      "summaryZh": "这是一款免费开源的 Windows 桌面整理工具，基于 WinUI 3 构建，提供具有原生观感的桌面小组件。它支持文件管理、桌面清理等功能，并在系统托盘中集成，适合追求整洁桌面和高效文件组织的 Windows 11 用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +939（+36%）",
+      "reasonZh": "免费开源的 Windows 桌面整理工具，WinUI 3 原生组件，界面现代流畅。亮点是自带组件库可自由组合，归类文件和启动应用都方便。和商用桌面整理软件比完全开源可控。适合想告别混乱桌面、又喜欢折腾个性化组件的 Windows 用户。"
+    },
+    {
+      "repo": "shadcn-ui/cn",
+      "url": "https://github.com/shadcn-ui/cn",
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "language": "TypeScript",
+      "stars": 1276,
+      "summaryZh": "cn 是一个用于 Tailwind CSS 类名合并和冲突解决的新引擎，旨在替代 tailwind-merge 和 clsx，提供相同 API 且完全兼容。它号称速度快 30 倍，适合使用 Tailwind CSS 的开发者，用于优化类名管理并提高构建效率。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +635（+99%）",
+      "reasonZh": "更快的 Tailwind 类合并工具，兼容现有 API 却快 30 倍。亮点是直接替换 tailwind-merge 和 clsx，无需改代码即享性能提升。对大型项目来说每次渲染都能节省时间。适合已在用 shadcn/ui 或 Tailwind 的开发者，一行依赖升级获得澎湃加速。"
+    },
+    {
+      "repo": "scastiel/kado",
+      "url": "https://github.com/scastiel/kado",
+      "description": "Kadō — A privacy-first habit tracker for iPhone and iPad.",
+      "language": "Swift",
+      "stars": 156,
+      "summaryZh": "Kadō 是一款基于隐私保护理念的 iPhone 和 iPad 习惯追踪应用，由 Swift 开发，界面简约。它主要在本地处理数据，强调用户隐私，适合希望避免云端依赖、注重数据安全的用户来记录和追踪日常习惯。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 78 分 · 32 评论",
+      "reasonZh": "注重隐私的习惯追踪应用，支持 iPhone 和 iPad，无网络追踪。亮点是本地存储、界面简洁符合苹果生态美学。和第三方习惯应用比更安全，可自定义节奏与提醒。适合想要轻量化每日打卡、又不想被厂商收集数据的苹果用户。"
+    },
+    {
+      "repo": "sirkirby/unifi-mcp",
+      "url": "https://github.com/sirkirby/unifi-mcp",
+      "description": "MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive",
+      "language": "Python",
+      "stars": 794,
+      "summaryZh": "该项目为 UniFi 系列应用（如 Network、Protect、Access、Drive）提供 MCP 服务器，支持 Agentic AI 和家庭自动化。它使 AI 模型能够与 UniFi 设备交互，适合希望集成智能家居或网络管理的开发者进行自动化控制。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "给 UniFi 全家桶（网络、监控、门禁等）提供 MCP 即插即用服务。亮点是把智能家居网络管理接入 AI 助手，可用自然语言调整设置。比自建复杂 API 简单太多。适合用 UniFi 设备也想用 Claude 等模型做自动化或排障的家庭用户。"
+    }
+  ]
+}
