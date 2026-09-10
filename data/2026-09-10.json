@@ -1,0 +1,387 @@
+{
+  "date": "2026-09-10",
+  "trending": [
+    {
+      "repo": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 35268,
+      "summaryZh": "这是一个面向编码 AI Agent 的输出改造技能，让模型不再把真正答案埋在长篇铺垫和啰嗦解释里。它把回复压缩成适合注意力容易分散的人直接抓重点的形式，先给结论再给必要细节。适合用 AI 辅助写代码时总被大段废话劝退、想快速拿到可用结果的开发者。",
+      "category": "AI",
+      "starsToday": 4650
+    },
+    {
+      "repo": "Tencent/teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "language": "TypeScript",
+      "stars": 3204,
+      "summaryZh": "这是腾讯推出的团队协作 AI 命令行工具，目标是让每个团队都能把 AI 原生能力接入日常工作流。它提供 CLI 形态的统一入口，方便在终端里调用 AI 能力并与团队工具链打通，降低集成门槛。适合需要把 AI 引入研发协作、但又想避免复杂平台搭建的工程团队。",
+      "category": "开发工具",
+      "starsToday": 556
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 284133,
+      "summaryZh": "这是一个面向 AI Agent 的技能框架与软件开发方法论，帮助团队把 Agent 能力组织成可复用、可维护的工程结构。它不只给工具，还给出配套的实践流程，让 AI 辅助开发从随意调用变成有章法的工程行为。适合正在把 Agent 引入正式项目、需要方法论和框架双重支撑的开发者与团队。",
+      "category": "AI",
+      "starsToday": 688
+    },
+    {
+      "repo": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "language": "TypeScript",
+      "stars": 23044,
+      "summaryZh": "这是一个开源 3D 建筑编辑器，提供本地 CLI 和 MCP 工具，让人和 AI Agent 都能按实际工作流操作三维建筑模型。它把建筑编辑能力做成可脚本化、可接入 Agent 的形态，方便自动化生成或修改方案。适合做建筑可视化、空间设计，以及想把 3D 编辑流程交给 AI 辅助的专业用户。",
+      "category": "开发工具",
+      "starsToday": 107
+    },
+    {
+      "repo": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A library of agent skills for CAD, CAE and CAM",
+      "language": "Python",
+      "stars": 15138,
+      "summaryZh": "这是一个面向 CAD、CAE 和 CAM 场景的 Agent 技能库，目标是让 AI 能按指令参与工业设计与仿真流程。它把专业工程软件的操作封装成 Agent 可调用的技能，降低自然语言驱动建模和仿真的门槛。适合机械、制造领域想用 AI 提效的工程师，以及探索 text-to-CAD 方向的开发者。",
+      "category": "AI",
+      "starsToday": 124
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 36843,
+      "summaryZh": "这是一个为 Claude Code、Codex 等编码 Agent 准备的图表设计库，提供 38 种编辑级图表版式，全部用自包含 HTML 和 SVG 输出。它强调无阴影、不依赖 Mermaid，追求更接近出版物质感的视觉表达。适合需要让 AI 生成高质量架构图、流程图并直接嵌入文档或网页的开发者。",
+      "category": "前端",
+      "starsToday": 2249
+    },
+    {
+      "repo": "liquidslr/system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "language": "",
+      "stars": 18165,
+      "summaryZh": "这是《System Design Interview》一书的读书笔记仓库，把系统设计面试中的核心概念、架构思路和常见题型整理成可查阅的资料。内容覆盖扩展性、一致性、缓存、消息队列等高频考点，结构清晰便于复习。适合准备系统设计面试的工程师，以及想系统补齐分布式架构基础的开发者。",
+      "category": "资料教程",
+      "starsToday": 1397
+    },
+    {
+      "repo": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 6254,
+      "summaryZh": "这是 OpenAI 官方提供的插件示例与工具集合，展示如何为 ChatGPT 等产品构建可调用的插件能力。它包含插件规范、接口定义和示例代码，方便开发者理解并接入 OpenAI 插件生态。适合想把自己的服务接入 OpenAI 平台、拓展 AI 应用边界的开发者。",
+      "category": "AI",
+      "starsToday": 498
+    },
+    {
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars": 30243,
+      "summaryZh": "这是一个面向 GPT-Image2 的工业级提示词引擎与模板库，内置 530 多个逆向工程案例和 20 多套工业模板，并提炼成可复用的 Skills。它把图像生成提示词当作代码来管理，强调结构化、可维护和持续更新。适合需要稳定产出高质量 AI 图像的设计师、运营和提示词工程师。",
+      "category": "AI",
+      "starsToday": 705
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 53821,
+      "summaryZh": "这是一个从零开始学习 AI 工程的实践教程，强调先理解、再动手构建、最后把成果交付给别人使用。内容覆盖 AI 工程所需的基础知识和项目实战，帮助学习者建立完整的能力链路，而不是停留在调包。适合想系统入门 AI 工程、通过动手项目真正掌握交付能力的开发者。",
+      "category": "资料教程",
+      "starsToday": 343
+    },
+    {
+      "repo": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "stars": 1807,
+      "summaryZh": "这是一个本地优先的 AI 编码 Agent 桌面应用，采用 Electron 加 Rust 宿主内核，并内置 pi Agent Harness 和可安装插件机制。它把编码 Agent 的能力做成桌面端产品，强调本地运行、可扩展和用户自主安装插件。适合注重隐私、希望在自己的电脑上长时间使用可定制 AI 编码助手的开发者。",
+      "category": "开发工具",
+      "starsToday": 417
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 255306,
+      "summaryZh": "这是一个面向 Claude Code、Codex、Opencode、Cursor 等编码 Agent 的性能优化系统，围绕技能、直觉、记忆、安全和研究优先开发提供增强能力。它把 Agent 的工作方式从临时提示提升到可积累、可复用的工程体系，减少重复劳动。适合重度依赖多种编码 Agent、希望统一提升其稳定性和效率的开发者。",
+      "category": "AI",
+      "starsToday": 1133
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "ashemag/human-atlas",
+      "url": "https://github.com/ashemag/human-atlas",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "language": "TypeScript",
+      "stars": 2876,
+      "summaryZh": "这是一个开源 3D 人体解剖浏览器，内置 2234 个可选择的 BodyParts3D 网格，支持系统分层、搜索和爆炸视图。它让医学解剖结构可以在浏览器中直观查看和交互，不依赖专业软件。适合医学生、解剖学教师和需要可视化人体结构的开发者或内容创作者。",
+      "category": "资料教程",
+      "createdAt": "2026-09-05T00:24:43Z"
+    },
+    {
+      "repo": "Albert-Weasker/niubigeo",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
+      "language": "TypeScript",
+      "stars": 2259,
+      "summaryZh": "这是一个开源 AI 品牌可见度与竞品报告工具，帮助用户了解品牌在 AI 搜索和生成结果中的曝光情况。它提供 GEO 优化相关分析，并说明真人 AI 测试和付费服务入口，把监测与优化建议连成闭环。适合做品牌营销、SEO/GEO 和竞品分析的市场人员与增长团队。",
+      "category": "AI",
+      "createdAt": "2026-09-03T15:55:54Z"
+    },
+    {
+      "repo": "Rion-Wu-tech/wechat-intelligence-hub",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "language": "Python",
+      "stars": 2033,
+      "summaryZh": "这是一个本地优先的微信情报系统，通过只读 CLI 和 Codex 技能把聊天记录变成可搜索的情报库。它支持每日简报、跟进事项和机会追踪，帮助用户从海量对话里提取有用信息，同时避免直接写入微信。适合需要管理客户关系、跟进线索并重视数据本地的销售或运营人员。",
+      "category": "开发工具",
+      "createdAt": "2026-09-04T15:00:53Z"
+    },
+    {
+      "repo": "openai/NavierStokesAndEuler",
+      "url": "https://github.com/openai/NavierStokesAndEuler",
+      "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "language": "Lean",
+      "stars": 1591,
+      "summaryZh": "这个项目为纳维-斯托克斯方程和欧拉方程的数学结果提供 Lean 形式化证明证书。核心亮点是用 Lean 定理证明器严格验证流体力学方程解的正则性和奇点行为，适合数学形式化验证研究者及理论物理学者使用。",
+      "category": "资料教程",
+      "createdAt": "2026-09-08T10:53:38Z"
+    },
+    {
+      "repo": "vinzdg/codenotch",
+      "url": "https://github.com/vinzdg/codenotch",
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "language": "Swift",
+      "stars": 1294,
+      "summaryZh": "这是一个 macOS 应用，能将 Claude Code、Cursor、Codex 和 Antigravity 的使用限制固定在屏幕边缘显示。核心功能是实时监控 AI 编程助手的配额，方便开发者随时查看剩余用量，适合频繁使用这些工具且不想频繁切换窗口的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-05T14:55:35Z"
+    },
+    {
+      "repo": "EverettFish/holo-card-studio",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "language": "Python",
+      "stars": 1260,
+      "summaryZh": "这个项目根据用户描述或上传的参考图，自动生成可编辑的 Blender 卡片模型和交互式 Three.js 页面。核心亮点是保留指定的主题、风格、字体和目的地，实现从文本到 3D 场景的快速转换，适合需要制作全息卡片或 3D 展示页的设计师和开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-07T00:41:18Z"
+    },
+    {
+      "repo": "anthropics/fermats-last-theorem",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "description": "",
+      "language": "Lean",
+      "stars": 1003,
+      "summaryZh": "这个项目使用 Lean 定理证明器形式化费马大定理的证明过程。核心功能是提供该著名数学猜想的机器可验证证明代码，适合数学形式化研究者和对定理证明感兴趣的学习者参考。",
+      "category": "资料教程",
+      "createdAt": "2026-09-04T14:21:04Z"
+    },
+    {
+      "repo": "danielblnc/DLSS-NR-on-AMD",
+      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+      "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "language": "",
+      "stars": 983,
+      "summaryZh": "这个项目让你在 AMD GPU 上运行 DLSS 5 神经渲染技术。核心亮点是通过非官方方式绕过硬件限制，实现原本仅支持英伟达显卡的 AI 超分辨率功能，适合想体验 DLSS 但使用 AMD 显卡的游戏玩家尝试。",
+      "category": "游戏",
+      "createdAt": "2026-09-03T00:42:03Z"
+    },
+    {
+      "repo": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "",
+      "language": "Python",
+      "stars": 896,
+      "summaryZh": "这个项目提供基于 FFmpeg 的多媒体处理技能封装。核心功能是简化音视频转码、剪辑和格式转换操作，通过命令行或脚本快速调用，适合需要批量处理媒体文件的开发者和内容创作者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-03T14:33:38Z"
+    },
+    {
+      "repo": "sdli1995/dlssg_for_sm86",
+      "url": "https://github.com/sdli1995/dlssg_for_sm86",
+      "description": "Here is a dlssg for RTX30 Series GPU ",
+      "language": "",
+      "stars": 829,
+      "summaryZh": "这个项目为 RTX 30 系列 GPU 提供 DLSS 帧生成功能。核心亮点是让 SM86 架构显卡也能启用原本仅限 40 系显卡的 DLSS 3 帧生成技术，提升游戏帧率，适合想榨取 RTX 30 系显卡性能的玩家。",
+      "category": "游戏",
+      "createdAt": "2026-09-07T16:16:48Z"
+    },
+    {
+      "repo": "donvito/codex-astra-luna-orchestrator",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+      "language": "Python",
+      "stars": 794,
+      "summaryZh": "这个项目在 Codex 环境中使用 Astra 作为编排器，Luna 作为子代理来协同工作。核心功能是通过多代理编排提升代码生成与任务执行的效率，适合需要复杂任务分解和并行处理的 AI 辅助编程场景。",
+      "category": "开发工具",
+      "createdAt": "2026-09-05T16:03:06Z"
+    },
+    {
+      "repo": "ahujasid/camera-to-blender",
+      "url": "https://github.com/ahujasid/camera-to-blender",
+      "description": "Take a photo of real objects, and paste them in Blender",
+      "language": "JavaScript",
+      "stars": 790,
+      "summaryZh": "这个项目通过拍摄真实物体的照片，将其快速粘贴到 Blender 三维场景中。核心亮点是简化从现实到 3D 模型的转换流程，适合需要将实物融入 Blender 项目的设计师和 3D 艺术家。",
+      "category": "开发工具",
+      "createdAt": "2026-09-03T10:34:30Z"
+    },
+    {
+      "repo": "KJGX66F/usque-custom-pro",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "language": "JavaScript",
+      "stars": 726,
+      "summaryZh": "这个项目基于 Cloudflare WARP / MASQUE 提供可视化注册、配置生成与多客户端转换工具。核心功能包括生成 Clash/Mihomo 智能分流、Shadowrocket、sing-box 配置以及本地 VLESS 桥接，适合需要科学上网和网络代理配置的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-04T01:15:28Z"
+    },
+    {
+      "repo": "yang0/handraw-style",
+      "url": "https://github.com/yang0/handraw-style",
+      "description": "手绘风格编号画廊与双语提示词 Skill",
+      "language": "HTML",
+      "stars": 682,
+      "summaryZh": "这个项目提供手绘风格编号画廊与双语提示词技能。核心亮点是展示手绘风格的数字作品并附带中英双语提示词，方便用户学习如何生成类似风格，适合 AI 绘画爱好者和提示词工程师参考。",
+      "category": "资料教程",
+      "createdAt": "2026-09-05T21:57:22Z"
+    },
+    {
+      "repo": "Mantitup-Org/vista",
+      "url": "https://github.com/Mantitup-Org/vista",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 617,
+      "summaryZh": "这个项目是一个基于 TypeScript 构建的应用程序，可能涉及可视化或视图管理功能。核心亮点是利用现代前端技术栈实现高效的数据展示与交互，适合需要构建数据可视化界面的开发者使用。",
+      "category": "前端",
+      "createdAt": "2026-09-04T06:20:19Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "crmne/fastpotify",
+      "url": "https://github.com/crmne/fastpotify",
+      "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+      "language": "Rust",
+      "stars": 3729,
+      "summaryZh": "FastPotify 是一个用 Rust 编写的轻量级 Spotify 客户端，支持本地播放和 Spotify Connect 功能。核心亮点是原生性能、跨平台（Linux/macOS/Windows）且资源占用低，适合追求快速流畅体验的 Spotify 用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +1367（+58%）",
+      "reasonZh": "用 Rust 写的 Spotify 原生客户端，把整个曲库、本地播放和 Spotify Connect 都塞进一个轻量应用里，比网页版和 Electron 播放器快得多也更省资源。适合 Linux 桌面用户或想要 MPRIS 集成的开发者日常听歌。"
+    },
+    {
+      "repo": "maziggy/bambuddy",
+      "url": "https://github.com/maziggy/bambuddy",
+      "description": "Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire print farm. ",
+      "language": "Python",
+      "stars": 2936,
+      "summaryZh": "Bambuddy 是一个自托管的 Bambu Lab 打印机指挥中心，无需云端即可管理从单台 A1 到整个打印农场。核心功能包括文件管理、耗材监控和远程控制，适合注重隐私和自主控制的 3D 打印爱好者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "给拓竹 3D 打印机做的自托管控制中心，从单台 A1 到整排打印农场都能管，彻底摆脱官方云绑定。相比官方 App 它更强调本地化和批量管理，适合不想把打印任务交给厂商服务器的玩家和小型工作室。"
+    },
+    {
+      "repo": "snapotter-hq/SnapOtter",
+      "url": "https://github.com/snapotter-hq/SnapOtter",
+      "description": "Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your network.",
+      "language": "TypeScript",
+      "stars": 2590,
+      "summaryZh": "SnapOtter 是一个开源自托管文件处理工具，支持图像、视频、音频、PDF 等格式的转换、压缩、OCR 和转录，并能运行本地 AI。核心亮点是文件永不离开本地，适合注重数据隐私的企业和个人用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "自托管的文件处理瑞士军刀，图片视频音频 PDF 都能转换、压缩、OCR、转录，还能跑本地 AI，文件全程不出内网。适合有隐私顾虑或需要离线批量处理的团队，一个 Docker 就能顶掉好几个在线小工具。"
+    },
+    {
+      "repo": "dwgx/WindsurfAPI",
+      "url": "https://github.com/dwgx/WindsurfAPI",
+      "description": "Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。",
+      "language": "JavaScript",
+      "stars": 2966,
+      "summaryZh": "将Windsurf/Devin Desktop的100多种AI模型转为OpenAI、Anthropic和Gemini兼容API的自托管反向代理。零依赖，支持Claude、GPT、Gemini等主流模型，方便开发者直接调用。适合需要私有部署AI API或集成多种模型到现有工具链的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "把 Windsurf/Devin 里的一百多个模型反向包装成 OpenAI、Anthropic、Gemini 兼容 API，零依赖自托管，可以直接接进 Claude Code、Cline、Cursor 等客户端。适合手里有 Windsurf 订阅、想让各种 AI 工具共享额度的人。"
+    },
+    {
+      "repo": "themartiano/try-omarchy",
+      "url": "https://github.com/omacom/try-omarchy",
+      "description": "Run Omarchy on MacOS without any setup.",
+      "language": "Swift",
+      "stars": 1834,
+      "summaryZh": "在macOS上无需任何配置即可运行Omarchy（基于Arch Linux的发行版）的虚拟机工具。使用Swift编写，通过QEMU实现Apple Silicon上的虚拟化，让Mac用户体验Linux环境。适合开发者在Mac上快速测试或使用Arch Linux，无需双系统或复杂设置。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +431（+31%）",
+      "reasonZh": "一条命令就能在 Apple Silicon Mac 上把 Omarchy（Arch + Hyprland 的漂亮配置）跑进虚拟机，不用分区也不用折腾。适合想体验 Linux 桌面又不想离开 macOS 的用户，相比手动装 Arch 门槛低太多。"
+    },
+    {
+      "repo": "Player-YN/PawWork_ZhuaZhua",
+      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "language": "JavaScript",
+      "stars": 2421,
+      "summaryZh": "Paw Work是一款以选择优先的Chrome网页代理，可在实时页面上选择内容、描述需求，并生成可编辑的办公文件。支持BYOK、沙箱运行，无需服务器。适合需要快速从网页提取信息并生成PPT等文档的办公人员或开发者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +1548（+177%）",
+      "reasonZh": "Chrome 扩展型网页 Agent，在真实页面上划选内容、描述需求，就能直接产出可编辑的 Office 文件，BYOK 且全在沙箱里跑。和一堆截图式浏览器助手不同，它真正操作 DOM 并交付文件，适合经常整理网页资料的人。"
+    },
+    {
+      "repo": "Afilmory/afilmory",
+      "url": "https://github.com/Afilmory/afilmory",
+      "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
+      "language": "TypeScript",
+      "stars": 2613,
+      "summaryZh": "为摄影师打造的现代照片画廊，支持S3/GitHub同步、EXIF详情、地图和WebGL查看器。基于TypeScript和React，自托管方案，方便管理个人摄影作品。适合摄影师和自托管爱好者搭建个人作品展示平台。",
+      "category": "前端",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "给摄影师做的现代自托管相册，支持 S3/GitHub 同步、EXIF 详情、地图和 WebGL 看图。比传统自建图库更懂摄影工作流，适合想摆脱 Google Photos 又保留专业元数据展示的人。"
+    },
+    {
+      "repo": "bestruirui/octopus",
+      "url": "https://github.com/bestruirui/octopus",
+      "description": "One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关",
+      "language": "TypeScript",
+      "stars": 2613,
+      "summaryZh": "为个人打造的LLM API聚合网关，统一接入OpenAI、Anthropic等多种模型。支持Claude、Codex等工具，自托管，简化API管理。适合需要集中管理多个LLM API的个人开发者或小团队。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "把各家 LLM 统一成一个自托管 API 网关，Claude、Codex、Gemini 等都能聚合进来，个人用足够简单。适合同时订阅多个 AI 服务、想在各种客户端里随便切换模型的开发者。"
+    },
+    {
+      "repo": "NeptuneHub/AudioMuse-AI",
+      "url": "https://github.com/NeptuneHub/AudioMuse-AI",
+      "description": "AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex: no metadata or external services required.",
+      "language": "Python",
+      "stars": 2565,
+      "summaryZh": "利用声学分析重新发现遗忘歌曲、挖掘音乐库隐藏联系，并为Navidrome、Jellyfin、Plex等生成智能播放列表。基于Python和ONNX，支持Docker/Kubernetes部署。适合音乐爱好者和自托管音乐服务器用户提升听歌体验。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "用声学分析给你的音乐库生成智能歌单，支持 Navidrome、Jellyfin、Plex、Emby 等自托管音乐服务。和按标签推荐不同，它靠音频特征找冷门相似曲目，适合曲库很大、想重新发现老歌的发烧友。"
+    }
+  ]
+}
