@@ -1,0 +1,439 @@
+{
+  "date": "2026-09-12",
+  "trending": [
+    {
+      "repo": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 42200,
+      "summaryZh": "该项目是一个让编码 AI 代理不再把答案埋在长篇废话里的技能，以「ADHD 友好」的方式输出，先给结论再给细节。适合讨厌代理啰嗦、想要快速抓到关键信息的开发者，尤其在日常与 AI 结对编程时能显著提升阅读效率。",
+      "category": "开发工具",
+      "starsToday": 3463
+    },
+    {
+      "repo": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 27374,
+      "summaryZh": "这是一个浏览器中的间谍卫星模拟器，但用的是真实开源地理空间情报数据，可在照片级 3D 地球上实时查看。适合对地理情报、遥感可视化和开源情报分析感兴趣的人，用于探索、教学或演示。",
+      "category": "开发工具",
+      "starsToday": 3680
+    },
+    {
+      "repo": "nab138/iloader",
+      "url": "https://github.com/nab138/iloader",
+      "description": "User friendly sideloader",
+      "language": "TypeScript",
+      "stars": 2941,
+      "summaryZh": "这是一款用户友好的侧载工具，简化了将应用安装到设备上的流程，降低普通用户的操作门槛。适合需要安装非商店应用但不想折腾命令行的 iOS 或同类设备用户，让侧载变得像点击一样简单。",
+      "category": "开发工具",
+      "starsToday": 50
+    },
+    {
+      "repo": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars": 1428,
+      "summaryZh": "这是一个开源的 AI 销售操作系统，自托管 CRM 并内置原生 AI 代理与 WhatsApp 集成，定位为 Kommo、Octadesk 和 Intercom 的开放替代品。适合通过聊天渠道销售、需要多租户和 MCP 就绪能力的中小企业团队。",
+      "category": "开发工具",
+      "starsToday": 152
+    },
+    {
+      "repo": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "stars": 2840,
+      "summaryZh": "这是本地优先的 AI 编码代理桌面应用，采用 Electron 加 Rust 宿主核心和可插拔代理框架，并支持用户自行安装插件。适合重视数据隐私、希望离线或本地运行编码代理，同时需要扩展性的开发者。",
+      "category": "开发工具",
+      "starsToday": 552
+    },
+    {
+      "repo": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "stars": 4763,
+      "summaryZh": "这是 Armory 生态中的图形创作工具，专注于 3D 纹理绘制与材质制作，可与 Armory 引擎配合完成游戏美术资产生产。适合独立游戏开发者、3D 美术和需要轻量级开源纹理绘制方案的创作者。",
+      "category": "游戏",
+      "starsToday": 350
+    },
+    {
+      "repo": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "stars": 2216,
+      "summaryZh": "这是一个开源 AI 交易代理，能自主在 Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX 和五条 EVM 链等上千个市场中扫描机会、即时执行并管理风险。适合量化交易者和想研究自动化链上交易策略的人。",
+      "category": "开发工具",
+      "starsToday": 626
+    },
+    {
+      "repo": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "stars": 18818,
+      "summaryZh": "LLM Wiki 是一个跨平台桌面应用，能把你的文档自动转化为有组织、互相链接的知识库，避免传统 RAG 每次从零检索。适合需要长期积累个人或团队文档、希望让 LLM 基于结构化知识作答的用户。",
+      "category": "开发工具",
+      "starsToday": 647
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 285444,
+      "summaryZh": "这是一个代理技能框架和软件开发方法论，提供一套可复用的技能体系，让 AI 代理按工程化流程工作。适合正在构建 AI 代理应用、或想把代理开发规范化、可维护化的工程团队与个人开发者。",
+      "category": "开发工具",
+      "starsToday": 729
+    },
+    {
+      "repo": "Sonarr/Sonarr",
+      "url": "https://github.com/Sonarr/Sonarr",
+      "description": "Smart PVR for newsgroup and bittorrent users.",
+      "language": "C#",
+      "stars": 15769,
+      "summaryZh": "Sonarr 是面向新闻组和 BT 用户的智能 PVR，能自动追踪、下载和组织电视剧集，按质量与语言偏好管理媒体库。适合自建家庭媒体服务器、希望自动化追剧和整理剧集资源的用户。",
+      "category": "其他",
+      "starsToday": 191
+    },
+    {
+      "repo": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "language": "Python",
+      "stars": 4904,
+      "summaryZh": "这是专为数学建模设计的代理与技能集合，能自动完成建模流程并生成一份可直接提交的完整论文。适合参加数学建模竞赛的学生和需要快速产出规范建模论文的团队，大幅减少重复写作工作。",
+      "category": "AI",
+      "starsToday": 129
+    },
+    {
+      "repo": "p1neappleXpress/OpenFlux",
+      "url": "https://github.com/p1neappleXpress/OpenFlux",
+      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "language": "Go",
+      "stars": 1192,
+      "summaryZh": "这是一个网络栈研究工具，提供带可插拔传输层的 TCP 隧道，方便研究和实验不同传输协议。适合网络研究者、安全研究者和对可插拔传输、隧道技术感兴趣的开发者进行实验与原型验证。",
+      "category": "开发工具",
+      "starsToday": 198
+    },
+    {
+      "repo": "jordan-gibbs/hyperresearch",
+      "url": "https://github.com/jordan-gibbs/hyperresearch",
+      "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+      "language": "Python",
+      "stars": 2721,
+      "summaryZh": "这是一个代理驱动的研究知识库，代理会自动收集、搜索并综合网络研究，沉淀为持久可检索的 wiki。适合需要持续跟踪某领域信息、又不想手动整理资料的研究者和内容创作者。",
+      "category": "AI",
+      "starsToday": 153
+    },
+    {
+      "repo": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "language": "Rust",
+      "stars": 1370,
+      "summaryZh": "该项目让你用任意模型并行运行多个研究代理，加速文献调研与信息综合。适合研究人员、分析师和需要快速产出多角度调研结论的团队，用并行代理替代串行的人工检索。",
+      "category": "AI",
+      "starsToday": 120
+    },
+    {
+      "repo": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 135823,
+      "summaryZh": "这是 GitHub 官方推出的工具包，帮助开发者上手规格驱动开发，把需求先写成明确规格再驱动实现。适合想提升代码质量、减少返工，并希望把规格流程落地到 AI 辅助开发中的工程团队。",
+      "category": "开发工具",
+      "starsToday": 1015
+    },
+    {
+      "repo": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "language": "TypeScript",
+      "stars": 23681,
+      "summaryZh": "一个开源 3D 建筑编辑器，提供本地 CLI、MCP 工具以及面向人类与 AI 代理的实用工作流。核心亮点是打通了 AI 代理与 3D 场景编辑的协作链路，适合建筑师、3D 开发者及想用 AI 辅助建模的用户。",
+      "category": "开发工具",
+      "starsToday": 106
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "ashemag/human-atlas",
+      "url": "https://github.com/ashemag/human-atlas",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "language": "TypeScript",
+      "stars": 3216,
+      "summaryZh": "开源 3D 人体解剖浏览器，内置 2234 个可选择的 BodyParts3D 网格，支持系统分层、搜索和爆炸视图。适合医学生、解剖学教师及需要可视化人体结构的开发者，用于教学或医学可视化项目。",
+      "category": "资料教程",
+      "createdAt": "2026-09-05T00:24:43Z"
+    },
+    {
+      "repo": "sdli1995/dlssg_for_sm86",
+      "url": "https://github.com/sdli1995/dlssg_for_sm86",
+      "description": "Here is a dlssg for RTX30 Series GPU ",
+      "language": "",
+      "stars": 1849,
+      "summaryZh": "面向 RTX 30 系 GPU 的 DLSS 帧生成补丁项目，让原本仅限 40 系显卡的 DLSS 3 帧生成功能在 SM86 架构上运行。适合想用 30 系显卡提升游戏帧率的玩家，需注意兼容性与稳定性风险。",
+      "category": "游戏",
+      "createdAt": "2026-09-07T16:16:48Z"
+    },
+    {
+      "repo": "openai/NavierStokesAndEuler",
+      "url": "https://github.com/openai/NavierStokesAndEuler",
+      "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "language": "Lean",
+      "stars": 1781,
+      "summaryZh": "OpenAI 发布的 Lean 形式化证明证书，配套 Navier-Stokes 与 Euler 方程相关数学结果。核心价值是将前沿流体方程结论以可机器验证的方式呈现，适合数学研究者、形式化验证爱好者查阅与复用。",
+      "category": "资料教程",
+      "createdAt": "2026-09-08T10:53:38Z"
+    },
+    {
+      "repo": "yang0/handraw-style",
+      "url": "https://github.com/yang0/handraw-style",
+      "description": "手绘风格编号画廊与双语提示词 Skill",
+      "language": "HTML",
+      "stars": 1515,
+      "summaryZh": "手绘风格编号画廊与双语提示词 Skill，提供成体系的提示词模板和展示页面，帮助用户快速生成统一手绘风格图像。适合插画师、AI 绘画爱好者及需要批量生成风格化视觉素材的创作者。",
+      "category": "AI",
+      "createdAt": "2026-09-05T21:57:22Z"
+    },
+    {
+      "repo": "vinzdg/codenotch",
+      "url": "https://github.com/vinzdg/codenotch",
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "language": "Swift",
+      "stars": 1473,
+      "summaryZh": "一款 macOS 应用，把 Claude Code、Cursor、Codex 和 Antigravity 的用量限制固定在屏幕边缘常驻显示。核心功能是实时监控多家 AI 编程工具的配额，适合重度依赖 AI 编码助手、需要随时掌握用量的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-05T14:55:35Z"
+    },
+    {
+      "repo": "EverettFish/holo-card-studio",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "language": "Python",
+      "stars": 1450,
+      "summaryZh": "将用户描述或上传的参考图转化为可编辑的 Blender 全息卡片，并生成可交互的 Three.js 页面，同时保留指定主题、风格与排版。适合需要快速产出 3D 卡片展示的开发者与设计师。",
+      "category": "AI",
+      "createdAt": "2026-09-07T00:41:18Z"
+    },
+    {
+      "repo": "Edge0-AI/Edge0",
+      "url": "https://github.com/Edge0-AI/Edge0",
+      "description": "",
+      "language": "Python",
+      "stars": 1362,
+      "summaryZh": "一个基于 Python 的 AI 项目，仓库暂无详细描述，从命名看与边缘计算或边缘 AI 相关。建议查看源码与文档了解具体功能，适合关注边缘端模型部署与推理的开发者探索。",
+      "category": "AI",
+      "createdAt": "2026-09-08T13:41:47Z"
+    },
+    {
+      "repo": "donvito/codex-astra-luna-orchestrator",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+      "language": "Python",
+      "stars": 990,
+      "summaryZh": "在 Codex 中使用 Astra 作为编排器、Luna 作为子代理的编排方案，用 Python 实现多代理协作流程。核心是把任务拆分给不同角色的 AI 代理执行，适合需要构建复杂多代理工作流的开发者参考。",
+      "category": "AI",
+      "createdAt": "2026-09-05T16:03:06Z"
+    },
+    {
+      "repo": "Vincentwei1021/anything2explainer",
+      "url": "https://github.com/Vincentwei1021/anything2explainer",
+      "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+      "language": "TypeScript",
+      "stars": 965,
+      "summaryZh": "输入任意主题即可输出带旁白的讲解视频，是 Claude Code / Codex 技能，生成黑底动态图形视频，含 TTS 配音、字幕和章节进度条。适合做知识科普、教学视频的创作者与开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-08T17:19:54Z"
+    },
+    {
+      "repo": "Faizpi/bank-sampah",
+      "url": "https://github.com/Faizpi/bank-sampah",
+      "description": "",
+      "language": "PHP",
+      "stars": 919,
+      "summaryZh": "一个基于 PHP 的垃圾银行（Bank Sampah）项目，用于管理社区垃圾分类回收与积分兑换。仓库暂无详细描述，适合印尼地区社区环保项目或想学习 PHP 管理系统开发的开发者参考。",
+      "category": "其他",
+      "createdAt": "2026-09-11T02:13:29Z"
+    },
+    {
+      "repo": "iamzulx/crypto-rag",
+      "url": "https://github.com/iamzulx/crypto-rag",
+      "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+      "language": "Python",
+      "stars": 903,
+      "summaryZh": "印尼语加密货币助手，融合 267 个主题的 RAG 知识库、六家交易所的实时行情（WebSocket、衍生品、链上、TVL、DeFi），并支持工具调用代理与 LLM 综合回答。适合印尼语加密投资者做行情与知识查询。",
+      "category": "AI",
+      "createdAt": "2026-09-05T06:20:08Z"
+    },
+    {
+      "repo": "achimala/dream-loop",
+      "url": "https://github.com/achimala/dream-loop",
+      "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "language": "JavaScript",
+      "stars": 863,
+      "summaryZh": "一个代理技能，结合 Blender、图像生成和子代理评审机制，产出令人惊艳的 3D 视觉作品。核心是把生成、渲染与质量评审串成自动循环，适合想用 AI 自动化完成 3D 视觉创作的开发者与设计师。",
+      "category": "AI",
+      "createdAt": "2026-09-07T14:19:20Z"
+    },
+    {
+      "repo": "jtydhr88/screenwriting-skills",
+      "url": "https://github.com/jtydhr88/screenwriting-skills",
+      "description": "",
+      "language": "",
+      "stars": 753,
+      "summaryZh": "一个面向编剧的技能集合项目，帮助创作者借助 AI 完成剧本构思、结构搭建与写作辅助。仓库暂无详细描述，适合编剧、内容创作者及想用 AI 提升剧本创作效率的用户尝试。",
+      "category": "AI",
+      "createdAt": "2026-09-06T12:28:23Z"
+    },
+    {
+      "repo": "gazijarin/itsgiving",
+      "url": "https://github.com/gazijarin/itsgiving",
+      "description": "Express yourself in meetings (with memes, of course).",
+      "language": "Python",
+      "stars": 726,
+      "summaryZh": "一个用表情包帮你表达情绪的小工具，主打在会议等场景中通过梗图传递态度。核心是轻量、幽默的即时表达方式，适合想在远程会议中活跃气氛、用表情包沟通的团队用户。",
+      "category": "其他",
+      "createdAt": "2026-09-08T05:02:01Z"
+    },
+    {
+      "repo": "Jarvis322/macos-sysdata",
+      "url": "https://github.com/Jarvis322/macos-sysdata",
+      "description": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
+      "language": "Swift",
+      "stars": 650,
+      "summaryZh": "一个 macOS 菜单栏小工具，用来查看系统数据里到底存了什么，并逐项删除不需要的内容。核心亮点是菜单栏常驻、按条清理，搭配 SwiftUI 轻量界面。适合被“系统数据”占满磁盘、想精准释放空间的 Mac 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-05T23:29:13Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "nostacks/ekphos",
+      "url": "https://github.com/nostacks/ekphos",
+      "description": "A lightweight, fast, terminal-based markdown research tool inspired by Obsidian",
+      "language": "Rust",
+      "stars": 976,
+      "summaryZh": "受 Obsidian 启发的终端 Markdown 研究工具，用 Rust 编写，启动快、体积小。支持在 TUI 中快速浏览和组织笔记，适合习惯键盘操作、想用终端管理知识库的研究者和开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "把 Obsidian 那种双链笔记体验搬进终端，Rust 写的 TUI，启动快、占用低。和同类 TUI 笔记比它更强调研究场景的双向链接和检索。适合长期泡在终端、又想要轻量知识库的人。"
+    },
+    {
+      "repo": "unhappychoice/gittype",
+      "url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "language": "Rust",
+      "stars": 1598,
+      "summaryZh": "一个把源码变成打字练习的 CLI 游戏，用 tree-sitter 解析真实代码生成挑战。基于 Ratatui 在终端运行，兼顾练手速和熟悉语法。适合想提升编码速度、又觉得普通打字测试无聊的程序员。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "用 tree-sitter 解析你项目里的真实源码，变成打字练习素材。比打随机英文有意思得多，练打字的同时熟悉代码风格。Rust 写的 CLI 游戏，终端里随时开一局。"
+    },
+    {
+      "repo": "ifer47/markeron",
+      "url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
+      "language": "TypeScript",
+      "stars": 1031,
+      "summaryZh": "轻量约 1.5MB 的开源屏幕标注工具，支持点击穿透模式与键盘优先快捷键。基于 Tauri、Vue 和 Rust 构建，跨 Windows 与 macOS。适合演示、教学、会议和录屏时快速圈画重点。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "只有约 1.5MB 的屏幕标注工具，支持标注穿透，讲演示、录屏、开会画重点很顺手。比动辄几百 MB 的截图软件轻太多，Windows/macOS 都能装，键盘党友好。"
+    },
+    {
+      "repo": "paradise-runner/toast",
+      "url": "https://github.com/paradise-runner/toast",
+      "description": "a batteries-included, beautiful, in-terminal IDE",
+      "language": "Go",
+      "stars": 192,
+      "summaryZh": "一个开箱即用、界面美观的终端 IDE，用 Go 编写。把编辑器、文件管理等常用能力整合进 TUI，减少配置负担。适合喜欢终端工作流、又想要接近 GUI 体验的开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 73 分 · 86 评论",
+      "reasonZh": "一个开箱即用、颜值在线的终端 IDE，内置编辑、文件树和命令面板。跟 Neovim 生态比它不用折腾配置，适合想体验 TUI 开发流但又不想学 Lua 的人。"
+    },
+    {
+      "repo": "godot-pty/gpty",
+      "url": "https://github.com/godot-pty/gpty",
+      "description": "Godot-based Rust multi-PTY emulator desktop application",
+      "language": "GDScript",
+      "stars": 46,
+      "summaryZh": "基于 Godot 与 Rust 的多 PTY 终端模拟器桌面应用，可同时管理多个终端会话。面向 AI Agent 与终端复用场景，将 PTY 能力与图形界面结合。适合需要多终端协作、尝试新交互方式的开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 85 分 · 42 评论",
+      "reasonZh": "用 Godot 做前端、Rust 做后端的多路 PTY 终端模拟器，能同时开多个终端面板。把游戏引擎的多媒体能力带进终端工具挺新鲜，适合爱折腾布局和多窗口的开发者。"
+    },
+    {
+      "repo": "BarutSRB/OmniWM",
+      "url": "https://github.com/BarutSRB/OmniWM",
+      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
+      "language": "Swift",
+      "stars": 2847,
+      "summaryZh": "面向 Apple Silicon Mac 的免费开源平铺窗口管理器，融合 Niri 式滚动容器与 Hyprland 式 Dwindle BSP 布局。用 Swift 实现，强调键盘驱动的工作区管理。适合追求高效窗口排布、从 Linux 平铺环境迁移过来的 Mac 用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "为 Apple Silicon Mac 做的免费平铺窗口管理器，揉进了 Niri 的滚动容器和 Hyprland 的 dwindle 布局。比收费的Rectangle类工具更硬核，适合想要键盘驱动窗口管理的 Mac 用户。"
+    },
+    {
+      "repo": "amicalhq/amical",
+      "url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "language": "TypeScript",
+      "stars": 1528,
+      "summaryZh": "本地优先的开源 AI 听写应用，基于开源模型离线运行语音转文字。说三倍速、不用键盘，支持会议记录和 MCP 集成。适合注重隐私、想用语音快速输入和整理笔记的用户。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "本地优先的 AI 听写应用，用开源模型离线跑，说话即输入。和云端听写比隐私好、不联网也能用，适合经常写文档或做会议记录、又在意数据不出本机的人。"
+    },
+    {
+      "repo": "FuJacob/cotabby",
+      "url": "https://github.com/FuJacob/cotabby",
+      "description": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.",
+      "language": "Swift",
+      "stars": 1013,
+      "summaryZh": "本地 AI 自动补全工具，覆盖整个 Mac 的输入场景，基于 llama.cpp 在设备端运行。开源、无需联网，常驻菜单栏随处生效。适合希望在所有应用中加速写作、又在意数据隐私的 Mac 用户。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "Mac 上的本地 AI 自动补全，所有应用里打字都能用，模型跑在设备上。跟端到端的云端补全插件不同，它系统级生效且不传数据，适合写邮件、记笔记时想少打字的人。"
+    },
+    {
+      "repo": "wm94i/Work-Review",
+      "url": "https://github.com/wm94i/Work-Review",
+      "description": " Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.",
+      "language": "Rust",
+      "stars": 1773,
+      "summaryZh": "自动记录你一天中用了哪些应用、访问了哪些网站以及各自耗时，并生成仪表盘与日报。用 Rust 实现，强调隐私与本地数据。适合想复盘时间去向、提升效率的自我管理型用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "自动记录你一天用了哪些应用、上了哪些网站、各花了多久，生成工作回顾面板。Rust 写的数据留在本地，适合想复盘时间去向、又不信任云端统计工具的人。"
+    },
+    {
+      "repo": "kunkka19xx/look",
+      "url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "language": "Rust",
+      "stars": 953,
+      "summaryZh": "开源、跨平台的启动器，作为 Spotlight 和 Raycast 的轻量替代品，由越南团队打造。基于 Rust 与 Tauri，支持 macOS、Linux 和 Windows。适合想快速启动应用、又偏爱开源方案的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "跨平台的轻量启动器，定位是 Spotlight 和 Raycast 的开源替代。Rust+Tauri 写的小快灵，Windows/Linux/macOS 都能用，适合想要快速启动应用又不想被闭源工具绑住的用户。"
+    }
+  ]
+}
