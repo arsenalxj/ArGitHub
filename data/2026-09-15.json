@@ -1,0 +1,459 @@
+{
+  "date": "2026-09-15",
+  "trending": [
+    {
+      "repo": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 32403,
+      "summaryZh": "用纯C编写、零依赖的推理引擎，让普通硬件也能跑前沿MoE大模型，专家权重直接从磁盘流式加载，无需大显存。适合想在本地低配设备上运行大模型的开发者和研究者，省去复杂环境配置。",
+      "category": "AI",
+      "starsToday": 2173
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 26238,
+      "summaryZh": "阿里大规模实战的代码审查工具，采用确定性流水线加LLM Agent的混合架构，能给出精确到行的评论，内置NPE、线程等问题的多语言规则集。适合需要高效自动化Code Review的团队和工程效能平台。",
+      "category": "开发工具",
+      "starsToday": 1571
+    },
+    {
+      "repo": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars": 8559,
+      "summaryZh": "前沿音乐生成模型，支持符号化规划、零样本翻唱和Agent式音乐编辑，能生成结构完整、风格可控的乐曲。适合音乐创作者、AI研究者探索AI作曲与音频编辑场景。",
+      "category": "AI",
+      "starsToday": 559
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 29631,
+      "summaryZh": "完全本地运行的开源ElevenLabs替代品，支持声音克隆、音色设计、视频配音、听写、转录和有声书制作，覆盖646种语言。适合注重隐私、需要离线语音合成与处理的创作者和开发者。",
+      "category": "AI",
+      "starsToday": 2776
+    },
+    {
+      "repo": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": 73361,
+      "summaryZh": "简洁通用的群体智能引擎，通过多智能体协作对各类事件进行预测，号称可预测万物。适合对群体智能、预测建模感兴趣的研究者和开发者做实验与二次开发。",
+      "category": "AI",
+      "starsToday": 560
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 81536,
+      "summaryZh": "给AI Agent装上看见整个互联网的眼睛，通过一个CLI就能读取和搜索Twitter、Reddit、YouTube、GitHub、B站、小红书，全程零API费用。适合想让Agent接入多平台实时信息的开发者。",
+      "category": "AI",
+      "starsToday": 651
+    },
+    {
+      "repo": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "language": "JavaScript",
+      "stars": 66931,
+      "summaryZh": "收集并公开了Anthropic、OpenAI、Google、xAI等多家公司的系统提示词泄露内容，包括Claude、ChatGPT、Gemini、Grok等模型。适合想研究大模型系统提示设计、做提示工程参考的开发者。",
+      "category": "资料教程",
+      "starsToday": 764
+    },
+    {
+      "repo": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "language": "Python",
+      "stars": 2179,
+      "summaryZh": "Hermes Agent的一体化插件，集成编码智能、长期记忆系统和模型优化工作流包，提升Agent的连续任务处理能力。适合使用Hermes Agent进行复杂开发任务的工程师。",
+      "category": "开发工具",
+      "starsToday": 77
+    },
+    {
+      "repo": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "language": "Dart",
+      "stars": 91438,
+      "summaryZh": "开源跨平台文件传输工具，被视为AirDrop的替代方案，支持在局域网内多设备间快速互传文件。适合需要在Windows、macOS、Linux、手机之间安全传文件的用户。",
+      "category": "开发工具",
+      "starsToday": 251
+    },
+    {
+      "repo": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": 67588,
+      "summaryZh": "用Rust编写的非官方Bitwarden兼容服务器，原名bitwarden_rs，可自建密码管理服务，兼容官方客户端。适合注重数据隐私、想自己托管密码库的个人和团队。",
+      "category": "开发工具",
+      "starsToday": 115
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 93955,
+      "summaryZh": "将普通WiFi信号转化为实时空间智能，实现生命体征监测和存在检测，完全不依赖摄像头画面。适合智能家居、健康监测和无摄像头隐私场景的开发者与产品团队。",
+      "category": "AI",
+      "starsToday": 383
+    },
+    {
+      "repo": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars": 6151,
+      "summaryZh": "面向专业AI编码代理的安全、经过验证的技能注册中心，可为Antigravity、Claude Code、Cursor、Copilot等扩展能力。适合想安全增强编码Agent技能的开发者。",
+      "category": "开发工具",
+      "starsToday": 512
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 37454,
+      "summaryZh": "无分词器的TTS模型，支持多语言语音生成、创意音色设计和高度逼真的声音克隆，输出自然流畅。适合需要高质量多语言语音合成的开发者与内容创作者。",
+      "category": "AI",
+      "starsToday": 216
+    },
+    {
+      "repo": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "stars": 6109,
+      "summaryZh": "开源商业管理平台，集ERP、CRM、HRM、ATS和项目管理于一体，覆盖企业日常运营核心流程。适合中小企业或团队搭建一体化管理系统，也适合二次开发定制。",
+      "category": "开发工具",
+      "starsToday": 1130
+    },
+    {
+      "repo": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "language": "TypeScript",
+      "stars": 36997,
+      "summaryZh": "离线优先的知识与教育服务器，内置维基百科、数千本书籍、课程、地图和可选本地AI，全部运行在自己拥有的硬件上，无需联网。适合偏远地区、应急场景或注重离线知识库的用户。",
+      "category": "资料教程",
+      "starsToday": 40
+    },
+    {
+      "repo": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "stars": 8430,
+      "summaryZh": "这是一个面向网络安全分析师和调查人员的现代化图调查平台。核心亮点在于支持可视化、灵活且可扩展的图谱式调查，帮助用户梳理复杂关系与线索。适合安全事件响应、威胁情报分析和数字取证等场景使用。",
+      "category": "开发工具",
+      "starsToday": 280
+    },
+    {
+      "repo": "peetzweg/opendisplay",
+      "url": "https://github.com/peetzweg/opendisplay",
+      "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+      "language": "Swift",
+      "stars": 3678,
+      "summaryZh": "这是一个免费开源的 Sidecar/Duet 替代方案，可将 iPhone 或 iPad 通过 USB 或 WiFi 作为 Mac 的第二显示器。核心亮点是低延迟 H.264 编码、Retina HiDPI 显示和触控输入支持。适合需要便携扩展屏幕的 Mac 用户。",
+      "category": "开发工具",
+      "starsToday": 229
+    },
+    {
+      "repo": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars": 4888,
+      "summaryZh": "这是一个专为 Claude 技能系统设计的精选攻防安全技能库。核心亮点是以结构化 SKILL.md 文件为 Claude 注入专家级方法论，提升安全测试能力。适合安全研究人员和红队人员借助 AI 开展渗透测试工作。",
+      "category": "AI",
+      "starsToday": 579
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "openai/NavierStokesAndEuler",
+      "url": "https://github.com/openai/NavierStokesAndEuler",
+      "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "language": "Lean",
+      "stars": 1896,
+      "summaryZh": "这是 OpenAI 发布的伴随 Navier-Stokes 和 Euler 方程研究成果的 Lean 形式化证明证书。核心亮点是使用 Lean 定理证明器提供机器可验证的数学证明。适合数学研究者、形式化验证爱好者以及对流体方程严格证明感兴趣的人。",
+      "category": "资料教程",
+      "createdAt": "2026-09-08T10:53:38Z"
+    },
+    {
+      "repo": "Edge0-AI/Edge0",
+      "url": "https://github.com/Edge0-AI/Edge0",
+      "description": "",
+      "language": "Python",
+      "stars": 1714,
+      "summaryZh": "这是一个 Python 编写的 AI 项目，目前仓库暂无详细描述。从命名和语言推测，可能与边缘侧 AI 推理或轻量化模型部署相关。适合关注边缘计算与 AI 结合方向的开发者进一步探索和评估。",
+      "category": "AI",
+      "createdAt": "2026-09-08T13:41:47Z"
+    },
+    {
+      "repo": "Vincentwei1021/anything2explainer",
+      "url": "https://github.com/Vincentwei1021/anything2explainer",
+      "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+      "language": "TypeScript",
+      "stars": 1343,
+      "summaryZh": "这是一个 Claude Code/Codex 技能，输入任意主题即可输出带旁白的黑底动态图形解说视频。核心亮点是集成 TTS 配音、字幕和章节进度条，基于 Remotion 与多智能体实现。适合需要快速制作教育科普视频的内容创作者。",
+      "category": "AI",
+      "createdAt": "2026-09-08T17:19:54Z"
+    },
+    {
+      "repo": "sumimakito/Mac-Duo",
+      "url": "https://github.com/sumimakito/Mac-Duo",
+      "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
+      "language": "Swift",
+      "stars": 875,
+      "summaryZh": "这是一个将 iPhone Duo 翻转效果带到 MacBook 上的 macOS 菜单栏小工具。核心亮点是还原 iPhone 上趣味十足的屏幕翻转动画体验。适合喜欢个性化桌面效果、怀念 iPhone Duo 功能的 Mac 用户娱乐使用。",
+      "category": "其他",
+      "createdAt": "2026-09-10T18:55:39Z"
+    },
+    {
+      "repo": "Chuloo/mural",
+      "url": "https://github.com/Chuloo/mural",
+      "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "language": "Kotlin",
+      "stars": 858,
+      "summaryZh": "这是一款通过对话学习语言的原生 iPhone 应用，作者自嘲为“你最终会删掉的语言应用”。核心亮点是基于 SwiftUI 的开放式开源方案，主打会话式学习。适合想尝试开源语言学习工具或研究 iOS 学习类应用的开发者。",
+      "category": "其他",
+      "createdAt": "2026-09-12T11:51:08Z"
+    },
+    {
+      "repo": "gazijarin/itsgiving",
+      "url": "https://github.com/gazijarin/itsgiving",
+      "description": "Express yourself in meetings (with memes, of course).",
+      "language": "Python",
+      "stars": 847,
+      "summaryZh": "这是一个用表情包帮你在会议中表达自我的 Python 小工具。核心亮点是让沉闷的线上会议加入幽默和视觉化情绪表达。适合远程办公团队或想给日常会议增添轻松气氛的用户使用。",
+      "category": "其他",
+      "createdAt": "2026-09-08T05:02:01Z"
+    },
+    {
+      "repo": "kruzovic7/ai-data-extractor",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "language": "Python",
+      "stars": 813,
+      "summaryZh": "这是一个免费开源的 AI 编程助手聊天记录提取工具。核心亮点是支持 Claude Code、Cursor、Windsurf、Aider、Cline/Roo Code 等多种工具的历史数据导出。适合需要备份、分析或迁移 AI 对话记录的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-11T18:12:58Z"
+    },
+    {
+      "repo": "yifanzhang-pro/recurrent-looped-tranformer",
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
+      "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "language": "HTML",
+      "stars": 762,
+      "summaryZh": "这是 Recurrent Looped Transformer（RLT）的官方项目主页。核心亮点是展示循环式 Transformer 架构的研究成果与信息。适合关注 Transformer 变体、循环网络与高效推理的研究人员和 AI 学习者浏览参考。",
+      "category": "资料教程",
+      "createdAt": "2026-09-12T19:02:46Z"
+    },
+    {
+      "repo": "SpaceDudem/text-humanizer",
+      "url": "https://github.com/SpaceDudem/text-humanizer",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "language": "Python",
+      "stars": 749,
+      "summaryZh": "这是一个将 AI 生成文本改写为“更自然”版本的开源工具。核心亮点是能够绕过 Turnitin、GPTZero 等主流 AI 检测器。适合需要让 AI 辅助生成内容更贴近人类写作风格的用户，但需注意学术诚信风险。",
+      "category": "AI",
+      "createdAt": "2026-09-08T15:28:28Z"
+    },
+    {
+      "repo": "Colafornia/short-video-generator-AI",
+      "url": "https://github.com/Colafornia/short-video-generator-AI",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "language": "Python",
+      "stars": 738,
+      "summaryZh": "这是一个免费开源工具，可将 YouTube 视频自动转为爆款短视频。核心亮点是集高光片段检测、字幕生成、翻译和配音于一体。适合内容创作者和短视频运营者批量制作本地化二次创作视频。",
+      "category": "AI",
+      "createdAt": "2026-09-08T14:55:47Z"
+    },
+    {
+      "repo": "angusdevgo/IDM_Pro_Tool",
+      "url": "https://github.com/angusdevgo/IDM_Pro_Tool",
+      "description": "IDM激活与状态维护工具",
+      "language": "C#",
+      "stars": 698,
+      "summaryZh": "这是一个用 C# 编写的 IDM 激活与状态维护工具。核心亮点是帮助用户管理 Internet Download Manager 的授权状态。适合需要维护 IDM 使用状态、但不便通过官方渠道续费的用户，请留意版权风险。",
+      "category": "开发工具",
+      "createdAt": "2026-09-10T09:39:06Z"
+    },
+    {
+      "repo": "eternityspring/reelbench-skills",
+      "url": "https://github.com/eternityspring/reelbench-skills",
+      "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+      "language": "HTML",
+      "stars": 680,
+      "summaryZh": "这是一个围绕 AI 视频的学习笔记与工具技能集合。核心亮点是提供 ffmpeg、镜头分析和视频分析相关的 Claude 技能。适合想系统学习 AI 视频处理流程、并借助 Claude 提升分析效率的创作者和研究者。",
+      "category": "资料教程",
+      "createdAt": "2026-09-11T04:55:49Z"
+    },
+    {
+      "repo": "ArasTey/lunel",
+      "url": "https://github.com/ArasTey/lunel",
+      "description": "",
+      "language": "Python",
+      "stars": 664,
+      "summaryZh": "Lunel 是一个用 Python 编写的工具项目，从其仓库描述和语言来看，可能是一个用于处理某种特定任务的脚本或库。核心功能或技术亮点尚不明确，但基于 Python 语言，可能涉及自动化、数据分析或网络相关任务。适合 Python 开发者或需要完成特定自动化任务的用户使用。",
+      "category": "其他",
+      "createdAt": "2026-09-09T06:58:25Z"
+    },
+    {
+      "repo": "nftechie/stonkfly",
+      "url": "https://github.com/nftechie/stonkfly",
+      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "language": "Python",
+      "stars": 659,
+      "summaryZh": "这是一个完整的果蝇连接组模拟项目，包含实验性记忆功能，并集成了受保护的 Coinbase AgentKit 交易操作。核心亮点在于将生物模拟与加密货币交易结合，技术栈为 Python。适合对神经科学模拟、AI 代理以及自动化交易感兴趣的研究人员或开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-10T02:40:30Z"
+    },
+    {
+      "repo": "rizqinrr/viserys-agent",
+      "url": "https://github.com/rizqinrr/viserys-agent",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 650,
+      "summaryZh": "Viserys-agent 是一个基于 JavaScript 的代理项目，可能用于构建智能代理或自动化任务。由于描述缺失，具体功能不详，但 JavaScript 语言表明它可能适用于 Node.js 环境或前端集成。适合需要轻量级代理解决方案的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-12T16:51:29Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "vinzdg/codenotch",
+      "url": "https://github.com/vinzdg/codenotch",
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "language": "Swift",
+      "stars": 1594,
+      "summaryZh": "这是一个 macOS 应用，可将 Claude Code、Cursor、Codex 和 Antigravity 的使用限制固定在屏幕边缘，方便用户实时监控。核心功能是提供便捷的用量追踪，技术栈为 Swift。适合使用这些 AI 编程工具的 macOS 用户，尤其是需要管理配额的重度开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +636（+66%）",
+      "reasonZh": "把 Claude Code、Cursor、Codex 这些 AI 编码工具的用量额度直接钉在 Mac 屏幕边缘，随时瞄一眼就知道还剩多少。相比去各平台翻设置页，这种常驻小挂件对重度依赖 AI 编程的人特别省心，适合每天靠 token 额度干活、怕超额被卡的开发者。"
+    },
+    {
+      "repo": "ashemag/human-atlas",
+      "url": "https://github.com/ashemag/human-atlas",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "language": "TypeScript",
+      "stars": 3451,
+      "summaryZh": "Human Atlas 是一个开源的 3D 解剖学探索器，包含 2,234 个可选的 BodyParts3D 网格、系统图层、搜索和爆炸视图。核心亮点是交互式 3D 可视化，基于 TypeScript 开发。适合医学教育、解剖学学习或任何需要探索人体结构的用户。",
+      "category": "资料教程",
+      "source": "dark-horse",
+      "signal": "周涨星 +1353（+64%）",
+      "reasonZh": "开源的 3D 人体解剖浏览器，塞进了 2234 个可选中的人体部件网格，能按系统分层、搜索、做爆炸视图。同类多是收费或简陋示意图，它直接给你一个能转能拆的完整模型，适合医学生、教师或健身爱好者随手查结构。"
+    },
+    {
+      "repo": "Shrey113/Android-Dex",
+      "url": "https://github.com/Shrey113/Android-Dex",
+      "description": "Universal Samsung DeX alternative for all Android devices. Run Android apps on Windows, Linux & macOS with resizable windows, advanced FPS gaming controls, and high-performance wireless ADB mirroring.",
+      "language": "HTML",
+      "stars": 2506,
+      "summaryZh": "这是一个通用的三星 DeX 替代方案，可在 Windows、Linux 和 macOS 上运行 Android 应用，支持可调整窗口、高级 FPS 游戏控制和高性能无线 ADB 镜像。核心功能是跨平台桌面化，技术栈为 HTML/Flutter。适合需要在电脑上使用 Android 应用或游戏的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "把任意安卓手机变成三星 DeX 那样的桌面模式，在 Windows、Linux、macOS 上开可调窗口跑安卓 App，还带 FPS 游戏键位映射和高性能无线投屏。非三星用户想要桌面级体验基本没别的选择，适合手游玩家和想在大屏上多任务的人。"
+    },
+    {
+      "repo": "dominostars/playtranslate",
+      "url": "https://github.com/dominostars/playtranslate",
+      "description": "Real-time screen translation app for Android for both language learners and casual gamers",
+      "language": "Kotlin",
+      "stars": 1155,
+      "summaryZh": "PlayTranslate 是一个 Android 实时屏幕翻译应用，面向语言学习者和休闲游戏玩家。核心功能是实时翻译屏幕内容，支持游戏、漫画、视觉小说等场景，技术栈为 Kotlin。适合在玩外语游戏或阅读外文材料时需要即时翻译的用户。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "安卓上的实时屏幕翻译，专门针对语言学习者和玩日文游戏的人。亮点是直接翻译屏幕上显示的文字，视觉小说、漫画、模拟器游戏都能用，比切换查词 App 顺手得多，适合啃生肉 Galgame 和日文游戏的玩家。"
+    },
+    {
+      "repo": "GSManagerXZ/GameServerManager",
+      "url": "https://github.com/GSManagerXZ/GameServerManager",
+      "description": "GameServerManager（简称GSManager）现代化游戏一键部署面板，专为简化游戏服务器的部署、管理和维护而设计；注重steam、MC游戏一键开服",
+      "language": "TypeScript",
+      "stars": 1048,
+      "summaryZh": "GameServerManager 是一个现代化游戏一键部署面板，专为简化游戏服务器的部署、管理和维护而设计，尤其注重 Steam 和 MC 游戏的一键开服。核心亮点是自动化部署，基于 TypeScript 和 Docker。适合游戏服务器管理员或希望快速搭建游戏服务器的玩家。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "现代化游戏服务器一键部署面板，主打 Steam 和 Minecraft 开服，点点鼠标就能起服、看状态、管进程。比起手敲命令行或零散脚本，它给了一个统一的 Web 面板，适合想和好友联机又不想折腾运维的普通玩家。"
+    },
+    {
+      "repo": "Doezer/Questarr",
+      "url": "https://github.com/Doezer/Questarr",
+      "description": "Questarr is an *Arr-inspired game manager that helps you discover, track, and automatically download the games you want.",
+      "language": "TypeScript",
+      "stars": 625,
+      "summaryZh": "Questarr 是一个受 *Arr 启发的游戏管理器，帮助用户发现、追踪并自动下载想要的游戏。核心功能包括游戏库管理和自动下载，技术栈为 TypeScript。适合喜欢收藏游戏、希望自动化管理游戏下载的玩家。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "把 *arr 那套自动追剧思路搬到了游戏上，能发现、追踪并自动下载你想玩的游戏。对习惯 Sonarr/Radarr 的人上手零门槛，填补了游戏自动化管理的空白，适合自托管玩家搭建自己的游戏库管理流水线。"
+    },
+    {
+      "repo": "Saramanda9988/LunaBox",
+      "url": "https://github.com/Saramanda9988/LunaBox",
+      "description": "Lightweight, sleek, and feature-rich visual novel management and game statistics tool",
+      "language": "Go",
+      "stars": 355,
+      "summaryZh": "LunaBox 是一个轻量、时尚且功能丰富的视觉小说管理和游戏统计工具。核心功能包括视觉小说库管理和游戏时间统计，技术栈为 Go 和 React。适合视觉小说爱好者和 Galgame 玩家，用于整理和追踪游戏进度。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "轻量的视觉小说管理和游戏统计工具，基于 Wails 打包，界面清爽还能记录游玩时长和进度。同类工具往往又重又老，它胜在现代化和集成度，适合 Galgame 收藏党集中管理自己那一堆游戏和白嫖进来的资源。"
+    },
+    {
+      "repo": "CharTyr/STS2-Agent",
+      "url": "https://github.com/CharTyr/STS2-Agent",
+      "description": "杀戮尖塔2的MOD，将杀戮尖塔2的游戏状态与操作暴露为本地 HTTP API 包装成 MCP Server，供支持 MCP 的AI客户端直接调用",
+      "language": "C#",
+      "stars": 313,
+      "summaryZh": "这是一个《杀戮尖塔2》的 MOD，将游戏状态和操作暴露为本地 HTTP API，并包装成 MCP Server，供支持 MCP 的 AI 客户端直接调用。核心亮点是 AI 与游戏交互，技术栈为 C#。适合 AI 研究人员或玩家用于开发游戏 AI 代理。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "把《杀戮尖塔 2》的游戏状态和操作包成本地 HTTP API 和 MCP Server，任何支持 MCP 的 AI 客户端都能直接调用。这个思路很新鲜，等于给 AI 开了个游戏手柄，适合想拿爬塔当 AI Agent 试验场的技术玩家。"
+    },
+    {
+      "repo": "rangermix/TwitchDropsMiner",
+      "url": "https://github.com/rangermix/TwitchDropsMiner",
+      "description": "An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching. Web GUI, dockerised.",
+      "language": "Python",
+      "stars": 261,
+      "summaryZh": "TwitchDropsMiner 是一个允许用户挂机自动挖掘 Twitch 定时掉落的工具，支持自动领取掉落和切换频道，提供 Web GUI 和 Docker 部署。核心功能是自动化挂机，技术栈为 Python。适合想轻松获取 Twitch 掉落奖励的观众。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "挂机自动挖 Twitch 掉宝，自动领奖、自动切换频道，还带 Web GUI 和 Docker 部署。比起装浏览器插件，它更省心又能自托管，适合经常为了掉宝挂在直播间、想扔到 NAS 上跑的人。"
+    },
+    {
+      "repo": "Kevin-Liu-01/Claude-of-Tanks",
+      "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks",
+      "description": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 121 tanks and 20 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
+      "language": "TypeScript",
+      "stars": 417,
+      "summaryZh": "Claude-of-Tanks 是一个类似《坦克世界》的浏览器坦克战斗模拟器，基于 Vite 和纯 Three.js 开发，无需游戏引擎。核心亮点包括板级装甲、弹道、模块、侦察和物理模拟，拥有 121 辆坦克和 20 张可破坏战场。适合喜欢坦克对战或 3D 网页游戏的玩家。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "纯 Three.js 写的坦克对战模拟器，还原了板级装甲、弹道、模块、视野和物理，121 辆坦克加 20 张可破坏地图，不用引擎直接在浏览器跑。对想研究浏览器 3D 或坦克游戏机制的人很有意思，打开网页就能玩。"
+    }
+  ]
+}
