@@ -1,0 +1,449 @@
+{
+  "date": "2026-09-19",
+  "trending": [
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 14081,
+      "summaryZh": "这是一个为编码智能体设计的多阶段安全审计技能，可自动完成从侦察到验证的完整审计流程，并输出机器可读、可独立核验的发现结果。核心亮点在于分阶段审计与结果可复现，避免误报。适合安全团队或将安全审计集成进 CI/Agent 工作流的开发者使用。",
+      "category": "开发工具",
+      "starsToday": 3006
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 146376,
+      "summaryZh": "Claude Code 是运行在终端中的智能体编码工具，能理解整个代码库，通过执行常规任务、解释复杂代码和处理 Git 工作流来加速开发。它以自然语言驱动，无需离开命令行即可完成重构、调试等操作。适合习惯终端工作、希望借助 AI 提升日常编码效率的开发者。",
+      "category": "开发工具",
+      "starsToday": 444
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 36833,
+      "summaryZh": "这是阿里巴巴大规模实战检验的混合架构代码审查工具，结合确定性流水线与大模型 Agent，提供精确到行级的审查评论。内置多语言规则集，可检测空指针等问题。适合需要在高并发、多语言代码库中做安全高效审查的团队和工程组织。",
+      "category": "开发工具",
+      "starsToday": 2704
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 262175,
+      "summaryZh": "ECC 是面向 AI 编码智能体的性能优化系统，为 Claude Code、Codex、Cursor 等提供技能、直觉、记忆、安全与研究优先开发能力。它通过统一 harness 提升智能体在各平台上的表现和上下文保持。适合同时使用多款 AI 编程工具、追求极致效率的高级开发者。",
+      "category": "AI",
+      "starsToday": 958
+    },
+    {
+      "repo": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "TypeScript",
+      "stars": 5411,
+      "summaryZh": "腾讯开源的浏览器技能让 AI 智能体直接使用你已登录的真实浏览器，且不打断你当前的工作。提供 CLI 与扩展，兼容任何能执行 shell 的 AI 智能体。适合需要自动化网页操作、处理登录态任务的个人或团队，如数据采集、流程自动化场景。",
+      "category": "开发工具",
+      "starsToday": 1306
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 96492,
+      "summaryZh": "这是为 AI 编码智能体准备的生产级工程技能集合，把软件工程最佳实践封装成可复用的技能模块。内容覆盖代码质量、测试、架构等多方面，帮助智能体在真实项目中更可靠地工作。适合想让 AI 助手按专业工程标准协作的开发者和团队。",
+      "category": "AI",
+      "starsToday": 675
+    },
+    {
+      "repo": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "stars": 4017,
+      "summaryZh": "Octop 是腾讯云开源的自托管 AI 助手，支持多用户与多智能体协作。它可私有化部署，让团队在内网环境中安全使用 AI 能力，并灵活编排多个 Agent 完成复杂任务。适合对数据隐私敏感、需要自建 AI 助手平台的企业和团队。",
+      "category": "AI",
+      "starsToday": 569
+    },
+    {
+      "repo": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "stars": 69421,
+      "summaryZh": "OpenSpec 为 AI 编码助手引入规格驱动开发（SDD）方法，先写清规格再让智能体生成代码。它把需求、设计与实现对齐，减少 AI 生成代码的偏差和返工。适合重视工程规范、希望用 AI 做可维护开发的团队和独立开发者。",
+      "category": "开发工具",
+      "starsToday": 296
+    },
+    {
+      "repo": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": 31239,
+      "summaryZh": "Anki 是一款智能间隔重复记忆卡片程序，通过算法安排复习时间，帮助长期高效记忆。支持多媒体卡片、插件扩展和跨设备同步，生态成熟。适合学生、语言学习者和任何需要记忆大量知识的人，如备考、背单词等场景。",
+      "category": "其他",
+      "starsToday": 174
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 24922,
+      "summaryZh": "这是 Anthropic 开源的知识工作者插件库，主要供用户在 Claude Cowork 中使用，扩展文档处理、信息整理等办公能力。插件以 Python 编写，可即插即用，降低 AI 辅助知识工作的门槛。适合日常处理大量文档、资料的研究人员和办公人群。",
+      "category": "AI",
+      "starsToday": 299
+    },
+    {
+      "repo": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": 30360,
+      "summaryZh": "Supermemory 是面向 AI 时代的记忆与上下文引擎，速度极快、可扩展，并支持完全本地运行。它提供 Memory API，让应用持久记住用户信息和对话上下文。适合构建 AI 应用、需要长期记忆能力的开发者和产品团队。",
+      "category": "AI",
+      "starsToday": 140
+    },
+    {
+      "repo": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "stars": 6503,
+      "summaryZh": "该项目通过 MCP 把 Claude Code 连接到 TradingView 桌面端，实现 AI 辅助的图表分析。用户可用自然语言驱动个人交易工作流，自动完成标注与观察。适合熟悉 TradingView、希望用 AI 提升技术分析效率的交易者和量化爱好者。",
+      "category": "其他",
+      "starsToday": 79
+    },
+    {
+      "repo": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "stars": 33216,
+      "summaryZh": "RustFS 是用 Rust 编写的高性能开源对象存储系统，兼容 S3 协议，支持与 MinIO、Ceph 等平台迁移和共存。它主打性能与内存安全，适合替代传统对象存储。适合需要自建 S3 兼容存储、关注性能和稳定性的运维与后端团队。",
+      "category": "开发工具",
+      "starsToday": 267
+    },
+    {
+      "repo": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": 110189,
+      "summaryZh": "Supabase 是基于 Postgres 的开发平台，为你提供专用 Postgres 数据库，用于构建 Web、移动和 AI 应用。它集成了认证、实时、存储和自动生成 API 等能力。适合想快速搭建后端、又不想放弃 SQL 能力的全栈与前端开发者。",
+      "category": "开发工具",
+      "starsToday": 120
+    },
+    {
+      "repo": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 15344,
+      "summaryZh": "Coder 为开发者和他们的 AI 智能体提供安全隔离的开发环境，基于 Terraform 在云或本地按需创建。环境可统一定义、快速分发，隔离风险并提升协作一致性。适合需要远程开发、多环境管理或让智能体安全运行代码的工程团队。",
+      "category": "开发工具",
+      "starsToday": 478
+    },
+    {
+      "repo": "ahmedkhaleel2004/gitdiagram",
+      "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+      "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+      "language": "TypeScript",
+      "stars": 16505,
+      "summaryZh": "一个为任意 GitHub 仓库快速生成交互式架构图的工具。输入仓库地址即可可视化文件依赖与模块关系，支持缩放、搜索和点击跳转，无需登录。适合接手陌生代码库、做技术分享或快速理解项目结构的开发者。",
+      "category": "开发工具",
+      "starsToday": 152
+    },
+    {
+      "repo": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "stars": 4999,
+      "summaryZh": "用 Go 编写的自托管搜索引擎，让你搭建完全属于自己的搜索服务。核心提供爬取、索引与查询一体化能力，数据留在本地，可定制排序与过滤。适合注重隐私、想脱离商业搜索或需要内网检索的开发者与极客。",
+      "category": "开发工具",
+      "starsToday": 889
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "description": "i. am. speed.",
+      "language": "Python",
+      "stars": 5900,
+      "summaryZh": "一个主打极致速度的 Python 项目，面向浏览器自动化或 AI 代理执行场景。通过精简流程与高效调度降低单步延迟，强调“快”为核心体验。适合对响应速度敏感、需要高频执行任务的 AI 代理与自动化开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-16T21:30:12Z"
+    },
+    {
+      "repo": "tamaratran/fast-jev-compaction",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "language": "TypeScript",
+      "stars": 3463,
+      "summaryZh": "Claude Code 插件，用 Jev 决策替换默认的压缩摘要机制。每次工具调用与结果都在一次快速请求中打分，过时内容被丢弃或截断，保留部分逐字不丢。适合长会话中需要控制上下文成本、又不想损失关键信息的 Claude Code 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-17T05:57:20Z"
+    },
+    {
+      "repo": "TheoLeeCJ/SemIf",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "language": "Python",
+      "stars": 1644,
+      "summaryZh": "在单张 3090 上本地运行开放模型的语义 if 判断工具。通过语义理解做条件分支，减少对大模型反复调用的依赖，可独立部署于家用环境。适合想在本地低成本实现智能条件路由、且关注隐私的 AI 应用开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-16T03:51:21Z"
+    },
+    {
+      "repo": "Chuloo/mural",
+      "url": "https://github.com/Chuloo/mural",
+      "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "language": "Kotlin",
+      "stars": 1366,
+      "summaryZh": "一款用对话方式学语言的 iPhone 原生应用，基于 SwiftUI 构建。强调真实交流而非刷题，界面简洁，代码开源可自行编译。适合想通过聊天练习外语、又偏好开源与 iOS 原生体验的语言学习者和开发者。",
+      "category": "其他",
+      "createdAt": "2026-09-12T11:51:08Z"
+    },
+    {
+      "repo": "mcncarl/jianying-headless",
+      "url": "https://github.com/mcncarl/jianying-headless",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "language": "Python",
+      "stars": 1150,
+      "summaryZh": "面向剪映草稿的无头自动化工具，支持原生草稿解析、隔离编辑与导出，并附带独立 Agent Skill。可在无人值守环境下批量处理视频工程，适合需要程序化剪辑、批量生成短视频的创作者与自动化开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-15T11:51:15Z"
+    },
+    {
+      "repo": "jarrodwatts/jev-trader",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "language": "TypeScript",
+      "stars": 922,
+      "summaryZh": "在 Monad 链上每个区块做一次 AI 交易决策的实验项目，运行于 Kuru 的 MON-USDC 市场。把 AI 判断与链上高频节奏结合，探索自动交易代理。适合对链上 AI 交易、Monad 生态和高频策略感兴趣的开发者研究。",
+      "category": "AI",
+      "createdAt": "2026-09-16T21:36:20Z"
+    },
+    {
+      "repo": "vinnylarouge/jevlike",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "description": "",
+      "language": "Python",
+      "stars": 905,
+      "summaryZh": "一个用 Python 实现的轻量项目，仓库暂无描述，从命名看与 Jev 风格相关。整体体量小、依赖少，便于快速阅读与二次修改。适合想研究同类实现思路、或以此为基础做原型验证的 Python 开发者参考。",
+      "category": "其他",
+      "createdAt": "2026-09-16T10:26:01Z"
+    },
+    {
+      "repo": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "description": "The Photoshop alternative for Mac",
+      "language": "Swift",
+      "stars": 894,
+      "summaryZh": "面向 Mac 的 Photoshop 替代品，用 Swift 原生开发。提供图层、选区与合成等基础图像编辑能力，追求轻量与系统级性能。适合不想订阅 Adobe、又需要桌面级修图工具的 macOS 用户和 Swift 开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-16T20:35:54Z"
+    },
+    {
+      "repo": "yifanzhang-pro/recurrent-looped-tranformer",
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
+      "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "language": "HTML",
+      "stars": 880,
+      "summaryZh": "Recurrent Looped Transformer（RLT）的官方项目主页，用 HTML 呈现论文与演示信息。介绍循环复用层结构的 Transformer 变体，探索深度与参数效率的平衡。适合关注 Transformer 架构改进、循环网络与高效推理的研究者阅读。",
+      "category": "资料教程",
+      "createdAt": "2026-09-12T19:02:46Z"
+    },
+    {
+      "repo": "agentverse-os/AgentVerse-OS",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "language": "Rust",
+      "stars": 870,
+      "summaryZh": "面向开发者与其 AI 代理的个人云操作系统，基于 Rust，在单台 Ubuntu 服务器上一键安装。提供浏览器内的窗口化桌面、隔离工作区、VS Code 与 Claude 等集成。适合想自建一体化 AI 开发环境、把代理纳入日常工作的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-12T18:20:00Z"
+    },
+    {
+      "repo": "zjwzcx/Awesome-Astra-Embodied-AI",
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
+      "description": "GPT-6 Astra for embodied AI and robotics.",
+      "language": "",
+      "stars": 859,
+      "summaryZh": "围绕 GPT-6 Astra 在具身智能与机器人方向应用的资源合集。汇总相关论文、项目与工具，帮助梳理该模型在机器人感知与控制上的落地路径。适合研究具身 AI、机器人学习，想快速跟进 Astra 生态的科研人员与工程师。",
+      "category": "资料教程",
+      "createdAt": "2026-09-12T12:20:24Z"
+    },
+    {
+      "repo": "zhengkid/Dream-RSI",
+      "url": "https://github.com/zhengkid/Dream-RSI",
+      "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+      "language": "",
+      "stars": 783,
+      "summaryZh": "论文《Dream-RSI: Recursive Self-Improvement through Evolving Worlds》的官方仓库。探讨通过不断演化的虚拟世界实现模型递归自我改进的方法与实验。适合关注自我进化、世界模型与强化学习前沿的研究者追踪与复现。",
+      "category": "资料教程",
+      "createdAt": "2026-09-13T20:39:43Z"
+    },
+    {
+      "repo": "youngyangyang04/llm-master",
+      "url": "https://github.com/youngyangyang04/llm-master",
+      "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+      "language": "",
+      "stars": 769,
+      "summaryZh": "一份系统的大模型全栈学习路线与中文教程，覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署与 Transformer 等主题。内容从入门延伸到生产实践，并附大厂面试要点。适合想体系化入门或进阶 LLM 的开发者与求职者。",
+      "category": "资料教程",
+      "createdAt": "2026-09-12T07:33:31Z"
+    },
+    {
+      "repo": "korcarc/text-humanizer",
+      "url": "https://github.com/korcarc/text-humanizer",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "language": "Python",
+      "stars": 725,
+      "summaryZh": "text-humanizer 是一个将 AI 生成文本改写为更自然人类风格的开源工具，主要绕过 Turnitin、GPTZero 等主流 AI 检测器。它基于 Python 实现，适合需要提交论文、作业或内容却担心被检测出 AI 痕迹的用户使用。",
+      "category": "AI",
+      "createdAt": "2026-09-16T13:21:56Z"
+    },
+    {
+      "repo": "nilbuild/page-mascot",
+      "url": "https://github.com/nilbuild/page-mascot",
+      "description": "A mascot that watches the cursor and blinks when you poke it",
+      "language": "Python",
+      "stars": 713,
+      "summaryZh": "page-mascot 是一个会注视鼠标光标、被戳时会眨眼的桌面吉祥物小挂件，用 Python 编写。它体积轻巧、交互有趣，适合开发者给桌面增添一点活泼装饰，或作为桌面宠物类项目的入门参考。",
+      "category": "其他",
+      "createdAt": "2026-09-14T06:55:59Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "arnegiacomo/fugleramme",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "description": "E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.",
+      "language": "Python",
+      "stars": 3061,
+      "summaryZh": "fugleramme 是运行在树莓派上的电子墨水屏鸟类识别相框，通过本地 AI 分析音频实时识别鸟类，并以 19 世纪手工剪裁风格的插画呈现。完全本地运行、支持 Docker，适合观鸟爱好者与家庭实验室玩家自建使用。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 2322 分 · 255 评论",
+      "reasonZh": "树莓派＋墨水屏做成的观鸟相框，实时听音识别鸟种，然后用手绘的19世纪公共版权鸟类插画展示出来，整个识别流程完全本地跑、不上传任何音频，放在家里客厅或书房当装饰又有梗。同类观鸟项目大多只给你一条物种记录，它偏偏把结果做成有审美的实物。喜欢折腾 homelab、树莓派和观鸟的人会爱不释手。"
+    },
+    {
+      "repo": "Tombert/office365_flake",
+      "url": "https://github.com/Tombert/office365_flake",
+      "description": "A set of Nix Flakes and scripts to get Office 365 working on Linux without virtualization. ",
+      "language": "C",
+      "stars": 26,
+      "summaryZh": "office365_flake 提供一组 Nix Flakes 和脚本，让 Office 365 无需虚拟机即可在 Linux 上运行，用 C 语言实现。适合使用 Nix 的 Linux 用户，希望在原生环境中直接访问微软办公套件的场景。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 84 分 · 81 评论",
+      "reasonZh": "用 Nix Flake 和脚本让 Office 365 在 Linux 上原生跑起来，不靠虚拟机也不靠网页套壳，直接干掉一大批人留在 Windows 的唯一理由。市面上的方案基本都得开虚拟机或者 Wine 折腾，它走的是原生集成路线。每天必须在 Linux 桌面用 Word、Excel、Outlook 办公又不想妥协的人，这就是刚需。"
+    },
+    {
+      "repo": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars": 3229,
+      "summaryZh": "DeskcommCRM 是一个开源的 AI 销售操作系统，提供自托管 CRM，内置 AI 代理并原生集成 WhatsApp。支持多租户、MCP 和 LGPD 合规，是 Kommo、Intercom 的开放替代品，适合依赖聊天销售的中小企业部署使用。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +1801（+126%）",
+      "reasonZh": "开源自托管的 AI 销售 CRM，原生集成 WhatsApp，还自带 AI 客服代理和 MCP，能自己部署成 Kommo、Intercom 的平替。同类开源 CRM 大多只有数据管理，没有把聊天渠道和 AI 代理打通，它直接覆盖从对话到成交的整条链路。靠 WhatsApp 卖货的中小团队想省下 SaaS 订阅费又想保住数据主权，就很合适。"
+    },
+    {
+      "repo": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "stars": 4396,
+      "summaryZh": "PI-Desktop 是一个本地优先的 AI 编程代理桌面应用，采用 Electron 前端、Rust 主机内核与 pi 代理框架，支持用户自行安装插件。适合希望在内网或离线环境中使用可扩展编程助手的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1556（+55%）",
+      "reasonZh": "本地优先的 AI 编程代理桌面端，Electron 外壳配上 Rust 宿主核心，还支持用户自己装插件扩展代理能力。相比一堆跑在浏览器或终端里的 coding agent，它做成完整桌面应用，本地执行、多语言、有插件生态。不喜欢把代码往云端传、又想有个顺手的图形界面来指挥 AI 写代码的开发者会选它。"
+    },
+    {
+      "repo": "crwdla/tokentab",
+      "url": "https://github.com/crwdla/tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "language": "Python",
+      "stars": 1143,
+      "summaryZh": "tokentab 是一个命令行工具，可读取 Claude Code、Codex 和 Gemini CLI 的会话日志，按模型、项目和日期统计 AI 编程的 token 消耗与费用。适合需要追踪和控制 AI 编码成本的开发者与团队。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +551（+93%）",
+      "reasonZh": "一个 CLI，读取 Claude Code、Codex、Gemini CLI 的会话日志，按模型、项目、日期算出你到底烧了多少钱。同类工具要么只看单一平台，要么只在界面里粗略显示用量，它跨工具统计还直接落到命令行里。重度用多个 AI 编程 CLI、月底想搞清楚账单都花哪儿了的开发者，一跑就明白。"
+    },
+    {
+      "repo": "mirza-rizvi/ResolveHQ",
+      "url": "https://github.com/mirza-rizvi/ResolveHQ",
+      "description": "Self-hosted helpdesk on Cloudflare Workers: D1, R2, Queues, Email Routing. Shared inbox, email threading, AI assist.",
+      "language": "TypeScript",
+      "stars": 183,
+      "summaryZh": "ResolveHQ 是一个部署在 Cloudflare Workers 上的自托管客服工单系统，基于 D1、R2、Queues 和邮件路由构建。提供共享收件箱、邮件线程和 AI 辅助，适合想要轻量、无服务器客服方案的小型团队。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +52（+40%）",
+      "reasonZh": "跑在 Cloudflare Workers 上的自托管客服台，用 D1、R2、Queues 和邮件路由实现共享收件箱、邮件线程和 AI 辅助回复。跟传统要买服务器或 VPS 的 helpdesk 比，它几乎零运维成本，全在免费额度内跑。个人开发者或小团队想做客服系统、又不想交 SaaS 月费，拿它搭最省事。"
+    },
+    {
+      "repo": "paradise-runner/toast",
+      "url": "https://github.com/paradise-runner/toast",
+      "description": "a batteries-included, beautiful, in-terminal IDE",
+      "language": "Go",
+      "stars": 259,
+      "summaryZh": "toast 是一个功能完备、外观精致的终端内 IDE，使用 Go 编写，基于 TUI 实现。它集成了编码常用功能，适合习惯在终端工作、寻求 Neovim 替代方案的开发者使用。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +67（+35%）",
+      "reasonZh": "一个塞满电池的终端 IDE，开箱即用还挺好看，定位是 Neovim 的替代品。同类 TUI 编辑器多半让你自己配一堆插件才能用，它主打预装齐活、上手就能写代码。习惯在终端里工作、懒得折腾配置又想要现代 IDE 体验的开发者会想试试。"
+    },
+    {
+      "repo": "sumimakito/Mac-Duo",
+      "url": "https://github.com/sumimakito/Mac-Duo",
+      "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
+      "language": "Swift",
+      "stars": 1019,
+      "summaryZh": "Mac-Duo 把 iPhone 的 Duo 翻转效果带到了 MacBook 上，用 Swift 编写并常驻菜单栏。它体积小巧、效果有趣，适合喜欢个性化桌面、想在 Mac 上体验类似趣味的用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +313（+44%）",
+      "reasonZh": "让 MacBook 也能玩 iPhone Duo 那种双屏翻转效果的小工具，菜单栏一点就出，纯 Swift 原生。网上类似玩法大多是视频后期或滤镜，它直接做成实时可用的菜单栏应用。想在视频会议或直播里露一手、或者单纯觉得好玩的人会装来玩。"
+    },
+    {
+      "repo": "gamosoft/NoteDiscovery",
+      "url": "https://github.com/gamosoft/NoteDiscovery",
+      "description": "Your Self-Hosted Knowledge Base",
+      "language": "JavaScript",
+      "stars": 2806,
+      "summaryZh": "NoteDiscovery 是一个可自托管的知识库与笔记应用，用 JavaScript 编写，支持 Markdown 和 Docker 部署。定位为 Notion、Obsidian、Evernote 的开源替代，适合重视隐私、想搭建个人第二大脑的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · note-taking",
+      "reasonZh": "自托管的知识库，支持 Markdown、双链和全文搜索，Docker 一拉就能跑，主打隐私和免费。跟 Notion、Obsidian 比，它不依赖官方云也不收订阅费，数据全在你自己机器上。想给自己建第二大脑、又不愿意把笔记托付给商业公司的人，这是个顺手的选择。"
+    },
+    {
+      "repo": "reekta92/clin-rs",
+      "url": "https://github.com/reekta92/clin-rs",
+      "description": "Feature-packed TUI note management app inspired by Obsidian",
+      "language": "Rust",
+      "stars": 542,
+      "summaryZh": "clin-rs 是一个受 Obsidian 启发的终端笔记管理应用，基于 Rust 与 ratatui 构建，功能丰富。支持 Markdown 与图谱视图，适合喜好命令行、想在终端中高效记录和管理笔记的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · note-taking",
+      "reasonZh": "用 Rust 写的 TUI 笔记应用，灵感来自 Obsidian，但跑在终端里，支持 Markdown 和笔记管理。同类终端笔记工具通常功能简陋或年久失修，它功能齐全还带图形化思路。整天泡在终端、又想要 Obsidian 式笔记体验的开发者，切进去就能写。"
+    }
+  ]
+}
