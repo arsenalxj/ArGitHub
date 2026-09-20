@@ -1,0 +1,395 @@
+{
+  "date": "2026-09-20",
+  "trending": [
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 16707,
+      "summaryZh": "为编码智能体提供多阶段安全审计能力的技能库，用可机器读取的独立验证发现替代模糊报告。亮点是分阶段扫描、发现项可复现验证与结构化输出。适合安全团队和白帽在 CI 或智能体工作流中自动做代码审计。",
+      "category": "开发工具",
+      "starsToday": 3155
+    },
+    {
+      "repo": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 24605,
+      "summaryZh": "开源计算机使用代理驱动与跨操作系统机群管理框架，配套训练、评估和数据集生成基准。核心是把大规模 CUA 任务的采集、回放与评测标准化。适合研究多模态电脑操作、训练评测智能体的团队与开发者。",
+      "category": "AI",
+      "starsToday": 859
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 97161,
+      "summaryZh": "面向 AI 编码智能体的生产级工程技能集合，把常见工程实践封装成可复用的技能模块。亮点是覆盖代码审查、测试、重构等真实工作流，让智能体行为更稳定可控。适合团队为编码助手建立统一规范并接入自定义工程流程。",
+      "category": "AI",
+      "starsToday": 556
+    },
+    {
+      "repo": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 15679,
+      "summaryZh": "用 Go 编写的开发者与智能体安全开发环境平台，把开发环境作为可声明式配置的资源在云端或自建集群交付。亮点是基于 Terraform 模板、无需本地依赖、支持细粒度权限。适合团队为工程师和自动化代理提供统一隔离的开发环境。",
+      "category": "开发工具",
+      "starsToday": 402
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 146785,
+      "summaryZh": "Anthropic 官方的终端代理式编码工具，能理解整个代码库并直接执行任务。核心能力是自动完成常规改动、解释复杂代码、处理 git 工作流与命令。适合习惯命令行、希望把编码助手深度融入日常仓库操作的开发者。",
+      "category": "开发工具",
+      "starsToday": 483
+    },
+    {
+      "repo": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 16209,
+      "summaryZh": "开源股票行情与公司洞察平台，作为收费金融终端的免费替代。支持实时价格追踪、自定义提醒和公司详情浏览，全部构建开放且永久免费。适合关注美股、做投资研究但不想付费订阅商业行情的个人投资者和学习者。",
+      "category": "其他",
+      "starsToday": 472
+    },
+    {
+      "repo": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "language": "Jupyter Notebook",
+      "stars": 5026,
+      "summaryZh": "面向数十亿到数万亿参数模型的容错、高扩展 GPU 编排与机器学习训练框架。亮点是分布式训练的容错调度与弹性伸缩，支撑超大规模模型训练。适合需要自建大规模训练集群的研究机构和大模型训练团队。",
+      "category": "AI",
+      "starsToday": 196
+    },
+    {
+      "repo": "docling-project/docling",
+      "url": "https://github.com/docling-project/docling",
+      "description": "Get your documents ready for gen AI",
+      "language": "Python",
+      "stars": 67191,
+      "summaryZh": "把 PDF、Office 等文档解析为结构化数据以喂给生成式 AI 的工具链。核心是版面分析、表格与公式识别，输出洁净的 Markdown 或 JSON。适合做 RAG、知识库和文档问答的开发者，解决非结构化文档的预处理难题。",
+      "category": "AI",
+      "starsToday": 129
+    },
+    {
+      "repo": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "stars": 5299,
+      "summaryZh": "用 Go 实现的自托管个人搜索引擎，可以索引浏览记录、书签和本地文档并从旧数据中找回信息。亮点是本地优先、隐私友好、支持全文检索与增量更新。适合想摆脱云搜索、在个人设备上重建自己搜索索引的用户。",
+      "category": "开发工具",
+      "starsToday": 420
+    },
+    {
+      "repo": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": "",
+      "stars": 103341,
+      "summaryZh": "阮一峰维护的科技爱好者周刊，每周五发布，持续推荐值得关注的工具、文章、资讯和资源。内容覆盖面广、筛选质量稳定，并开放读者投稿。适合想在碎片时间高效获取科技与编程圈动态的开发者与爱好者。",
+      "category": "资料教程",
+      "starsToday": 98
+    },
+    {
+      "repo": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "description": "人人都能用英语",
+      "language": "TypeScript",
+      "stars": 37936,
+      "summaryZh": "面向中文使用者的英语学习方法开源项目，用 TypeScript 构建配套练习工具与内容体系。核心是强调可执行的日常训练路径，而非单纯背单词。适合想系统提升英语、尤其是编程与阅读能力的自学者和开发者。",
+      "category": "资料教程",
+      "starsToday": 48
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 25175,
+      "summaryZh": "Anthropic 开源的 Claude Cowork 插件合集，主要面向知识工作者的日常任务。把文档处理、信息检索与协作流程封装成可插拔能力，直接增强 Claude 的办公场景表现。适合在写作、研究与运营工作中想用 AI 提效的知识工作者。",
+      "category": "AI",
+      "starsToday": 281
+    },
+    {
+      "repo": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+      "language": "Python",
+      "stars": 11674,
+      "summaryZh": "为极小设备打造的自动化基础模型，体积仅 2 比特量化的 8 到 29 MB。支持工具调用、结构化抽取与嵌入，能跑在手机、可穿戴、智能家居、机器人和单片机上。适合需要端侧离线 AI 能力的嵌入式与边缘计算开发者。",
+      "category": "AI",
+      "starsToday": 234
+    },
+    {
+      "repo": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "stars": 3453,
+      "summaryZh": "OpenAI Codex 桌面端与 CLI 的跨平台可视化管理工具，用 Rust 编写。支持 Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理与 TOML 配置可视化。适合需要同时管理多个模型服务、集中配置编码助手的重度用户。",
+      "category": "开发工具",
+      "starsToday": 32
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "description": "i. am. speed.",
+      "language": "Python",
+      "stars": 9188,
+      "summaryZh": "浏览器自动化方向的高速运行时项目，目标是让代理驱动浏览器尽可能快。核心围绕低延迟执行与高吞吐浏览器任务。适合做网页抓取、浏览器智能体或需要大规模并发浏览操作的开发与测试团队。",
+      "category": "AI",
+      "createdAt": "2026-09-16T21:30:12Z"
+    },
+    {
+      "repo": "tamaratran/fast-jev-compaction",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "language": "TypeScript",
+      "stars": 4407,
+      "summaryZh": "这是一个 Claude Code 插件，用 Jev 决策替换原有的压缩摘要机制：每次工具调用与结果都在一次快速请求中打分，过期的被丢弃或截断，保留内容逐字保留。核心亮点是决策式而非摘要式压缩，速度更快、信息损耗更小。适合长会话中需要维持上下文精度的 Claude Code 重度用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-17T05:57:20Z"
+    },
+    {
+      "repo": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "description": "The Photoshop alternative for Mac",
+      "language": "Swift",
+      "stars": 2795,
+      "summaryZh": "Compositor 是面向 Mac 的 Photoshop 替代品，用 Swift 原生开发。它提供图层、选区、滤镜等核心图像编辑能力，追求原生性能与系统集成体验。适合想摆脱 Adobe 订阅、在 macOS 上做日常修图与设计的用户。",
+      "category": "其他",
+      "createdAt": "2026-09-16T20:35:54Z"
+    },
+    {
+      "repo": "TheoLeeCJ/SemIf",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "language": "Python",
+      "stars": 2014,
+      "summaryZh": "SemIf 用开源模型实现语义化的 if 判断，可在家里一张 3090 上运行。它把自然语言条件映射为可执行的判断逻辑，降低传统规则编写的门槛。适合需要本地部署、注重隐私的开发者做语义路由与条件推理实验。",
+      "category": "AI",
+      "createdAt": "2026-09-16T03:51:21Z"
+    },
+    {
+      "repo": "mcncarl/jianying-headless",
+      "url": "https://github.com/mcncarl/jianying-headless",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "language": "Python",
+      "stars": 1629,
+      "summaryZh": "该项目提供剪映草稿的无头处理能力，支持原生草稿解析、隔离的编辑与导出流程，并附带独立的 Agent Skill。核心亮点是把剪映工程文件变成可编程、可自动化的管道。适合想批量生成或自动剪辑视频、又不想手动操作剪映的开发者与内容团队。",
+      "category": "开发工具",
+      "createdAt": "2026-09-15T11:51:15Z"
+    },
+    {
+      "repo": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "description": "",
+      "language": "Python",
+      "stars": 1596,
+      "summaryZh": "Laya 是一个 Python 项目，仓库未提供描述，从命名与语言看偏向轻量级应用或框架。适合作为探索性项目参考其代码结构与 Python 实践。因信息有限，具体用途需查看源码确认。",
+      "category": "其他",
+      "createdAt": "2026-09-18T04:46:33Z"
+    },
+    {
+      "repo": "jarrodwatts/jev-trader",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "language": "TypeScript",
+      "stars": 1343,
+      "summaryZh": "jev-trader 在每个 Monad 区块产生一次 AI 交易决策，运行在 Kuru 的 MON-USDC 市场上。亮点是把链上高频节奏与 AI 决策直接绑定，形成逐块自动交易循环。适合关注链上自动化交易与 AI 代理实验的开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-16T21:36:20Z"
+    },
+    {
+      "repo": "TianyuCodings/NanoJev",
+      "url": "https://github.com/TianyuCodings/NanoJev",
+      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "language": "Python",
+      "stars": 1054,
+      "summaryZh": "NanoJev 是 Jev 的微型复刻版，实现并行决策、动态候选以及端到端训练流水线。它把完整决策系统压缩到小体量代码中，便于理解与二次开发。适合想学习决策模型训练与推理全流程的研究者和工程师。",
+      "category": "AI",
+      "createdAt": "2026-09-17T16:08:30Z"
+    },
+    {
+      "repo": "vinnylarouge/jevlike",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "description": "",
+      "language": "Python",
+      "stars": 1006,
+      "summaryZh": "jevlike 是一个 Python 项目，仓库未给出描述，从命名看与 Jev 风格或类似决策机制相关。适合对轻量决策系统实现感兴趣的读者查看源码，评估其思路是否可借鉴。具体功能需结合代码进一步确认。",
+      "category": "AI",
+      "createdAt": "2026-09-16T10:26:01Z"
+    },
+    {
+      "repo": "zhengkid/Dream-RSI",
+      "url": "https://github.com/zhengkid/Dream-RSI",
+      "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+      "language": "",
+      "stars": 889,
+      "summaryZh": "Dream-RSI 是论文《Dream-RSI: Recursive Self-Improvement through Evolving Worlds》的官方仓库。它围绕通过演化世界实现递归自我改进展开，提供配套实现与实验代码。适合研究自我改进、开放-ended 学习与智能体演化的研究者复现与扩展。",
+      "category": "AI",
+      "createdAt": "2026-09-13T20:39:43Z"
+    },
+    {
+      "repo": "nilbuild/page-mascot",
+      "url": "https://github.com/nilbuild/page-mascot",
+      "description": "A mascot that watches the cursor and blinks when you poke it",
+      "language": "Python",
+      "stars": 730,
+      "summaryZh": "page-mascot 是一个会盯着光标看、被戳时会眨眼的网页吉祥物。它用轻量脚本为页面添加有反应的小角色，提升交互趣味性。适合想给个人网站或产品页增加性格化细节的前端开发者。",
+      "category": "前端",
+      "createdAt": "2026-09-14T06:55:59Z"
+    },
+    {
+      "repo": "korcarc/text-humanizer",
+      "url": "https://github.com/korcarc/text-humanizer",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "language": "Python",
+      "stars": 729,
+      "summaryZh": "text-humanizer 把 AI 生成的文本改写得更像人写的，可绕过 Turnitin、GPTZero 等主流 AI 检测器。核心是文本人性化改写策略，开源可自部署。适合需要处理 AI 文本、关注检测绕过效果的内容创作者与研究者。",
+      "category": "AI",
+      "createdAt": "2026-09-16T13:21:56Z"
+    },
+    {
+      "repo": "theoephraim/awesome-cloudflare-selfhosted",
+      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "language": "JavaScript",
+      "stars": 692,
+      "summaryZh": "这是一个精选列表，收集能替代 SaaS 产品、并运行在自己 Cloudflare 账户里的开源应用，主要基于 Workers 等能力。它帮你在 Cloudflare 上自托管、省去订阅与运维负担。适合喜欢自托管、想用 Cloudflare 搭建个人服务的开发者。",
+      "category": "资料教程",
+      "createdAt": "2026-09-15T09:39:14Z"
+    },
+    {
+      "repo": "jackwener/wx-cli-again",
+      "url": "https://github.com/jackwener/wx-cli-again",
+      "description": "WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli",
+      "language": "Rust",
+      "stars": 659,
+      "summaryZh": "wx-cli-again 是微信本地数据的命令行工具，支持查询、解密与导出，基于 wx-cli 重新起步。它用 Rust 实现，方便在终端里处理聊天记录等本地数据。适合需要备份、迁移或分析微信数据的进阶用户与开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-14T07:43:27Z"
+    },
+    {
+      "repo": "saragordic/window-sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "description": "A macOS menu-bar app that dresses your windows in knitted borders.",
+      "language": "C",
+      "stars": 596,
+      "summaryZh": "window-sweaters 是一个 macOS 菜单栏应用，给窗口套上针织风格的边框。它用 Objective-C/C 实现窗口装饰效果，属于桌面个性化玩具。适合喜欢折腾 macOS 外观、想要一点温暖视觉趣味的用户。",
+      "category": "其他",
+      "createdAt": "2026-09-15T01:51:36Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "arnegiacomo/fugleramme",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "description": "E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.",
+      "language": "Python",
+      "stars": 3127,
+      "summaryZh": "fugleramme 是运行在树莓派上的电子墨水鸟框：通过音频实时检测鸟类，全程本地 AI 推理，再用真实的 19 世纪手工裁剪鸟类插画呈现。它把 BirdNET 等检测与 e-ink 展示结合，适合观鸟爱好者与家庭实验室玩家自托管。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 2356 分 · 259 评论",
+      "reasonZh": "把树莓派和墨水屏做成会认鸟的电子画框，麦克风实时听声识别，识别到就换上对应鸟类1800年代手工插画，全程本地AI不出网。比普通鸟类识别App多了一层复古仪式感，摆在窗边或书房特有意思，适合喜欢鸟和硬件折腾的人。"
+    },
+    {
+      "repo": "maziggy/bambuddy",
+      "url": "https://github.com/maziggy/bambuddy",
+      "description": "Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire print farm. ",
+      "language": "Python",
+      "stars": 2989,
+      "summaryZh": "一个自托管的 Bambu Lab 打印机管理中枢，无需云端即可控制从单台 A1 到整片打印农场的设备。它支持 3MF 文件、G-code、耗材管理和任务队列，数据完全留在本地。适合拥有多台拓竹打印机、注重隐私的创客或小型工作室使用。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "给拓竹3D打印机准备的自托管控制中心，不依赖官方云也能看状态、管耗材、排队打印，从一台A1到整间打印农场都撑得住。对比Bambu Handy，它把数据留在自己机器上，还能统一管多台，家里或工作室有多台打印机时特别实用。"
+    },
+    {
+      "repo": "sumimakito/Mac-Duo",
+      "url": "https://github.com/sumimakito/Mac-Duo",
+      "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
+      "language": "Swift",
+      "stars": 1038,
+      "summaryZh": "这款 macOS 菜单栏应用能在 MacBook 上模拟 iPhone 的 Duo 双屏效果，通过简单的按键或点击切换显示模式。它专为提升多任务效率设计，让用户在单屏上获得类似双屏的体验。适合经常需要同时处理多个窗口的 Mac 用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +332（+47%）",
+      "reasonZh": "把iPhone Duo那个翻转小窗效果搬到MacBook上，菜单栏一键呼出，纯Swift写的原生小App。同类项目多是iPhone专属或做得花哨，它只用系统能力轻量实现，适合想让Mac也来点灵动小趣味的人，装了就能玩。"
+    },
+    {
+      "repo": "snapotter-hq/SnapOtter",
+      "url": "https://github.com/snapotter-hq/SnapOtter",
+      "description": "Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your network.",
+      "language": "TypeScript",
+      "stars": 2708,
+      "summaryZh": "一个开源的自托管文件处理工具，支持图像、视频、音频、PDF 和文档的转换、压缩、OCR、转录及本地 AI 处理。提供 UI、REST API 和流水线三种使用方式，所有文件永不离开本地环境。适合注重隐私、需要批量处理文件的企业或个人。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "开源自托管的文件处理全家桶，图片视频音频PDF都能转码压缩OCR转写，还带本地AI和REST API，文件完全不出自己服务器。比零散命令行工具省心，适合在意隐私的团队或个人自建一套内网文件工具站。"
+    },
+    {
+      "repo": "vinzdg/codenotch",
+      "url": "https://github.com/vinzdg/codenotch",
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "language": "Swift",
+      "stars": 2087,
+      "summaryZh": "一款 macOS 应用，能将 Claude Code、Cursor、Codex 和 Antigravity 的使用限额固定显示在屏幕边缘，方便随时查看。它通过实时监控各服务的用量，帮助开发者避免超额。适合同时使用多个 AI 编程工具、需要精细管理配额的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +578（+38%）",
+      "reasonZh": "macOS小工具，把Claude Code、Cursor、Codex、Antigravity的用量额度钉在屏幕边缘，随时瞟一眼就知道还剩多少。同类要么得开网页要么藏得深，它常驻桌面直观显示，重度用这些AI编程工具的人会觉得很顺手。"
+    },
+    {
+      "repo": "crwdla/tokentab",
+      "url": "https://github.com/crwdla/tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "language": "Python",
+      "stars": 1145,
+      "summaryZh": "一个命令行工具，能读取 Claude Code、Codex 和 Gemini CLI 的会话日志，并按模型、项目和日期计算 token 消耗与成本。它帮助开发者量化 AI 编程开销，优化使用策略。适合关注 AI 工具成本、需要详细用量报告的个人或团队。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +553（+93%）",
+      "reasonZh": "一条命令读Claude Code、Codex、Gemini CLI的会话日志，按模型、项目、日期算出花了多少钱。同类用量统计要么只认一家要么得装服务，它直接扫本地日志开箱即用，想搞清楚自己AI编程开销的人必备。"
+    },
+    {
+      "repo": "gamosoft/NoteDiscovery",
+      "url": "https://github.com/gamosoft/NoteDiscovery",
+      "description": "Your Self-Hosted Knowledge Base",
+      "language": "JavaScript",
+      "stars": 2807,
+      "summaryZh": "一个自托管的个人知识库系统，支持 Markdown 笔记、双链和 Zettelkasten 方法。它可作为 Notion、Obsidian、Evernote 等工具的隐私替代品，所有数据存储在本地。适合想要搭建第二大脑、注重数据主权的知识工作者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "开源自托管的个人知识库，Markdown笔记带标签和双向链接，Docker一条命令跑起来，主打隐私。比起Obsidian要自己同步，它直接给你一个能远程访问的私有站点，适合想自建第二大脑又怕麻烦的人。"
+    },
+    {
+      "repo": "mirza-rizvi/ResolveHQ",
+      "url": "https://github.com/mirza-rizvi/ResolveHQ",
+      "description": "Self-hosted helpdesk on Cloudflare Workers: D1, R2, Queues, Email Routing. Shared inbox, email threading, AI assist.",
+      "language": "TypeScript",
+      "stars": 183,
+      "summaryZh": "一个基于 Cloudflare Workers 的自托管帮助台系统，整合共享收件箱、邮件线程和 AI 辅助回复。利用 D1、R2、Queues 和 Email Routing 构建，成本低且易于部署。适合小型团队或企业搭建客户支持平台，无需维护服务器。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +52（+40%）",
+      "reasonZh": "跑在Cloudflare Workers上的自托管工单系统，用D1、R2、Queues加邮件路由搭出共享收件箱和AI辅助，几乎零运维成本。相比动辄要整台服务器的帮助台方案，它部署门槛极低，小团队或独立开发者想自建客服邮箱很合适。"
+    }
+  ]
+}
