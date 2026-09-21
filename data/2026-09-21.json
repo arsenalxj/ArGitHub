@@ -1,0 +1,397 @@
+{
+  "date": "2026-09-21",
+  "trending": [
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 263943,
+      "summaryZh": "这是一个为大语言模型编程智能体设计的性能优化框架，提供技能、本能、记忆、安全与研究优先开发能力。它兼容Claude Code、Codex、Opencode和Cursor等多种智能体环境，通过结构化模块提升代码生成效率与安全性。适合需要构建高效、可靠AI编程助手的开发者或团队使用。",
+      "category": "AI",
+      "starsToday": 826
+    },
+    {
+      "repo": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "stars": 5369,
+      "summaryZh": "这是一个用于构建智能体原生应用的框架，帮助开发者快速搭建以AI智能体为核心的应用。它采用TypeScript编写，可能提供智能体生命周期管理、任务编排和工具集成等能力。适合想要构建自主智能体应用的前端或全栈开发者，尤其在需要深度整合AI能力时。",
+      "category": "AI",
+      "starsToday": 98
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 18236,
+      "summaryZh": "这是一个为编码智能体设计的多阶段安全审计技能，能够生成可独立验证、机器可读的审计发现。它帮助智能体在开发过程中自动执行安全检查，提升代码安全性。适合安全工程师或开发团队在CI/CD流程中集成自动化安全审计。",
+      "category": "开发工具",
+      "starsToday": 2428
+    },
+    {
+      "repo": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 25283,
+      "summaryZh": "这是一个开源的计算机使用驱动与基准测试框架，支持跨操作系统部署智能体集群，用于训练、评估和数据生成。它提供标准化接口和性能基准，方便研究者规模化测试计算机使用智能体。适合AI研究员或工程师开发自动化操作系统的智能体应用。",
+      "category": "AI",
+      "starsToday": 1018
+    },
+    {
+      "repo": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 35465,
+      "summaryZh": "这是Anthropic推出的金融服务相关项目，基于Python构建，可能提供金融领域的AI工具或模型。由于描述为空，具体功能未知，但推测涉及金融数据分析、风险评估或自动化交易等。适合金融科技开发者或对AI在金融中应用感兴趣的研究人员。",
+      "category": "AI",
+      "starsToday": 260
+    },
+    {
+      "repo": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "stars": 45652,
+      "summaryZh": "这是一个社区支持的增强型文档管理系统，可以扫描、索引和归档所有文档，实现纸质文件的数字化管理。它支持OCR、自动标签和全文搜索，帮助用户高效组织个人或企业文档。适合需要无纸化办公的个人、家庭或小型团队。",
+      "category": "开发工具",
+      "starsToday": 57
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 147231,
+      "summaryZh": "这是Anthropic推出的终端智能体编程工具，能理解代码库并执行常规任务、解释复杂代码以及处理git工作流。它直接集成在终端中，通过自然语言交互提升编码效率。适合开发者快速完成重复性工作，尤其在使用Claude模型时。",
+      "category": "AI",
+      "starsToday": 419
+    },
+    {
+      "repo": "mihail911/modern-software-dev-assignments",
+      "url": "https://github.com/mihail911/modern-software-dev-assignments",
+      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "language": "Python",
+      "stars": 4630,
+      "summaryZh": "这是斯坦福大学CS146S课程《现代软件开发》的作业集合，使用Python编写，涵盖现代软件开发的核心概念与实践。学生可以通过这些作业掌握工程化开发技能，如版本控制、测试和CI/CD。适合计算机科学学生或自学者作为课程配套练习。",
+      "category": "资料教程",
+      "starsToday": 172
+    },
+    {
+      "repo": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "language": "Jupyter Notebook",
+      "stars": 5458,
+      "summaryZh": "这是一个容错、高可扩展的GPU编排与机器学习框架，专为训练数十亿到数万亿参数的模型设计。它提供分布式训练、资源调度和故障恢复机制，支持大规模模型的高效训练。适合AI研究员或工程师处理超大规模深度学习任务。",
+      "category": "AI",
+      "starsToday": 465
+    },
+    {
+      "repo": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 16983,
+      "summaryZh": "这是一个开源的市场数据追踪平台，可实时查看股价、设置个性化提醒并探索公司深度信息，旨在替代昂贵的商业金融平台。它完全免费开放，由社区共同维护。适合个人投资者、金融爱好者或需要低成本市场数据工具的开发者。",
+      "category": "其他",
+      "starsToday": 755
+    },
+    {
+      "repo": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 16132,
+      "summaryZh": "这是一个为开发者和其智能体提供安全环境的平台，通过远程开发环境实现代码隔离与集中管理，支持多种IDE和工具。它帮助团队在云端快速配置一致的开发环境，提升协作效率。适合需要安全、可扩展远程开发环境的企业或团队。",
+      "category": "开发工具",
+      "starsToday": 379
+    },
+    {
+      "repo": "vercel-labs/json-render",
+      "url": "https://github.com/vercel-labs/json-render",
+      "description": "The Generative UI framework",
+      "language": "TypeScript",
+      "stars": 17494,
+      "summaryZh": "这是一个生成式UI框架，能够根据JSON描述动态渲染用户界面，将数据与视图解耦。它支持快速构建可配置、可扩展的前端应用，减少手写UI代码。适合前端开发者或需要动态表单、低代码平台的技术团队。",
+      "category": "前端",
+      "starsToday": 291
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 97804,
+      "summaryZh": "这是为AI编码智能体提供的生产级工程技能库，涵盖代码审查、测试、调试等常见开发任务的最佳实践。它帮助智能体在真实项目中遵循工程规范，提高代码质量。适合使用AI辅助编程的开发者或希望增强智能体能力的团队。",
+      "category": "AI",
+      "starsToday": 736
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "description": "i. am. speed.",
+      "language": "Python",
+      "stars": 12732,
+      "summaryZh": "这是一个极速浏览器自动化工具，基于Python实现，旨在提供超快的网页交互和任务执行能力。它可能优化了传统浏览器自动化的性能瓶颈，适合需要高效爬虫、测试或RPA的场景。适合数据采集、自动化测试或流程自动化开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-16T21:30:12Z"
+    },
+    {
+      "repo": "tamaratran/fast-jev-compaction",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "language": "TypeScript",
+      "stars": 5411,
+      "summaryZh": "这是一个Claude Code插件，用快速Jev决策替代传统的压缩摘要，对每次工具调用和结果进行评分，丢弃或截断过时内容，保留原文。它显著提升长对话中的上下文管理效率。适合使用Claude Code进行复杂项目开发的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-17T05:57:20Z"
+    },
+    {
+      "repo": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "description": "",
+      "language": "Python",
+      "stars": 5217,
+      "summaryZh": "Laya 是一个用 Python 实现的项目，虽然描述为空，但从名称和语言推测可能与某种轻量级框架或工具相关。它可能提供高效的模块化设计，适合开发者快速构建应用。由于信息有限，建议查看源码或文档以了解具体用途，适合喜欢探索新工具的 Python 开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-18T04:46:33Z"
+    },
+    {
+      "repo": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "description": "The Photoshop alternative for Mac",
+      "language": "Swift",
+      "stars": 3820,
+      "summaryZh": "Compositor 是 macOS 上的 Photoshop 替代品，用 Swift 编写，提供专业的图像编辑功能。它可能支持图层、滤镜和合成等核心特性，适合设计师或摄影师在苹果生态中寻找免费或开源替代方案。",
+      "category": "开发工具",
+      "createdAt": "2026-09-16T20:35:54Z"
+    },
+    {
+      "repo": "zai-org/ZCode",
+      "url": "https://github.com/zai-org/ZCode",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "language": "TypeScript",
+      "stars": 3302,
+      "summaryZh": "ZCode 是 Z.ai 推出的编码代理工具，用 TypeScript 编写，旨在提供强大、智能且可扩展的编程辅助。它可能集成 AI 能力帮助自动补全或生成代码，适合开发者提升编码效率，尤其在复杂项目中。",
+      "category": "开发工具",
+      "createdAt": "2026-09-20T12:01:16Z"
+    },
+    {
+      "repo": "TheoLeeCJ/SemIf",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "language": "Python",
+      "stars": 2558,
+      "summaryZh": "SemIf 是一个基于开源模型实现语义 if 条件的项目，能在单张 3090 显卡上本地运行。它允许开发者用自然语言定义条件逻辑，适合需要灵活决策但资源有限的研究者或爱好者。",
+      "category": "AI",
+      "createdAt": "2026-09-16T03:51:21Z"
+    },
+    {
+      "repo": "mcncarl/jianying-headless",
+      "url": "https://github.com/mcncarl/jianying-headless",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "language": "Python",
+      "stars": 2107,
+      "summaryZh": "jianying-headless 是剪映草稿的私有源码预览，支持原生草稿、隔离编辑/导出以及独立的 Agent Skill。它可能用于自动化视频编辑流程，适合需要批量处理剪映项目的开发者或内容创作者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-15T11:51:15Z"
+    },
+    {
+      "repo": "jarrodwatts/jev-trader",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "language": "TypeScript",
+      "stars": 1595,
+      "summaryZh": "jev-trader 是一个 AI 交易决策系统，每个 Monad 区块执行一次交易决策，并在 Kuru 平台上进行 MON-USDC 交易。它展示了高频自动交易策略，适合对 DeFi 和 AI 交易感兴趣的开发者研究。",
+      "category": "AI",
+      "createdAt": "2026-09-16T21:36:20Z"
+    },
+    {
+      "repo": "TianyuCodings/NanoJev",
+      "url": "https://github.com/TianyuCodings/NanoJev",
+      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "language": "Python",
+      "stars": 1542,
+      "summaryZh": "NanoJev 是 Jev 的微型复刻版，实现了并行决策、动态候选和端到端训练流程。它用 Python 编写，适合想要理解或实验决策模型的小型团队或个人研究者，资源需求较低。",
+      "category": "AI",
+      "createdAt": "2026-09-17T16:08:30Z"
+    },
+    {
+      "repo": "bespokelabsai/nimble",
+      "url": "https://github.com/bespokelabsai/nimble",
+      "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "language": "Python",
+      "stars": 1229,
+      "summaryZh": "nimble 提供本地类型化决策、对比数据策展和模型评估功能，用 Python 实现。它帮助开发者构建和评估机器学习模型，适合需要数据质量和模型性能优化的 AI 工程师。",
+      "category": "AI",
+      "createdAt": "2026-09-18T09:07:48Z"
+    },
+    {
+      "repo": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "language": "Python",
+      "stars": 1187,
+      "summaryZh": "kev 是一个基于 Qwen3.5 构建的微型决策模型家族，支持用户自行训练和运行。它用 Python 编写，适合想要在本地部署轻量级决策模型的开发者，尤其关注隐私和自定义的场景。",
+      "category": "AI",
+      "createdAt": "2026-09-17T20:49:39Z"
+    },
+    {
+      "repo": "vinnylarouge/jevlike",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "description": "",
+      "language": "Python",
+      "stars": 1102,
+      "summaryZh": "jevlike 是一个用 Python 编写的项目，描述为空，但从名称推测可能与 Jev 类似的决策模型或工具相关。它可能提供简化的决策逻辑实现，适合开发者参考或扩展。",
+      "category": "AI",
+      "createdAt": "2026-09-16T10:26:01Z"
+    },
+    {
+      "repo": "nilbuild/page-mascot",
+      "url": "https://github.com/nilbuild/page-mascot",
+      "description": "A mascot that watches the cursor and blinks when you poke it",
+      "language": "Python",
+      "stars": 756,
+      "summaryZh": "page-mascot 是一个网页吉祥物，会跟随鼠标光标并在被戳时眨眼，用 Python 实现。它为网站增添互动趣味，适合前端开发者或想要提升用户体验的网页设计师。",
+      "category": "前端",
+      "createdAt": "2026-09-14T06:55:59Z"
+    },
+    {
+      "repo": "theoephraim/awesome-cloudflare-selfhosted",
+      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "language": "JavaScript",
+      "stars": 745,
+      "summaryZh": "该项目收集了可在 Cloudflare 账户中自托管的开源应用，替代常见 SaaS 产品。用 JavaScript 编写，涵盖 Workers 等主题，适合希望降低依赖、增强隐私的开发者或运维人员。",
+      "category": "资料教程",
+      "createdAt": "2026-09-15T09:39:14Z"
+    },
+    {
+      "repo": "korcarc/text-humanizer",
+      "url": "https://github.com/korcarc/text-humanizer",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "language": "Python",
+      "stars": 737,
+      "summaryZh": "text-humanizer 是一个开源工具，将 AI 生成的文本转化为更自然的“人类”版本，以绕过 Turnitin 或 GPTZero 等检测器。用 Python 编写，适合需要处理 AI 文本检测的内容创作者或研究者。",
+      "category": "AI",
+      "createdAt": "2026-09-16T13:21:56Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "stars": 5442,
+      "summaryZh": "hister 是一个用 Go 编写的个人搜索引擎，支持浏览器历史索引、语义搜索和 MCP 协议，注重隐私。它让用户完全掌控自己的搜索数据，适合追求隐私和自托管的开发者或极客。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 729 分 · 198 评论",
+      "reasonZh": "它把浏览器历史做成你自己的私有搜索引擎，数据全留在本地，还带语义检索和 MCP 接口。相比动辄要上云、要账号的商业方案，它更像一个能直接自托管的小型个人搜索服务，适合注重隐私、又想让 AI 帮自己翻旧网页的人。"
+    },
+    {
+      "repo": "arnegiacomo/fugleramme",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "description": "E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.",
+      "language": "Python",
+      "stars": 3192,
+      "summaryZh": "fugleramme 是一个树莓派电子墨水鸟框，通过音频实时检测鸟类，并用本地 AI 渲染成 1800 年代手绘鸟类插图。它适合观鸟爱好者或智能家居爱好者，在家庭网络中完全本地运行。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 2379 分 · 262 评论",
+      "reasonZh": "用树莓派加墨水屏做一个鸟鸣实时识别相框，识别到鸟就配上 1800 年代手绘插画显示出来。它把本地 AI、硬件和审美趣味揉在一起，比起一堆冷冰冰的监控项目，更像摆在桌上的小装置，适合喜欢折腾 homelab 和自然观察的人。"
+    },
+    {
+      "repo": "Homebrew/BrewUI",
+      "url": "https://github.com/Homebrew/BrewUI",
+      "description": "📺 Homebrew's official macOS GUI",
+      "language": "Swift",
+      "stars": 2146,
+      "summaryZh": "Homebrew 官方 macOS 图形界面，用 Swift 编写，让用户不用记命令行也能搜索、安装、升级和卸载软件包。适合不熟悉终端或想更直观管理 Homebrew 环境的 Mac 用户，发布后周涨星超六百，热度很高。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +630（+42%）",
+      "reasonZh": "Homebrew 官方终于有了原生 macOS 图形界面，装包、更新、清理都能点着完成，不用再记命令。相比各种第三方包管理 GUI，它有官方背书、和 brew 本体同步，适合刚上手 Mac 或懒得敲终端的人日常维护开发环境。"
+    },
+    {
+      "repo": "harry0703/MangoDisk",
+      "url": "https://github.com/harry0703/MangoDisk",
+      "description": "Safety-first disk cleaner and space analyzer for macOS and Windows, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
+      "language": "Rust",
+      "stars": 2941,
+      "summaryZh": "基于 Rust 和 Tauri 的跨平台磁盘清理与空间分析工具，支持重复文件查找、大文件扫描、应用卸载、启动项管理和系统优化。兼容 macOS 与 Windows，界面友好，适合想安全释放磁盘空间、清理垃圾的普通用户和开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "Rust + Tauri 写的磁盘清理和空间分析工具，带树状图、重复文件、卸载残留和启动项管理，Mac 和 Windows 都能用。它比 CleanMyMac 一类轻得多也透明得多，适合系统盘快满、想搞清楚空间到底被谁吃掉的人。"
+    },
+    {
+      "repo": "sumimakito/Mac-Duo",
+      "url": "https://github.com/sumimakito/Mac-Duo",
+      "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
+      "language": "Swift",
+      "stars": 1052,
+      "summaryZh": "把 iPhone 的 Duo 双屏拼接效果带到 MacBook 上的菜单栏小工具，用 Swift 实现屏幕翻转与拼接显示。适合喜欢折腾桌面显示效果、想用 MacBook 模拟双屏体验的用户，创意十足。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +243（+30%）",
+      "reasonZh": "把 iPhone 的 Duo 视频通话效果搬到 MacBook 上，Swift 写的菜单栏小应用，装了就能玩。它没有大厂那种臃肿，纯粹是个有趣的小工具，适合视频聊天时想来点花活、又不想装重型美颜软件的人。"
+    },
+    {
+      "repo": "Vincentwei1021/anything2explainer",
+      "url": "https://github.com/Vincentwei1021/anything2explainer",
+      "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+      "language": "TypeScript",
+      "stars": 1879,
+      "summaryZh": "一个 Claude Code / Codex 技能，输入任意话题即可自动生成带 TTS 配音、字幕和章节进度条的黑底动态图形讲解视频。基于 Remotion、多智能体与 Edge TTS 等技术，适合做科普、教学或需要批量生成解说视频的内容创作者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +679（+57%）",
+      "reasonZh": "给个题目就产出带配音、字幕和章节进度条的动画讲解视频，作为 Claude Code / Codex 技能直接接入现有工作流。比起在线 AI 视频平台，它本地跑、用 Remotion 渲染，适合做教学科普、需要批量出短视频又不想被订阅绑住的人。"
+    },
+    {
+      "repo": "unstablebuild/rune",
+      "url": "https://github.com/unstablebuild/rune",
+      "description": "the development environment for pros",
+      "language": "Go",
+      "stars": 1037,
+      "summaryZh": "面向专业开发者的终端开发环境，用 Go 编写，融合文本编辑器、终端复用器与工作区管理，并支持编码智能体编排。适合习惯命令行、追求高效多任务协作的程序员，把 tmux、IDE 和 AI 代理能力整合到一个 TUI 中。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +388（+60%）",
+      "reasonZh": "把 tmux、文本编辑器和 coding agent 编排合进一个 Go 写的 TUI 开发环境，终端里就能管多个 agent 和会话。它不像 IDE 那么重，又比裸 tmux 多了工作区概念，适合常年在终端里泡着、想同时指挥几个 AI 编码任务的开发者。"
+    },
+    {
+      "repo": "MG1937/ASC",
+      "url": "https://github.com/MG1937/ASC",
+      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "language": "Python",
+      "stars": 1707,
+      "summaryZh": "一个超高速 Android 反编译前端，用 Python 编写，专为智能体和移动安全研究人员设计。能快速解析 APK 并提供反编译结果，适合做逆向工程、漏洞分析和自动化安全审计的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +429（+34%）",
+      "reasonZh": "一个超快的 Android 反编译前端，专为 agent 和移动安全研究设计，能把 APK 快速拆开供分析。相比 jadx 等传统工具，它更强调命令行和自动化调用，适合做逆向、安全审计、想让 AI 帮着读反编译代码的人。"
+    },
+    {
+      "repo": "KJGX66F/usque-custom-pro",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "language": "JavaScript",
+      "stars": 1347,
+      "summaryZh": "基于 Cloudflare WARP / MASQUE 的可视化注册与配置生成工具，支持 Clash/Mihomo 智能分流、Shadowrocket、sing-box 及本地 VLESS 桥接，并可检测 WARP 出口。适合需要科学上网配置、想快速生成多客户端规则的进阶用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +391（+41%）",
+      "reasonZh": "基于 Cloudflare WARP / MASQUE 的可视化注册和配置生成工具，能直接导出 Clash、sing-box、Shadowrocket 等客户端格式，还带出口检测。比起手搓配置的教程，它把整套流程图形化，适合想用 WARP 分流又不想折腾命令行的人。"
+    }
+  ]
+}
