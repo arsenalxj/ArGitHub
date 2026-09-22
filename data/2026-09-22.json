@@ -1,0 +1,389 @@
+{
+  "date": "2026-09-22",
+  "trending": [
+    {
+      "repo": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "stars": 6055,
+      "summaryZh": "这是一个用于构建智能体应用（Agentic Apps）的开发框架。核心亮点是提供原生支持 AI 代理的架构，让开发者能快速搭建具备自主决策与工具调用能力的应用。适合正在探索 Agent 产品落地、希望跳过底层基建直接开发业务逻辑的 TypeScript 开发者。",
+      "category": "AI",
+      "starsToday": 607
+    },
+    {
+      "repo": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 25790,
+      "summaryZh": "该项目为「计算机使用」智能体提供开源驱动、跨操作系统机群和基准测试，用于训练、评估与数据生成。核心亮点是支持规模化部署跨平台计算环境，并附带标准化评测工具。适合需要训练 GUI 操作 Agent、做计算机交互研究或生成合成数据集的 AI 团队和研究者。",
+      "category": "AI",
+      "starsToday": 609
+    },
+    {
+      "repo": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 17953,
+      "summaryZh": "这是一个开源免费的股票市场跟踪平台，定位为昂贵行情软件的替代品。核心功能包括实时股价查看、个性化价格预警以及详细的公司基本面洞察。适合个人投资者、量化爱好者或希望自建轻量行情看板的开发者，全部数据与功能开放且永久免费。",
+      "category": "其他",
+      "starsToday": 844
+    },
+    {
+      "repo": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 7806,
+      "summaryZh": "这是一个为智能体编码 CLI 提供长期记忆的 Rust 方案，解决不同厂商 Agent 之间的上下文交接问题。核心亮点是跨工具持久化存储对话与决策记忆，让编码助手在切换时保留历史信息。适合重度使用多种 AI 编程工具、希望打通上下文的工作流用户。",
+      "category": "AI",
+      "starsToday": 167
+    },
+    {
+      "repo": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 16489,
+      "summaryZh": "Coder 为开发者和他们的 AI 智能体提供安全隔离的云端开发环境。核心亮点是基于 Terraform 自动化配置远程工作区，支持统一管控、权限隔离与快速启动。适合需要为团队或 Agent 批量提供一致、安全开发环境的工程团队与平台工程师。",
+      "category": "开发工具",
+      "starsToday": 460
+    },
+    {
+      "repo": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 35913,
+      "summaryZh": "这是 Anthropic 推出的金融服务方向项目，基于 Python 构建，面向金融行业的 AI 应用场景。核心亮点是结合大模型能力处理金融数据、分析与服务流程，但仓库描述为空、需进一步查阅文档。适合金融机构、金融科技团队探索 AI 落地的技术人员参考。",
+      "category": "AI",
+      "starsToday": 424
+    },
+    {
+      "repo": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars": 13679,
+      "summaryZh": "MVT（移动验证工具包）用于对手机进行取证分析，检测设备是否被入侵或植入间谍软件。核心亮点是支持 iOS 与 Android 的痕迹检查，可识别 Pegasus 等已知威胁指标。适合记者、人权工作者、安全研究人员及需要自查设备安全的高风险人群。",
+      "category": "开发工具",
+      "starsToday": 169
+    },
+    {
+      "repo": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "language": "Python",
+      "stars": 8403,
+      "summaryZh": "AutoClip 是一款 AI 驱动的视频剪辑工具，能自动提取高光片段并生成二创内容。核心亮点是用智能算法识别精彩瞬间，省去手动回看与剪辑的大量时间。适合短视频创作者、游戏主播、赛事集锦制作者等需要批量产出高光视频的用户。",
+      "category": "AI",
+      "starsToday": 250
+    },
+    {
+      "repo": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": "",
+      "stars": 104159,
+      "summaryZh": "这是阮一峰维护的科技爱好者周刊，每周五定期发布。核心内容是精选的科技动态、工具推荐、文章与资源分享，覆盖面广、信息密度高。适合想用碎片时间了解技术圈新鲜事、拓展视野的开发者、产品经理和科技爱好者。",
+      "category": "资料教程",
+      "starsToday": 182
+    },
+    {
+      "repo": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "language": "TypeScript",
+      "stars": 37955,
+      "summaryZh": "Project NOMAD 是一个离线优先的知识与教育服务器，可在本地硬件上运行维基百科、数千本书籍、课程、地图及可选本地 AI。核心亮点是完全无需互联网即可访问海量学习资源。适合偏远地区、断网环境或注重数据隐私的用户自建知识中心。",
+      "category": "其他",
+      "starsToday": 394
+    },
+    {
+      "repo": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "stars": 3747,
+      "summaryZh": "Codex-X 是 OpenAI Codex 桌面端与 CLI 的跨平台可视化管理工具，用 Rust 编写。核心功能包括 Provider/API 切换、会话同步、提示词注入、Skills 与 MCP 管理以及 TOML 配置可视化。适合频繁使用 Codex 并希望统一管理配置与多供应商切换的重度开发者。",
+      "category": "开发工具",
+      "starsToday": 50
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "description": "Fastest and cheapest web agent",
+      "language": "Python",
+      "stars": 16393,
+      "summaryZh": "jev-ultrafast 号称是最快、最省钱的网页智能体，由 browser-use 团队开发。核心亮点是优化了浏览器自动化代理的执行速度与调用成本，用更少资源完成网页任务。适合需要大规模跑网页自动化、对延迟和 API 费用敏感的开发者与产品团队。",
+      "category": "AI",
+      "createdAt": "2026-09-16T21:30:12Z"
+    },
+    {
+      "repo": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "description": "",
+      "language": "Python",
+      "stars": 11676,
+      "summaryZh": "Laya 是一个基于 Python 的开源项目，但仓库描述为空，具体功能需查看源码与文档。从语言和热度看，可能涉及 AI 或自动化方向。适合喜欢尝鲜、愿意自行探索 Python 新项目的开发者关注与试用。",
+      "category": "其他",
+      "createdAt": "2026-09-18T04:46:33Z"
+    },
+    {
+      "repo": "tamaratran/fast-jev-compaction",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "language": "TypeScript",
+      "stars": 6049,
+      "summaryZh": "这是一个 Claude Code 插件，用 Jev 决策机制替换默认的上下文压缩摘要。核心亮点是在一次快速请求中对每个工具调用与结果打分，丢弃或截断过时内容，保留部分逐字原文。适合使用 Claude Code 且受上下文长度困扰的开发者优化会话效率。",
+      "category": "开发工具",
+      "createdAt": "2026-09-17T05:57:20Z"
+    },
+    {
+      "repo": "zai-org/ZCode",
+      "url": "https://github.com/zai-org/ZCode",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "language": "TypeScript",
+      "stars": 5884,
+      "summaryZh": "ZCode 是 Z.ai 推出的编码智能体框架，强调强大、智能与可扩展。核心亮点是提供一套可定制的 Agent 运行环境，方便接入工具链并扩展能力。适合希望基于国产大模型构建编程助手、或需要自定义编码 Agent 行为的开发者与团队。",
+      "category": "AI",
+      "createdAt": "2026-09-20T12:01:16Z"
+    },
+    {
+      "repo": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "description": "The Photoshop alternative for Mac",
+      "language": "Swift",
+      "stars": 4502,
+      "summaryZh": "这是一个面向 Mac 平台的 Photoshop 替代工具，使用 Swift 开发。核心亮点在于提供原生图像编辑能力，适合需要轻量级、免费修图软件的 macOS 用户和设计师日常使用。",
+      "category": "开发工具",
+      "createdAt": "2026-09-16T20:35:54Z"
+    },
+    {
+      "repo": "TheoLeeCJ/SemIf",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "language": "Python",
+      "stars": 3371,
+      "summaryZh": "该项目能在自家 3090 显卡上运行开放模型的语义 if 判断，属于独立开发、与 Jev 或 TypeSafe 无关。核心是把语义决策模型本地化部署，适合对隐私敏感、想在本地跑轻量 AI 决策的开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-16T03:51:21Z"
+    },
+    {
+      "repo": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "language": "Python",
+      "stars": 2657,
+      "summaryZh": "这是一个基于 Qwen3.5 构建的轻量级 Jev 风格决策模型家族，可自行训练和运行。核心功能是提供小型、可私有部署的决策模型，适合想在本地实验 AI 决策、不想依赖云服务的个人开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-17T20:49:39Z"
+    },
+    {
+      "repo": "mcncarl/jianying-headless",
+      "url": "https://github.com/mcncarl/jianying-headless",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "language": "Python",
+      "stars": 2406,
+      "summaryZh": "该项目是剪映草稿的私有源码预览，支持原生草稿、隔离编辑导出和独立 Agent Skill。核心亮点是无头化操作剪映工程，适合需要自动化视频剪辑流程、批量处理草稿的开发者或工作室。",
+      "category": "开发工具",
+      "createdAt": "2026-09-15T11:51:15Z"
+    },
+    {
+      "repo": "jarrodwatts/jev-trader",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "language": "TypeScript",
+      "stars": 1887,
+      "summaryZh": "这是一个在 Monad 每个区块上做一次 AI 交易决策的机器人，运行在 Kuru 的 MON-USDC 交易对上。核心是把 Jev 决策模型用于链上高频交易，适合关注 AI 驱动 DeFi 策略和自动化交易的研究者。",
+      "category": "AI",
+      "createdAt": "2026-09-16T21:36:20Z"
+    },
+    {
+      "repo": "TianyuCodings/NanoJev",
+      "url": "https://github.com/TianyuCodings/NanoJev",
+      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "language": "Python",
+      "stars": 1858,
+      "summaryZh": "该项目是 Jev 的极简复刻版，实现并行决策、动态候选和端到端训练流程。核心亮点是用极小代码量复现 Jev 的决策能力，适合想学习 AI 决策模型训练、快速上手实验的开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-17T16:08:30Z"
+    },
+    {
+      "repo": "Mak5er/AirCard",
+      "url": "https://github.com/Mak5er/AirCard",
+      "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "language": "Swift",
+      "stars": 1783,
+      "summaryZh": "这是一个 iOS 18 及以上系统的 Apple Wallet 卡面换肤工具，无需越狱即可使用。核心功能是自定义钱包卡片外观，适合喜欢个性化手机界面、想给 Apple Wallet 换张皮的 iPhone 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-16T22:20:15Z"
+    },
+    {
+      "repo": "jev-chat/jev-chat-jarvis",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "language": "Kotlin",
+      "stars": 1689,
+      "summaryZh": "这是一款装在手机上的对话副驾应用，能在微信、QQ、X、飞书中读懂对方消息并给出候选回复，一键填入输入框，由你决定是否发送。非侵入式设计，只读屏幕，不 hook 不改包，适合需要聊天辅助的重度社交用户。",
+      "category": "AI",
+      "createdAt": "2026-09-21T11:12:53Z"
+    },
+    {
+      "repo": "bespokelabsai/nimble",
+      "url": "https://github.com/bespokelabsai/nimble",
+      "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "language": "Python",
+      "stars": 1516,
+      "summaryZh": "该项目提供本地类型化决策、对比数据整理和模型评估功能。核心亮点是把决策模型与数据筛选、评测打通，适合需要构建高质量训练数据、评估本地 AI 模型效果的开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-18T09:07:48Z"
+    },
+    {
+      "repo": "vinnylarouge/jevlike",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "description": "",
+      "language": "Python",
+      "stars": 1171,
+      "summaryZh": "这是一个类似 Jev 的轻量级实现项目，使用 Python 编写。核心是复现 Jev 的决策模型思路，适合想快速理解或二次开发 Jev 类系统的开发者参考使用。",
+      "category": "AI",
+      "createdAt": "2026-09-16T10:26:01Z"
+    },
+    {
+      "repo": "yibie/awesome-jev",
+      "url": "https://github.com/yibie/awesome-jev",
+      "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+      "language": "Python",
+      "stars": 1053,
+      "summaryZh": "这是一个 Jev 相关资源的精选列表，收录了公开项目、集成方案和讨论内容。核心价值是帮助开发者一站式找到基于 Jev 的 TypeSafe AI 决策模型生态资源，适合想系统了解 Jev 的人。",
+      "category": "资料教程",
+      "createdAt": "2026-09-17T14:23:21Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "arnegiacomo/fugleramme",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "description": "E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.",
+      "language": "Python",
+      "stars": 3253,
+      "summaryZh": "这是一个给树莓派用的电子墨水鸟类画框，通过音频实时检测鸟类，完全本地 AI 运行，最终渲染成手切 1800 年代鸟类插画风格。适合喜欢观鸟、折腾家庭实验室和电子墨水的极客。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +1608（+98%）",
+      "reasonZh": "用树莓派加墨水屏做成复古鸟类图鉴相框，靠声音实时识别窗外鸟叫，再用手绘风格插画显示出来，全程本地跑不联网。跟普通鸟声识别工具不同，它把冷冰冰的检测结果变成一件好看的桌面摆件，适合放家里当自然观察小玩具，极客感和文艺感都拉满。"
+    },
+    {
+      "repo": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "stars": 5506,
+      "summaryZh": "这是一个用 Go 写的个人搜索引擎，可以索引浏览器历史和网页内容，支持语义搜索和 MCP 服务。核心亮点是隐私优先、完全自托管，适合想拥有自己搜索、不依赖第三方引擎的极客和开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 734 分 · 199 评论",
+      "reasonZh": "自建的个人搜索引擎，把浏览历史、网页索引和语义搜索全攥在自己手里，还带 MCP 能给 AI 当资料库。比起一堆浏览器插件或云端书签，它更像一个私有的小 Google，适合注重隐私又想找回“前几天看过的那个页面”的人自托管部署。"
+    },
+    {
+      "repo": "OmniNull/OmniWM",
+      "url": "https://github.com/OmniNull/OmniWM",
+      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
+      "language": "Swift",
+      "stars": 2979,
+      "summaryZh": "这是一个面向 Apple Silicon Mac 的免费开源平铺窗口管理器，支持 Niri 风格滚动容器和 Hyprland 风格 Dwindle BSP 布局。适合追求高效窗口管理、喜欢平铺式桌面的 macOS 生产力用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "给苹果芯片 Mac 用的免费平铺窗口管理器，直接搬来了 Niri 那套滚动容器和 Hyprland 的 Dwindle 布局，这在 macOS 上很少见。相比 Rectangle 这类分屏工具，它的键盘流操作和滚动式工作区更接近 Linux 党熟悉的体验，适合嫌 macOS 窗口管理太弱的效率控。"
+    },
+    {
+      "repo": "amicalhq/amical",
+      "url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "language": "TypeScript",
+      "stars": 1537,
+      "summaryZh": "这是一款开源、本地优先的 AI 听写应用，基于开源模型实现离线语音转文字，号称打字速度提升三倍。核心亮点是支持本地运行、注重隐私，适合需要快速记录、会议笔记或语音输入的 Mac 和 Windows 用户。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "开源本地优先的语音听写应用，用开源模型离线转写，还能自动整理会议笔记。跟 Wispr Flow 这类云端听写比，它不上传音频、可自托管，隐私更放心。开会、写文档懒得敲键盘时，直接说话让它帮你打字就行。"
+    },
+    {
+      "repo": "unstablebuild/rune",
+      "url": "https://github.com/unstablebuild/rune",
+      "description": "the development environment for pros",
+      "language": "Go",
+      "stars": 1057,
+      "summaryZh": "Rune 是一个面向专业开发者的终端开发环境，集成了代码编辑器、终端多路复用器和 AI 编码代理编排功能，基于 Go 构建并采用 TUI 界面。其核心亮点在于将多种开发工具整合到统一的终端工作区，提升工作效率。适合习惯命令行、希望在一个界面内管理编码代理和终端会话的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +408（+63%）",
+      "reasonZh": "一个把终端复用器、编辑器和 AI 编码代理编排揉在一起的开发环境，全在 TUI 里操作。相比 tmux 加编辑器的拼装方案，它原生围绕 coding agent 设计，能同时管多个工作区和代理会话，适合整天泡在终端里写代码、又想让 AI 代劳的人。"
+    },
+    {
+      "repo": "agentverse-os/AgentVerse-OS",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "language": "Rust",
+      "stars": 971,
+      "summaryZh": "AgentVerse-OS 是一个个人云操作系统，专为开发者和其 AI 代理设计，可在单台服务器上通过一条命令安装于 Ubuntu，并通过浏览器访问完整的窗口化桌面、隔离工作区以及 VS Code 和 Claude 等工具。它基于 Rust 构建，强调隔离性和易用性。适合希望集中管理 AI 代理和开发环境的个人开发者或小团队。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +357（+58%）",
+      "reasonZh": "在单台 Ubuntu 服务器上一条命令装好的个人云操作系统，浏览器里就有窗口桌面、隔离工作区和 VS Code，专门给开发者加 AI 代理用。比起自己拼 Docker 和远程 IDE，它开箱即用，适合想给 AI 代理一个独立安全运行环境的自托管玩家。"
+    },
+    {
+      "repo": "eval-exec/neomacs",
+      "url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "language": "Rust",
+      "stars": 1462,
+      "summaryZh": "Neomacs 是一个用 Rust 编写的 GPU 加速 Emacs 替代品，旨在提供现代显示引擎、多线程 Elisp 和零暂停并发 GC，同时保持 100% 兼容 Emacs。其核心目标是实现 10 倍性能提升和现代设计。适合追求高性能、现代编辑器体验的 Emacs 用户和 Rust 爱好者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "用 Rust 重写、走 GPU 渲染的 Emacs，目标是多线程 Elisp、十倍性能和并发 GC，还想 100% 兼容老配置。跟折腾原生 Emacs 的启动速度和卡顿相比，它从显示引擎下手治本。适合爱 Emacs 又被卡顿劝退、愿意尝鲜的开发者追着看。"
+    },
+    {
+      "repo": "unhappychoice/gittype",
+      "url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "language": "Rust",
+      "stars": 1605,
+      "summaryZh": "GitType 是一个 CLI 代码打字游戏，将你的源代码转化为打字挑战，基于 Rust 和 ratatui 构建。它通过游戏化方式帮助开发者练习打字和熟悉代码，支持 tree-sitter 解析。适合想提升编码速度或通过趣味方式学习编程的开发者。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "把你自己项目的源码变成打字练习的终端游戏，用 tree-sitter 解析真实代码。比起千篇一律的英文打字测试，它让你在练手速的同时熟悉自己的代码库，挺有梗。适合想练键盘又嫌打字网站无聊的程序员，边玩边肌肉记忆。"
+    },
+    {
+      "repo": "kunkka19xx/look",
+      "url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "language": "Rust",
+      "stars": 993,
+      "summaryZh": "Look 是一个开源跨平台启动器，是 Spotlight 和 Raycast 的轻量级替代品，使用 Rust、Tauri 和 Swift 构建，支持 Linux、macOS 和 Windows。它提供快速启动应用和文件搜索功能，注重隐私和社区驱动。适合寻求高效、轻量启动器工具的开发者及普通用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "跨平台开源启动器，定位是 Spotlight 和 Raycast 的轻量替代品。跟 macOS 独占的 Raycast 不同，它 Linux、Windows、Mac 都能用，体积小、社区驱动。适合在多系统间来回切换、又想要统一快速启动体验的人。"
+    },
+    {
+      "repo": "westpoint-io/mimik",
+      "url": "https://github.com/westpoint-io/mimik",
+      "description": "🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸",
+      "language": "TypeScript",
+      "stars": 1026,
+      "summaryZh": "Mimik 是一个浏览器扩展，在你点击时捕获工作流程，并生成带有注释截图的分步指南。它基于 TypeScript 和 React 开发，支持 Chrome 和 Firefox，注重本地优先和隐私保护。适合需要快速创建教程、文档或演示的团队和个人，提升沟通效率。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "浏览器扩展，你正常点一遍流程它就自动录成带标注截图的分步教程。比起手动截图写文档或录屏，它本地运行不传数据，边操作边生成。适合要写 SOP、产品引导或给同事演示操作步骤但懒得排版的人。"
+    }
+  ]
+}
