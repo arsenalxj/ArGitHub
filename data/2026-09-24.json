@@ -1,0 +1,449 @@
+{
+  "date": "2026-09-24",
+  "trending": [
+    {
+      "repo": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 37048,
+      "summaryZh": "这是 Anthropic 面向金融服务行业推出的开源项目，提供适配金融场景的 AI 工具链与示例实现。核心亮点在于将 Claude 的推理能力与金融数据分析、合规审查等业务流程结合，助力机构快速落地智能助手。适合银行、券商、金融科技团队及需要金融 AI 解决方案的开发者参考使用。",
+      "category": "AI",
+      "starsToday": 664
+    },
+    {
+      "repo": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars": 9310,
+      "summaryZh": "这是 Google 推出的开源智能体编排运行时，用 Go 编写，用于构建和调度多代理协作系统。核心功能包括代理生命周期管理、任务编排和跨服务通信，能为复杂 AI 工作流提供底层支撑。适合需要搭建生产级多智能体系统的后端工程师与 AI 平台团队。",
+      "category": "AI",
+      "starsToday": 1543
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": 31569,
+      "summaryZh": "这是一个用于配置和监控 Claude Code 的 CLI 工具，提供模板化配置与运行状态监控能力。核心亮点是简化 Claude Code 的初始化与日常管理，让开发者能快速接入并追踪使用情况。适合使用 Claude Code 进行日常开发的工程师，尤其是需要统一配置和团队协作的场景。",
+      "category": "开发工具",
+      "starsToday": 389
+    },
+    {
+      "repo": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "stars": 6629,
+      "summaryZh": "这是一个用 TypeScript 编写的框架，用于构建原生智能体应用。它提供代理编排、工具调用和状态管理等核心能力，帮助开发者快速搭建具备自主决策能力的 AI 应用。适合前端与全栈开发者，尤其是在 Web 场景中集成智能体功能的团队使用。",
+      "category": "AI",
+      "starsToday": 87
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 290793,
+      "summaryZh": "这是一个智能体技能框架与软件开发方法论，用 Shell 实现，强调让 AI 代理真正可用的工程实践。核心亮点在于将技能定义、编排与开发流程结合，形成可复用的代理工作模式。适合希望系统化构建 AI 代理应用并探索新开发范式的工程师和团队。",
+      "category": "AI",
+      "starsToday": 474
+    },
+    {
+      "repo": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 16470,
+      "summaryZh": "这是面向 AI 代理的 Office 运行时，将表格、文档、幻灯片、画布、关系表和 PDF 整合到统一引擎中。核心亮点是提供可编程的 Office 能力，让智能体能直接操作办公文档。适合需要为 AI 代理赋予文档处理能力的开发者，以及构建办公自动化产品的团队。",
+      "category": "开发工具",
+      "starsToday": 1142
+    },
+    {
+      "repo": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 18929,
+      "summaryZh": "这是一个开源股票行情平台，作为昂贵市场数据服务的免费替代品。支持实时价格追踪、个性化提醒和公司深度信息查询，完全开放且永久免费。适合个人投资者、量化爱好者及需要自建行情看板的开发者，尤其适合预算有限但需要专业数据的场景。",
+      "category": "其他",
+      "starsToday": 344
+    },
+    {
+      "repo": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "stars": 3567,
+      "summaryZh": "这是 Agent Substrate 的核心系统，用 Go 编写，为智能体运行提供底层基础设施。核心功能包括代理调度、资源隔离和运行时支持，旨在成为代理应用的通用底座。适合构建 AI 代理平台的基础设施工程师，以及需要稳定运行时支撑的代理应用开发者。",
+      "category": "AI",
+      "starsToday": 558
+    },
+    {
+      "repo": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "language": "Python",
+      "stars": 7937,
+      "summaryZh": "这是一个开源 SDK，用于在 Python 和 TypeScript 中端到端构建和掌控生产级 AI 代理。支持任意模型和任意云平台，提供完整的代理编排与运行控制能力。适合需要将 AI 代理部署到生产环境的后端与全栈工程师，尤其是多模型、多云场景的团队。",
+      "category": "AI",
+      "starsToday": 115
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "stars": 50016,
+      "summaryZh": "这是香港大学数据科学团队推出的项目，目标是让所有软件都具备代理原生能力。它通过 CLI-Hub 将命令行工具接入智能体生态，使 AI 能直接调用和组合各类软件。适合希望扩展代理工具边界的开发者，以及研究 AI 与系统交互的科研人员。",
+      "category": "AI",
+      "starsToday": 57
+    },
+    {
+      "repo": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "stars": 2807,
+      "summaryZh": "这是一个面向代理工具的开放路由平台，被称为代理工具界的 OpenRouter。核心功能是统一接入和调度各类代理工具，降低集成与切换成本。适合需要为 AI 代理快速接入多样化工具的开发者，以及构建代理工具市场或聚合平台的团队。",
+      "category": "AI",
+      "starsToday": 506
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 70448,
+      "summaryZh": "这是一套设计语言，用于提升 AI 代理的设计能力，让代理生成更专业、更协调的界面与视觉方案。核心亮点在于将设计原则编码为代理可理解的规范，改善 AI 产出的设计质量。适合使用 AI 辅助设计的前端工程师、设计师，以及构建设计代理产品的团队。",
+      "category": "前端",
+      "starsToday": 304
+    },
+    {
+      "repo": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars": 14519,
+      "summaryZh": "这是移动设备取证工具包，用于检测手机是否被入侵或存在潜在安全威胁。支持 iOS 和 Android，可分析备份、日志与系统痕迹，发现间谍软件等异常。适合安全研究人员、数字取证分析师及记者等需要验证移动设备安全性的用户。",
+      "category": "其他",
+      "starsToday": 543
+    },
+    {
+      "repo": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 44664,
+      "summaryZh": "这是一个高性能代码智能 MCP 服务器，用 C 编写，将代码库索引为持久化知识图谱。支持 158 种语言，查询达亚毫秒级，令牌消耗减少 99%，以单一静态二进制分发。适合需要为 AI 代理提供高效代码理解与检索能力的开发者，尤其适合大型代码库场景。",
+      "category": "开发工具",
+      "starsToday": 190
+    },
+    {
+      "repo": "harry7557558/spirula-studio",
+      "url": "https://github.com/harry7557558/spirula-studio",
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "language": "C++",
+      "stars": 785,
+      "summaryZh": "这是一个跨厂商的 3D 高斯泼溅训练工具，支持从视频到泼溅再到网格的完整流程，兼容 Vulkan 与 CUDA。核心亮点是打破硬件厂商限制，让更多设备都能进行高质量三维重建。适合 3D 重建研究者、图形开发者及需要从视频生成三维资产的创作者。",
+      "category": "其他",
+      "starsToday": 69
+    },
+    {
+      "repo": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 26597,
+      "summaryZh": "用编码代理来编辑视频的开源项目，把视频剪辑操作抽象成代码指令，让 AI Agent 像写脚本一样完成剪辑任务。核心亮点在于复用了 browser-use 的代理交互思路，适合开发者探索 AI 自动化视频处理流程。",
+      "category": "开发工具",
+      "starsToday": 746
+    },
+    {
+      "repo": "TNT-Likely/PanWatch",
+      "url": "https://github.com/TNT-Likely/PanWatch",
+      "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "language": "Python",
+      "stars": 1609,
+      "summaryZh": "自托管的 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策框架，支持 A 股、港股、美股实时行情监控、持仓管理与智能分析，并通过全渠道推送预警。适合有多市场仓位、想要私有化部署智能盯盘的个人投资者。",
+      "category": "AI",
+      "starsToday": 95
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "language": "Python",
+      "stars": 21059,
+      "summaryZh": "非自回归的 System 1 决策引擎，能在单次前向传播中对任意文本完成类型化选择、打分和是非判断，覆盖 100 多种语言，并通过路由器自动选择合适检查点。适合需要在低延迟场景下做统一多语言分类与决策的 NLP 开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-18T04:46:33Z"
+    },
+    {
+      "repo": "tamaratran/fast-jev-compaction",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "language": "TypeScript",
+      "stars": 6613,
+      "summaryZh": "Claude Code 插件，用 Jev 决策替换原有的压缩摘要机制：每次工具调用与结果都在一次快速请求中被打分，过期的内容被丢弃或截断，保留部分则逐字维持原样。适合重度使用 Claude Code、希望降低上下文冗余的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-17T05:57:20Z"
+    },
+    {
+      "repo": "zai-org/ZCode",
+      "url": "https://github.com/zai-org/ZCode",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "language": "TypeScript",
+      "stars": 6586,
+      "summaryZh": "Z.ai 推出的编码代理框架，主打强大、智能与可扩展，为开发者提供构建和运行自主编程 Agent 的底层骨架。适合需要在自有项目中集成编码代理能力、或想基于现成 harness 二次开发的团队。",
+      "category": "开发工具",
+      "createdAt": "2026-09-20T12:01:16Z"
+    },
+    {
+      "repo": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "language": "Python",
+      "stars": 6210,
+      "summaryZh": "基于 Qwen3.5 构建的轻量级 Jev 风格决策模型家族，支持自行训练和本地运行，聚焦类型化决策任务。适合想在私有环境里微调小模型、又不想从零搭建训练管线的研究者和工程师。",
+      "category": "AI",
+      "createdAt": "2026-09-17T20:49:39Z"
+    },
+    {
+      "repo": "jev-chat/jev-chat-jarvis",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "language": "Kotlin",
+      "stars": 5401,
+      "summaryZh": "装在 Android 手机上的对话副驾，能在微信、QQ、X、飞书中读懂聊天内容、给出候选回复并一键填入输入框，由用户决定是否发送。采用无障碍服务只读屏幕，不 hook 不改包，适合希望提升日常沟通效率的安卓用户。",
+      "category": "AI",
+      "createdAt": "2026-09-21T11:12:53Z"
+    },
+    {
+      "repo": "TianyuCodings/NanoJev",
+      "url": "https://github.com/TianyuCodings/NanoJev",
+      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "language": "Python",
+      "stars": 2135,
+      "summaryZh": "Jev 的极简复刻实现，包含并行决策、动态候选和端到端训练管线，代码规模小巧便于理解。适合想深入研究类型化决策模型内部机制、或以此为教学与实验起点的开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-17T16:08:30Z"
+    },
+    {
+      "repo": "unreallabsai/unreal-agent",
+      "url": "https://github.com/unreallabsai/unreal-agent",
+      "description": "Async-first agent harness",
+      "language": "Go",
+      "stars": 1768,
+      "summaryZh": "以异步优先为设计理念的 Agent 框架，用 Go 编写，便于高并发场景下编排和调度智能体任务。适合构建对吞吐和并发有要求的生产级 Agent 服务、且偏好 Go 技术栈的工程团队。",
+      "category": "AI",
+      "createdAt": "2026-09-21T23:14:02Z"
+    },
+    {
+      "repo": "bespokelabsai/nimble",
+      "url": "https://github.com/bespokelabsai/nimble",
+      "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "language": "Python",
+      "stars": 1698,
+      "summaryZh": "面向本地类型化决策的工具集，同时提供对比式数据筛选与模型评估能力，帮助打造高质量训练数据闭环。适合在做决策模型微调、需要系统化评估与数据治理的 AI 工程师。",
+      "category": "AI",
+      "createdAt": "2026-09-18T09:07:48Z"
+    },
+    {
+      "repo": "yibie/awesome-jev",
+      "url": "https://github.com/yibie/awesome-jev",
+      "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+      "language": "Python",
+      "stars": 1530,
+      "summaryZh": "围绕 Jev（TypeSafe AI 的 System One 类型化决策模型）整理的资源合集，收录公开项目、集成方案和相关讨论。适合想快速了解 Jev 生态全貌、寻找现成实现与参考案例的开发者当作索引使用。",
+      "category": "资料教程",
+      "createdAt": "2026-09-17T14:23:21Z"
+    },
+    {
+      "repo": "hydra-db/open-glean",
+      "url": "https://github.com/hydra-db/open-glean",
+      "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+      "language": "TypeScript",
+      "stars": 1507,
+      "summaryZh": "开源的知识工作 AI 平台，可连接各类应用、检索答案并协助完成工作任务，定位是企业级知识助手的开放替代方案。适合希望自建知识检索与问答能力、又不想绑定闭源 SaaS 的团队。",
+      "category": "AI",
+      "createdAt": "2026-09-17T05:22:08Z"
+    },
+    {
+      "repo": "mizorewww/laya-coreml",
+      "url": "https://github.com/mizorewww/laya-coreml",
+      "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+      "language": "Python",
+      "stars": 1400,
+      "summaryZh": "把 Laya 类型化决策模型移植到 Apple Core ML 和神经引擎，M3 Max 上短决策约 5 毫秒，并提供可复现的速度与能耗基准。适合追求端侧低延迟本地 AI、在苹果设备上做推理的开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-19T23:14:13Z"
+    },
+    {
+      "repo": "newliver666/apk-reverse",
+      "url": "https://github.com/newliver666/apk-reverse",
+      "description": "Suitable for Android APK reverse engineering analysis",
+      "language": "Python",
+      "stars": 1335,
+      "summaryZh": "面向 Android APK 逆向工程分析的工具与资料集合，覆盖反编译、结构解析等常见分析环节。适合安全研究人员和移动端开发者用于学习 APK 逆向流程、开展应用安全分析。",
+      "category": "开发工具",
+      "createdAt": "2026-09-19T13:12:54Z"
+    },
+    {
+      "repo": "Lumid-Off/AirCard-Windows",
+      "url": "https://github.com/Lumid-Off/AirCard-Windows",
+      "description": "",
+      "language": "Rust",
+      "stars": 802,
+      "summaryZh": "Windows 平台上的 AirCard 项目实现，用 Rust 编写，提供与同名产品相关的桌面端功能支持。适合在 Windows 环境下需要该工具进行设备或卡片相关操作的 Rust 用户与开发者。",
+      "category": "其他",
+      "createdAt": "2026-09-18T14:27:48Z"
+    },
+    {
+      "repo": "heyjunpenn/awesome-jev",
+      "url": "https://github.com/heyjunpenn/awesome-jev",
+      "description": "A verified, community-maintained catalog of 896 open-source projects built with Jev.",
+      "language": "Astro",
+      "stars": 781,
+      "summaryZh": "这是一个社区维护的 Jev 开源项目精选目录，收录了 896 个经过验证的项目。核心价值在于提供类型安全、高质量的参考资源，帮助开发者快速找到基于 Jev 构建的实用工具。适合正在学习或使用 Jev 的开发者，作为项目选型和灵感来源。",
+      "category": "资料教程",
+      "createdAt": "2026-09-19T05:14:36Z"
+    },
+    {
+      "repo": "driceroland/Search",
+      "url": "https://github.com/driceroland/Search",
+      "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+      "language": "Swift",
+      "stars": 766,
+      "summaryZh": "这是一个 macOS 平台的小巧快速的 WebKit 浏览器，由 Office Commun 开发。核心亮点是轻量级设计，启动迅速且资源占用低，同时基于 WebKit 保证网页兼容性。适合追求简洁高效浏览体验的 macOS 用户，尤其是开发者需要快速查阅文档时使用。",
+      "category": "开发工具",
+      "createdAt": "2026-09-20T10:29:47Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "ozeranskii/httptap",
+      "url": "https://github.com/ozeranskii/httptap",
+      "description": "Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.",
+      "language": "Python",
+      "stars": 818,
+      "summaryZh": "这是一个基于 Rich 的 CLI 工具，能将 HTTP 请求分解为 DNS、连接、TLS、等待和传输阶段。核心功能是提供瀑布时间线、紧凑摘要或仅指标输出，帮助诊断网络性能问题。适合开发者和运维人员排查 HTTP/2 请求延迟、优化网络性能时使用。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "一个专治网络慢的 CLI 神器，把每个 HTTP 请求拆成 DNS、连接、TLS、等待、传输各阶段，用瀑布图直接告诉你卡在哪。比 curl -w 直观太多，排查接口超时或 CDN 慢的时候一键上手，普通开发者也能看懂。"
+    },
+    {
+      "repo": "unstablebuild/rune",
+      "url": "https://github.com/unstablebuild/rune",
+      "description": "the development environment for pros",
+      "language": "Go",
+      "stars": 1088,
+      "summaryZh": "这是一个面向专业开发者的开发环境，用 Go 编写，集成了终端复用器、文本编辑器和 AI 代理编排。核心亮点是提供窗口化工作区和代理编排能力，提升编码效率。适合需要高效管理多个 AI 编码代理和终端会话的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +332（+44%）",
+      "reasonZh": "把编辑器、终端多路复用、AI 编程代理编排和 workspace 管理揉进一个 TUI，Go 写的，装完就能在终端里同时管多个 coding agent。比 tmux 加一堆插件省心，适合整天泡在终端里、想统一管理 AI 编码工作流的开发者。"
+    },
+    {
+      "repo": "agentverse-os/AgentVerse-OS",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "language": "Rust",
+      "stars": 977,
+      "summaryZh": "这是一个个人云操作系统，专为开发者和其 AI 代理设计，可在单台服务器上运行。核心亮点是一键安装于 Ubuntu，提供浏览器内的窗口化桌面和隔离工作区，集成 VS Code 和 Claude。适合希望集中管理 AI 代理和开发环境的个人开发者或小团队。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +286（+41%）",
+      "reasonZh": "在单台 Ubuntu 服务器上一条命令装出个人云 OS，浏览器里就有窗口桌面、隔离 workspace、VS Code 和 Claude Code 代理，等于把开发机和 AI 工作流打包自托管。轻量又完整，适合想自己掌控 AI 开发环境的人。"
+    },
+    {
+      "repo": "BlkLeg/CircuitBreaker",
+      "url": "https://github.com/BlkLeg/CircuitBreaker",
+      "description": "Bring your homelab to life. A self-hosted IPAM and service mapper that visualizes complex hardware, compute, and network relationships in real-time.",
+      "language": "Python",
+      "stars": 201,
+      "summaryZh": "这是一个自托管的 IPAM 和服务映射工具，用于可视化家庭实验室的硬件、计算和网络关系。核心功能是实时展示网络拓扑，支持 Proxmox 集成。适合拥有家庭实验室或小型网络的系统管理员，用于监控和规划网络基础设施。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "自托管的 IPAM 加服务地图，能实时可视化 homelab 里的硬件、算力和网络关系，还接 Proxmox。比拿表格记 IP 强太多，折腾家庭实验室、服务器一多就记不清连线时特别有用。"
+    },
+    {
+      "repo": "mcncarl/jianying-headless",
+      "url": "https://github.com/mcncarl/jianying-headless",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "language": "Python",
+      "stars": 2486,
+      "summaryZh": "这是一个剪映草稿的私有源预览工具，支持原生草稿、隔离编辑/导出和独立的 Agent Skill。核心亮点是无需打开剪映即可处理草稿，并可通过代理自动化操作。适合视频创作者和开发者，需要批量或自动化处理剪映项目时使用。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1336（+116%）",
+      "reasonZh": "把剪映草稿本原生格式做成无头编辑和导出，还带独立 Agent Skill，能脚本化批量剪辑。比录屏或 GUI 自动化干净，适合想把视频生产流程接进 AI 代理、做批量短视频的人。"
+    },
+    {
+      "repo": "vinzdg/codenotch",
+      "url": "https://github.com/vinzdg/codenotch",
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "language": "Swift",
+      "stars": 2421,
+      "summaryZh": "这是一个 macOS 应用，能将 Claude Code、Cursor、Codex 和 Antigravity 的使用限制固定在屏幕边缘。核心功能是实时监控 AI 编码工具的使用量，避免超出限额。适合依赖多个 AI 编程助手的开发者，帮助管理使用配额。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +613（+34%）",
+      "reasonZh": "一个 macOS 小应用，把 Claude Code、Cursor、Codex 等工具的用量限额钉在屏幕边缘，随时能看到还剩多少额度。比反复点开各家后台查用量省事，重度依赖多个 AI 编码工具的开发者会很喜欢。"
+    },
+    {
+      "repo": "RackulaLives/Rackula",
+      "url": "https://github.com/RackulaLives/Rackula",
+      "description": "rack layout designer",
+      "language": "TypeScript",
+      "stars": 1725,
+      "summaryZh": "这是一个机架布局设计器，用 TypeScript 编写，支持拖放操作和容量规划。核心亮点是可视化设计服务器机架，集成 NetBox，适合自托管环境。适合系统管理员和家庭实验室爱好者，用于规划和记录网络基础设施。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "拖拽式机柜布局设计器，自托管、能画服务器机架图并做容量规划，还支持 NetBox。比 Visio 手画省事，homelab 玩家或运维要给同事展示机柜规划时直接浏览器打开就能用。"
+    },
+    {
+      "repo": "Tombert/office365_flake",
+      "url": "https://github.com/Tombert/office365_flake",
+      "description": "A set of Nix Flakes and scripts to get Office 365 working on Linux without virtualization. ",
+      "language": "C",
+      "stars": 47,
+      "summaryZh": "这是一组 Nix Flakes 和脚本，用于在 Linux 上无需虚拟化运行 Office 365。核心亮点是通过 Wine 和 Nix 实现原生兼容，简化安装过程。适合需要在 Linux 系统上使用 Office 365 的用户，尤其是 NixOS 开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +21（+81%）",
+      "reasonZh": "用 Nix Flakes 让 Office 365 在 Linux 上不靠虚拟机直接跑起来，项目很小众但痛点很真实。相比 Wine 各种折腾，它给 Nix 用户一条干净的复现路径，Linux 办公党值得一试。"
+    },
+    {
+      "repo": "ganapativs/microcharts",
+      "url": "https://github.com/ganapativs/microcharts",
+      "description": "Word-sized charts for React, made for LLMs and humans — 106 chart types, zero runtime dependencies, accessible by default, RSC-safe.",
+      "language": "TypeScript",
+      "stars": 193,
+      "summaryZh": "这是一个为 React 设计的微型图表库，提供 106 种图表类型，零运行时依赖，默认无障碍，且兼容 RSC。核心亮点是超小体积和高性能，适合嵌入 LLM 和人类可读的界面中。适合需要轻量级数据可视化的 React 开发者，特别是在 AI 应用中。",
+      "category": "前端",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "给 React 用的微型图表库，106 种图、零运行时依赖、默认可访问，还专门为 LLM 生成场景优化。比动辄几百 KB 的图表库轻太多，适合在仪表盘或 AI 输出里嵌 sparkline 的人。"
+    },
+    {
+      "repo": "Sudharsanselvaraj/Token-Print",
+      "url": "https://github.com/Sudharsanselvaraj/Token-Print",
+      "description": "Interactive 3D visualization platform for exploring transformer architectures, tensors, and real-time LLM inference.",
+      "language": "TypeScript",
+      "stars": 198,
+      "summaryZh": "这是一个交互式 3D 可视化平台，用于探索 Transformer 架构、张量和实时 LLM 推理。核心亮点是结合 Three.js 和 WebGL 提供直观的模型内部观察。适合机器学习研究者和开发者，用于教学、调试或理解大语言模型的工作原理。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "在浏览器里用 3D 可视化 Transformer 架构和张量，还能接 GGUF 模型看实时推理过程。比看论文图直观得多，适合想搞懂 LLM 内部到底怎么跑的学习者和老师。"
+    }
+  ]
+}
