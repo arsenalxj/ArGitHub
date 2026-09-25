@@ -1,0 +1,397 @@
+{
+  "date": "2026-09-25",
+  "trending": [
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 56752,
+      "summaryZh": "一个从零手写 AI 工程全流程的学习项目，用 Python 带你走完学、建、交付三阶段。核心亮点是把理论落到可运行代码，覆盖工程化落地而非纯算法，适合想系统入门 AI 工程或补齐动手能力的开发者。",
+      "category": "资料教程",
+      "starsToday": 347
+    },
+    {
+      "repo": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 28081,
+      "summaryZh": "一个会学习的智能体记忆系统，让 Agent 能持续积累并复用历史经验。核心是用 Python 实现可演进的记忆机制，而非简单向量检索，适合需要长期上下文与个性化记忆的 AI 应用开发者。",
+      "category": "AI",
+      "starsToday": 1668
+    },
+    {
+      "repo": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 17922,
+      "summaryZh": "面向 AI Agent 的办公套件运行时，用 TypeScript 把表格、文档、幻灯片、画布、关系表和 PDF 统一到一个引擎。核心技术是多文档类型共享协同与计算能力，适合构建 AI 办公助手或在线协作产品的团队。",
+      "category": "开发工具",
+      "starsToday": 1082
+    },
+    {
+      "repo": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars": 10670,
+      "summaryZh": "谷歌开源的智能体编排运行时，用 Go 编写，提供端到端的 Agent 调度与执行能力。核心是高性能、可扩展的编排架构，适合需要生产级、低延迟 Agent 基础设施的后端与平台工程师。",
+      "category": "AI",
+      "starsToday": 1373
+    },
+    {
+      "repo": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "language": "Python",
+      "stars": 4143,
+      "summaryZh": "英伟达推出的统一模型优化库，集合量化、蒸馏、剪枝、神经架构搜索、投机解码等 SOTA 技术。核心是一站式压缩深度学习模型，适合需要在部署前显著降低模型体积与推理成本的工程师。",
+      "category": "AI",
+      "starsToday": 44
+    },
+    {
+      "repo": "FxEmbed/FxEmbed",
+      "url": "https://github.com/FxEmbed/FxEmbed",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "language": "TypeScript",
+      "stars": 5396,
+      "summaryZh": "修复 X/Twitter 与 Bluesky 嵌入体验的工具，支持多图、视频、投票、翻译等内容展示。用 TypeScript 实现，可在 Discord、Telegram 等平台内还原完整推文，适合社区运营者与 Bot 开发者。",
+      "category": "开发工具",
+      "starsToday": 182
+    },
+    {
+      "repo": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 37408,
+      "summaryZh": "Anthropic 推出的金融服务场景项目，用 Python 提供面向金融行业的 AI 能力实现。核心聚焦合规、数据分析等金融工作流，适合金融机构的技术团队探索 AI 在业务中的落地方式。",
+      "category": "AI",
+      "starsToday": 509
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "stars": 50387,
+      "summaryZh": "让所有软件变成 Agent 原生的命令行枢纽，通过 CLI-Hub 把任意工具接入智能体。核心是用 Python 统一封装命令行接口，适合希望快速扩展 Agent 工具生态、连接现有软件的开发者。",
+      "category": "AI",
+      "starsToday": 413
+    },
+    {
+      "repo": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars": 14755,
+      "summaryZh": "移动设备取证工具包，用于检测手机是否被入侵的痕迹。核心是用 Python 采集与分析 iOS、Android 的取证数据，适合安全研究人员、记者或需要自查设备安全性的高敏感人群。",
+      "category": "开发工具",
+      "starsToday": 272
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 291293,
+      "summaryZh": "一套经实践验证的智能体技能框架与软件开发方法论，用 Shell 组织可复用的 Agent 能力。核心是把提示词、工具与流程标准化，适合想系统化构建可靠 AI 开发工作流的工程师与团队。",
+      "category": "AI",
+      "starsToday": 611
+    },
+    {
+      "repo": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "language": "Python",
+      "stars": 8316,
+      "summaryZh": "构建并端到端控制 Agent 的开源 SDK，支持 Python 与 TypeScript，兼容任意模型和云平台。核心是为生产级 AI Agent 提供完整的编排与控制能力，适合需要跨模型跨云部署的企业开发者。",
+      "category": "AI",
+      "starsToday": 455
+    },
+    {
+      "repo": "julyx10/lap",
+      "url": "https://github.com/julyx10/lap",
+      "description": "An offline-first photo manager for large local libraries",
+      "language": "Vue",
+      "stars": 2923,
+      "summaryZh": "一个离线优先的本地照片管理器，用 Vue 构建，专为管理大规模本地图库设计。核心是不依赖云端即可完成整理、浏览与检索，适合注重隐私、照片数量庞大的个人用户。",
+      "category": "前端",
+      "starsToday": 122
+    },
+    {
+      "repo": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "stars": 3210,
+      "summaryZh": "被称作 Agent 工具界的 OpenRouter，用 Python 统一接入和调度各类智能体工具。核心是提供工具聚合与路由层，简化多工具调用，适合需要灵活组合多种 Agent 工具的开发者。",
+      "category": "AI",
+      "starsToday": 468
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "language": "Python",
+      "stars": 23345,
+      "summaryZh": "非自回归的系统 1 决策引擎，单次前向传播即可对任意文本做类型化选择、打分和是非判断，支持 100 多种语言。核心技术是路由机制按请求挑选合适检查点，适合需要快速、低延迟 NLP 决策的场景。",
+      "category": "AI",
+      "createdAt": "2026-09-18T04:46:33Z"
+    },
+    {
+      "repo": "zai-org/ZCode",
+      "url": "https://github.com/zai-org/ZCode",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "language": "TypeScript",
+      "stars": 6725,
+      "summaryZh": "智谱 Z.ai 推出的编程 Agent 框架，用 TypeScript 实现，主打强大、智能与可扩展。核心是为代码生成与自动化编程提供完整 harness，适合希望集成 AI 编码能力的开发者和团队。",
+      "category": "AI",
+      "createdAt": "2026-09-20T12:01:16Z"
+    },
+    {
+      "repo": "jev-chat/jev-chat-jarvis",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "language": "Kotlin",
+      "stars": 6226,
+      "summaryZh": "一款装在安卓手机上的对话副驾工具，能在 QQ、X、飞书等 App 中读懂聊天内容并给出候选回复，用户一键即可填入输入框。核心亮点是严格非侵入式设计：只通过无障碍服务读取屏幕，不 hook、不改包、不自动发送。适合想在日常社交中借助大模型快速组织语言，又重视隐私和账号安全的安卓用户。",
+      "category": "AI",
+      "createdAt": "2026-09-21T11:12:53Z"
+    },
+    {
+      "repo": "unreallabsai/unreal-agent",
+      "url": "https://github.com/unreallabsai/unreal-agent",
+      "description": "Async-first agent harness",
+      "language": "Go",
+      "stars": 1884,
+      "summaryZh": "用 Go 编写的异步优先 Agent 运行框架，围绕并发任务调度和高吞吐场景设计。核心亮点是 async-first 架构，让多个 Agent 步骤可以并行编排而不阻塞主流程。适合需要构建高并发、低延迟 AI Agent 服务的后端开发者，尤其是对 Go 生态和性能敏感的团队。",
+      "category": "AI",
+      "createdAt": "2026-09-21T23:14:02Z"
+    },
+    {
+      "repo": "bespokelabsai/nimble",
+      "url": "https://github.com/bespokelabsai/nimble",
+      "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "language": "Python",
+      "stars": 1742,
+      "summaryZh": "一个 Python 工具库，用于在本地完成类型化决策、对比式数据筛选和模型评估。核心亮点是把决策任务结构化为可校验的类型输出，并通过对比数据策略提升训练与评测质量。适合正在做小模型微调、数据清洗或需要可复现评估流程的机器学习工程师。",
+      "category": "AI",
+      "createdAt": "2026-09-18T09:07:48Z"
+    },
+    {
+      "repo": "mizorewww/laya-coreml",
+      "url": "https://github.com/mizorewww/laya-coreml",
+      "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+      "language": "Python",
+      "stars": 1441,
+      "summaryZh": "把 Laya 类型化决策模型迁移到 Apple Core ML 和神经引擎上运行，完全本地推理。亮点是经过验证的移植版本，在 M3 Max 上短决策耗时约 5 毫秒，并提供可复现的速度与能耗基准。适合追求低延迟、低功耗端侧 AI 的 Apple 生态开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-19T23:14:13Z"
+    },
+    {
+      "repo": "newliver666/apk-reverse",
+      "url": "https://github.com/newliver666/apk-reverse",
+      "description": "Suitable for Android APK reverse engineering analysis",
+      "language": "Python",
+      "stars": 1427,
+      "summaryZh": "面向安卓 APK 逆向工程分析的 Python 工具集，帮助安全研究人员拆解和审查应用结构。核心功能围绕 APK 的解包、代码还原与分析流程展开，可辅助定位加固、混淆和敏感逻辑。适合移动安全从业者、渗透测试人员和学习安卓逆向的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-19T13:12:54Z"
+    },
+    {
+      "repo": "driceroland/Search",
+      "url": "https://github.com/driceroland/Search",
+      "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+      "language": "Swift",
+      "stars": 1278,
+      "summaryZh": "由 Office Commun 开发的 macOS 小型快速浏览器，基于 WebKit 构建。主打轻量、启动迅速，为 Mac 用户提供一个比主流浏览器更简洁的日常搜索与网页浏览入口。适合只需要基础浏览能力、追求低资源占用的 macOS 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-20T10:29:47Z"
+    },
+    {
+      "repo": "deepopen-com/deepopen",
+      "url": "https://github.com/deepopen-com/deepopen",
+      "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+      "language": "Python",
+      "stars": 1011,
+      "summaryZh": "一个非自回归的 System 1 决策引擎，专为结构化类型决策场景设计，支持多语言。核心亮点是抛弃逐 token 自回归生成，直接输出类型化决策，从而大幅降低延迟。适合需要在高频、确定性场景中做快速判断的 AI 应用开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-21T02:12:24Z"
+    },
+    {
+      "repo": "Contrastive-LM/CLM",
+      "url": "https://github.com/Contrastive-LM/CLM",
+      "description": "",
+      "language": "Python",
+      "stars": 913,
+      "summaryZh": "一个对比式语言模型项目，围绕对比学习思路构建语言模型训练或推理流程。由于缺少详细描述，其重点大概率在于用对比目标提升表征质量或生成可控性。适合关注对比学习与语言模型结合方向的研究人员和工程师参考实践。",
+      "category": "AI",
+      "createdAt": "2026-09-23T19:29:56Z"
+    },
+    {
+      "repo": "mikehasa/golive-skill",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "language": "TypeScript",
+      "stars": 894,
+      "summaryZh": "帮助把 Agent 构建的产品真正上线的开源技能包，同时提供一个零依赖 Node CLI。覆盖主机托管、数据库、域名、邮箱和支付，按检测、规划、审批、执行、验证流程运行，且全部使用你自己的云账号。适合用 AI Agent 做产品、却卡在部署运维环节的独立开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-23T13:37:26Z"
+    },
+    {
+      "repo": "Lumid-Off/AirCard-Windows",
+      "url": "https://github.com/Lumid-Off/AirCard-Windows",
+      "description": "",
+      "language": "Rust",
+      "stars": 880,
+      "summaryZh": "一个用 Rust 编写的 Windows 端 AirCard 工具，从命名看是面向 Windows 平台的 AirCard 客户端实现。核心价值在于把 AirCard 相关能力带到 Windows 生态，并借助 Rust 获得较好的性能与内存安全。适合需要在 Windows 上使用 AirCard 的用户和关注 Rust 桌面应用的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-18T14:27:48Z"
+    },
+    {
+      "repo": "heyjunpenn/awesome-jev",
+      "url": "https://github.com/heyjunpenn/awesome-jev",
+      "description": "A verified, community-maintained catalog of 916 open-source projects built with Jev.",
+      "language": "Astro",
+      "stars": 811,
+      "summaryZh": "一个由社区维护、经过验证的 Jev 开源项目目录，目前收录 916 个项目。使用 Astro 构建，按类型整理并持续更新，方便快速查找基于 Jev 构建的类型安全项目。适合正在选型 Jev、想了解生态现状或寻找参考实现的开发者。",
+      "category": "资料教程",
+      "createdAt": "2026-09-19T05:14:36Z"
+    },
+    {
+      "repo": "kerpopule/hermes-jev-skills",
+      "url": "https://github.com/kerpopule/hermes-jev-skills",
+      "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+      "language": "Python",
+      "stars": 785,
+      "summaryZh": "为 Hermes Agent 提供 Jev 驱动的一系列技能，包括模型路由、记忆管理、上下文压缩、技能选择以及电脑和浏览器操作，同时兼容 Claude Code 与 Codex。核心亮点是把多种 Agent 能力模块化封装，便于组合调用。适合搭建复杂 Agent 工作流、需要统一技能层的开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-18T20:01:29Z"
+    },
+    {
+      "repo": "riba2534/claude-opus-5-5-demo",
+      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+      "description": "claude-opus-5-5-demo",
+      "language": "JavaScript",
+      "stars": 785,
+      "summaryZh": "一个 JavaScript 编写的演示项目，用于展示 Claude Opus 5.5 的能力或调用方式。核心价值在于提供可直接运行的示例代码，帮助开发者快速理解模型接入与交互流程。适合想上手 Claude 新模型、寻找最小可用参考的 JS 开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-23T06:31:00Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "devdotfast/whiteboard",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "description": "open-source canvas for thoughtful software design",
+      "language": "TypeScript",
+      "stars": 599,
+      "summaryZh": "一个开源画布工具，面向深思熟虑的软件设计场景，帮助团队把架构思路可视化。核心亮点是围绕软件设计流程组织画布交互，而非通用白板。在 HN 上获得 240 分和 94 条评论，适合做系统设计、架构评审和团队协作的工程师。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 240 分 · 94 评论",
+      "reasonZh": "一个专门为软件设计做的开源白板，不只是随便画图，而是能贴代码、画架构、做交互式草图那种。同类白板工具很多，但它聚焦在「想清楚软件怎么设计」这件事上，功能取舍更专业。适合开发者在动手写代码前梳理系统结构和方案讨论。"
+    },
+    {
+      "repo": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "stars": 4888,
+      "summaryZh": "腾讯云开源的自托管 AI 助手，支持多用户、多 Agent 协作，并具备长期记忆能力。核心亮点是 local-first 设计与 Agentic AI 架构，数据留在自己手中，同时可编排多个智能体完成任务。适合注重隐私、需要团队自建 AI 助手的组织，近期周涨星约 1297。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +1297（+36%）",
+      "reasonZh": "腾讯云开源的自托管 AI 助手，亮点是原生多用户、多智能体，还带长期记忆，适合自己部署当团队内部助手用。跟一堆单人玩的本地 AI 项目比，它更像能直接上生产的小平台，适合想私有化部署 AI 助手的个人或小团队。"
+    },
+    {
+      "repo": "Shrey113/Android-Dex",
+      "url": "https://github.com/Shrey113/Android-Dex",
+      "description": "Universal Samsung DeX alternative for all Android devices. Run Android apps on Windows, Linux & macOS with resizable windows, advanced FPS gaming controls, and high-performance wireless ADB mirroring.",
+      "language": "HTML",
+      "stars": 2670,
+      "summaryZh": "把任意安卓设备变成三星 DeX 式的桌面环境，在 Windows、Linux、macOS 上用可调窗口运行安卓应用。基于无线 ADB 与 scrcpy 实现高性能投屏，并提供键鼠映射与 FPS 级游戏操控。适合想在电脑上玩手游、做多窗口办公或替代官方 DeX 的用户。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "把安卓变成类三星 DeX 的桌面模式，Windows、Linux、macOS 都能跑安卓 App，还支持改窗口大小、无线 ADB 投屏和手柄映射。比 scrcpy 更像个完整桌面环境，适合想在电脑上舒服玩手游、或者把旧手机当轻办公终端的人。"
+    },
+    {
+      "repo": "dominostars/playtranslate",
+      "url": "https://github.com/dominostars/playtranslate",
+      "description": "Real-time screen translation app for Android for both language learners and casual gamers",
+      "language": "Kotlin",
+      "stars": 1193,
+      "summaryZh": "一款安卓实时屏幕翻译应用，能识别并翻译正在运行的游戏或应用画面文字。内置 OCR 与翻译流程，面向日语漫画、视觉小说与模拟器玩家。适合语言学习者和需要边玩边看懂外语游戏的休闲玩家。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "安卓上的实时屏幕翻译神器，游戏、视觉小说、漫画画面直接就地翻译，不用来回切 App。跟普通截图翻译不同，它是持续实时识别的，对玩日文游戏学语言的人特别友好，装机即用，不用折腾。"
+    },
+    {
+      "repo": "Doezer/Questarr",
+      "url": "https://github.com/Doezer/Questarr",
+      "description": "Questarr is an *Arr-inspired game manager that helps you discover, track, and automatically download the games you want.",
+      "language": "TypeScript",
+      "stars": 663,
+      "summaryZh": "受 Radarr/Sonarr 启发的游戏管理工具，帮助你发现、追踪并自动下载想玩的游戏。整合 torrent 与 usenet 索引，支持自动化和统一游戏库管理。适合已习惯 *Arr 生态、想用同一套流程管理游戏收藏的自托管用户。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "把 *Arr 那套自动化思路搬到游戏上：发现、追踪、自动下载你想玩的游戏，自托管部署。喜欢 Radarr/Sonarr 那套的人会觉得很亲切，适合自建游戏库、又懒得手动找资源的人，日常挂后台就能用。"
+    },
+    {
+      "repo": "Saramanda9988/LunaBox",
+      "url": "https://github.com/Saramanda9988/LunaBox",
+      "description": "Lightweight, sleek, and feature-rich visual novel management and game statistics tool",
+      "language": "Go",
+      "stars": 363,
+      "summaryZh": "轻量且功能丰富的视觉小说与 Galgame 管理及游戏统计工具。基于 Go 与 Wails 3 构建，提供本地游戏库整理、游玩时长记录与 AI 辅助信息。适合收藏量大、想统一管理并查看统计的视觉小说玩家。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "轻量好看的视觉小说管理加游戏时长统计工具，用 Go 和 Wails 写的桌面应用。同类工具要么太丑要么太重，它胜在清爽和功能齐。适合 galgame 玩家整理自己的游戏库、看看玩了多久，顺手还能 AI 辅助。"
+    },
+    {
+      "repo": "rangermix/TwitchDropsMiner",
+      "url": "https://github.com/rangermix/TwitchDropsMiner",
+      "description": "An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching. Web GUI, dockerised.",
+      "language": "Python",
+      "stars": 281,
+      "summaryZh": "自动挂机挖取 Twitch 限时掉宝的应用，支持自动领取奖励与自动切换频道。提供 Web 图形界面并可用 Docker 部署，实现无人值守运行。适合想省事拿满 Twitch Drops 奖励的观众和自托管爱好者。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "挂着自动挖 Twitch 掉落奖励的小工具，自动切换频道、自动领奖，还带 Web 界面和 Docker 部署。重度 Twitch 观众和游戏玩家不用再手动挂机，自托管跑着就行，比浏览器插件稳多了。"
+    },
+    {
+      "repo": "Tombert/office365_flake",
+      "url": "https://github.com/Tombert/office365_flake",
+      "description": "A set of Nix Flakes and scripts to get Office 365 working on Linux without virtualization. ",
+      "language": "C",
+      "stars": 48,
+      "summaryZh": "一组 Nix Flakes 与脚本，让 Office 365 在 Linux 上无需虚拟机即可运行。通过打包与配置依赖，简化在 Nix 环境中启动微软办公套件的过程。适合使用 NixOS 或 Nix 包管理、又需要在 Linux 上办公的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +22（+85%）",
+      "reasonZh": "用 Nix Flake 和脚本让 Linux 上不靠虚拟机也能跑 Office 365，思路挺野但确实解决痛点。和小众的网页版方案比，它更贴近原生体验。适合被 Office 绑定又坚持用 NixOS/Linux 的人，装完就能办公。"
+    },
+    {
+      "repo": "thanhkeke97/RSTGameTranslation",
+      "url": "https://github.com/thanhkeke97/RSTGameTranslation",
+      "description": "🎮 Real-time Game Translation Tool | OCR + AI Translation | Windows Gaming | Open Source",
+      "language": "C#",
+      "stars": 654,
+      "summaryZh": "开源的实时游戏翻译工具，在 Windows 上通过 OCR 截图识别文字并调用 AI 翻译。支持自动捕捉游戏画面文字并即时显示译文，覆盖多种语言。适合玩外语游戏时想无障碍理解剧情与对话的玩家。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "Windows 上实时游戏翻译工具，OCR 识别游戏画面再交给 AI 翻译，直接覆盖显示。跟截图翻译软件比，它专注游戏场景，延迟和排版都优化过。适合玩没有中文的海外游戏、又不想开外挂汉化补丁的玩家。"
+    }
+  ]
+}
