@@ -1,0 +1,359 @@
+{
+  "date": "2026-09-28",
+  "trending": [
+    {
+      "repo": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 90570,
+      "summaryZh": "一个开源的工作场景智能体管理应用，帮助团队统一调度和协作各类 AI Agent。核心亮点是打通不同智能体任务的编排与监控，提供集中式操作界面。适合在工作中需要同时管理多个 AI 代理的开发者或团队使用。",
+      "category": "AI",
+      "starsToday": 2401
+    },
+    {
+      "repo": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 38103,
+      "summaryZh": "一个让 AI Agent 拥有可学习长期记忆的开源项目，通过反思机制持续优化记忆质量。核心亮点在于让智能体从交互中积累经验并动态调整行为。适合构建需要长期上下文记忆的对话或任务型 Agent 的开发者使用。",
+      "category": "AI",
+      "starsToday": 4520
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 40728,
+      "summaryZh": "一个完全本地运行的开源语音工作室，定位为 ElevenLabs 的替代方案，支持声音克隆、语音设计、视频配音、听写、转录与有声书制作。覆盖 646 种语言，数据不出本地。适合注重隐私、需要多语言语音生成的创作者和开发者。",
+      "category": "AI",
+      "starsToday": 3086
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 59614,
+      "summaryZh": "一套从零开始学习 AI 工程的实践教程，强调先学会、再构建、最后交付给他人使用。内容覆盖 AI 工程核心概念与动手项目。适合想系统入门 AI 工程、希望边学边做完整项目的开发者与学生。",
+      "category": "资料教程",
+      "starsToday": 790
+    },
+    {
+      "repo": "InfinityLoop1308/PipePipe",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "description": "An open-source Android app to let you browse YouTube and other services freely.",
+      "language": "Shell",
+      "stars": 6667,
+      "summaryZh": "一个开源的 Android 应用，让用户可以自由浏览 YouTube 及其他视频服务。核心亮点是绕过限制、提供更自由的观看体验。适合在移动端希望无干扰访问视频内容的 Android 用户。",
+      "category": "其他",
+      "starsToday": 242
+    },
+    {
+      "repo": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars": 1141,
+      "summaryZh": "一个多智能体协作框架，把 Claude Code 和 Codex 组合成一个统一系统运行。核心亮点是让不同 AI 编程代理协同完成复杂任务。适合需要多代理并行处理开发工作流的工程师与研究者。",
+      "category": "AI",
+      "starsToday": 114
+    },
+    {
+      "repo": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 20742,
+      "summaryZh": "一个面向 AI Agent 的办公套件运行时，把表格、文档、幻灯片、画布、关系表和 PDF 统一在一个引擎中。核心亮点是提供统一的文档模型与 API 供智能体操作。适合需要让 AI 处理办公文档的开发者与企业应用场景。",
+      "category": "开发工具",
+      "starsToday": 895
+    },
+    {
+      "repo": "willfaust/Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "stars": 869,
+      "summaryZh": "一个在受限 iOS 设备上运行 x86-64 Windows 游戏的项目，通过 FEX-Emu、Wine 和 DXMT 实现转译与图形兼容。核心亮点是在沙盒环境中跑起 PC 游戏。适合想在 iPhone 或 iPad 上体验 Windows 游戏的极客玩家。",
+      "category": "游戏",
+      "starsToday": 83
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "jev-chat/jev-chat-jarvis",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "language": "Kotlin",
+      "stars": 6807,
+      "summaryZh": "一个装在手机上的对话副驾，在 QQ、X 和飞书中读懂对方消息并给出候选回复，一键填入输入框。核心亮点是非侵入式设计，只读屏幕、不 hook 不改包。适合需要聊天辅助但不希望破坏应用完整性的 Android 用户。",
+      "category": "AI",
+      "createdAt": "2026-09-21T11:12:53Z"
+    },
+    {
+      "repo": "unreallabsai/unreal-agent",
+      "url": "https://github.com/unreallabsai/unreal-agent",
+      "description": "Async-first agent harness",
+      "language": "Go",
+      "stars": 1996,
+      "summaryZh": "一个以异步优先为设计理念的智能体框架，用 Go 语言编写，面向高并发任务场景。核心亮点是异步架构带来的吞吐与响应优势。适合需要构建高性能、可扩展 AI Agent 服务的后端工程师。",
+      "category": "AI",
+      "createdAt": "2026-09-21T23:14:02Z"
+    },
+    {
+      "repo": "Contrastive-LM/CLM",
+      "url": "https://github.com/Contrastive-LM/CLM",
+      "description": "",
+      "language": "Python",
+      "stars": 1990,
+      "summaryZh": "一个基于对比学习的语言模型相关项目，仓库未提供详细描述。从命名推测聚焦于对比式训练方法在语言模型上的应用。适合关注对比学习与语言模型结合方向的研究者参考。",
+      "category": "AI",
+      "createdAt": "2026-09-23T19:29:56Z"
+    },
+    {
+      "repo": "tobi/disktree",
+      "url": "https://github.com/tobi/disktree",
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "language": "Rust",
+      "stars": 1672,
+      "summaryZh": "一个用树状图帮助查找和删除磁盘占用大户的工具，专为 Omarchy 环境打造，基于 Rust 和 GPUI 构建。核心亮点是直观可视化磁盘空间分布。适合需要清理磁盘、快速定位大文件的 Linux 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-24T20:56:29Z"
+    },
+    {
+      "repo": "mexicat/pdoom-video",
+      "url": "https://github.com/mexicat/pdoom-video",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "language": "TypeScript",
+      "stars": 1323,
+      "summaryZh": "一首歌曲《I'm Upping My P(doom)》的代码渲染音乐视频项目，用 TypeScript 实现画面生成。核心亮点是全部由代码驱动视频渲染，而非传统剪辑。适合对创意编程和代码生成视觉内容感兴趣的开发者。",
+      "category": "其他",
+      "createdAt": "2026-09-24T21:33:53Z"
+    },
+    {
+      "repo": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "language": "Go",
+      "stars": 1321,
+      "summaryZh": "一个从菜单栏统一管理各家 AI 模型的工具，可以把 Codex 接到 DeepSeek、把 Claude Code 接到 Kimi。核心亮点是集中配置与切换不同模型后端。适合在 macOS 上同时使用多个 AI 编程代理的开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-23T16:22:35Z"
+    },
+    {
+      "repo": "JohnHeibel/PDoomVideo",
+      "url": "https://github.com/JohnHeibel/PDoomVideo",
+      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+      "language": "JavaScript",
+      "stars": 1296,
+      "summaryZh": "Claude Opus 5.5 制作的歌曲《I'm Upping My P(doom)》音乐视频源代码，使用 JavaScript 实现。核心亮点是展示 AI 模型参与创意视频制作的完整代码。适合对 AI 生成视觉内容和创意编程感兴趣的开发者参考。",
+      "category": "其他",
+      "createdAt": "2026-09-22T23:32:19Z"
+    },
+    {
+      "repo": "deepopen-com/deepopen",
+      "url": "https://github.com/deepopen-com/deepopen",
+      "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+      "language": "Python",
+      "stars": 1044,
+      "summaryZh": "面向结构化类型决策场景的非自回归 System 1 决策引擎，跳过逐 token 生成直接输出决策结果，支持多语言。适合需要低延迟、高吞吐的分类与决策类 AI 应用开发者替换传统自回归方案。",
+      "category": "AI",
+      "createdAt": "2026-09-21T02:12:24Z"
+    },
+    {
+      "repo": "mikehasa/golive-skill",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "language": "TypeScript",
+      "stars": 1017,
+      "summaryZh": "让 AI Agent 构建的产品真正上线的开源 Agent Skill 与零依赖 Node CLI，按检测、规划、确认、执行、验证五步完成托管、数据库、域名、邮箱与支付配置，全部走用户自有账号。适合用 Claude Code 等工具做原型后想快速部署上线的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-23T13:37:26Z"
+    },
+    {
+      "repo": "kryvora-network/kryvora-node",
+      "url": "https://github.com/kryvora-network/kryvora-node",
+      "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+      "language": "Go",
+      "stars": 984,
+      "summaryZh": "Kryvora Network 节点的参考客户端守护进程与验证工作器，用 Go 编写，负责节点运行、遥测上报和任务验证。适合参与去中心化物理基础设施网络的节点运营者部署和运维自己的节点。",
+      "category": "其他",
+      "createdAt": "2026-09-22T16:10:23Z"
+    },
+    {
+      "repo": "dzhng/jevgrep",
+      "url": "https://github.com/dzhng/jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "language": "TypeScript",
+      "stars": 866,
+      "summaryZh": "面向编码 Agent 的命令行代码搜索工具，用自然语言描述功能来定位相关文件与上下文，基于 Jev 语义检索。适合在大型代码库中为 Claude Code、Codex 等 Agent 快速提供精准上下文的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-26T04:06:56Z"
+    },
+    {
+      "repo": "freestylefly/WeChatBridge",
+      "url": "https://github.com/freestylefly/WeChatBridge",
+      "description": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+      "language": "Swift",
+      "stars": 851,
+      "summaryZh": "原生 macOS 工具，通过分享扩展把微信聊天记录一键转发到 AI Agent 和 Obsidian 笔记库，用 Swift 编写。适合想将微信对话沉淀为个人知识库或喂给 AI 分析的知识管理用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-21T02:54:51Z"
+    },
+    {
+      "repo": "nokia-applied-research/AnyJev",
+      "url": "https://github.com/nokia-applied-research/AnyJev",
+      "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
+      "language": "Python",
+      "stars": 849,
+      "summaryZh": "把任意 LLM 转成 Jev 风格决策模型，无需训练即可输出类型化决策和真实概率，兼容 transformers 与 vLLM。适合需要可校准概率输出的决策系统研究者与工程团队。",
+      "category": "AI",
+      "createdAt": "2026-09-21T05:55:40Z"
+    },
+    {
+      "repo": "riba2534/claude-opus-5-5-demo",
+      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+      "description": "claude-opus-5-5-demo",
+      "language": "JavaScript",
+      "stars": 846,
+      "summaryZh": "演示 Claude Opus 5.5 能力的 JavaScript 示例项目，展示模型调用与基础集成方式。适合想快速了解该模型 API 用法并做原型验证的开发者参考。",
+      "category": "AI",
+      "createdAt": "2026-09-23T06:31:00Z"
+    },
+    {
+      "repo": "852wa/JIZURA",
+      "url": "https://github.com/852wa/JIZURA",
+      "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+      "language": "HTML",
+      "stars": 844,
+      "summaryZh": "浏览器应用，输入歌词即可自动生成文字 PV 视频，在网页端完成排版与动画组装。适合想为歌曲快速制作字幕式文字 PV 的音乐创作者和视频爱好者，无需专业剪辑软件。",
+      "category": "其他",
+      "createdAt": "2026-09-23T04:04:13Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "driceroland/Search",
+      "url": "https://github.com/driceroland/Search",
+      "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+      "language": "Swift",
+      "stars": 2203,
+      "summaryZh": "由 Office Commun 开发的 macOS 小型快速 WebKit 浏览器，启动轻、占用低。适合追求简洁轻量浏览体验、不需要复杂扩展功能的 Mac 用户日常使用。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1437（+188%）",
+      "reasonZh": "一个超轻量的 macOS 原生浏览器，基于 WebKit 重写，启动快、界面干净，没有 Chrome 那套臃肿的标签和账号体系。适合只想要个快速查资料、不折腾扩展的桌面用户，当日常轻量浏览器很舒服。"
+    },
+    {
+      "repo": "Mak5er/AirCard",
+      "url": "https://github.com/Mak5er/AirCard",
+      "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "language": "Swift",
+      "stars": 4593,
+      "summaryZh": "面向 iOS 18 及以上系统的 Apple Wallet 卡片皮肤工具，无需越狱即可自定义卡片外观。适合想让钱包中交通卡、门禁卡等卡片拥有个性化视觉效果的 iPhone 用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +2810（+158%）",
+      "reasonZh": "不用越狱就能给 Apple Wallet 里的卡片换皮肤，iOS 18 以上直接装，算是把玩透了系统限制。相比那些要签名文件的魔改工具它更安全简单，适合喜欢把 Wallet 界面换成自己风格、又怕搞坏系统的 iPhone 用户。"
+    },
+    {
+      "repo": "mcncarl/jianying-headless",
+      "url": "https://github.com/mcncarl/jianying-headless",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "language": "Python",
+      "stars": 2859,
+      "summaryZh": "剪映草稿的无头处理预览项目，支持原生草稿解析、隔离式编辑导出，并提供独立 Agent Skill。适合想用程序批量操控剪映草稿、实现自动化视频剪辑流程的开发者与内容团队。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +752（+36%）",
+      "reasonZh": "把剪映草稿解析和导出做成了无头服务，还能当 Agent Skill 用，等于让程序批量操作剪映。相比手动剪视频，它能自动化套模板、导出，适合做批量短视频、给 AI 工作流加视频渲染能力的人。"
+    },
+    {
+      "repo": "jxlarrea/kiosk-satellite",
+      "url": "https://github.com/jxlarrea/kiosk-satellite",
+      "description": "Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.",
+      "language": "Dart",
+      "stars": 1299,
+      "summaryZh": "把任意 Android 设备变成 Home Assistant 专用壁挂终端，原生支持蓝牙代理、摄像头、语音助手、MQTT 和 DLNA 等功能。适合想低成本给智能家居加装语音控制面板的 Home Assistant 用户。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "把任意安卓平板变成 Home Assistant 专用中控屏，连蓝牙代理、摄像头、语音卫星都内置了，比装一堆插件省心。适合家里有闲置平板、想低成本做墙面控制面板的智能家居玩家。"
+    },
+    {
+      "repo": "devdotfast/whiteboard",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "description": "open-source canvas for thoughtful software design",
+      "language": "TypeScript",
+      "stars": 1952,
+      "summaryZh": "面向软件设计场景的开源无限画布白板，用 TypeScript 构建，适合团队绘制架构图、流程图和系统设计草图。适合工程师做技术方案讨论与设计评审时协作使用。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 417 分 · 141 评论",
+      "reasonZh": "一个为软件架构设计做的开源白板，不是那种万能画图工具，而是专注把系统结构画清楚。HN 上讨论很热，适合开发团队开会时快速画架构草图、对齐设计，比 Figma 轻也比 Excalidraw 更懂工程。"
+    },
+    {
+      "repo": "gbroeckling/padspanHA",
+      "url": "https://github.com/gbroeckling/padspanHA",
+      "description": "The most comprehensive BLE room-presence tracking system for Home Assistant — room-level tracking, 3D floor plans, calibration, follow mode, 24 views",
+      "language": "Python",
+      "stars": 278,
+      "summaryZh": "Home Assistant 上最全面的 BLE 房间级存在追踪系统，支持房间级定位、3D 楼层平面图、校准、跟随模式和 24 种视图。适合想精确掌握家人或设备在哪个房间的智能家居进阶玩家。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "用 BLE 做房间级人员定位，还能配 3D 楼层平面图和多视角展示，比传统蓝牙追踪精细得多。适合想让智能家居知道“人在哪个房间”的玩家，灯随人走、自动切换音区都能实现。"
+    },
+    {
+      "repo": "MaxGramser/homeassistant_espscreen",
+      "url": "https://github.com/MaxGramser/homeassistant_espscreen",
+      "description": "Tessera (formerly ESP Screens): beautiful, easy touch screens for Home Assistant on affordable ESP32 panels, 2.8 to 10.1 inch (CYD, Guition, Waveshare). Drag-and-drop editor, no YAML, no MQTT.",
+      "language": "Python",
+      "stars": 347,
+      "summaryZh": "原名 ESP Screens 的 Home Assistant 触摸屏方案，在 2.8 到 10.1 英寸的廉价 ESP32 面板上运行美观界面，支持拖拽编辑，无需 YAML 和 MQTT。适合想用低成本硬件给智能家居做实体控制屏的用户。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "在便宜 ESP32 触摸屏上跑 Home Assistant 面板，拖拽编辑器不用写 YAML 也不用 MQTT，从 2.8 到 10 寸都支持。相比自己折腾 LVGL 界面省事太多，适合想给墙面装个低成本触控面板的人。"
+    },
+    {
+      "repo": "jrhubott/adaptive-cover-pro",
+      "url": "https://github.com/jrhubott/adaptive-cover-pro",
+      "description": "Adaptive sun-tracking cover control for Home Assistant: blinds, awnings, and venetian tilts with climate-aware positioning and a priority override pipeline.",
+      "language": "Python",
+      "stars": 173,
+      "summaryZh": "这个项目为 Home Assistant 提供自适应遮阳控制，通过追踪太阳位置并结合气候数据，智能调节百叶窗、遮阳篷和百叶帘。核心功能包括基于优先级的覆盖管道和气候感知定位，实现精准自动化。适合智能家居用户和 Home Assistant 玩家，用于提升家居舒适度和能源效率。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "根据太阳位置、天气和室内气候自动调窗帘、遮阳篷和百叶角度，带优先级覆盖逻辑，比 HA 自带遮阳模板聪明不少。适合家里装了电动窗帘、想让采光和温度自动平衡的自动化玩家。"
+    },
+    {
+      "repo": "sirkirby/unifi-mcp",
+      "url": "https://github.com/sirkirby/unifi-mcp",
+      "description": "MCP servers & Graph API for the UniFi suite of applications, Network, Protect, and Access",
+      "language": "Python",
+      "stars": 853,
+      "summaryZh": "这个项目为 UniFi 系列应用（Network、Protect、Access）提供 MCP 服务器和 Graph API 集成，支持通过 AI 代理进行智能控制。核心功能包括统一的 MCP 接口和 Graph API 访问，简化了 UniFi 设备的自动化管理。适合智能家居开发者和 IT 管理员，用于构建高级自动化场景。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "给 UniFi 全家桶（网络、摄像头、门禁）做了 MCP 服务和 Graph API，能让 AI 助手直接查网络状态、控设备。适合已经用 UniFi 又想让 Claude 之类 Agent 接管家庭网络的折腾党。"
+    },
+    {
+      "repo": "trudenboy/sendspin-bt-bridge",
+      "url": "https://github.com/trudenboy/sendspin-bt-bridge",
+      "description": "Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.",
+      "language": "Python",
+      "stars": 272,
+      "summaryZh": "这个项目通过 Sendspin 协议将任何蓝牙音箱变成智能音箱，实现 DIY 多房间音频，并与 Music Assistant、Home Assistant AI 自动化集成。核心功能包括 Docker 镜像、HA 插件、树莓派和 Proxmox LXC 支持。适合智能家居爱好者和 DIY 音频玩家，用于打造低成本的多房间音频系统。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "把普通蓝牙音箱变成能接入 Music Assistant 的智能音箱，支持多房间同步，还能跑在树莓派或 Docker 里。比买整套 Sonos 便宜太多，适合想 DIY 多房间音频又不想换硬件的用户。"
+    }
+  ]
+}
