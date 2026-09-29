@@ -1,0 +1,359 @@
+{
+  "date": "2026-09-29",
+  "trending": [
+    {
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 44978,
+      "summaryZh": "完全本地运行的开源语音工作室，作为 ElevenLabs 的替代方案，支持声音克隆、音色设计、视频配音、听写、转录与有声书制作。覆盖 646 种语言，无需联网即可保护隐私。适合内容创作者、播客制作者和需要多语言配音的团队使用。",
+      "category": "AI",
+      "starsToday": 3221
+    },
+    {
+      "repo": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 93287,
+      "summaryZh": "用于在工作中管理和调度 AI 智能体的开源应用。支持多智能体协作、任务编排与统一监控，帮助团队把智能体接入日常工作流。适合需要在生产环境中部署和管理多个 AI 智能体的开发与运营团队。",
+      "category": "AI",
+      "starsToday": 3197
+    },
+    {
+      "repo": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 41427,
+      "summaryZh": "为智能体提供可学习记忆的开源框架。它让 AI 代理能持久存储并动态调用历史经验，从而在多轮任务中持续改进表现。适合构建长期运行、需要上下文记忆的智能体应用的开发者。",
+      "category": "AI",
+      "starsToday": 4561
+    },
+    {
+      "repo": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars": 25854,
+      "summaryZh": "开源的低成本 10.5 GHz PLFM 相控阵雷达系统。项目涵盖硬件设计与信号处理方案，可用于雷达原理验证和教学实验。适合电子工程爱好者、雷达研究者及预算有限的科研团队搭建原型系统。",
+      "category": "其他",
+      "starsToday": 158
+    },
+    {
+      "repo": "cs341-illinois/coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "stars": 2617,
+      "summaryZh": "伊利诺伊大学 CS341 课程的开源系统编程入门教材。内容围绕底层编程、内存管理与并发等核心概念，采用 TeX 编写便于维护和定制。适合学习系统编程的学生和希望参考课程设计的教师使用。",
+      "category": "资料教程",
+      "starsToday": 195
+    },
+    {
+      "repo": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "JavaScript",
+      "stars": 64975,
+      "summaryZh": "一份个人成长与 AI 学习进阶指南，涵盖人生规划、AI 学习方法与英语学习教程等内容。作者以自身经验整理出可操作的提升路径，信息密度高、偏实战。适合希望系统性提升自我和掌握 AI 技能的读者参考。",
+      "category": "资料教程",
+      "starsToday": 327
+    },
+    {
+      "repo": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars": 1883,
+      "summaryZh": "将 Claude Code 和 Codex 整合为统一多智能体系统的协作框架。它让两个编码代理在同一流程中分工配合，提升复杂开发任务的执行效率。适合需要多代理协同编程的高级开发者与 AI 工程团队。",
+      "category": "AI",
+      "starsToday": 734
+    },
+    {
+      "repo": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 21421,
+      "summaryZh": "面向 AI 智能体的办公套件运行时，把电子表格、文档、幻灯片、画布、关系表与 PDF 集成在同一环境中。支持智能体直接操作各类办公文档，实现自动化处理。适合需要让 AI 代理接管办公文档生成与编辑的开发者。",
+      "category": "AI",
+      "starsToday": 1099
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "Contrastive-LM/CLM",
+      "url": "https://github.com/Contrastive-LM/CLM",
+      "description": "",
+      "language": "Python",
+      "stars": 2330,
+      "summaryZh": "一个对比式语言模型项目，具体描述暂缺，从语言和命名的信息来看，主要探索对比学习在语言模型中的应用。适合关注对比学习与大模型训练的研究者和开发者跟进参考。",
+      "category": "AI",
+      "createdAt": "2026-09-23T19:29:56Z"
+    },
+    {
+      "repo": "tobi/disktree",
+      "url": "https://github.com/tobi/disktree",
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "language": "Rust",
+      "stars": 1837,
+      "summaryZh": "为 Omarchy 系统打造的磁盘空间可视化工具，用树状图直观展示磁盘占用，帮助你快速定位并删除大文件。基于 Rust 与 GPUI 构建，性能出色。适合需要清理磁盘、管理存储空间的 Linux 桌面用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-24T20:56:29Z"
+    },
+    {
+      "repo": "mexicat/pdoom-video",
+      "url": "https://github.com/mexicat/pdoom-video",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "language": "TypeScript",
+      "stars": 1820,
+      "summaryZh": "歌曲 \"I'm Upping My P(doom)\" 的代码渲染音乐视频项目。全部画面由代码生成，展示了编程与音乐视觉结合的创意实现。适合对创意编程、生成艺术和代码渲染视频感兴趣的开发者参考。",
+      "category": "其他",
+      "createdAt": "2026-09-24T21:33:53Z"
+    },
+    {
+      "repo": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "language": "Go",
+      "stars": 1712,
+      "summaryZh": "在菜单栏中统一管理各智能体所用模型的工具。支持把 Codex 接到 DeepSeek、把 Claude Code 接到 Kimi 等组合，方便随时切换底层模型。适合同时使用多个编码代理、需要灵活调度模型的高级开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-23T16:22:35Z"
+    },
+    {
+      "repo": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "language": "TypeScript",
+      "stars": 1516,
+      "summaryZh": "一个能自动寻找热点并生成日报的网站框架。内置信源抓取与精选标准，只需替换成你自己的行业信源，就能搭建专属热点站。支持自托管，适合想快速上线垂直行业资讯站的开发者与内容运营者。",
+      "category": "前端",
+      "createdAt": "2026-09-28T23:40:05Z"
+    },
+    {
+      "repo": "dzhng/jevgrep",
+      "url": "https://github.com/dzhng/jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "language": "TypeScript",
+      "stars": 1516,
+      "summaryZh": "面向编码智能体的命令行搜索工具，通过描述代码功能来发现相关文件和源码上下文。借助 Jev 实现语义检索，让代理更精准地定位代码。适合使用 Claude Code、Codex 等代理进行大型项目开发的工程师。",
+      "category": "开发工具",
+      "createdAt": "2026-09-26T04:06:56Z"
+    },
+    {
+      "repo": "JohnHeibel/PDoomVideo",
+      "url": "https://github.com/JohnHeibel/PDoomVideo",
+      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+      "language": "JavaScript",
+      "stars": 1454,
+      "summaryZh": "Claude Opus 5.5 为歌曲 \"I'm Upping My P(doom)\" 制作的音乐视频源码。项目用代码驱动画面生成，展示了 AI 参与创意内容生产的完整流程。适合对 AI 生成视频、创意编程和音乐可视化感兴趣的人研究。",
+      "category": "其他",
+      "createdAt": "2026-09-22T23:32:19Z"
+    },
+    {
+      "repo": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "language": "C++",
+      "stars": 1189,
+      "summaryZh": "在 8GB 以上 NVIDIA 显卡上本地运行 125B MoE 大模型的推理引擎，提供 Windows/Linux 一键安装。启动后在本地暴露 OpenAI/Anthropic 兼容 API，可选图像输入，适合想在个人设备私有部署大模型、又需要兼容现有调用接口的开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-24T16:40:20Z"
+    },
+    {
+      "repo": "mikehasa/golive-skill",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "language": "TypeScript",
+      "stars": 1054,
+      "summaryZh": "把 AI Agent 做出来的产品真正上线：托管、数据库、域名、邮箱、支付全部走你自己的账号。以开源 Agent Skill 加零依赖 Node CLI 实现「检测→规划→确认→执行→验证」闭环，适合想一键把原型推向生产、又不想被平台绑定的独立开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-23T13:37:26Z"
+    },
+    {
+      "repo": "kryvora-network/kryvora-node",
+      "url": "https://github.com/kryvora-network/kryvora-node",
+      "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+      "language": "Go",
+      "stars": 1049,
+      "summaryZh": "Kryvora 去中心化网络的参考节点客户端，包含守护进程与验证 worker，用 Go 编写。负责节点运行、任务校验与遥测上报，适合想参与 DePIN 网络、搭建或运维节点的分布式系统爱好者。",
+      "category": "其他",
+      "createdAt": "2026-09-22T16:10:23Z"
+    },
+    {
+      "repo": "852wa/JIZURA",
+      "url": "https://github.com/852wa/JIZURA",
+      "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+      "language": "HTML",
+      "stars": 1000,
+      "summaryZh": "一个纯浏览器端应用，能根据歌词自动生成文字 PV（歌词动画视频）。输入歌词后自动排版并生成动态文字演出，无需剪辑软件，适合想快速为歌曲制作歌词视频的音乐人、同人创作者和视频爱好者。",
+      "category": "前端",
+      "createdAt": "2026-09-23T04:04:13Z"
+    },
+    {
+      "repo": "dgreenheck/tidewater",
+      "url": "https://github.com/dgreenheck/tidewater",
+      "description": "Coastal town built with Opus 5.5",
+      "language": "JavaScript",
+      "stars": 926,
+      "summaryZh": "用 Opus 5.5 生成的一座海岸小镇场景，JavaScript 实现在浏览器中渲染。重点展示 AI 辅助构建完整 3D/交互场景的能力，适合想看看当前代码生成模型能做出什么样成品的开发者参考。",
+      "category": "游戏",
+      "createdAt": "2026-09-23T21:40:29Z"
+    },
+    {
+      "repo": "riba2534/claude-opus-5-5-demo",
+      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+      "description": "claude-opus-5-5-demo",
+      "language": "JavaScript",
+      "stars": 890,
+      "summaryZh": "针对 Claude Opus 5.5 的演示示例项目，用 JavaScript 展示该模型的实际调用与效果。代码简洁、开箱可跑，适合想快速上手体验新模型能力、或作为自己项目集成起点的开发者参考。",
+      "category": "AI",
+      "createdAt": "2026-09-23T06:31:00Z"
+    },
+    {
+      "repo": "feitangyuan/onetake",
+      "url": "https://github.com/feitangyuan/onetake",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "language": "Python",
+      "stars": 881,
+      "summaryZh": "一个让产品发布片「一镜到底」的 Claude Agent Skill：每个节拍都从上一步生长出来，不切镜头，并由 oracle 校验画面连续性。用 Python 实现，适合需要自动化生成产品发布视频、功能演示动画的团队与创作者。",
+      "category": "资料教程",
+      "createdAt": "2026-09-26T05:35:17Z"
+    },
+    {
+      "repo": "supermemoryai/company-brain",
+      "url": "https://github.com/supermemoryai/company-brain",
+      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "language": "TypeScript",
+      "stars": 811,
+      "summaryZh": "开源的「公司大脑」：一个常驻 Slack 的 AI 队友，记得团队说过的所有内容，并能直接去执行任务。用 TypeScript 实现，适合希望把团队知识沉淀与日常协作自动化、又在意数据自控的中小团队。",
+      "category": "AI",
+      "createdAt": "2026-09-25T22:48:14Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "ahmd-sh/hntui",
+      "url": "https://github.com/ahmd-sh/hntui",
+      "description": "browse hackernews like a hacker",
+      "language": "TypeScript",
+      "stars": 117,
+      "summaryZh": "在终端里用 TUI 界面浏览 Hacker News 的客户端，用 TypeScript 配合 OpenTUI 实现，交互风格贴近黑客审美。支持键盘操作，适合常年泡在终端、又想快速刷 HN 热榜的程序员。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 107 分 · 64 评论",
+      "reasonZh": "在终端里刷 Hacker News 的 TUI 工具，界面像黑客一样酷，用它看 HN 比开网页清爽多了。同类工具大多是简陋的命令行，它用 OpenTUI 做了完整的键盘导航和配色，适合终端党、开发者摸鱼时快速浏览热帖。"
+    },
+    {
+      "repo": "seamusc/papermono-shopping-list",
+      "url": "https://github.com/seamusc/papermono-shopping-list",
+      "description": "E-paper shopping list for the M5Stack PaperMono, with a FastAPI server and phone web UI",
+      "language": "C++",
+      "stars": 149,
+      "summaryZh": "为 M5Stack PaperMono 墨水屏做的电子购物清单，配套 FastAPI 服务端和手机网页端，可随时同步勾选。C++ 固件加 Web 管理，适合喜欢墨水屏家居小工具、想低成本搭建全家共享清单的 DIY 玩家。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 133 分 · 58 评论",
+      "reasonZh": "用 M5Stack 墨水屏做家庭购物清单，手机网页 UI 添加条目，墨水屏常驻显示，改动后自动刷新。比微信群发消息好使，墨水屏不发光、不耗电，适合挂在冰箱门或厨房。项目还带 FastAPI 自托管，动手能力强的可以直接用。"
+    },
+    {
+      "repo": "Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "description": "7-node ESP32-S3 cluster running a 0.4B LLM via 1.58-bit (BitNet) ternary quantization over SPI daisy-chain",
+      "language": "C++",
+      "stars": 98,
+      "summaryZh": "用 7 块 ESP32-S3 通过 SPI 菊花链组成的集群，跑 1.58 位（BitNet 三值量化）的 0.4B 小模型，演示边缘设备分布式推理。C++ 实现，适合对嵌入式 AI、量化推理与多节点协同感兴趣的硬件开发者研究。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 67 分 · 9 评论",
+      "reasonZh": "拿 7 块 ESP32-S3 串成集群，用 BitNet 1.58 位量化跑 0.4B 小模型，纯属硬件玩家的硬核玩具。虽然不能当生产力工具，但它把“分布式推理”这件事用几十块钱的板子玩明白了，适合嵌入式爱好者围观学习。"
+    },
+    {
+      "repo": "dashersw/coyopedal",
+      "url": "https://github.com/dashersw/coyopedal",
+      "description": "ESP32-S3 A2-Full NAM pedalboard with direct SD-card NAM loading and a Gea-compiled native frontend",
+      "language": "C++",
+      "stars": 223,
+      "summaryZh": "基于 ESP32-S3 的 NAM 吉他效果器踏板，支持从 SD 卡直接加载模型，并使用 Gea 编译的本地原生前端界面。C++ 实现，适合想自制约箱模拟踏板、追求低延迟与离线可用性的吉他手和嵌入式爱好者。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 161 分 · 82 评论",
+      "reasonZh": "ESP32-S3 做的吉他效果器踏板，直接读 SD 卡上的 NAM 模型文件，等于把神经网络吉他音色装进硬件里随身带。相比动辄上千的商业建模踏板，它开源、可自定义，适合吉他手和嵌入式玩家自己焊一个玩。"
+    },
+    {
+      "repo": "Mak5er/AirCard",
+      "url": "https://github.com/Mak5er/AirCard",
+      "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "language": "Swift",
+      "stars": 4764,
+      "summaryZh": "iOS 18+ 上无需越狱即可自定义 Apple Wallet 卡片外观的工具，用 Swift 编写。可以替换卡片皮肤、调整样式，适合喜欢折腾手机个性化、又不想越狱的 iPhone 用户。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +2981（+167%）",
+      "reasonZh": "不用越狱就能把 Apple Wallet 里的卡片外观改成任意图片，纯靠 iOS 18 的新特性实现，Swift 写的原生体验。相比那些要签名或越狱的方案，它安全又省事，适合想让钱包界面好看点、又不想动系统的 iPhone 用户。"
+    },
+    {
+      "repo": "westpoint-io/mimik",
+      "url": "https://github.com/westpoint-io/mimik",
+      "description": "🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸",
+      "language": "TypeScript",
+      "stars": 1355,
+      "summaryZh": "浏览器扩展，在你点击操作时自动记录工作流，并生成带标注截图的分步指南。TypeScript 编写，本地优先、注重隐私，适合需要频繁写教程、做客户支持或交接文档的产品与运营人员。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +329（+32%）",
+      "reasonZh": "浏览器扩展，边点边录你操作网页的全过程，自动生成带标注截图的步骤教程。做用户手册、客服回复、远程教人时特别省事，比手动截图再拼图快得多，而且本地优先、不上传隐私数据。"
+    },
+    {
+      "repo": "gamosoft/NoteDiscovery",
+      "url": "https://github.com/gamosoft/NoteDiscovery",
+      "description": "Your Self-Hosted Knowledge Base",
+      "language": "JavaScript",
+      "stars": 2814,
+      "summaryZh": "可自托管的知识库笔记系统，基于 FastAPI 与 Markdown，可作为 Notion、Obsidian、印象笔记的开源替代。数据全部留在自己服务器上，适合重视隐私、想搭建个人第二大脑或团队文档库的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · note-taking",
+      "reasonZh": "自托管的知识库，打着 Evernote、Notion、Obsidian 平替的旗号，Docker 一键部署，数据全在自己手里。支持 Markdown、全文搜索和 zettelkasten 笔记法，适合受够了商业笔记涨价和隐私问题的自托管玩家。"
+    },
+    {
+      "repo": "driceroland/Search",
+      "url": "https://github.com/driceroland/Search",
+      "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+      "language": "Swift",
+      "stars": 2259,
+      "summaryZh": "一款专为 macOS 打造的轻量级 WebKit 浏览器，由 Office Commun 开发。它主打快速启动和低资源占用，界面极简，适合追求效率、不想被臃肿功能干扰的用户日常搜索与网页浏览。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1493（+195%）",
+      "reasonZh": "macOS 上一个又小又快的 WebKit 浏览器，用 Swift 原生写的，启动和渲染都比 Electron 套壳轻快。现在主流浏览器越来越臃肿，它回归简单，适合只想快速开个网页查东西、不想被标签页和账号绑架的 Mac 用户。"
+    },
+    {
+      "repo": "snownico0722/PaperTodo",
+      "url": "https://github.com/snownico0722/PaperTodo",
+      "description": "A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.——极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。",
+      "language": "C#",
+      "stars": 2436,
+      "summaryZh": "一款极简的 Windows 桌面便签工具，用一张张安静不打扰的“纸片”呈现待办事项。基于原生 WPF 开发，支持 Markdown 和待办列表，适合喜欢在桌面上随手记录、管理任务且注重界面简洁的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · note-taking",
+      "reasonZh": "极简 Windows 桌面便签，原生 WPF 写的，能在桌面上摆几张不打扰人的“纸”，支持待办和 Markdown。比系统自带便签更克制、更像实体纸片，适合喜欢桌面常驻小块信息、又不想被花哨功能分心的人。"
+    },
+    {
+      "repo": "shuaiplus/inkstone",
+      "url": "https://github.com/shuaiplus/inkstone",
+      "description": "A self-hosted Markdown notebook that runs entirely on Cloudflare Workers.",
+      "language": "TypeScript",
+      "stars": 1029,
+      "summaryZh": "一个完全运行在 Cloudflare Workers 上的自托管 Markdown 笔记本，支持双向链接、离线优先和 WebDAV。后端利用 D1、KV、R2 和 Durable Objects，前端基于 React 与 CodeMirror，适合想零服务器成本搭建个人知识库的开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · note-taking",
+      "reasonZh": "完全跑在 Cloudflare Workers 上的自托管 Markdown 笔记本，用 D1、R2、KV 存储，零服务器成本。支持双链和 WebDAV，部署简单而且有免费额度，适合想低成本拥有私有笔记又不想维护服务器的个人用户。"
+    }
+  ]
+}
