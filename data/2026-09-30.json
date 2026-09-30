@@ -1,0 +1,407 @@
+{
+  "date": "2026-09-30",
+  "trending": [
+    {
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 48757,
+      "summaryZh": "完全本地运行的开源 ElevenLabs 替代方案，支持语音克隆、音色设计、视频配音、听写、转录与有声书制作，覆盖 646 种语言。适合注重隐私、不想把音频上传云端，又需要多语言配音或字幕转录的创作者与开发者自部署使用。",
+      "category": "AI",
+      "starsToday": 4758
+    },
+    {
+      "repo": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": 10852,
+      "summaryZh": "NVIDIA 推出的自主 AI 智能体安全私有运行时，用 Rust 编写，为代理执行提供隔离环境与权限控制。适合在生产或敏感场景中运行自动化智能体、又需要防止越权访问文件和系统的团队。",
+      "category": "AI",
+      "starsToday": 990
+    },
+    {
+      "repo": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 43133,
+      "summaryZh": "面向 AI 智能体的记忆系统，能让代理从历史交互中持续学习和积累经验，而非每次从零开始。适合构建需要长期上下文、个性化服务的对话代理或自动化工作流的开发者。",
+      "category": "AI",
+      "starsToday": 2575
+    },
+    {
+      "repo": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 94710,
+      "summaryZh": "开源的智能体管理工作台，帮助团队在工作场景中统一创建、调度和监控各类 AI 代理。适合已引入多个 AI 代理、需要集中管理和协作的企业团队使用。",
+      "category": "AI",
+      "starsToday": 2458
+    },
+    {
+      "repo": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "stars": 22384,
+      "summaryZh": "仅 25 MB 的轻量跨平台数据库客户端，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、SQL Server、达梦等 100 多种数据库。内置 AI、MCP Server、CLI 与桌面 Dock，适合需要一款不臃肿、多库统一的开发与运维人员。",
+      "category": "开发工具",
+      "starsToday": 232
+    },
+    {
+      "repo": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars": 2558,
+      "summaryZh": "将 Claude Code 与 Codex 组合成统一系统的多智能体编排框架，让两个编程代理协同完成开发任务。适合想同时利用多种编码代理、探索代理协作模式的工程师。",
+      "category": "AI",
+      "starsToday": 737
+    },
+    {
+      "repo": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars": 13981,
+      "summaryZh": "可自托管的部署平台，让开发者在自己服务器上完成应用的构建、发布与运维，对标 Vercel 类服务。适合重视数据主权、希望摆脱云厂商锁定的小团队和个人开发者。",
+      "category": "开发工具",
+      "starsToday": 437
+    },
+    {
+      "repo": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "stars": 10299,
+      "summaryZh": "轻量自托管的媒体下载工具，支持从几乎所有网站下载视频，并提供简洁的 Web 界面。适合需要私有化保存视频素材、不想依赖第三方下载站点的用户自部署使用。",
+      "category": "开发工具",
+      "starsToday": 113
+    },
+    {
+      "repo": "cs341-illinois/coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "stars": 3189,
+      "summaryZh": "伊利诺伊大学 CS341 课程的开源系统编程教材，用 TeX 编写，系统讲解底层编程与操作系统相关主题。适合自学系统编程、准备相关课程的学生和希望补底层的开发者阅读。",
+      "category": "资料教程",
+      "starsToday": 572
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 61662,
+      "summaryZh": "从零学习并动手构建 AI 工程项目的实践教程，强调学完即能交付给他人使用。适合想系统入门 AI 应用开发、通过实际项目积累经验的初学者和转行者。",
+      "category": "资料教程",
+      "starsToday": 786
+    },
+    {
+      "repo": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": 37580,
+      "summaryZh": "为文档构建索引的推理型 RAG 方案，不依赖向量检索，通过推理方式定位相关内容。适合处理长文档、结构复杂资料，且对传统向量 RAG 召回效果不满意的检索场景。",
+      "category": "AI",
+      "starsToday": 835
+    },
+    {
+      "repo": "willfaust/Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "stars": 1137,
+      "summaryZh": "通过 FEX-Emu、Wine 和 DXMT 组合，在受限制的 iOS 设备上运行 x86-64 Windows PC 游戏。适合想在 iPhone 或 iPad 上体验 PC 游戏、愿意折腾模拟兼容层的技术玩家。",
+      "category": "游戏",
+      "starsToday": 81
+    },
+    {
+      "repo": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 21966,
+      "summaryZh": "面向 AI 智能体的办公套件运行时，把表格、文档、幻灯片、画布、关系表和 PDF 整合在同一引擎中。适合需要在 AI 代理中嵌入文档编辑与数据处理能力的开发者集成使用。",
+      "category": "AI",
+      "starsToday": 696
+    },
+    {
+      "repo": "rakyll/hey",
+      "url": "https://github.com/rakyll/hey",
+      "description": "HTTP load generator, ApacheBench (ab) replacement",
+      "language": "Go",
+      "stars": 20535,
+      "summaryZh": "Go 编写的 HTTP 负载生成工具，可作为 ApacheBench 的替代品，支持并发压测与结果统计。适合后端和运维人员快速测试接口性能、评估服务承载能力。",
+      "category": "开发工具",
+      "starsToday": 34
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "language": "TypeScript",
+      "stars": 3524,
+      "summaryZh": "一个自动抓取热点并生成日报的网站框架，可替换信源和精选标准，把它变成你自己的行业热点站。适合想自建垂直领域资讯聚合、用 AI 自动生成摘要的运营者或开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-28T23:40:05Z"
+    },
+    {
+      "repo": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "language": "Go",
+      "stars": 3087,
+      "summaryZh": "Magpie 是一个 macOS 菜单栏应用，让你统一管理各类 AI 编码代理所用的模型。它支持把 Codex 接到 DeepSeek、Claude Code 接到 Kimi 等任意组合，核心亮点是集中配置模型路由、免去逐个改环境变量。适合同时在用多个 CLI 编码代理、想自由搭配模型的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-23T16:22:35Z"
+    },
+    {
+      "repo": "Contrastive-LM/CLM",
+      "url": "https://github.com/Contrastive-LM/CLM",
+      "description": "",
+      "language": "Python",
+      "stars": 2540,
+      "summaryZh": "CLM 是一个用对比学习思路训练语言模型的 Python 项目，仓库未提供描述，从命名看专注于对比式语言建模。它可能包含训练脚本、数据处理与评测代码，适合研究者或想复现对比学习方法的工程师参考。",
+      "category": "AI",
+      "createdAt": "2026-09-23T19:29:56Z"
+    },
+    {
+      "repo": "mexicat/pdoom-video",
+      "url": "https://github.com/mexicat/pdoom-video",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "language": "TypeScript",
+      "stars": 2009,
+      "summaryZh": "这是为歌曲《I'm Upping My P(doom)》制作的代码渲染音乐视频项目，用 TypeScript 直接生成全部画面，而非传统剪辑。亮点在于以代码驱动动画与节奏同步，适合对创意编程、代码生成 MV 感兴趣的前端与视觉开发者观摩。",
+      "category": "前端",
+      "createdAt": "2026-09-24T21:33:53Z"
+    },
+    {
+      "repo": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "language": "C++",
+      "stars": 1952,
+      "summaryZh": "Strata 是一个本地推理引擎，让 125B 的 Qwen3 MoE 模型在 8GB 以上 NVIDIA 显卡上运行，提供 Windows/Linux 一键安装。它在 localhost 上暴露 OpenAI/Anthropic 兼容 API，还支持可选的图像输入。适合想在本地跑大模型又缺显存、或需要兼容 API 的开发者和自建服务用户。",
+      "category": "AI",
+      "createdAt": "2026-09-24T16:40:20Z"
+    },
+    {
+      "repo": "tobi/disktree",
+      "url": "https://github.com/tobi/disktree",
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "language": "Rust",
+      "stars": 1931,
+      "summaryZh": "disktree 是面向 Omarchy 的磁盘占用可视化工具，用 Rust 和 GPUI 绘制矩形树图，帮你快速定位占空间的大文件与目录。亮点是原生高性能渲染和直观的层级展示，适合磁盘经常告急、想在 Linux 桌面上清理空间的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-24T20:56:29Z"
+    },
+    {
+      "repo": "dzhng/jevgrep",
+      "url": "https://github.com/dzhng/jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "language": "TypeScript",
+      "stars": 1804,
+      "summaryZh": "jevgrep 是一个给编码代理用的命令行代码搜索工具，你只需描述代码功能，它就能借助 Jev 找出相关文件和上下文。亮点是把语义检索带入 CLI，配合 Claude Code、Codex 等代理使用更省 token。适合想提升代理检索代码效率的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-26T04:06:56Z"
+    },
+    {
+      "repo": "852wa/JIZURA",
+      "url": "https://github.com/852wa/JIZURA",
+      "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+      "language": "HTML",
+      "stars": 1126,
+      "summaryZh": "JIZURA 是一个纯浏览器应用，能根据歌词自动生成文字 PV（文字排版动画视频）。亮点是无需安装、直接在网页中完成歌词解析与动画组装，适合做歌词视频、同人 PV 或想快速产出文字动画的创作者。",
+      "category": "前端",
+      "createdAt": "2026-09-23T04:04:13Z"
+    },
+    {
+      "repo": "mikehasa/golive-skill",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "language": "TypeScript",
+      "stars": 1120,
+      "summaryZh": "golive-skill 是一个开源 Agent Skill 加零依赖 Node CLI，帮代理开发的产品完成上线：主机、数据库、域名、邮箱、支付全部走你自己账号。流程是检测、规划、批准、执行、校验。适合想用 AI 代理全自动部署且不想被平台绑定的独立开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-23T13:37:26Z"
+    },
+    {
+      "repo": "shihabal3amri/DiPlay",
+      "url": "https://github.com/shihabal3amri/DiPlay",
+      "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+      "language": "Kotlin",
+      "stars": 1099,
+      "summaryZh": "DiPlay 是面向兼容 Android 车机的独立 CarPlay 接收器，目前提供有线与无线公开预览版。它用 Kotlin 实现，让原本不支持 CarPlay 的安卓车机也能投屏使用。适合想给安卓车机加 CarPlay 功能的车主和玩车机折腾的用户。",
+      "category": "其他",
+      "createdAt": "2026-09-24T15:36:38Z"
+    },
+    {
+      "repo": "firelex/jeff",
+      "url": "https://github.com/firelex/jeff",
+      "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+      "language": "Python",
+      "stars": 1092,
+      "summaryZh": "jeff 项目对 Qwen3.5 和 Gemma 4 进行微调，专门用于零样本文本分类任务。它提供了微调脚本与权重，亮点是把大模型改造为开箱即用的分类器。适合需要做文本打标、情感或主题分类、又不想从头训练模型的研究者与工程团队。",
+      "category": "AI",
+      "createdAt": "2026-09-28T16:18:39Z"
+    },
+    {
+      "repo": "feitangyuan/onetake",
+      "url": "https://github.com/feitangyuan/onetake",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "language": "Python",
+      "stars": 992,
+      "summaryZh": "onetake 是一个 Claude Agent Skill，用于生成一镜到底、不切镜的产品发布影片与动效。它让每个节拍承接上一个节拍，用单一连续镜头呈现，并用 oracle 度量连续性。适合要做产品宣传片、又想要连续运镜效果的创意与市场团队。",
+      "category": "AI",
+      "createdAt": "2026-09-26T05:35:17Z"
+    },
+    {
+      "repo": "dgreenheck/tidewater",
+      "url": "https://github.com/dgreenheck/tidewater",
+      "description": "Coastal town built with Opus 5.5",
+      "language": "JavaScript",
+      "stars": 976,
+      "summaryZh": "tidewater 是一个用 JavaScript 构建的海滨小镇场景，据描述由 Claude Opus 5.5 生成。亮点是纯代码渲染出的 3D 或交互式海边环境，适合对 AI 生成 Web 场景、Three.js 创意演示感兴趣的开发者参考。",
+      "category": "前端",
+      "createdAt": "2026-09-23T21:40:29Z"
+    },
+    {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+      "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+      "language": "",
+      "stars": 953,
+      "summaryZh": "这是一个持续更新的合集，收录用 Claude Opus 5.5 生成的爆款视频及其提示词，并可在 Skillry 上观看原作与实时重制对比。亮点是把提示词和成品并列展示，方便学习创意编程与动效。适合想借 AI 做视频、找提示词灵感的创作者。",
+      "category": "资料教程",
+      "createdAt": "2026-09-27T06:19:36Z"
+    },
+    {
+      "repo": "riba2534/claude-opus-5-5-demo",
+      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+      "description": "claude-opus-5-5-demo",
+      "language": "JavaScript",
+      "stars": 926,
+      "summaryZh": "这是名为 claude-opus-5-5-demo 的 JavaScript 演示项目，仓库描述为空，从命名看是展示 Claude Opus 5.5 能力的示例。适合想了解该模型在 Web 前端能做出什么效果的开发者直接运行体验。",
+      "category": "AI",
+      "createdAt": "2026-09-23T06:31:00Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "seamusc/papermono-shopping-list",
+      "url": "https://github.com/seamusc/papermono-shopping-list",
+      "description": "E-paper shopping list for the M5Stack PaperMono, with a FastAPI server and phone web UI",
+      "language": "C++",
+      "stars": 169,
+      "summaryZh": "这是为 M5Stack PaperMono 电子墨水屏做的购物清单项目，包含 FastAPI 服务端和手机网页界面。亮点是墨水屏低功耗常显，手机随时增删条目同步到设备。适合喜欢 DIY 智能家居小工具、想要一块贴在冰箱上的电子清单的玩家。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 148 分 · 62 评论",
+      "reasonZh": "把购物清单做进电子墨水屏的小项目，手机网页上一改，M5Stack 纸片屏立刻刷新，还带 FastAPI 服务端。和一堆堆功能的自托管清单比，它就干一件事却特别顺手，适合丢在厨房冰箱上当全家共享的买菜板。"
+    },
+    {
+      "repo": "devdotfast/whiteboard",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "description": "open-source canvas for thoughtful software design",
+      "language": "TypeScript",
+      "stars": 2201,
+      "summaryZh": "一个面向软件设计的开源无限画布，用于绘制架构图、流程图和思维草图。核心亮点是基于 TypeScript 打造的流畅画布交互与协作式白板体验，适合开发者、架构师在需求讨论和系统设计时快速表达想法。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1602（+267%）",
+      "reasonZh": "给软件设计画架构草图的开放画布，比 Figma 轻，比 Excalidraw 更偏系统图那味。分享链接就能协作，不装客户端。适合团队评审前提案、随手画数据流，不用为了画个框开一堆重型工具。"
+    },
+    {
+      "repo": "connorgallopo/Tracearr",
+      "url": "https://github.com/connorgallopo/Tracearr",
+      "description": "Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.",
+      "language": "TypeScript",
+      "stars": 2679,
+      "summaryZh": "面向 Plex、Jellyfin、Emby 媒体服务器的实时监控面板，可追踪播放流、分析观看行为并检测账号共享。基于 TypeScript 与 TimescaleDB 构建，适合自建影音库的用户统一管理多台服务器、排查异常登录与共享账号。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "一个面板盯住 Plex、Jellyfin、Emby 三家的实时播放，还能识别谁在共享账号。比 Tautulli 多平台、比 Jellystat 实时。自建影音库的人会用到：查谁在偷看、看带宽、顺便抓合租号。"
+    },
+    {
+      "repo": "snapotter-hq/SnapOtter",
+      "url": "https://github.com/snapotter-hq/SnapOtter",
+      "description": "Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your network.",
+      "language": "TypeScript",
+      "stars": 2766,
+      "summaryZh": "开源可自托管的文件处理工具，支持图片、视频、音频、PDF 和文档的格式转换、压缩、OCR、转录及本地 AI 处理，提供 UI、REST API 与流水线三种用法。适合注重隐私、要求文件不出内网的团队和个人搭建本地处理服务。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "自托管的文件处理全家桶，图片视频音频 PDF 都能转码、压缩、OCR、转录，文件全程不离本地。比散装 ffmpeg 脚本省心，比云服务放心。适合有隐私顾虑又要批量处理素材的小团队和个人。"
+    },
+    {
+      "repo": "Afilmory/afilmory",
+      "url": "https://github.com/Afilmory/afilmory",
+      "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
+      "language": "TypeScript",
+      "stars": 2642,
+      "summaryZh": "为摄影师打造的现代照片画廊，支持 S3 或 GitHub 同步、EXIF 信息展示、地图定位以及 WebGL 高性能查看器。基于 React、Vite 与 Hono 构建，适合需要自托管作品集、展示拍摄参数与地理轨迹的摄影爱好者。",
+      "category": "前端",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "给摄影师做的现代相册，S3/GitHub 同步、EXIF、地图、WebGL 看图一应俱全。比传统相册程序更懂摄影流程，比商业服务更可控。适合把自己多年照片自托管、想要漂亮浏览体验的人。"
+    },
+    {
+      "repo": "flyfish-dev/file-viewer",
+      "url": "https://github.com/flyfish-dev/file-viewer",
+      "description": "Browser-native Office / PDF / CAD / archive viewer for internal web apps, with Vue, React, Svelte, jQuery, Web Components, and no server-side conversion.",
+      "language": "TypeScript",
+      "stars": 2454,
+      "summaryZh": "浏览器原生的 Office、PDF、CAD 和压缩包预览组件，支持 Vue、React、Svelte、jQuery 与 Web Components，无需服务端转换。基于 WASM 实现离线优先渲染，适合内网 Web 应用、私有化部署项目快速集成文档预览能力。",
+      "category": "前端",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "纯浏览器端预览 Office、PDF、CAD、压缩包，不用服务端转换、没有文件外传。比调 OnlyOffice 轻太多，比在线转换工具安全。适合内网系统里塞一个文档预览组件，Vue、React 随便接。"
+    },
+    {
+      "repo": "David-Crty/databasement",
+      "url": "https://github.com/David-Crty/databasement",
+      "description": "Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, Samba or local storage. SSH Tunnel support.",
+      "language": "PHP",
+      "stars": 2476,
+      "summaryZh": "自托管数据库备份管理器，提供 Web UI 定时备份与恢复 MySQL、PostgreSQL、MariaDB、SQL Server、MongoDB、SQLite、Redis 等，并可输出到 S3、SFTP、Samba 或本地存储。适合运维和 DBA 统一管理多套数据库的灾备与恢复流程。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "自托管的数据库备份管理器，MySQL、Postgres、MongoDB、Redis 都能定时备份，推到 S3、SFTP 或本地，还带 Web UI 和 SSH 隧道。比手写 cron 脚本可靠，比商业备份便宜。适合自己管几台数据库的运维。"
+    },
+    {
+      "repo": "TNT-Likely/BeeCount",
+      "url": "https://github.com/TNT-Likely/BeeCount",
+      "description": "Local-first bookkeeping for iOS/Android/Web · Self-hosted cloud + iCloud/WebDAV/S3 sync · AI capture · MCP | 本地优先的跨端记账 · 自建云 + iCloud/WebDAV/S3 同步 · AI 记账 · MCP",
+      "language": "Dart",
+      "stars": 2452,
+      "summaryZh": "本地优先的跨端记账应用，覆盖 iOS、Android 与 Web，支持自建云及 iCloud、WebDAV、S3 同步，并提供 AI 记账与 MCP 能力。基于 Flutter 与 Supabase 构建，适合注重隐私、希望数据自主可控的个人和家庭记账场景。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "本地优先的跨端记账，iOS、安卓、Web 都能用，能自建云，也能走 iCloud、WebDAV、S3 同步，还支持 AI 记账和 MCP。比随手记类 App 更在意数据归属。适合想认真记账又不想把账目交给大厂的人。"
+    },
+    {
+      "repo": "Javis603/token-monitor",
+      "url": "https://github.com/Javis603/token-monitor",
+      "description": "Local-first desktop widget for tracking token usage, costs, and limits across 42+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.",
+      "language": "JavaScript",
+      "stars": 2503,
+      "summaryZh": "本地优先的桌面小组件，用于追踪 Claude Code、Codex、Cursor、OpenCode 等 42 款以上 AI 编程工具的 token 用量、费用与额度，并支持多设备同步。适合重度使用 AI 编码工具、需要控制成本和分析用量分布的开发者。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "本地优先的桌面小挂件，跟踪 Claude Code、Codex、Cursor 等 42 种 AI 编程工具的 token 用量和花费，还能多设备同步。比翻各家后台看额度省事。适合同时用好几个 AI 编码工具、怕超预算的开发者。"
+    }
+  ]
+}
