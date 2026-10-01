@@ -1,0 +1,439 @@
+{
+  "date": "2026-10-01",
+  "trending": [
+    {
+      "repo": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": 13110,
+      "summaryZh": "这是英伟达推出的自主 AI 智能体安全私有运行时，用 Rust 编写以保证性能与内存安全。核心亮点是为智能体提供隔离沙箱与权限管控，防止越权操作和数据泄露。适合在企业或私有环境中部署自主 AI 智能体、对安全合规要求较高的开发者与团队。",
+      "category": "AI",
+      "starsToday": 1281
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 50723,
+      "summaryZh": "一个完全本地运行的开源 ElevenLabs 替代方案，支持声音克隆、声音设计、视频配音、听写、转录和有声书制作。覆盖 646 种语言，无需联网即可保护隐私。适合需要语音合成与转录、又不想依赖云服务或付费订阅的个人创作者与开发者。",
+      "category": "AI",
+      "starsToday": 3483
+    },
+    {
+      "repo": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars": 3168,
+      "summaryZh": "一个多智能体协作框架，能把 Claude Code 和 Codex 组合成统一系统协同工作。核心亮点是让不同 AI 编码代理分工配合、共享上下文完成任务。适合想同时利用多个 AI 编程助手、提升复杂开发任务效率的工程师。",
+      "category": "AI",
+      "starsToday": 624
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 24555,
+      "summaryZh": "面向 AI 编码代理的上下文窗口优化工具，通过沙箱化工具输出减少 98% token 消耗，并持久化会话记忆。借助 MCP 与钩子在 17 个平台上统一路由。适合使用 Claude Code、Codex 等代理、受上下文长度和成本困扰的重度开发者。",
+      "category": "AI",
+      "starsToday": 90
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 149427,
+      "summaryZh": "让 AI 代理像屋里最懒的资深开发者那样思考，信奉最好的代码就是没写出来的代码。核心是抑制过度设计和冗余实现，推动最小改动方案。适合厌倦 AI 生成臃肿代码、希望输出更精简务实的开发者。",
+      "category": "AI",
+      "starsToday": 743
+    },
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 127670,
+      "summaryZh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。核心亮点是从文案、素材到配音剪辑全流程自动完成。适合想批量生产短视频内容的自媒体运营者、营销人员或副业创作者。",
+      "category": "AI",
+      "starsToday": 431
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars": 391042,
+      "summaryZh": "一个号称真正能动手做事的 AI 代理，支持任意操作系统和平台，以龙虾方式自居。核心亮点是跨平台执行实际任务而非只聊天。适合希望 AI 直接操作电脑、自动化日常事务的技术用户和极客。",
+      "category": "AI",
+      "starsToday": 136
+    },
+    {
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 76207,
+      "summaryZh": "一份精选的 Claude Skills 资源列表，收录可定制 Claude AI 工作流的技能、工具和教程。核心价值是集中整理生态资源，方便快速查找和上手。适合想扩展 Claude 能力、构建个性化 AI 工作流的开发者和爱好者。",
+      "category": "资料教程",
+      "starsToday": 123
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 273178,
+      "summaryZh": "来自知名开发者 Matt Pocock 的 .agents 目录，汇集面向真正工程师的实用技能。核心亮点是源自一线实战经验，聚焦真实开发场景。适合想借鉴资深工程师工作流、提升 AI 辅助开发效率的程序员。",
+      "category": "资料教程",
+      "starsToday": 876
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": 54865,
+      "summaryZh": "用 HTML 写代码、渲染出视频的工具，专为 AI 代理设计。核心亮点是把网页技术栈直接转化为视频输出，降低视频生成门槛。适合前端开发者、需要程序化批量生成视频的内容团队与自动化场景。",
+      "category": "前端",
+      "starsToday": 349
+    },
+    {
+      "repo": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": 6782,
+      "summaryZh": "Firebase 官方 iOS SDK，为苹果应用开发提供后端服务集成。核心涵盖认证、数据库、存储、推送和分析等能力，用 C++ 底层实现。适合开发 iOS/macOS 应用、需要快速搭建后端与实时功能的移动开发者。",
+      "category": "开发工具",
+      "starsToday": 8
+    },
+    {
+      "repo": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "JavaScript",
+      "stars": 66495,
+      "summaryZh": "一份人生进阶指南，涵盖 AI 学习、英语学习与个人成长方法论。核心亮点是作者韩先凯系统整理的学习路径与实战心得。适合想系统入门 AI、提升英语或规划自我成长的终身学习者。",
+      "category": "资料教程",
+      "starsToday": 743
+    },
+    {
+      "repo": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "C",
+      "stars": 72660,
+      "summaryZh": "预索引的代码知识图谱，代码变更时自动同步，支持 Claude Code、Codex、Gemini、Cursor 等主流 AI 编程工具。核心亮点是减少 token 消耗与工具调用，且 100% 本地运行。适合大型代码库中追求高效 AI 辅助开发的工程师。",
+      "category": "开发工具",
+      "starsToday": 118
+    },
+    {
+      "repo": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "stars": 23387,
+      "summaryZh": "仅 25 MB 的轻量级跨平台数据库客户端，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB 等 100 多种数据库。内置 AI、MCP 服务与 CLI，兼顾桌面体验。适合需要频繁切换多种数据库、追求轻量高效开发的工程师。",
+      "category": "开发工具",
+      "starsToday": 1138
+    },
+    {
+      "repo": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars": 26466,
+      "summaryZh": "一个开源低成本 10.5 GHz PLFM 相控阵雷达系统，提供完整硬件与软件方案。核心亮点是以低成本实现相控阵雷达的发射、接收与信号处理。适合雷达爱好者、学生和科研人员做教学实验或原型验证。",
+      "category": "其他",
+      "starsToday": 263
+    },
+    {
+      "repo": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": 38232,
+      "summaryZh": "PageIndex 是一个面向 RAG 场景的文档索引库，主打不依赖向量检索、而是基于推理定位文档内容。它通过结构化的页级索引提升长文档问答的可解释性与召回精度，适合需要构建高准确率问答系统的开发者，尤其是处理合同、论文等长文本检索任务的场景。",
+      "category": "AI",
+      "starsToday": 1097
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "language": "TypeScript",
+      "stars": 4198,
+      "summaryZh": "AIHOT 是一个可自托管的热点聚合与日报生成网站框架，能自动抓取信源、用 LLM 筛选并生成行业日报。核心亮点是把信源与精选标准做成可替换配置，换个配置就变成你的垂直热点站。适合想搭建行业资讯站或内容聚合工具的开发者与运营者。",
+      "category": "其他",
+      "createdAt": "2026-09-28T23:40:05Z"
+    },
+    {
+      "repo": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "language": "C++",
+      "stars": 3350,
+      "summaryZh": "Strata 是一个可在消费级硬件上本地运行 Qwen3.8-Flash-Next 的推理引擎，支持 Windows/Linux 一键安装。它在 localhost 暴露 OpenAI 与 Anthropic 兼容 API，并可选图像输入，适合想在本地跑大模型、又希望兼容现有 API 客户端的开发者与隐私敏感用户。",
+      "category": "AI",
+      "createdAt": "2026-09-24T16:40:20Z"
+    },
+    {
+      "repo": "mexicat/pdoom-video",
+      "url": "https://github.com/mexicat/pdoom-video",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "language": "TypeScript",
+      "stars": 2136,
+      "summaryZh": "这是为歌曲《I'm Upping My P(doom)》制作的代码渲染音乐视频项目，全部画面由代码生成而非剪辑。它展示了用编程方式制作 MV 的可行路径，适合对创意编程、生成艺术和音乐可视化感兴趣的前端或图形开发者参考。",
+      "category": "前端",
+      "createdAt": "2026-09-24T21:33:53Z"
+    },
+    {
+      "repo": "tobi/disktree",
+      "url": "https://github.com/tobi/disktree",
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "language": "Rust",
+      "stars": 2039,
+      "summaryZh": "disktree 是一个用树状图帮助定位并删除磁盘空间占用大户的工具，面向 Omarchy 系统，基于 Rust 与 GPUI 构建。它能直观呈现各目录的体积占比，适合需要快速清理硬盘、找出隐藏大文件的 Linux 桌面用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-24T20:56:29Z"
+    },
+    {
+      "repo": "feder-cr/dots",
+      "url": "https://github.com/feder-cr/dots",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "language": "Python",
+      "stars": 1949,
+      "summaryZh": "dots 是一个自带浏览器、不易被反爬拦截的开源 AI 智能体，可作为 ChatGPT 等商业浏览器代理的开源替代。它基于 Playwright 与反检测浏览器方案，实现网页自动化与信息提取。适合需要稳定抓取网页或构建网页代理应用的开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-29T23:06:00Z"
+    },
+    {
+      "repo": "dzhng/jevgrep",
+      "url": "https://github.com/dzhng/jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "language": "TypeScript",
+      "stars": 1920,
+      "summaryZh": "jevgrep 是一个面向编码智能体的命令行代码搜索工具，用自然语言描述功能即可找到相关文件与源码上下文。它基于 Jev 与语义检索，减少手动 grep 的负担，适合使用 Claude Code、Codex 等编码代理、需要快速定位代码的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-26T04:06:56Z"
+    },
+    {
+      "repo": "Louis-CFM/coucou",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
+      "language": "Swift",
+      "stars": 1688,
+      "summaryZh": "coucou 是一个常驻 macOS 刘海或 Windows 屏幕顶部的小组件，用来实时监控你的 Claude Code 会话状态。它用 Swift/SwiftUI 实现，轻量且不打扰工作流，适合频繁使用 Claude Code、希望随时掌握代理运行情况的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-27T21:54:12Z"
+    },
+    {
+      "repo": "shihabal3amri/DiPlay",
+      "url": "https://github.com/shihabal3amri/DiPlay",
+      "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+      "language": "Kotlin",
+      "stars": 1663,
+      "summaryZh": "DiPlay 是一个独立的 CarPlay 接收器，面向兼容的 Android 车机，已提供有线与无线公开预览版。它让 Android 车机也能使用 CarPlay，适合想在安卓车机上体验苹果车载系统的用户和车载应用开发者折腾尝鲜。",
+      "category": "其他",
+      "createdAt": "2026-09-24T15:36:38Z"
+    },
+    {
+      "repo": "firelex/jeff",
+      "url": "https://github.com/firelex/jeff",
+      "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+      "language": "Python",
+      "stars": 1210,
+      "summaryZh": "jeff 是对 Qwen3.5 与 Gemma 4 进行微调的项目，专注于零样本分类任务。它提供了可复现的微调流程与模型权重，适合需要快速搭建文本分类能力、又不想标注大量数据的开发者与研究者直接使用或二次微调。",
+      "category": "AI",
+      "createdAt": "2026-09-28T16:18:39Z"
+    },
+    {
+      "repo": "kaankiziltug/logo-design-skill",
+      "url": "https://github.com/kaankiziltug/logo-design-skill",
+      "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+      "language": "HTML",
+      "stars": 1174,
+      "summaryZh": "",
+      "category": "其他",
+      "createdAt": "2026-09-26T08:23:34Z"
+    },
+    {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+      "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+      "language": "",
+      "stars": 1134,
+      "summaryZh": "这是一个持续更新的合集，收录用 Claude Opus 5.5 生成的爆款视频及其提示词，并可在 Skillry 上看到原视频与实时重制对比。适合想学习 AI 视频提示词技巧、寻找创意编程与动态图形灵感的创作者和开发者。",
+      "category": "资料教程",
+      "createdAt": "2026-09-27T06:19:36Z"
+    },
+    {
+      "repo": "feitangyuan/onetake",
+      "url": "https://github.com/feitangyuan/onetake",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "language": "Python",
+      "stars": 1077,
+      "summaryZh": "onetake 是一个 Claude Agent Skill，用于制作一镜到底、不切换幻灯片的动效影片，每个节拍都由前一镜头自然生长而来。它通过连续镜头与一致性校验提升产品发布片质感，适合需要制作产品宣传视频的创作者与市场团队。",
+      "category": "AI",
+      "createdAt": "2026-09-26T05:35:17Z"
+    },
+    {
+      "repo": "wy51ai/floorplan-3d",
+      "url": "https://github.com/wy51ai/floorplan-3d",
+      "description": "",
+      "language": "HTML",
+      "stars": 1037,
+      "summaryZh": "floorplan-3d 是一个用 HTML 实现的项目，可将二维户型图转换为三维可视化展示，方便快速预览房屋空间结构。它适合房地产展示、室内设计初步方案以及需要网页端查看户型的用户和开发者参考使用。",
+      "category": "前端",
+      "createdAt": "2026-09-29T02:57:30Z"
+    },
+    {
+      "repo": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "language": "Python",
+      "stars": 974,
+      "summaryZh": "universal-modder 是一套面向 Claude Code 的游戏模组制作技能与工具，配合 fal MCP 可对几乎所有 PC 游戏进行侦察、逆向、生成美术与音效并在游戏内测试。适合想用 AI 代理辅助做游戏 Mod 的玩家、模组作者与逆向工程爱好者。",
+      "category": "游戏",
+      "createdAt": "2026-09-30T05:00:35Z"
+    },
+    {
+      "repo": "supermemoryai/company-brain",
+      "url": "https://github.com/supermemoryai/company-brain",
+      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "language": "TypeScript",
+      "stars": 875,
+      "summaryZh": "这是一个开源的企业级 Slack 记忆助手，能记住团队说过的所有内容并主动执行任务。核心亮点在于长期上下文记忆与可执行工作流结合，把团队知识沉淀成可调用的“公司大脑”。适合希望用 AI 提升团队协作效率、减少重复沟通的工程与产品团队。",
+      "category": "AI",
+      "createdAt": "2026-09-25T22:48:14Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "ciromattia/kcc",
+      "url": "https://github.com/ciromattia/kcc",
+      "description": "KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.",
+      "language": "Python",
+      "stars": 5744,
+      "summaryZh": "KCC（Kindle Comic Converter）是一款把漫画、manga 和 webtoon 转换适配电子书阅读器的工具。支持 cbz、epub、pdf 转 azw3 等格式，针对 eink 设备优化排版与裁切。适合 Kindle、Kobo、reMarkable 等电纸书用户批量处理本地漫画库。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 77 分 · 20 评论",
+      "reasonZh": "Kindle Comic Converter，把漫画 CBZ、EPUB、PDF 一键转成 Kindle、Kobo、reMarkable 等电纸书友好的格式，还能自动裁边、分页、调对比度。同类工具要么只支持单一设备，要么要手动处理，它是唯一把各家电纸书适配做全的。适合囤了一堆漫画想在墨水屏上舒服看的用户。"
+    },
+    {
+      "repo": "driceroland/Search",
+      "url": "https://github.com/driceroland/Search",
+      "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+      "language": "Swift",
+      "stars": 2298,
+      "summaryZh": "这是一款由 Office Commun 打造的 macOS 轻量 WebKit 浏览器，主打小巧与快速启动。核心优势是低资源占用和简洁界面，适合想要摆脱臃肿浏览器、日常查资料或临时浏览的 Mac 用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1532（+200%）",
+      "reasonZh": "macOS 上一个轻量快速的 WebKit 浏览器，主打干净、快、没多余东西。现在浏览器要么是 Chrome 那种巨无霸，要么是 Safari 改皮，它是真用小引擎重新做的。适合想要一个零干扰、随手查资料的轻量浏览器的 Mac 用户。"
+    },
+    {
+      "repo": "skalesapp/skales",
+      "url": "https://github.com/skalesapp/skales",
+      "description": "Personal AI agent for macOS, Windows, Linux, Android & iOS. Set a goal, it works alone: coding (Skales Code), desktop + browser automation, autonomous scheduled Tasks. Teams of agents and humans across paired desktops. Agent2Agent, MCP, computer use, voice, local LLMs (Ollama), Agent Skills (SKILL.md). 26 AI providers, BYOK. No Docker, no terminal.",
+      "language": "",
+      "stars": 1928,
+      "summaryZh": "这是一个跨 macOS、Windows、Linux、Android、iOS 的个人 AI 智能体，设定目标后即可自主编码、操作桌面与浏览器、按计划执行任务。支持本地模型与 MCP，强调隐私和本地优先。适合想让 AI 替自己自动完成多步骤工作的个人用户。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "个人 AI agent，装完设个目标它就能自己跑：写代码、操作桌面和浏览器、按计划执行任务，全平台还带本地优先和 Ollama 支持。同类 agent 大多是玩具或只跑终端，它给了完整跨端产品体验。适合想拥有一个真正能干活、数据不外传的私人助手的人。"
+    },
+    {
+      "repo": "PurpleDoubleD/locally-uncensored",
+      "url": "https://github.com/PurpleDoubleD/locally-uncensored",
+      "description": "The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.",
+      "language": "TypeScript",
+      "stars": 1858,
+      "summaryZh": "这是一个全本地桌面 AI 工作室，集聊天、图像与视频生成、编码智能体于一体，免费开源且无需 Docker 或终端。支持本地 LLM 与 Stable Diffusion，注重隐私和自托管。适合想在 Windows 或 Linux 上离线使用无审查 AI 的用户。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "一个桌面端本地 AI 全家桶：聊天、生图、生视频、编码 agent 全塞进一个应用，不用 Docker 不用命令行，Windows 和 Linux 双击即用。同类本地 AI 工具往往只做单一功能或要折腾环境。适合想离线、无审查、开箱即用的本地模型玩家。"
+    },
+    {
+      "repo": "0xsline/OpenChatCut",
+      "url": "https://github.com/0xsline/OpenChatCut",
+      "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
+      "language": "TypeScript",
+      "stars": 2067,
+      "summaryZh": "这是一个开源本地优先的对话式 AI 视频编辑器，内置专业多轨时间线、Agent Skills、MCP 集成与 Remotion 渲染。用户可用自然语言驱动剪辑，强调可控与可扩展。适合需要本地处理素材、又想用 AI 提升剪辑效率的视频创作者。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "开源、本地优先的对话式 AI 视频剪辑器，带专业多轨时间线和 Remotion 渲染，你用聊天就能完成剪辑。同类 AI 剪辑多在云端且封闭，它把 Agent Skills、MCP 和时间线都开放出来。适合想让 AI 帮忙剪片又不想把素材传上云的人。"
+    },
+    {
+      "repo": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "language": "Go",
+      "stars": 3877,
+      "summaryZh": "Magpie 是一个 Go 编写的 macOS 菜单栏工具，让 Codex、Claude Code、Gemini CLI 等智能体自由接入 DeepSeek、Kimi 等模型。核心亮点是一处配置、多模型路由。适合想灵活切换底层大模型、降低编码助手成本的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +3063（+376%）",
+      "reasonZh": "菜单栏里的小工具，把你的各种编码 agent 接到任意模型上，比如让 Codex 跑 DeepSeek、Claude Code 跑 Kimi。同类代理要么改配置文件要么锁死单一模型，它一个托盘应用全搞定。适合想自由换模型省钱又怕折腾配置的开发者。"
+    },
+    {
+      "repo": "jhlee0409/claude-code-history-viewer",
+      "url": "https://github.com/jhlee0409/claude-code-history-viewer",
+      "description": "desktop app to browse and analyze your Claude Code conversation history",
+      "language": "TypeScript",
+      "stars": 2215,
+      "summaryZh": "这是一个用 Tauri 和 Rust 构建的桌面应用，用于浏览和分析 Claude Code 的对话历史。支持搜索、归档和查看上下文，方便回溯调试过程。适合重度使用 Claude Code 等编码智能体、需要复盘历史会话的开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "专门浏览和分析 Claude Code 历史对话的桌面应用，支持 Claude、Codex、OpenCode 等多种记录。以前这些历史只能靠翻 JSON 文件，它给了正经的图形界面。适合重度用编码 agent、想回头查自己问过什么、复用 prompt 的人。"
+    },
+    {
+      "repo": "qufei1993/skills-hub",
+      "url": "https://github.com/qufei1993/skills-hub",
+      "description": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”.",
+      "language": "Rust",
+      "stars": 1714,
+      "summaryZh": "这是一个跨平台桌面应用，用于集中管理 Agent Skills 并同步到多个 AI 编码工具的全局技能目录，实现“一次安装，处处同步”。基于 Rust 和 Tauri，轻量高效。适合同时使用 Claude Code、Codex、Cursor 的开发者统一维护技能库。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "跨平台桌面应用，集中管理各种 AI 编码工具的 Agent Skills，一键同步到 Claude Code、Cursor、Codex 的全局目录，装一次处处可用。以前每个工具的技能要单独维护，它把这件事统一了。适合同时用好几个编码 agent、懒得重复配置的人。"
+    },
+    {
+      "repo": "Syngnat/GoNavi",
+      "url": "https://github.com/Syngnat/GoNavi",
+      "description": "High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库客户端：约 30MB，AI 与 MCP 就绪，告别 Electron 膨胀。",
+      "language": "TypeScript",
+      "stars": 1914,
+      "summaryZh": "GoNavi 是一款约 30MB 的高性能多数据源数据库客户端，支持 MySQL、PostgreSQL、MongoDB、Redis、Kafka 等，并内置 AI 与 MCP 能力。基于 Go 和 Wails，告别 Electron 臃肿。适合追求轻量启动、需要多库统一管理的开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "高性能多数据源数据库客户端，只有约 30MB，用 Go 写的没有 Electron 臃肿感，支持 MySQL、Postgres、Redis、Mongo、Kafka、MQTT 等，还内置 AI 和 MCP。同类客户端要么重要么收费。适合受够 DBeaver 卡顿、想要轻快原生工具的开发者。"
+    },
+    {
+      "repo": "derv82/wifit3",
+      "url": "https://github.com/derv82/wifit3",
+      "description": "Wifite but USB-only & cross-platform.",
+      "language": "Python",
+      "stars": 1601,
+      "summaryZh": "Wifit3 是 Wifite 的跨平台重写版，专注 USB 无线网卡场景，支持扫描和审计 WiFi 安全。核心亮点是纯用户态实现且跨平台，无需复杂依赖。适合安全研究人员和渗透测试初学者在合法授权下学习无线安全。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +602（+60%）",
+      "reasonZh": "Wifite 的继任者，但改成纯用户态、跨平台、只用 USB 网卡，扫描和测试无线安全不再依赖特定 Linux 环境。老 Wifite 只能在 Kali 上折腾，它在 Mac、Windows 上都能跑。适合做无线安全学习、想在手头设备上直接上手的人。"
+    }
+  ]
+}
