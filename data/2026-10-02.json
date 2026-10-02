@@ -1,0 +1,429 @@
+{
+  "date": "2026-10-02",
+  "trending": [
+    {
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 150805,
+      "summaryZh": "这是一个让 AI 编码代理模仿“最懒资深开发者”思维模式的开源项目，核心理念是“最好的代码就是你没写的代码”。它通过提示和约束引导 AI 少写冗余代码，优先复用与简化。适合使用 AI 辅助编程、希望减少代码膨胀的开发者。",
+      "category": "AI",
+      "starsToday": 1194
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 274089,
+      "summaryZh": "这是 Matt Pocock 从个人 .agents 目录中整理出的面向实战工程师的技能集合，以 Shell 脚本形式提供可复用的代理能力。内容直接来自真实工作流，强调实用而非理论。适合想快速增强 AI 编码代理工程技能的开发者。",
+      "category": "开发工具",
+      "starsToday": 883
+    },
+    {
+      "repo": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": 14115,
+      "summaryZh": "OpenShell 是 NVIDIA 推出的面向自主 AI 代理的安全私有运行时，使用 Rust 编写。它为代理执行提供隔离与隐私保护，防止越权访问敏感资源。适合需要在生产或敏感环境中部署自主代理的团队与开发者。",
+      "category": "AI",
+      "starsToday": 2456
+    },
+    {
+      "repo": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": 6885,
+      "summaryZh": "这是 Firebase 官方为 Apple 平台提供的 SDK，涵盖认证、数据库、云函数、推送等后端服务。它让 iOS/macOS 开发者无需自建后端即可快速接入云端能力。适合使用 Swift/Objective-C 开发苹果应用并需要后端支持的团队。",
+      "category": "开发工具",
+      "starsToday": 112
+    },
+    {
+      "repo": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "stars": 3845,
+      "summaryZh": "OpenRig 让你用 Claude Code、Codex 和 Pi 构建自己的代理网络，支持持久化团队、角色分工、共享上下文与任务归属。它把多个 AI 代理组织成协同工作的虚拟团队。适合需要多代理协作完成复杂工程任务的开发者。",
+      "category": "AI",
+      "starsToday": 642
+    },
+    {
+      "repo": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 9352,
+      "summaryZh": "这是 Cursor 官方插件规范与官方插件仓库，定义了编辑器扩展的接口与最佳实践。开发者可据此为 Cursor 编写自定义插件，扩展 AI 编码能力。适合想深度定制 Cursor 或开发编辑器插件的工程师。",
+      "category": "开发工具",
+      "starsToday": 150
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 294073,
+      "summaryZh": "Superpowers 是一个经实践验证的代理技能框架与软件开发方法论，以 Shell 脚本形式提供可组合的能力模块。它把 AI 代理融入真实开发流程，强调可落地的工作方式。适合希望系统化使用 AI 代理提升研发效率的团队。",
+      "category": "开发工具",
+      "starsToday": 455
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 24844,
+      "summaryZh": "该项目为 AI 编码代理优化上下文窗口，通过沙箱化工具输出可减少约 98% 的上下文占用，并持久化会话记忆。它借助 MCP 与 hooks 在 17 个平台上统一路由。适合使用 AI 代理进行长时间、多工具协作的开发者。",
+      "category": "AI",
+      "starsToday": 362
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": 55460,
+      "summaryZh": "Hyperframes 让你用 HTML 编写内容并直接渲染为视频，专为 AI 代理场景设计。它把网页技术转化为视频生成流水线，降低动态内容制作门槛。适合需要用代理自动批量生成视频的开发者与内容团队。",
+      "category": "AI",
+      "starsToday": 627
+    },
+    {
+      "repo": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars": 111365,
+      "summaryZh": "Pi 是一个 AI 代理工具包，提供统一 LLM API、代理循环、TUI 以及编码代理 CLI。它把构建代理所需的底层组件整合成一套可复用工具。适合想快速搭建自有编码代理或研究代理架构的开发者。",
+      "category": "AI",
+      "starsToday": 298
+    },
+    {
+      "repo": "tile-ai/tilelang",
+      "url": "https://github.com/tile-ai/tilelang",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "language": "Python",
+      "stars": 8161,
+      "summaryZh": "TileLang 是一个领域特定语言，用于简化高性能 GPU、CPU 及加速器内核的开发。它通过更高层抽象降低底层并行编程的复杂度。适合需要编写高性能计算内核的 AI 系统与异构计算开发者。",
+      "category": "AI",
+      "starsToday": 163
+    },
+    {
+      "repo": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": 3060,
+      "summaryZh": "yoinks 是一个终端视频下载工具，让你在命令行直接抓取视频，无需面对弹窗广告或可疑网站。它用 TypeScript 实现，操作简单直接。适合习惯终端工作流、需要快速保存视频内容的开发者与用户。",
+      "category": "开发工具",
+      "starsToday": 361
+    },
+    {
+      "repo": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": 16505,
+      "summaryZh": "GhostTrack 是一个用于追踪位置或手机号码的 Python 工具，常被用于信息收集与安全测试场景。它提供简单的命令行交互来查询目标相关信息。适合从事渗透测试或安全研究的人员，使用时需遵守当地法律。",
+      "category": "开发工具",
+      "starsToday": 368
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 73823,
+      "summaryZh": "Impeccable 是一门设计语言，旨在让 AI 工具在生成界面时更具设计感与一致性。它提供规范与提示，帮助 AI 产出更专业的视觉效果。适合希望提升 AI 生成 UI 质量的前端与设计师。",
+      "category": "前端",
+      "starsToday": 495
+    },
+    {
+      "repo": "Friedrich-M/UniMate",
+      "url": "https://github.com/Friedrich-M/UniMate",
+      "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+      "language": "Python",
+      "stars": 1125,
+      "summaryZh": "UniMate 是 SIGGRAPH Asia 2026 论文的官方实现，用统一模型驱动多种骨架的动画生成。它解决了不同骨骼结构间动画迁移的难题，技术亮点在于单一模型适配多样骨架。适合研究角色动画与图形学的学者和开发者。",
+      "category": "AI",
+      "starsToday": 217
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "language": "TypeScript",
+      "stars": 4754,
+      "summaryZh": "这是一个自己找热点、自己写日报的网站框架，集成 RSS 抓取、LLM 摘要和 MCP 协议，可自动聚合并筛选内容。核心亮点是信源和精选标准完全可替换，换掉配置即可变成你的行业热点站。适合想快速搭建垂直领域资讯站或内容日报的自托管用户。",
+      "category": "AI",
+      "createdAt": "2026-09-28T23:40:05Z"
+    },
+    {
+      "repo": "Louis-CFM/coucou",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Gemini CLI, Antigravity and more.",
+      "language": "Swift",
+      "stars": 2560,
+      "summaryZh": "这是常驻 macOS 刘海或 Windows、Linux 屏幕顶部的小助手，实时监控 Claude Code、Gemini CLI 等编码智能体的运行状态。基于 Swift 与 SwiftUI 开发，以动态岛形式呈现任务进度，几乎不占空间。适合频繁使用多家 CLI 编码代理、想随时掌握其运行情况的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-27T21:54:12Z"
+    },
+    {
+      "repo": "feder-cr/dots",
+      "url": "https://github.com/feder-cr/dots",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "language": "Python",
+      "stars": 2403,
+      "summaryZh": "这是一个开源的网页 AI 智能体，自带独立浏览器且不易被反爬机制拦截。基于 Python 与 Playwright 构建，集成了反检测浏览、MCP 和多种 LLM 接入，可像真人一样操作网页。适合需要自动化采集或执行网页任务、又常被风控阻断的开发者和研究者。",
+      "category": "AI",
+      "createdAt": "2026-09-29T23:06:00Z"
+    },
+    {
+      "repo": "dzhng/jevgrep",
+      "url": "https://github.com/dzhng/jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "language": "TypeScript",
+      "stars": 2012,
+      "summaryZh": "这是一款面向编码智能体的命令行工具，可以按功能描述而非关键词来搜索代码。它基于 Jev 语义检索定位相关文件和源码上下文，对接 Claude Code、Codex 等代理。适合在大中型代码库中快速定位实现、为 AI 代理提供精准上下文的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-26T04:06:56Z"
+    },
+    {
+      "repo": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "language": "Python",
+      "stars": 1649,
+      "summaryZh": "这套技能把 Claude Code 变成游戏 Mod 制作助手，覆盖侦察、逆向、资源生成与测试全流程。结合 fal MCP 可自动生成美术、3D 与音频，并支持游戏内验证和宣传视频产出。适合想给 PC 游戏做模组、又缺乏完整美术与工具链的个人创作者。",
+      "category": "游戏",
+      "createdAt": "2026-09-30T05:00:35Z"
+    },
+    {
+      "repo": "kaankiziltug/logo-design-skill",
+      "url": "https://github.com/kaankiziltug/logo-design-skill",
+      "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+      "language": "HTML",
+      "stars": 1380,
+      "summaryZh": "这是面向 Claude、Gemini CLI、Codex 等 AI 代理的完整 Logo 设计技能包，包含设计原则、流程、SVG 技法与测试工具。还附带 1400 多个 Logo 参考库，可直接被代理调用。适合用 AI 辅助做品牌标识、需要结构化设计流程的设计师与独立开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-26T08:23:34Z"
+    },
+    {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+      "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+      "language": "",
+      "stars": 1296,
+      "summaryZh": "这是一个持续更新的合集，收录用 Claude Opus 5.5 生成的爆款视频及对应提示词，并提供在线对照重制版本。内容涵盖 Three.js 创意编程与动态图形，可直接参考复现。适合想研究 AI 视频提示词、寻找创意灵感的内容创作者和前端动效开发者。",
+      "category": "资料教程",
+      "createdAt": "2026-09-27T06:19:36Z"
+    },
+    {
+      "repo": "firelex/jeff",
+      "url": "https://github.com/firelex/jeff",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "language": "Python",
+      "stars": 1280,
+      "summaryZh": "这是一个 0.8B 参数的开源 System 1 模型，可在毫秒级从你给定的选项中做出带校准概率的决策。采用单一基座加可替换 LoRA 适配器的架构，完全运行在本地硬件上。适合需要在低延迟场景做快速选择、又重视隐私与可控性的应用开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-28T16:18:39Z"
+    },
+    {
+      "repo": "wy51ai/floorplan-3d",
+      "url": "https://github.com/wy51ai/floorplan-3d",
+      "description": "",
+      "language": "HTML",
+      "stars": 1196,
+      "summaryZh": "该项目用 HTML 技术将平面户型图快速转换为可交互的三维空间展示。基于网页实现，无需安装专业软件即可在浏览器中查看与操作三维户型。适合房产展示、装修设计预览或想快速搭建户型可视化 Demo 的前端开发者。",
+      "category": "前端",
+      "createdAt": "2026-09-29T02:57:30Z"
+    },
+    {
+      "repo": "feitangyuan/onetake",
+      "url": "https://github.com/feitangyuan/onetake",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "language": "Python",
+      "stars": 1167,
+      "summaryZh": "这是一个 Claude Agent Skill，用于制作不切镜头的连续运动影片，每一拍都从上一拍自然生长出来。通过 oracle 度量画面连续性，保证一镜到底的视觉连贯。适合做产品发布片、功能演示等需要高级运动质感的创作者，直接让代理执导。",
+      "category": "AI",
+      "createdAt": "2026-09-26T05:35:17Z"
+    },
+    {
+      "repo": "nanaism/yomiyasu",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "language": "Python",
+      "stars": 1041,
+      "summaryZh": "这是一个将 AI 生成日语润色为自然日语的 Agent Skill，支持 Claude Code、Codex、Cursor 等多种代理。内置 lint 与 NLP 处理能力，能修正生硬表达和不地道措辞。适合用大模型写日文内容、需要输出母语级自然文本的写作者与本地化人员。",
+      "category": "AI",
+      "createdAt": "2026-09-30T11:49:32Z"
+    },
+    {
+      "repo": "echris6/motion-video-kit",
+      "url": "https://github.com/echris6/motion-video-kit",
+      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "language": "Python",
+      "stars": 916,
+      "summaryZh": "这是一套面向 Claude Code 的高端商业视频技能包，内置独立评审循环和来自 28 支发布片的运动原则。还提供音效设计、品质标准、商业报价与 Three.js 模式及脚本。适合用 AI 制作企业级宣传片、追求成片质感的视频团队与自由职业者。",
+      "category": "AI",
+      "createdAt": "2026-09-27T14:11:14Z"
+    },
+    {
+      "repo": "supermemoryai/company-brain",
+      "url": "https://github.com/supermemoryai/company-brain",
+      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "language": "TypeScript",
+      "stars": 889,
+      "summaryZh": "这是开源的企业记忆大脑，以 Slack 队友的形式记住团队说过的所有内容，并能主动去完成工作。基于 TypeScript 构建，把对话沉淀为可检索、可执行的知识库。适合希望让内部沟通自动变成行动与记忆、减少信息丢失的团队。",
+      "category": "AI",
+      "createdAt": "2026-09-25T22:48:14Z"
+    },
+    {
+      "repo": "lemomo-ai/lemo-opuscar",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "language": "JavaScript",
+      "stars": 783,
+      "summaryZh": "该项目收录 43 种影片风格，每种都提供可复用的风格提示词和一段由 Claude Opus 5.5 纯代码制作的短片。涵盖 Three.js、WebGL、Canvas、FFmpeg 与 TTS 等实现。适合想挑选风格、自带故事让代理执导的 AI 视频创作者与创意编程爱好者。",
+      "category": "AI",
+      "createdAt": "2026-09-26T10:10:41Z"
+    },
+    {
+      "repo": "edenfunf/reelmimic",
+      "url": "https://github.com/edenfunf/reelmimic",
+      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "language": "JavaScript",
+      "stars": 710,
+      "summaryZh": "给它一段你喜欢的视频，就能生成同风格的新视频，由 Claude Code 或 Codex 组成的 AI 团队与你共同策划、制作和评审。支持 2D 动画与风格迁移，多智能体协作完成全流程。适合缺乏制作团队、想快速复刻特定视觉风格的内容创作者。",
+      "category": "AI",
+      "createdAt": "2026-09-28T19:14:59Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "streetcomplete/StreetComplete",
+      "url": "https://github.com/streetcomplete/StreetComplete",
+      "description": "Easy to use OpenStreetMap editor for Android",
+      "language": "Kotlin",
+      "stars": 4965,
+      "summaryZh": "一款面向 Android 的易用 OpenStreetMap 编辑器，把地图补全变成有趣的问答任务，用户只需回答简单问题即可贡献数据，无需了解 OSM 标签语法。适合普通地图爱好者、户外测绘者和想随手完善开放地图数据的 Android 用户。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 545 分 · 144 评论",
+      "reasonZh": "把 OSM 编辑做成了游戏化问卷，走路时随手点选就能补全地图数据，完全不需要专业知识。老牌项目但国内知道的人不多，适合碎片时间做地理众包的人。"
+    },
+    {
+      "repo": "ciromattia/kcc",
+      "url": "https://github.com/ciromattia/kcc",
+      "description": "KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.",
+      "language": "Python",
+      "stars": 5756,
+      "summaryZh": "Kindle Comic Converter 是一款漫画与日漫电子书转换工具，可将 CBZ、PDF 等格式转换并针对 Kindle、Kobo、reMarkable 等电子墨水设备优化排版。支持双页拆分、留白裁切和灰度处理，适合在电纸书上阅读漫画的用户。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 83 分 · 20 评论",
+      "reasonZh": "把漫画、webtoon 转成 Kindle/Kobo 电纸书最佳排版的转换器，自动切边、分屏、优化对比度。同类工具大多付费或只支持单一设备，它一次搞定几乎所有阅读器，漫画党必备。"
+    },
+    {
+      "repo": "mikehasa/golive-skill",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "language": "TypeScript",
+      "stars": 1172,
+      "summaryZh": "一个帮 AI 代理把产品部署上线的开源 Agent Skill 和零依赖 Node CLI，覆盖主机、数据库、域名、邮箱、支付等环节，按检测、规划、审批、应用、验证流程执行。适合用 Claude Code 等代理构建产品后需要在自己账号上完成部署的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +278（+31%）",
+      "reasonZh": "把一个 agent 做出来的产品真正上线：域名、托管、数据库、支付全走你自己的账号。和那些只给建议的 AI 部署工具不同，它真的执行并验证每一步，适合 vibe coding 之后卡在部署的人。"
+    },
+    {
+      "repo": "driceroland/Search",
+      "url": "https://github.com/driceroland/Search",
+      "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+      "language": "Swift",
+      "stars": 2314,
+      "summaryZh": "由 Office Commun 开发的 macOS 小型快速 WebKit 浏览器，主打轻量启动与简洁界面，基于系统 WebKit 引擎。适合希望摆脱 Chrome 沉重体验、只想快速搜索和浏览网页的 Mac 用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1036（+81%）",
+      "reasonZh": "用 Swift 写的小巧 WebKit 浏览器，启动快、界面干净，没有 Chrome/Safari 那些臃肿功能。适合 macOS 上想要一个纯粹、快速浏览器的用户，同类轻量浏览器多数不支持 macOS 原生体验。"
+    },
+    {
+      "repo": "amicalhq/amical",
+      "url": "https://github.com/amicalhq/amical",
+      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
+      "language": "TypeScript",
+      "stars": 1542,
+      "summaryZh": "一款开源、本地优先的 AI 语音听写应用，基于开源模型实现离线转录，宣称打字速度提升三倍，支持会议记录与笔记场景。适合注重隐私、希望在 macOS 或 Windows 上不依赖云服务快速录入文字的用户。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "本地优先的 AI 听写应用，用开源语音模型离线转写，不依赖云端。和 Wispr Flow 比它完全免费且数据不出本机，适合经常口述、对隐私敏感或网络不稳定的人。"
+    },
+    {
+      "repo": "devdotfast/whiteboard",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "description": "open-source canvas for thoughtful software design",
+      "language": "TypeScript",
+      "stars": 2551,
+      "summaryZh": "一个面向软件设计思考的开源无限画布白板工具，让开发者可以自由绘制架构图、流程图和产品草图，强调轻量与专注。适合需要快速梳理系统设计、进行技术方案讨论的工程师和产品团队。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1952（+326%）",
+      "reasonZh": "给软件设计用的开源画布，画架构图、流程图比通用白板更顺手。相比 Excalidraw 更懂开发者语义，适合团队讨论系统设计和快速草图。"
+    },
+    {
+      "repo": "snownico0722/PaperTodo",
+      "url": "https://github.com/snownico0722/PaperTodo",
+      "description": "A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.——极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。",
+      "language": "C#",
+      "stars": 2443,
+      "summaryZh": "一款极简 Windows 桌面便签工具，用原生 WPF 在桌面上放置几张安静不打扰的纸张，支持待办事项与 Markdown 编辑。适合喜欢简洁桌面、需要随手记录任务和笔记的 Windows 用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "极简 Windows 桌面便签，原生 WPF 轻量不占资源，支持 Markdown 和待办。比 Windows 自带便签好看、比 Notion 桌面版轻快，适合想在桌面放几张随手记纸片的人。"
+    },
+    {
+      "repo": "tobi/disktree",
+      "url": "https://github.com/tobi/disktree",
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "language": "Rust",
+      "stars": 2123,
+      "summaryZh": "一个用 Rust 和 GPUI 编写的磁盘空间树状图工具，面向 Omarchy 系统，帮助用户直观发现占用空间的大文件并清理。适合磁盘吃紧、需要快速定位冗余数据的 Linux 桌面用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1129（+114%）",
+      "reasonZh": "用树状图直观找出硬盘被什么撑满，Rust + GPUI 写得很跟手。比 ncdu 那种终端界面更可视化，比 DaisyDisk 免费，适合 Mac/Linux 上磁盘告急的人快速清空间。"
+    },
+    {
+      "repo": "unhappychoice/gittype",
+      "url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "language": "Rust",
+      "stars": 1616,
+      "summaryZh": "一款 CLI 代码打字游戏，利用 tree-sitter 解析你的源代码并生成打字挑战，在终端里通过 ratatui 呈现。适合想提升键盘输入速度、同时熟悉真实代码结构的程序员日常练习。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "把你的真实源码变成打字练习，用 tree-sitter 解析后逐词挑战。比 monkeytype 那种固定文本有趣，练手速的同时熟悉自己项目的代码，程序员闲时热身很合适。"
+    },
+    {
+      "repo": "mohitagw15856/pm-claude-skills",
+      "url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "1166 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — PRDs, postmortems, leases, medical bills, layoffs, go-bags, new countries. Plain markdown, MIT, in Anthropic's plugin directory. Plus a typed decision layer: which skill, is it safe, ship or slip. Free in-browser or npx pm-claude-skills add.",
+      "language": "HTML",
+      "stars": 1418,
+      "summaryZh": "汇集 1166 个面向 Claude、ChatGPT、Gemini、Cursor 和 Codex 的专业 Agent Skills，涵盖 PRD、复盘、租约、医疗账单、裁员、应急包等场景，全部为 MIT 许可的纯 Markdown。适合想让 AI 代理快速获得行业任务模板的产品与效率用户。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "上千个现成的 Agent Skill，涵盖 PRD、复盘、法律、医疗等真实场景，纯 markdown 直接丢进 Claude/Cursor 就能用。比自己从零写 prompt 省事太多，适合重度用 AI 干活的打工人。"
+    }
+  ]
+}
