@@ -1,0 +1,469 @@
+{
+  "date": "2026-10-04",
+  "trending": [
+    {
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 153729,
+      "summaryZh": "让 AI 编程助手学会\"懒\"的艺术，优先复用已有代码而非新写。核心是减少冗余、避免重复造轮子，输出更精简的补丁。适合厌倦 AI 频繁生成大段无用代码、追求极简改动的开发者。",
+      "category": "AI",
+      "starsToday": 1281
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 75508,
+      "summaryZh": "一套提升 AI 设计能力的提示词设计语言规范，让模型输出更符合专业审美。通过结构化描述改善排版、间距与配色，适合想用 AI 生成高质量 UI 稿的前端和设计师。",
+      "category": "AI",
+      "starsToday": 699
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 272393,
+      "summaryZh": "面向 Claude Code、Codex、Cursor 等编程 Agent 的性能优化系统，整合技能、直觉、记忆、安全与调研优先流程。让 Agent 在长期任务中更稳更快，适合重度依赖多平台 AI 编码助手的团队。",
+      "category": "AI",
+      "starsToday": 897
+    },
+    {
+      "repo": "Effect-TS/effect",
+      "url": "https://github.com/Effect-TS/effect",
+      "description": "Build production-ready applications in TypeScript",
+      "language": "TypeScript",
+      "stars": 16875,
+      "summaryZh": "TypeScript 的生产级应用框架，通过 Effect 系统统一处理错误、并发、依赖注入与资源管理。类型安全且可组合性强，适合构建高可靠后端服务或复杂业务逻辑的 TS 团队。",
+      "category": "开发工具",
+      "starsToday": 302
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "stars": 109608,
+      "summaryZh": "用\"原始人语\"压缩提示词的编码 Agent 代理与技能，实测可削减约 65% token 消耗。通过极简表达降低调用成本，适合对 token 预算敏感的 AI 编程工作流。",
+      "category": "AI",
+      "starsToday": 507
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 90018,
+      "summaryZh": "一条 CLI 让 AI Agent 读取并搜索 Twitter、Reddit、YouTube、GitHub、B站、小红书等内容，无需 API 付费。赋予 Agent 全网感知能力，适合做信息聚合、调研类智能体开发。",
+      "category": "AI",
+      "starsToday": 1696
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 24785,
+      "summaryZh": "为空描述的项目，从仓库名和 TypeScript 语言推测属于 T3 技术栈相关的代码生成或脚手架工具。建议结合仓库 README 了解其具体定位与适用场景。",
+      "category": "开发工具",
+      "starsToday": 252
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 95696,
+      "summaryZh": "为 AI Agent 提供跨会话的持久化上下文：记录会话行为、用 AI 压缩并注入到后续对话。解决 Agent 健忘问题，适合需要长期记忆的 Claude 等编码助手用户。",
+      "category": "AI",
+      "starsToday": 79
+    },
+    {
+      "repo": "cloudflare/cloudflare-os",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "language": "TypeScript",
+      "stars": 10631,
+      "summaryZh": "基于 Cloudflare Workers 的 Agent 工作空间，可结合企业内部上下文和系统创建文档、搭建应用、运行智能体。适合想在边缘环境快速部署企业级 AI 应用的团队。",
+      "category": "AI",
+      "starsToday": 85
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 100908,
+      "summaryZh": "面向 AI 编码 Agent 的生产级工程技能集合，涵盖代码审查、测试、架构等实践。让 Agent 输出更贴近真实工程标准，适合追求代码质量的开发团队。",
+      "category": "AI",
+      "starsToday": 252
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 294977,
+      "summaryZh": "一套可落地的 Agent 技能框架与软件开发方法论，定义技能编写与调用规范。让 AI 开发流程结构化、可复用，适合想体系化使用 Agent 做工程的团队。",
+      "category": "AI",
+      "starsToday": 577
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 275484,
+      "summaryZh": "来自作者 .agents 目录的真实工程技能合集，面向前端与 TypeScript 开发者。提供开箱即用的 Agent 技能定义，适合直接引入现有 AI 编码工作流。",
+      "category": "AI",
+      "starsToday": 751
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 25291,
+      "summaryZh": "针对 AI 编码 Agent 的上下文窗口优化方案：沙箱化工具输出（减少 98%）、持久化会话记忆，并通过 MCP 与 hooks 在 17 个平台上统一路由。适合处理长上下文、复杂工具链的 Agent 场景。",
+      "category": "AI",
+      "starsToday": 256
+    },
+    {
+      "repo": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars": 112235,
+      "summaryZh": "一体化 AI Agent 工具包，提供统一 LLM API、Agent 循环、TUI 界面与编码 Agent CLI。适合想快速搭建自定义智能体或命令行编码助手的开发者。",
+      "category": "AI",
+      "starsToday": 408
+    },
+    {
+      "repo": "getsentry/sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "language": "Python",
+      "stars": 45229,
+      "summaryZh": "开发者优先的错误追踪与性能监控平台，支持多语言 SDK、堆栈聚合、告警和分布式追踪。适合前后端团队定位线上异常、优化接口性能与发布质量。",
+      "category": "开发工具",
+      "starsToday": 214
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 149278,
+      "summaryZh": "Claude Code 是 Anthropic 推出的终端内智能体编程工具，能理解代码库并自动执行日常任务、解释复杂代码、处理 Git 工作流。它适合希望在命令行中借助 AI 加速开发的程序员，可显著减少重复性操作，提升编码与协作效率。",
+      "category": "开发工具",
+      "starsToday": 128
+    },
+    {
+      "repo": "jamwithai/production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "description": "",
+      "language": "Python",
+      "stars": 9437,
+      "summaryZh": "这是一个面向生产环境的智能体 RAG 课程项目，演示如何搭建可落地的检索增强生成系统。内容涵盖架构设计、智能体编排与工程实践，适合想系统学习 RAG 并应用于实际业务的开发者与 AI 工程师。",
+      "category": "资料教程",
+      "starsToday": 193
+    },
+    {
+      "repo": "meituan-longcat/LongCat-Video",
+      "url": "https://github.com/meituan-longcat/LongCat-Video",
+      "description": "",
+      "language": "Python",
+      "stars": 8824,
+      "summaryZh": "LongCat-Video 是美团龙猫团队开源的视频生成模型项目，提供从文本或图像生成视频的能力。其核心亮点在于长视频生成与高质量时序一致性，适合研究视频生成、内容创作或多模态 AI 的开发者与研究者使用。",
+      "category": "AI",
+      "starsToday": 44
+    },
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 91703,
+      "summaryZh": "OpenCut 是开源的 CapCut 替代品，提供网页端视频剪辑能力。它支持时间线编辑、素材管理与导出，强调开放与可自托管，适合希望摆脱商业软件限制、需要自定义剪辑工具的创作者和开发者。",
+      "category": "开发工具",
+      "starsToday": 232
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "language": "TypeScript",
+      "stars": 5520,
+      "summaryZh": "AIHOT 是一个自动找热点、自动写日报的网站框架，你只需替换信源和精选标准，它就能变成专属行业热点站。核心功能包括 RSS 聚合、LLM 筛选与 MCP 集成，适合想快速搭建垂直资讯站或内容聚合产品的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-28T23:40:05Z"
+    },
+    {
+      "repo": "Louis-CFM/coucou",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
+      "language": "Swift",
+      "stars": 3262,
+      "summaryZh": "coucou 是一只住在 macOS 刘海或 Windows/Linux 屏幕顶部的小助手，实时监控 Claude Code、Codex、Cursor、Gemini CLI 等编程智能体状态。适合同时使用多个 AI 编码工具的开发者，在桌面上随时掌握各智能体运行情况。",
+      "category": "开发工具",
+      "createdAt": "2026-09-27T21:54:12Z"
+    },
+    {
+      "repo": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "language": "Python",
+      "stars": 2701,
+      "summaryZh": "universal-modder 让 Claude Code 能对几乎任何 PC 游戏进行模组开发，提供侦察、逆向工程、fal 生成美术/3D/音频、游戏内测试与展示视频等技能和工具。适合想用 AI 辅助游戏模组制作的玩家与逆向工程爱好者。",
+      "category": "游戏",
+      "createdAt": "2026-09-30T05:00:35Z"
+    },
+    {
+      "repo": "CopilotKit/OpenDots",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "language": "TypeScript",
+      "stars": 2680,
+      "summaryZh": "OpenDots 是 CopilotKit 推出的常驻 AI 同事，可在文本、通话和 Slack 之间自由切换。它把 AI 智能体嵌入日常沟通渠道，适合团队协作场景，让 AI 助手在不同媒介中持续参与工作流，提升响应与协作效率。",
+      "category": "AI",
+      "createdAt": "2026-09-29T17:13:58Z"
+    },
+    {
+      "repo": "feder-cr/dots",
+      "url": "https://github.com/feder-cr/dots",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "language": "Python",
+      "stars": 2579,
+      "summaryZh": "dots 是一个拥有独立浏览器的开源 Web AI 智能体，不易被反爬机制拦截。它基于 Playwright 与防检测浏览器技术，适合需要自动化网页操作、数据采集或构建浏览器智能体的开发者使用。",
+      "category": "AI",
+      "createdAt": "2026-09-29T23:06:00Z"
+    },
+    {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+      "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+      "language": "",
+      "stars": 1647,
+      "summaryZh": "这是一个持续更新的合集，收录用 Claude Opus 5.5 制作的爆款视频及对应提示词，每段原作都配有 Skillry 上的实时复刻。适合想学习 AI 视频生成、Three.js 创意编程与提示词技巧的创作者和开发者参考。",
+      "category": "资料教程",
+      "createdAt": "2026-09-27T06:19:36Z"
+    },
+    {
+      "repo": "wy51ai/floorplan-3d",
+      "url": "https://github.com/wy51ai/floorplan-3d",
+      "description": "",
+      "language": "HTML",
+      "stars": 1367,
+      "summaryZh": "floorplan-3d 是一个用 HTML 实现的户型图转 3D 项目，可将平面户型图快速生成三维可视化效果。它适合房产展示、室内设计预览或家装沟通场景，帮助用户直观理解空间布局与结构。",
+      "category": "前端",
+      "createdAt": "2026-09-29T02:57:30Z"
+    },
+    {
+      "repo": "firelex/jeff",
+      "url": "https://github.com/firelex/jeff",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "language": "Python",
+      "stars": 1352,
+      "summaryZh": "jeff 是一个 0.8B 参数的开源 System 1 模型，能在毫秒级内从多个选项中给出校准概率决策。它支持同一基座搭配可替换 LoRA 适配器，并可运行在自有硬件上，适合需要快速、低延迟决策的任意领域应用。",
+      "category": "AI",
+      "createdAt": "2026-09-28T16:18:39Z"
+    },
+    {
+      "repo": "nanaism/yomiyasu",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "language": "Python",
+      "stars": 1342,
+      "summaryZh": "yomiyasu 是一个 Agent Skill，用于把 AI 生成的日语润色成自然流畅的日语。它可作为写作助手、日语校对工具，兼容 Claude Code、Codex、Cursor 等平台，适合日语写作、翻译与内容本地化场景使用。",
+      "category": "AI",
+      "createdAt": "2026-09-30T11:49:32Z"
+    },
+    {
+      "repo": "edenfunf/reelmimic",
+      "url": "https://github.com/edenfunf/reelmimic",
+      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "language": "JavaScript",
+      "stars": 1149,
+      "summaryZh": "reelmimic 能让你展示一段喜欢的视频，然后生成风格相同的新视频。它由 Claude Code 或 Codex 驱动的多智能体团队共同规划、构建与审核，适合短视频创作者、动画爱好者进行风格迁移与 AI 视频生成实验。",
+      "category": "AI",
+      "createdAt": "2026-09-28T19:14:59Z"
+    },
+    {
+      "repo": "CAPCOM-TD-OSS/REDox",
+      "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+      "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
+      "language": "C#",
+      "stars": 995,
+      "summaryZh": "REDox 是 CAPCOM 开源的高性能、基于 token 的 .NET 结构化数据引擎，也是其下一代游戏引擎技术 REX 的核心组件。它适合 .NET 游戏开发者与需要高效数据序列化、查询能力的系统架构师使用。",
+      "category": "游戏",
+      "createdAt": "2026-09-30T10:20:07Z"
+    },
+    {
+      "repo": "echris6/motion-video-kit",
+      "url": "https://github.com/echris6/motion-video-kit",
+      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "language": "Python",
+      "stars": 986,
+      "summaryZh": "这是一个为 Claude Code 设计的技能工具包，用于制作高质量的 AI 辅助商业视频。它包含独立评论循环、基于 28 部发布影片的动效原则、质量标准和声音设计，并提供 Three.js 模式与脚本，适合需要快速产出专业宣传视频的开发者和营销人员。",
+      "category": "AI",
+      "createdAt": "2026-09-27T14:11:14Z"
+    },
+    {
+      "repo": "facebookincubator/muse-gadget-sdk",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "language": "C",
+      "stars": 936,
+      "summaryZh": "这是 Facebook 孵化器开源的 SDK，用于构建 Muse 小工具。它提供了开发工具和库，方便开发者创建与 Muse 平台集成的应用或扩展，适合对 Muse 生态感兴趣的 C 语言开发者和硬件爱好者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-02T18:21:23Z"
+    },
+    {
+      "repo": "chasmlol/SkyCraft",
+      "url": "https://github.com/chasmlol/SkyCraft",
+      "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+      "language": "C++",
+      "stars": 784,
+      "summaryZh": "这个项目让你在《上古卷轴 5：天际》中体验《我的世界》式的玩法，通过 SKSE 插件和 Fabric 模组实现了 Minecraft 的物理、物品栏、方块和战斗系统。适合同时热爱这两款游戏、想要跨界融合体验的玩家。",
+      "category": "游戏",
+      "createdAt": "2026-09-30T16:40:20Z"
+    },
+    {
+      "repo": "nykooi1/vibe-wise",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "language": "Python",
+      "stars": 763,
+      "summaryZh": "这是一个 Claude Code 插件，旨在帮助你在 AI 编写代码的同时学习如何构建项目。它会提供交互式指导和学习资源，适合想要借助 AI 提升编程技能、理解代码背后原理的开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-29T01:29:57Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "streetcomplete/StreetComplete",
+      "url": "https://github.com/streetcomplete/StreetComplete",
+      "description": "Easy to use OpenStreetMap editor for Android",
+      "language": "Kotlin",
+      "stars": 5016,
+      "summaryZh": "StreetComplete 是一款易于使用的 OpenStreetMap 安卓编辑器，通过简单问答方式让用户贡献地图数据。它适合普通大众参与地图编辑，无需专业知识，是 OSM 社区流行的移动端工具。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 627 分 · 176 评论",
+      "reasonZh": "安卓上超好用的 OpenStreetMap 编辑器，不是让你画地图，而是把附近缺信息的地点做成小问卷，你随手点几下就贡献了数据。适合出门散步、徒步时顺手完善地图，普通用户零门槛，比传统 OSM 编辑器友好太多。"
+    },
+    {
+      "repo": "tobi/disktree",
+      "url": "https://github.com/tobi/disktree",
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "language": "Rust",
+      "stars": 2276,
+      "summaryZh": "这是一个用 Rust 和 GPUI 编写的磁盘空间可视化工具，以矩形树图形式展示文件大小，帮助用户快速定位并删除占用空间的大文件。适合需要清理磁盘的普通用户和开发者，尤其针对 Omarchy 系统优化。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +935（+70%）",
+      "reasonZh": "Rust + GPUI 写的磁盘空间树状图工具，一眼看出是谁把硬盘塞满了，直接定位并删除大文件。比 ncdu 更直观、比 DaisyDisk 更开放，桌面用户清理磁盘时会非常爽。"
+    },
+    {
+      "repo": "willfaust/Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "stars": 1722,
+      "summaryZh": "Madeira 让你在越狱的 iOS 设备上运行 x86-64 Windows PC 游戏，它结合了 FEX-Emu、Wine 和 DXMT 等技术。适合想在 iPhone 或 iPad 上玩 PC 游戏的极客玩家，需要一定的越狱和配置经验。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +853（+98%）",
+      "reasonZh": "把 x86-64 Windows 游戏通过 FEX-Emu + Wine + DXMT 跑在 iOS 沙盒里，纯实验但玩性极高。想在 iPhone/iPad 上折腾 PC 老游戏、对模拟层好奇的人会忍不住试，和普通云游戏完全不是一回事。"
+    },
+    {
+      "repo": "ozeranskii/httptap",
+      "url": "https://github.com/ozeranskii/httptap",
+      "description": "Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.",
+      "language": "Python",
+      "stars": 821,
+      "summaryZh": "这是一个基于 Rich 的命令行工具，将 HTTP 请求分解为 DNS、连接、TLS、等待和传输等阶段，并以瀑布时间线、紧凑摘要或仅指标形式展示。适合开发者和运维人员诊断网络性能问题。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "一条命令把 HTTP 请求拆成 DNS、连接、TLS、等待、传输各阶段，用水瀑布图直接看出慢在哪。比 curl -w 直观、比抓包工具轻，排查接口延迟和 TLS 握手问题时随手就能用。"
+    },
+    {
+      "repo": "shihabal3amri/DiPlay",
+      "url": "https://github.com/shihabal3amri/DiPlay",
+      "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+      "language": "Kotlin",
+      "stars": 3146,
+      "summaryZh": "DiPlay 是一个独立的 CarPlay 接收器，适用于兼容的安卓车机，支持有线和无线连接。它让安卓用户能在车载屏幕上使用 CarPlay，适合想要在安卓车机上体验苹果生态的驾驶者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +2047（+186%）",
+      "reasonZh": "第三方 CarPlay 接收器，让兼容的安卓车机也能有线/无线用上 CarPlay。对原车不支持 CarPlay 但想把 iPhone 投上去的车主来说，这是少见又能真装上的方案。"
+    },
+    {
+      "repo": "RackulaLives/Rackula",
+      "url": "https://github.com/RackulaLives/Rackula",
+      "description": "rack layout designer",
+      "language": "TypeScript",
+      "stars": 1738,
+      "summaryZh": "Rackula 是一个机架布局设计工具，支持拖拽操作，用于规划服务器机架、网络设备和 AV 设备。它适合系统管理员、网络工程师和家庭实验室爱好者进行容量规划和可视化布局。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "自托管的机架布局设计器，拖拽就能排好服务器、网络设备并规划容量，还能和 NetBox 等打通。玩 Homelab 的人规划机柜、算功耗和 U 位时特别需要，比 Excel 画格子强多了。"
+    },
+    {
+      "repo": "CodeBoarding/CodeBoarding",
+      "url": "https://github.com/CodeBoarding/CodeBoarding",
+      "description": "Interactive architecture diagrams for codebases",
+      "language": "Python",
+      "stars": 2473,
+      "summaryZh": "CodeBoarding 能为代码库生成交互式架构图，帮助理解项目结构。它利用静态分析和语言服务器协议，支持多种语言，适合开发者和团队快速掌握复杂代码库的架构。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "给代码库自动生成可交互的架构图，结合 LLM 和 LSP 解释模块关系。接手陌生项目、写文档或给团队讲系统结构时，比手动画图省事，也能边看边点开细节。"
+    },
+    {
+      "repo": "ganapativs/microcharts",
+      "url": "https://github.com/ganapativs/microcharts",
+      "description": "Word-sized charts for React, made for LLMs and humans — 106 chart types, zero runtime dependencies, accessible by default, RSC-safe.",
+      "language": "TypeScript",
+      "stars": 196,
+      "summaryZh": "这是一个为 React 设计的微型图表库，提供 106 种图表类型，零运行时依赖，默认支持无障碍访问和 React 服务器组件。适合需要在 LLM 或人类可读的界面中嵌入轻量级图表的开发者。",
+      "category": "前端",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "面向 React 的微型图表库，106 种图表、零运行时依赖、默认无障碍，还专门照顾 LLM 生成场景。做仪表盘、表格内嵌 sparkline 或让 AI 直接输出图表时，轻量又省心。"
+    },
+    {
+      "repo": "furkankly/rataflow",
+      "url": "https://github.com/furkankly/rataflow",
+      "description": "Interactive node-based UIs for the terminal.",
+      "language": "Rust",
+      "stars": 180,
+      "summaryZh": "Rataflow 让你在终端中构建交互式节点式用户界面，基于 Rust 和 Ratatui 库。它适合开发终端工具或需要可视化流程的 CLI 应用，为 TUI 带来图形化交互体验。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "基于 ratatui 的终端节点式交互 UI，能在 TUI 里画流程图和可视化图。写 CLI 工具、想在终端里做可视化编排的开发者会眼前一亮，同类终端图库很少见。"
+    },
+    {
+      "repo": "felixpalmer/a5",
+      "url": "https://github.com/felixpalmer/a5",
+      "description": "Pentagonal geospatial indexing system DGGS",
+      "language": "TypeScript",
+      "stars": 330,
+      "summaryZh": "A5 是一个五边形地理空间索引系统（DGGS），用于地图可视化和空间数据分析。它基于 TypeScript，适合 GIS 开发者、数据科学家在 deck.gl 等平台上进行高效的地理数据处理和可视化。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "五边形地理空间索引系统 DGGS，用 TypeScript 实现，适合地图可视化和海量地理数据分析。相比传统经纬网格更均匀，做全球地图聚合、deck.gl 可视化时会用得上。"
+    }
+  ]
+}
