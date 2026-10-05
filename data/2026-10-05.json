@@ -1,0 +1,429 @@
+{
+  "date": "2026-10-05",
+  "trending": [
+    {
+      "repo": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "stars": 3408,
+      "summaryZh": "这是一个面向 Web 和移动应用的下一代端到端测试框架，用 TypeScript 编写。核心亮点是统一支持多端自动化测试，能覆盖浏览器与移动端场景，简化测试脚本编写与维护。适合需要跨平台 E2E 测试的 QA 团队和前端开发者使用。",
+      "category": "开发工具",
+      "starsToday": 345
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 76479,
+      "summaryZh": "该项目提供一套设计语言，旨在让 AI 代理在界面与视觉设计上表现更出色。核心功能是把设计原则、排版与配色等规则注入 AI 工作流，提升生成结果的审美与一致性。适合用 AI 做前端、UI 或品牌设计的开发者和设计工程师参考使用。",
+      "category": "AI",
+      "starsToday": 1171
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 53180,
+      "summaryZh": "这是面向 Claude Code 和 AI 代理的营销技能库，涵盖 CRO、文案、SEO、分析和增长工程。核心亮点是把成熟营销方法论封装成可调用的技能，让 AI 直接产出可执行策略。适合增长团队、独立开发者和营销人员借助 AI 提效。",
+      "category": "AI",
+      "starsToday": 197
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 155145,
+      "summaryZh": "这个项目让 AI 代理像“最懒的资深开发者”一样思考，核心理念是最少改动的代码才是好代码。它通过约束代理行为，减少过度设计和冗余实现，让输出更简洁可靠。适合希望 AI 编程更克制、更低维护成本的开发者使用。",
+      "category": "AI",
+      "starsToday": 1894
+    },
+    {
+      "repo": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "language": "Python",
+      "stars": 16973,
+      "summaryZh": "该项目为 AI 代理赋予 CAD 建模能力，可通过文本指令驱动生成三维模型。核心亮点是把自然语言与 CAD 操作打通，降低机械与工业设计的建模门槛。适合产品设计师、工程师和创客快速验证结构想法。",
+      "category": "AI",
+      "starsToday": 83
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 91124,
+      "summaryZh": "这个项目给 AI 代理装上“看全网”的眼睛，可读取和搜索 Twitter、Reddit、YouTube、GitHub、B 站、小红书等平台。核心亮点是一个 CLI 搞定多源数据抓取，且零 API 费用。适合做舆情、调研和内容聚合的开发者与研究者。",
+      "category": "AI",
+      "starsToday": 980
+    },
+    {
+      "repo": "getsentry/sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "language": "Python",
+      "stars": 45431,
+      "summaryZh": "Sentry 是开发者优先的错误追踪与性能监控平台，支持多种语言和框架。核心功能是实时捕获异常、定位崩溃堆栈并分析性能瓶颈，帮助团队快速修复线上问题。适合所有需要提升应用稳定性的研发与运维团队使用。",
+      "category": "开发工具",
+      "starsToday": 152
+    },
+    {
+      "repo": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 63360,
+      "summaryZh": "这是全球首个开源、代理驱动的视频生产系统，内置 12 条生产流水线、100 多个工具和 700 多份技能与知识文件。核心亮点是让 AI 编程助手直接变成完整视频制作团队。适合内容创作者、营销团队和自动化视频生产者使用。",
+      "category": "AI",
+      "starsToday": 245
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 25270,
+      "summaryZh": "该项目基于 TypeScript 构建，是 T3 生态下的代码相关工具或应用，具体功能未在描述中展开。核心亮点是延续 T3 技术栈的类型安全与开发体验，适合熟悉 T3 Stack 的前端和全栈开发者探索与集成使用。",
+      "category": "前端",
+      "starsToday": 490
+    },
+    {
+      "repo": "caddyserver/caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 76658,
+      "summaryZh": "Caddy 是一个快速、可扩展的多平台 HTTP/1-2-3 Web 服务器，最大亮点是自动配置 HTTPS 证书，无需手动管理 TLS。它支持反向代理、静态托管和插件扩展，适合个人开发者与团队快速部署安全可靠的 Web 服务。",
+      "category": "开发工具",
+      "starsToday": 24
+    },
+    {
+      "repo": "michael-denyer/pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "language": "JavaScript",
+      "stars": 1206,
+      "summaryZh": "这个项目把 Poteto 的 pstack 代理工作流移植到 Claude Code、Codex、Pi、OpenCode、Gemini 和 Prime Agent 等平台。核心亮点是用 Cursor 原语翻译出严谨的代理工作流，适合多代理工具用户统一协作规范。",
+      "category": "AI",
+      "starsToday": 232
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 101282,
+      "summaryZh": "这是面向 AI 编程代理的生产级工程技能库，由 Addy Osmani 打造。核心功能是把代码审查、架构设计、测试和调试等工程实践封装成可复用技能，提升代理输出质量。适合用 AI 辅助开发的专业工程师和团队使用。",
+      "category": "AI",
+      "starsToday": 336
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 96244,
+      "summaryZh": "该项目为每个 AI 代理提供跨会话的持久上下文，捕获代理在会话中的所有操作，用 AI 压缩后注入未来会话。核心亮点是让代理记住历史、减少重复沟通，适合长期使用 Claude 等代理进行复杂项目的开发者。",
+      "category": "AI",
+      "starsToday": 628
+    },
+    {
+      "repo": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars": 135222,
+      "summaryZh": "这个项目公开了 Garry Tan 的 Claude Code 配置，包含 23 个有明确分工的工具，分别扮演 CEO、设计师、工程经理、发布经理、文档工程师和 QA。核心亮点是完整复刻实战工作流，适合想学习高效 AI 编程协作的开发者。",
+      "category": "AI",
+      "starsToday": 125
+    },
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 92306,
+      "summaryZh": "OpenCut 是开源的 CapCut 替代品，用 TypeScript 构建，提供视频剪辑与导出的核心能力。亮点是免费、可自托管且可扩展，避免商业剪辑软件的订阅与限制。适合内容创作者、视频编辑和需要定制剪辑工具的开发团队。",
+      "category": "开发工具",
+      "starsToday": 512
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "language": "TypeScript",
+      "stars": 5841,
+      "summaryZh": "一个自托管的行业热点日报网站框架，可自动抓取 RSS 等信源、用 LLM 筛选并生成中文日报。内置 Docker Compose 与 PostgreSQL，支持 MCP，把信源和精选标准换成你的即可变成个人行业热点站，适合想做垂直资讯聚合的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-28T23:40:05Z"
+    },
+    {
+      "repo": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "language": "Python",
+      "stars": 3339,
+      "summaryZh": "让 Claude Code 给几乎任何 PC 游戏做 Mod 的技能与工具集，涵盖侦察、逆向工程、美术/3D/音频生成和游戏内测试。集成 fal MCP，支持多款游戏，适合想用 AI 辅助改 Mod 的玩家和逆向爱好者。",
+      "category": "游戏",
+      "createdAt": "2026-09-30T05:00:35Z"
+    },
+    {
+      "repo": "CopilotKit/OpenDots",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "language": "TypeScript",
+      "stars": 3279,
+      "summaryZh": "常驻型 AI 同事，可在文本、电话和 Slack 之间自由切换，替你处理跨渠道的日常事务。基于 TypeScript 构建，面向希望把 AI 助手接入团队沟通与工作流的开发者与团队。",
+      "category": "AI",
+      "createdAt": "2026-09-29T17:13:58Z"
+    },
+    {
+      "repo": "feder-cr/dots",
+      "url": "https://github.com/feder-cr/dots",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "language": "Python",
+      "stars": 2606,
+      "summaryZh": "开源的网页 AI 智能体，自带浏览器且不易被反爬机制拦截。基于 Python 与 Playwright，支持反检测浏览器、OpenRouter 等，适合需要稳定自动化浏览网页、抓取或操作网站的开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-29T23:06:00Z"
+    },
+    {
+      "repo": "nanaism/yomiyasu",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "language": "Python",
+      "stars": 1424,
+      "summaryZh": "一个用于把 AI 生成的日语润色成自然日语的 Agent Skill，可当作写作检查器使用。支持 Claude Code、Cursor、Gemini 等环境，适合经常用大模型写日文、需要提升文笔自然度的写作者。",
+      "category": "AI",
+      "createdAt": "2026-09-30T11:49:32Z"
+    },
+    {
+      "repo": "wy51ai/floorplan-3d",
+      "url": "https://github.com/wy51ai/floorplan-3d",
+      "description": "",
+      "language": "HTML",
+      "stars": 1399,
+      "summaryZh": "一个用 HTML 实现的户型图转 3D 展示项目，可在网页中直观呈现房屋平面布局。基于前端技术构建，适合房产展示、室内设计预览或想学习 3D 可视化的开发者参考使用。",
+      "category": "前端",
+      "createdAt": "2026-09-29T02:57:30Z"
+    },
+    {
+      "repo": "firelex/jeff",
+      "url": "https://github.com/firelex/jeff",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "language": "Python",
+      "stars": 1374,
+      "summaryZh": "一个 0.8B 的开放「系统 1」小模型，能在毫秒级对多个选项给出带校准概率的决策。支持单个基座加可替换的 LoRA 适配器，可跑在自有硬件上，适合做快速分类、路由或选择类任务。",
+      "category": "AI",
+      "createdAt": "2026-09-28T16:18:39Z"
+    },
+    {
+      "repo": "edenfunf/reelmimic",
+      "url": "https://github.com/edenfunf/reelmimic",
+      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "language": "JavaScript",
+      "stars": 1278,
+      "summaryZh": "给它一个你喜欢的视频，就能生成风格相近的新视频。由 Claude Code 或 Codex 组成的多智能体团队负责规划、制作与审阅，适合想用 AI 做风格化视频与 2D 动画的创作者。",
+      "category": "AI",
+      "createdAt": "2026-09-28T19:14:59Z"
+    },
+    {
+      "repo": "facebookincubator/muse-gadget-sdk",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "language": "C",
+      "stars": 1257,
+      "summaryZh": "Meta 开源的 SDK，用于构建 Muse 小工具（Gadgets）。基于 C 语言开发，面向希望在 Muse 生态中开发扩展或小应用的开发者，提供底层接口与构建能力。",
+      "category": "开发工具",
+      "createdAt": "2026-10-02T18:21:23Z"
+    },
+    {
+      "repo": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "language": "JavaScript",
+      "stars": 1161,
+      "summaryZh": "一个让 AI Agent 用一页 HTML 回答复杂问题的技能，把难懂的内容变成可读性强的网页。支持 Claude Code、CLI 等，适合需要解释器、图表或结构化说明的问答场景。",
+      "category": "AI",
+      "createdAt": "2026-10-02T09:57:40Z"
+    },
+    {
+      "repo": "nykooi1/vibe-wise",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "language": "Python",
+      "stars": 1122,
+      "summaryZh": "一个 Claude Code 插件，在 AI 替你写代码的同时教你理解并掌握构建过程。它把讲解融入开发流程，适合想边用 AI 编码边学习编程原理的初学者与进阶开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-29T01:29:57Z"
+    },
+    {
+      "repo": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "description": "",
+      "language": "Rust",
+      "stars": 1065,
+      "summaryZh": "一个用 Rust 编写的照片处理工具，面向图像编辑与创作场景。项目以性能与本地运行为重点，适合希望用命令行或本地工具高效处理照片的开发者和摄影爱好者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-30T13:37:48Z"
+    },
+    {
+      "repo": "CAPCOM-TD-OSS/REDox",
+      "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+      "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
+      "language": "C#",
+      "stars": 1036,
+      "summaryZh": "CAPCOM 开源的高性能、基于 token 的结构化数据引擎，用于 .NET 平台。它是卡普空下一代游戏引擎 REX 的核心组件，适合需要高效数据序列化与处理的 .NET 游戏或工具开发者。",
+      "category": "游戏",
+      "createdAt": "2026-09-30T10:20:07Z"
+    },
+    {
+      "repo": "kargulstudio/sales-crm",
+      "url": "https://github.com/kargulstudio/sales-crm",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1013,
+      "summaryZh": "一个销售 CRM 系统，基于 TypeScript 构建，用于管理客户、销售线索与业务流程。适合中小企业或销售团队搭建自己的客户关系管理平台，也适合开发者学习 CRM 前端与业务实现。",
+      "category": "开发工具",
+      "createdAt": "2026-10-04T10:55:58Z"
+    },
+    {
+      "repo": "chasmlol/SkyCraft",
+      "url": "https://github.com/chasmlol/SkyCraft",
+      "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+      "language": "C++",
+      "stars": 899,
+      "summaryZh": "一个把《上古卷轴 5：天际》改造成《我的世界》玩法的 Mod，通过 SKSE 插件与 Fabric 模组实现方块、物品栏、战斗与物理系统。适合想在天际世界里体验 MC 风格生存建造的玩家。",
+      "category": "游戏",
+      "createdAt": "2026-09-30T16:40:20Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "omlahore/RemoveMacAI",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "description": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
+      "language": "Swift",
+      "stars": 667,
+      "summaryZh": "一个用于关闭 macOS 27 上 Apple Intelligence 并释放磁盘空间的命令行工具。核心功能是通过一条命令彻底禁用该系统特性，且完全可逆。适合希望节省存储空间、注重隐私或不需要 Apple Intelligence 的 Mac 用户。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 483 分 · 302 评论",
+      "reasonZh": "一条命令就能关掉 macOS 上的 Apple Intelligence 并把这几个 G 的磁盘空间要回来，而且完全可逆，不想用 AI 功能又嫌占地方的人装完就舒服了，比手动翻系统设置、找隐藏目录删文件省心太多。"
+    },
+    {
+      "repo": "allenv0/SCM",
+      "url": "https://github.com/allenv0/SCM",
+      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "language": "JavaScript",
+      "stars": 299,
+      "summaryZh": "这是一款 macOS 上的深度 AI 搜索工具，能对任意文件夹中的每一张照片和每一段视频进行智能索引和检索。它利用 Electron 和 Transformers.js 集成视觉语言模型，实现基于内容的搜索。适合需要高效管理大量媒体文件的用户。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 149 分 · 67 评论",
+      "reasonZh": "给 macOS 加了一层本地 AI 搜索，能按内容搜到任意文件夹里的照片和视频画面，纯本地跑模型不用担心隐私。相比系统自带相册或 Spotlight，它不挑来源路径，适合素材库、下载文件夹乱成一锅粥的人。"
+    },
+    {
+      "repo": "streetcomplete/StreetComplete",
+      "url": "https://github.com/streetcomplete/StreetComplete",
+      "description": "Easy to use OpenStreetMap editor for Android",
+      "language": "Kotlin",
+      "stars": 5030,
+      "summaryZh": "StreetComplete 是一个易用的 OpenStreetMap 编辑器，专为 Android 设备设计。它通过简单的问答方式让用户轻松添加和修正地图数据，无需专业知识。适合任何想为 OpenStreetMap 贡献数据的普通用户。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 628 分 · 177 评论",
+      "reasonZh": "把 OpenStreetMap 编辑做成了解谜游戏：出门散步时按提示回答几个小问题，就能补全地图数据。比 JOSM 这类专业编辑器轻太多，不懂 GIS 的普通用户拿手机就能给地图做贡献。"
+    },
+    {
+      "repo": "willfaust/Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "stars": 1760,
+      "summaryZh": "Madeira 让你能在未越狱的 iOS 设备上运行 x86-64 Windows PC 游戏。它通过组合 FEX-Emu、Wine 和 DXMT 实现转译与图形兼容。适合想在 iPhone 或 iPad 上体验经典 PC 游戏的玩家。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +891（+103%）",
+      "reasonZh": "在没越狱的 iPhone 上用 FEX-Emu 加 Wine 跑 x86-64 Windows 游戏，思路野但真的能跑。对于想在手机上重温老 PC 游戏、又不想折腾云游戏的人来说，是少见且直接的方案。"
+    },
+    {
+      "repo": "tobi/disktree",
+      "url": "https://github.com/tobi/disktree",
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "language": "Rust",
+      "stars": 2335,
+      "summaryZh": "Disktree 是一个用于 Omarchy 的磁盘空间管理工具，以树状图直观展示文件和文件夹占用情况。它基于 Rust 和 GPUI 构建，性能高效。适合需要快速定位并清理磁盘空间的技术用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +663（+40%）",
+      "reasonZh": "Treemap 形式的磁盘空间可视化工具，专门为 Omarchy 桌面做了 Rust 加 GPUI 的原生体验。和 DaisyDisk、ncdu 比，它点进去就能定位并清理大文件，适合 Linux 桌面用户快速腾空间。"
+    },
+    {
+      "repo": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "language": "Go",
+      "stars": 4917,
+      "summaryZh": "Magpie 是一个统一的 AI 代理模型管理工具，可从菜单栏快速调用不同模型，如 DeepSeek 上的 Codex 或 Kimi 上的 Claude Code。它简化了多模型切换流程。适合开发者和 AI 爱好者便捷使用多种大语言模型。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +3596（+272%）",
+      "reasonZh": "菜单栏里的小工具，把 Codex、Claude Code、Gemini CLI 等不同 agent 接到 DeepSeek、Kimi 等模型上，一个入口统一切换。经常换模型或想在 CLI agent 里省钱的人会很受用，比逐个改配置省事。"
+    },
+    {
+      "repo": "devdotfast/whiteboard",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "description": "open-source canvas for thoughtful software design",
+      "language": "TypeScript",
+      "stars": 2786,
+      "summaryZh": "Whiteboard 是一个开源画布工具，专为深思熟虑的软件设计而打造。它提供自由的绘图和笔记功能，帮助团队梳理架构和逻辑。适合软件开发者、设计师和产品经理进行头脑风暴和系统设计。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +834（+43%）",
+      "reasonZh": "面向前端软件设计的开源白板，画完还能导出可用的代码骨架。相比 Excalidraw 这类纯画图工具，它更往设计和实现衔接上走，适合喜欢先画草图再落地的开发者。"
+    },
+    {
+      "repo": "dzhng/jevgrep",
+      "url": "https://github.com/dzhng/jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "language": "TypeScript",
+      "stars": 2267,
+      "summaryZh": "jevgrep 是一个面向编码代理的命令行工具，通过描述代码功能来查找相关文件和上下文。它利用 Jev 进行语义搜索，提升代码检索效率。适合使用 AI 编码助手的开发者快速定位所需代码。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1401（+162%）",
+      "reasonZh": "直接问「这段代码是干什么的」就能找到相关文件和上下文，给编码 agent 当检索后端很合适。和传统 grep 或语义搜索比，它专门优化了给 agent 喂上下文这条链路，省 token 又更准。"
+    },
+    {
+      "repo": "dominostars/playtranslate",
+      "url": "https://github.com/dominostars/playtranslate",
+      "description": "Real-time screen translation app for Android for both language learners and casual gamers",
+      "language": "Kotlin",
+      "stars": 1222,
+      "summaryZh": "PlayTranslate 是一款 Android 实时屏幕翻译应用，专为语言学习者和休闲游戏玩家设计。它能即时翻译屏幕上的文字，支持日语、漫画和视觉小说等。适合在玩游戏或阅读外文内容时获取翻译。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "安卓上的实时屏幕翻译，玩日文游戏、看视觉小说时直接覆盖译文，语言学习者和休闲玩家都能用。相比截图再翻译的工具，它跟屏幕同步，体验连贯，属于小而实用的类型。"
+    },
+    {
+      "repo": "Matteo842/SaveState",
+      "url": "https://github.com/Matteo842/SaveState",
+      "description": "A versatile game save backup manager, featuring Steam detection, Minecraft support, drag & drop, desktop shortcuts and emulator compatible.",
+      "language": "Python",
+      "stars": 513,
+      "summaryZh": "SaveState 是一个多功能的游戏存档备份管理器，支持自动检测 Steam 游戏、Minecraft 存档，并兼容模拟器。它提供拖放、桌面快捷方式和 Google Drive 备份等功能。适合需要安全管理游戏进度的玩家。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "游戏存档备份管理器，能自动识别 Steam 和 Minecraft 的存档位置，拖拽即可备份，还支持模拟器。相比手动翻 AppData 找存档再复制，它把备份、恢复和云同步都串好了，适合怕丢进度的玩家。"
+    }
+  ]
+}
