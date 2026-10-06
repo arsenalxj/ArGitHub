@@ -1,0 +1,397 @@
+{
+  "date": "2026-10-06",
+  "trending": [
+    {
+      "repo": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "stars": 5149,
+      "summaryZh": "新一代 Web 与移动应用端到端测试框架，基于 TypeScript 构建。核心亮点是跨平台统一 API 和自动等待机制，减少测试不稳定性。适合需要可靠 E2E 测试的前端和移动开发团队。",
+      "category": "开发工具",
+      "starsToday": 1398
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 96734,
+      "summaryZh": "为 AI 智能体提供跨会话的持久上下文记忆。它能捕获智能体会话中的所有操作，用 AI 压缩后，在后续会话中注入相关上下文。适合使用 Claude 等智能体进行长周期开发或复杂任务的用户。",
+      "category": "AI",
+      "starsToday": 534
+    },
+    {
+      "repo": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "language": "Python",
+      "stars": 17553,
+      "summaryZh": "让 AI 智能体获得 CAD 超能力，通过文本描述直接生成三维模型。核心功能是将自然语言转换为 CAD 指令，简化建模流程。适合工程师、设计师或需要快速原型验证的创客。",
+      "category": "开发工具",
+      "starsToday": 437
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 25704,
+      "summaryZh": "T3 技术栈下的代码协作与开发工具，基于 TypeScript 构建。它提供类型安全的全栈开发体验，集成 Next.js、tRPC 等现代工具。适合追求高效、类型安全的前端及全栈开发者。",
+      "category": "开发工具",
+      "starsToday": 485
+    },
+    {
+      "repo": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 5130,
+      "summaryZh": "自动将 PS5 可执行文件移植到 Linux 和 Windows 平台的工具，使用 C++ 编写。它通过二进制转换和兼容层实现跨平台运行。适合对游戏移植感兴趣的研究者或想在 PC 上运行 PS5 游戏的玩家。",
+      "category": "游戏",
+      "starsToday": 997
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 92112,
+      "summaryZh": "为 AI 智能体赋予浏览整个互联网的“眼睛”，支持读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台，且无需 API 费用。适合需要让智能体实时获取多源网络信息的开发者。",
+      "category": "AI",
+      "starsToday": 1155
+    },
+    {
+      "repo": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 64238,
+      "summaryZh": "全球首个开源智能体视频制作系统，包含 12 条制作流水线、100+ 工具和 700+ 智能体技能文件。它能将 AI 编程助手转变为完整的视频制作团队。适合视频创作者、营销人员或自动化视频生成研究者。",
+      "category": "AI",
+      "starsToday": 742
+    },
+    {
+      "repo": "caddyserver/caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 77250,
+      "summaryZh": "快速、可扩展的多平台 HTTP/1-2-3 Web 服务器，用 Go 编写，最大亮点是自动 HTTPS。它配置简单，支持动态重载和丰富插件。适合需要快速部署安全 Web 服务的开发者和运维人员。",
+      "category": "开发工具",
+      "starsToday": 515
+    },
+    {
+      "repo": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "language": "JavaScript",
+      "stars": 4520,
+      "summaryZh": "自托管的健身与自重训练追踪器，可规划训练计划、记录训练（超级组、热身、有氧），并查看肌肉训练、疲劳或退化状态。支持从 FitNotes、Strong、Hevy 导入，使用通行密钥登录。适合注重隐私的健身爱好者。",
+      "category": "其他",
+      "starsToday": 1433
+    },
+    {
+      "repo": "cloudflare/cloudflare-os",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "language": "TypeScript",
+      "stars": 11100,
+      "summaryZh": "基于 Cloudflare Workers 构建的智能体工作空间，用于创建文档、构建应用并运行智能体，可接入公司上下文和系统。核心是利用边缘计算提供低延迟的智能体协作环境。适合企业团队或开发者构建内部 AI 工作流。",
+      "category": "AI",
+      "starsToday": 101
+    },
+    {
+      "repo": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "description": "Stremio - Freedom to Stream",
+      "language": "JavaScript",
+      "stars": 14349,
+      "summaryZh": "Stremio 流媒体聚合平台的 Web 版本，让你自由观看各种视频内容。它整合了多个来源的媒体资源，提供统一的观看界面。适合喜欢一站式流媒体体验的用户，可在浏览器中直接使用。",
+      "category": "其他",
+      "starsToday": 111
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 157406,
+      "summaryZh": "一站式 AI 代理机构，提供从前端向导到 Reddit 社区忍者、从趣味注入者到现实检查员等各类专家智能体。每个智能体都有独特个性和工作流程。适合需要多角色 AI 协作的团队或个人。",
+      "category": "AI",
+      "starsToday": 744
+    },
+    {
+      "repo": "M-Abozaid/esp32-c3-adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share",
+      "language": "C++",
+      "stars": 1500,
+      "summaryZh": "在仅 2 美元的 ESP32-C3 上实现 Pi-hole 级 DNS 广告拦截器，无需 PSRAM。核心是将 53.7 万域名以 40 位 FNV-1a 哈希存入闪存并二分查找，提供 UDP DNS 黑洞和 Web 仪表板。适合想低成本搭建网络广告拦截的极客。",
+      "category": "开发工具",
+      "starsToday": 196
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "language": "Python",
+      "stars": 3970,
+      "summaryZh": "让 Claude 智能体修改几乎所有 PC 游戏的万能模组工具，包含技能、工具和 fal MCP。支持侦察、逆向工程、AI 生成美术/3D/音频、游戏内测试和展示视频。适合想要用 AI 辅助游戏模组开发的玩家或开发者。",
+      "category": "游戏",
+      "createdAt": "2026-09-30T05:00:35Z"
+    },
+    {
+      "repo": "CopilotKit/OpenDots",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "language": "TypeScript",
+      "stars": 3731,
+      "summaryZh": "始终在线的 AI 同事，能在文本、通话和 Slack 之间无缝切换。核心是提供多模态交互和持续在线的协作体验。适合团队在 Slack 等平台中集成 AI 助手以提升沟通效率。",
+      "category": "AI",
+      "createdAt": "2026-09-29T17:13:58Z"
+    },
+    {
+      "repo": "feder-cr/dots",
+      "url": "https://github.com/feder-cr/dots",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "language": "Python",
+      "stars": 2621,
+      "summaryZh": "这是一个开源 AI 浏览器代理，让 LLM 拥有自己的隐身浏览器并自主执行网页任务。核心亮点是反检测能力，不易被网站封禁，支持 Playwright、OpenRouter 等多种模型与工具接入。适合需要自动化网页操作、抓取数据或构建浏览器 Agent 的开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-29T23:06:00Z"
+    },
+    {
+      "repo": "omlahore/RemoveMacAI",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "description": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
+      "language": "Swift",
+      "stars": 2310,
+      "summaryZh": "这是一款 macOS 命令行工具，一条命令即可关闭 Apple Intelligence 并回收其占用的磁盘空间，且操作完全可逆。核心亮点是轻量、隐私友好，无需重装系统即可卸载 Siri 等 AI 组件。适合关注隐私、追求系统精简的 Mac 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-29T11:02:39Z"
+    },
+    {
+      "repo": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+      "language": "Rust",
+      "stars": 2280,
+      "summaryZh": "这是一个用纯 Rust 从零重写的开源 Photoshop 替代品，属于净室实现，不依赖 Adobe 代码。核心亮点是高性能、跨平台，支持 PSD 解析与图像编辑，面向希望摆脱订阅制的设计师与图像处理开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-30T13:37:48Z"
+    },
+    {
+      "repo": "nykooi1/vibe-wise",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "language": "Python",
+      "stars": 1922,
+      "summaryZh": "这是一个 Claude Code 插件，在 AI 代写代码的同时帮助开发者理解构建过程与设计决策。核心亮点是边用 AI 边学习，通过提示与讲解提升编程能力。适合依赖 AI 写代码但想真正掌握原理的初学者与进阶开发者。",
+      "category": "AI",
+      "createdAt": "2026-09-29T01:29:57Z"
+    },
+    {
+      "repo": "nanaism/yomiyasu",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "language": "Python",
+      "stars": 1546,
+      "summaryZh": "这是一个 Agent Skill，用于把 AI 生成或机器翻译的日语润色成自然地道的地道表达。核心亮点是结合大模型与日语语言规则做校对润色，支持 Claude Code、Cursor 等工具。适合日语写作者、本地化人员及内容创作者。",
+      "category": "AI",
+      "createdAt": "2026-09-30T11:49:32Z"
+    },
+    {
+      "repo": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "language": "JavaScript",
+      "stars": 1536,
+      "summaryZh": "这是一个 Agent 技能，让 AI 用一页可读的 HTML 回答复杂问题，而非冗长文字。核心亮点是自动生成含图表和结构化排版的单页解释，遵循 STE100 简明写作规范。适合需要清晰可视化解释的技术人员与学习者。",
+      "category": "AI",
+      "createdAt": "2026-10-02T09:57:40Z"
+    },
+    {
+      "repo": "kargulstudio/sales-crm",
+      "url": "https://github.com/kargulstudio/sales-crm",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1501,
+      "summaryZh": "这是一个基于 TypeScript 构建的销售 CRM 系统，提供客户、商机与销售流程管理功能。核心亮点是类型安全的前后端架构，便于二次开发与定制。适合中小销售团队或想自建 CRM 的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-04T10:55:58Z"
+    },
+    {
+      "repo": "facebookincubator/muse-gadget-sdk",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "language": "C",
+      "stars": 1460,
+      "summaryZh": "这是 Meta 开源的一套 SDK，用于构建 Muse 平台的小工具（gadget）。核心亮点是 C 语言实现、由 Facebook 孵化器推出，提供与 Muse 生态对接的底层接口。适合想在 Muse 上开发插件或硬件交互应用的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-02T18:21:23Z"
+    },
+    {
+      "repo": "wy51ai/floorplan-3d",
+      "url": "https://github.com/wy51ai/floorplan-3d",
+      "description": "",
+      "language": "HTML",
+      "stars": 1430,
+      "summaryZh": "这是一个使用 HTML 技术实现的户型图转 3D 展示项目，可在浏览器中查看房屋平面立体效果。核心亮点是无需安装、纯前端渲染，方便快速预览与分享。适合房产展示、家装设计及前端 3D 可视化学习者。",
+      "category": "前端",
+      "createdAt": "2026-09-29T02:57:30Z"
+    },
+    {
+      "repo": "CAPCOM-TD-OSS/REDox",
+      "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+      "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
+      "language": "C#",
+      "stars": 1089,
+      "summaryZh": "这是卡普空开源的高性能、基于 token 的结构化数据引擎，是其下一代游戏引擎 REX 的核心组件。核心亮点是用 .NET 实现，面向游戏运行时的高效数据访问与序列化。适合游戏引擎开发者及对高性能数据中间件感兴趣的程序员。",
+      "category": "游戏",
+      "createdAt": "2026-09-30T10:20:07Z"
+    },
+    {
+      "repo": "chasmlol/SkyCraft",
+      "url": "https://github.com/chasmlol/SkyCraft",
+      "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+      "language": "C++",
+      "stars": 989,
+      "summaryZh": "这是一个让玩家用 Minecraft 方式玩《上古卷轴5：天际》的模组，把 MC 的物理、物品栏、方块与战斗机制搬进天际世界。核心亮点是 SKSE 插件与 Fabric 模组结合，实现跨游戏机制融合。适合同时热爱两款游戏的玩家尝鲜。",
+      "category": "游戏",
+      "createdAt": "2026-09-30T16:40:20Z"
+    },
+    {
+      "repo": "BlueHeisenberg/SCSKiller",
+      "url": "https://github.com/BlueHeisenberg/SCSKiller",
+      "description": "Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.",
+      "language": "C#",
+      "stars": 975,
+      "summaryZh": "这是一款 Windows 工具，能在游戏运行前把着色器预编译进 GPU 驱动缓存，从而消除着色器编译卡顿。核心亮点是支持 NVIDIA 和 AMD 显卡及 DirectX 12，操作简单。适合被游戏首次加载卡顿困扰的 PC 玩家。",
+      "category": "游戏",
+      "createdAt": "2026-09-29T21:01:10Z"
+    },
+    {
+      "repo": "Edwardxlai/easyread",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "language": "Python",
+      "stars": 812,
+      "summaryZh": "这是一个本地 PDF 论文翻译与阅读工具，把英文论文转成舒适的中文并保留原文对照。核心亮点是支持边读边问 AI、文献管理，基于 Electron 与多种 LLM。适合需要大量阅读英文论文的科研人员和学生。",
+      "category": "资料教程",
+      "createdAt": "2026-09-30T12:52:24Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "rsutcliffe/nightwatch",
+      "url": "https://github.com/rsutcliffe/nightwatch",
+      "description": "Free macOS menu-bar app for astrophotography: finds tonight's clear window, ranks your targets, tells you when it's worth setting up.",
+      "language": "Swift",
+      "stars": 72,
+      "summaryZh": "这是一款免费的 macOS 菜单栏应用，为天文摄影爱好者找出今晚的晴空时段并推荐观测目标。核心亮点是整合天气与天文数据，告诉你何时值得架设设备。适合天文摄影与观星爱好者日常规划拍摄。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 77 分 · 26 评论",
+      "reasonZh": "macOS 菜单栏小工具，专为拍星党做天气判断：算出今晚几点有晴窗、哪些目标值得架设备，还会主动提醒你该出门。跟普通天气 App 不同，它结合暗夜、视宁度和目标高度综合打分，天文摄影爱好者装上就能少白跑几趟。"
+    },
+    {
+      "repo": "seamusc/papermono-shopping-list",
+      "url": "https://github.com/seamusc/papermono-shopping-list",
+      "description": "E-paper shopping list for the M5Stack PaperMono, with a FastAPI server and phone web UI",
+      "language": "C++",
+      "stars": 201,
+      "summaryZh": "这是一个为 M5Stack PaperMono 墨水屏设备打造的电子购物清单，配套 FastAPI 服务端与手机网页界面。核心亮点是墨水屏低功耗常显，手机随时增删条目。适合喜欢 DIY 智能家居与墨水屏应用的开发者。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +52（+35%）",
+      "reasonZh": "给 M5Stack 墨水屏做的购物清单：手机上网页加条目，FastAPI 服务端同步，设备常显不用充电。比起手机备忘录，它挂在冰箱上、随手就能看，适合喜欢墨水屏和自托管小服务的人折腾一个家用小玩意。"
+    },
+    {
+      "repo": "allenv0/SCM",
+      "url": "https://github.com/allenv0/SCM",
+      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "language": "JavaScript",
+      "stars": 383,
+      "summaryZh": "这是一个 macOS 本地 AI 搜索工具，能为任意文件夹中的每张照片和每帧视频建立可检索索引。它基于 Electron、Transformers.js 和视觉语言模型实现自然语言搜图搜视频，数据不出本机。适合素材繁多的摄影师、剪辑师或需要隐私保护的普通用户。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 165 分 · 73 评论",
+      "reasonZh": "macOS 上的本地 AI 搜索，能把任意文件夹里的照片和视频逐帧索引，用自然语言找画面。和 Spotlight 或 Photos 不同，它不依赖云端也不限相册，适合素材多又懒得打标签的剪辑、摄影用户在自己机器上跑。"
+    },
+    {
+      "repo": "mikesart/gpuvis",
+      "url": "https://github.com/mikesart/gpuvis",
+      "description": "GPU Trace Visualizer",
+      "language": "C++",
+      "stars": 1020,
+      "summaryZh": "GPU Trace Visualizer 是一款开源的 GPU 性能追踪可视化工具，能解析 GPU 抓帧数据并图形化呈现渲染管线与耗时热点。使用 C++ 编写，可帮助定位帧率瓶颈和渲染调度问题。适合图形程序开发、游戏引擎优化及驱动调试人员使用。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 76 分 · 10 评论",
+      "reasonZh": "把 GPU trace 画成时间轴可视化的桌面工具，比在命令行里翻 json 直观得多。同类工具多是厂商绑定或要上传云端，它本地跑、跨平台，图形和游戏开发者查管线卡顿、找 draw call 瓶颈时很顺手。"
+    },
+    {
+      "repo": "feitangyuan/onetake",
+      "url": "https://github.com/feitangyuan/onetake",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "language": "Python",
+      "stars": 1667,
+      "summaryZh": "onetake 是一个 Claude Agent Skill，用于生成一镜到底、不切幻灯片的动态产品发布影片，每一拍都由前一拍自然生长，并由 oracle 校验连续性。基于 Canvas 与动画管线输出连贯运镜。适合做产品发布片、特性演示的营销和设计团队。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +786（+89%）",
+      "reasonZh": "一个 Claude Agent Skill，专门生成‘一镜到底、每拍都从上一拍长出来’的产品发布动画。比常见套模板的 AI 视频工具有意思在强调连续性和节奏，做 launch video、功能演示又不想学动效软件的人可以直接拿来跑。"
+    },
+    {
+      "repo": "inferstep/ATLAS",
+      "url": "https://github.com/inferstep/ATLAS",
+      "description": "Adaptive Test-time Learning and Autonomous Specialization",
+      "language": "Python",
+      "stars": 2099,
+      "summaryZh": "ATLAS 是一个面向编码代理的自适应测试时学习与自主专精框架，让 LLM 代理在本地运行中持续适应任务并自动分工。支持本地模型和自托管，强调隐私与离线可用。适合研究 AI Agent、构建本地编码助手或想脱离云端的开发者。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · ai-agent",
+      "reasonZh": "本地优先的编码 Agent 框架，主打测试时自适应和自主专精。和一堆套壳 CLI 不同，它把 harness 和本地模型跑法讲清楚，适合想在自托管环境里鼓捣 coding agent、又在意数据和隐私的开发者。"
+    },
+    {
+      "repo": "Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "description": "7-node ESP32-S3 cluster running a 0.4B LLM via 1.58-bit (BitNet) ternary quantization over SPI daisy-chain",
+      "language": "C++",
+      "stars": 223,
+      "summaryZh": "该项目用 7 个 ESP32-S3 节点搭成 SPI 菊花链集群，跑一个 0.4B 参数 LLM，并采用 1.58-bit BitNet 三值量化降低内存与带宽。展示了在极低成本嵌入式硬件上分布式推理大模型的可行性。适合嵌入式爱好者、边缘 AI 研究者做实验与教学演示。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +125（+128%）",
+      "reasonZh": "拿 7 块 ESP32-S3 通过 SPI 菊花链跑 0.4B 的 BitNet 量化模型，纯属硬核玩具。它不实用但特别好玩，适合嵌入式玩家、想给学生演示分布式推理或单纯想看小芯片跑大模型的场景。"
+    },
+    {
+      "repo": "anteloc/ldraw-nova",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "description": "Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev",
+      "language": "Python",
+      "stars": 281,
+      "summaryZh": "ldraw-nova 是一套面向生成式乐高模型搭建的 Agent 工具链，由 Astra 与 Opus 5.5 构建并由 Jev 驱动。它能自动生成可拼搭的 LDraw 结构并辅助迭代修改。适合乐高玩家、生成式设计研究者和做 AI 造物实验的开发者。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 165 分 · 51 评论",
+      "reasonZh": "用 AI Agent 生成乐高模型搭建方案的 Python 工具，能把想法变成可拼的步骤。比起纯画图的乐高软件，它把生成和搭建流程串起来，乐高玩家或做教学演示的人可以直接拿来出方案。"
+    },
+    {
+      "repo": "shihabal3amri/DiPlay",
+      "url": "https://github.com/shihabal3amri/DiPlay",
+      "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+      "language": "Kotlin",
+      "stars": 4904,
+      "summaryZh": "DiPlay 是一个独立的 CarPlay 接收端，让兼容的 Android 车机也能有线或无线使用 CarPlay。基于 Kotlin 实现，目前处于公开预览阶段。适合想在安卓车载系统上体验苹果 CarPlay 的车主和车机改造玩家。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +3805（+346%）",
+      "reasonZh": "独立 CarPlay 接收器，让兼容安卓车机有线/无线直接用上 CarPlay。车载方案大多是硬件盒子，它开源且带公开预览，适合想给老车机加投屏、又不想买转接盒的折腾型用户。"
+    }
+  ]
+}
