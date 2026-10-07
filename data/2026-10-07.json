@@ -1,0 +1,389 @@
+{
+  "date": "2026-10-07",
+  "trending": [
+    {
+      "repo": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "stars": 6587,
+      "summaryZh": "面向 Web 与移动应用的下一代端到端测试框架，用 TypeScript 编写。核心亮点是统一覆盖多端的自动化测试能力，帮助团队在持续集成中稳定验证真实用户流程。适合前端、移动端开发者以及需要搭建 E2E 测试体系的 QA 团队使用。",
+      "category": "开发工具",
+      "starsToday": 1725
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 278420,
+      "summaryZh": "一套面向真正工程师的代理技能集合，直接来自作者本人的 .agents 目录。内容以 Shell 脚本形式提供，可作为 Claude Code 等编码代理的即用能力扩展。适合已经使用 AI 代理辅助开发、希望快速装配高质量工作流的开发者。",
+      "category": "开发工具",
+      "starsToday": 889
+    },
+    {
+      "repo": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "language": "Python",
+      "stars": 18100,
+      "summaryZh": "为 AI 代理赋予 CAD 建模能力的 Python 工具，让代理能根据文本生成计算机辅助设计模型。核心价值在于把自然语言与三维设计流程打通，降低参数化建模门槛。适合做工程原型、机械设计或探索 AI 辅助 CAD 的开发者与设计师。",
+      "category": "AI",
+      "starsToday": 619
+    },
+    {
+      "repo": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 6996,
+      "summaryZh": "用 C++ 编写的工具，可自动将 PS5 可执行文件移植到 Linux 与 Windows 平台。它把原本繁琐的逆向与适配流程自动化，方便在 PC 上运行主机游戏。适合对主机移植、逆向工程感兴趣的技术玩家和研究者。",
+      "category": "游戏",
+      "starsToday": 949
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 77854,
+      "summaryZh": "一种设计语言，旨在让 AI 代理产出更好的界面设计。以 JavaScript 实现，提供可落地的设计规范与提示结构，帮助代理避免千篇一律的视觉输出。适合用 AI 生成前端界面、追求设计质量的开发者与设计师。",
+      "category": "AI",
+      "starsToday": 616
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 97288,
+      "summaryZh": "为各类 AI 代理提供跨会话持久上下文的记忆系统。它记录代理在会话中的全部操作，用 AI 压缩后把相关信息注入后续会话，并与 Claude 等工具兼容。适合长期使用编码代理、希望减少重复交代背景的用户。",
+      "category": "AI",
+      "starsToday": 534
+    },
+    {
+      "repo": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 54536,
+      "summaryZh": "一个让编码代理不再把答案埋在长篇输出里的技能，专为 ADHD 友好体验设计。它强制代理先给出结论，再补充必要细节，显著提升可读性。适合注意力容易分散、希望快速获取关键信息的开发者。",
+      "category": "开发工具",
+      "starsToday": 326
+    },
+    {
+      "repo": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 10453,
+      "summaryZh": "借助 AI 代理对任意目标进行逆向工程，覆盖从应用行为到原生二进制文件的完整链路。它把侦察、分析与理解流程交给代理自动推进,降低逆向门槛。适合安全研究员、漏洞分析人员以及需要理解闭源程序的工程师。",
+      "category": "AI",
+      "starsToday": 2956
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 157970,
+      "summaryZh": "一个开箱即用的完整 AI 代理机构，从后端向导到社区运营、从创意注入到现实校验，每个代理都有专长、流程与性格。适合需要多角色协作完成复杂任务的团队，或想体验多代理协作工作流的个人开发者。",
+      "category": "AI",
+      "starsToday": 623
+    },
+    {
+      "repo": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "language": "JavaScript",
+      "stars": 5989,
+      "summaryZh": "可自托管的健身与自重训练追踪应用,支持规划训练计划、记录超级组、热身与有氧,并可视化肌肉的训练、疲劳与退化状态。还能从 FitNotes、Strong、Hevy 导入数据,支持通行密钥登录。适合想掌控自己训练数据的健身爱好者。",
+      "category": "其他",
+      "starsToday": 1419
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 44208,
+      "summaryZh": "面向 Claude Code、Codex、Copilot 等编码代理的编辑级图表设计资源,内置 42 种图表类型。输出自包含的 HTML 与 SVG,摒弃阴影和 Mermaid 式的粗糙风格。适合需要让 AI 生成高质量技术图表的开发者与文档作者。",
+      "category": "开发工具",
+      "starsToday": 228
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+      "language": "Rust",
+      "stars": 9436,
+      "summaryZh": "用纯 Rust 从零实现的开源 Photoshop 替代品,采用净室重写方式规避版权问题。它支持 PSD、图像编辑等核心能力,强调性能与原生体验。适合关注开源图像处理工具、想在 Rust 生态中做图像编辑的开发者与创作者。",
+      "category": "其他",
+      "createdAt": "2026-09-30T13:37:48Z"
+    },
+    {
+      "repo": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "language": "Python",
+      "stars": 4753,
+      "summaryZh": "把 Claude 指向任意 PC 游戏,即可借助技能、工具与 fal MCP 完成模组制作。覆盖侦察、逆向、AI 生成美术与音频、游戏内测试到展示视频的完整流程。适合想给《帝国时代》、tModLoader 等游戏做模组的玩家与创作者。",
+      "category": "游戏",
+      "createdAt": "2026-09-30T05:00:35Z"
+    },
+    {
+      "repo": "openai/math",
+      "url": "https://github.com/openai/math",
+      "description": "",
+      "language": "Lean",
+      "stars": 4656,
+      "summaryZh": "OpenAI 用 Lean 语言推进数学形式化的项目,目标是把数学证明转化为可机器验证的代码。它面向形式化数学与自动定理证明方向,提供基础设施与探索成果。适合数学研究者、形式化验证爱好者以及研究 AI 数学推理的开发者。",
+      "category": "资料教程",
+      "createdAt": "2026-10-06T21:47:02Z"
+    },
+    {
+      "repo": "storytold/filmcraft",
+      "url": "https://github.com/storytold/filmcraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+      "language": "Rust",
+      "stars": 1978,
+      "summaryZh": "用纯 Rust 从零实现的开源 Adobe Premiere Pro 替代品,同样采用净室重写方式。它面向视频剪辑与处理场景,强调原生性能与开源可扩展性。适合需要轻量开源剪辑工具、或想研究 Rust 视频处理管线的开发者与创作者。",
+      "category": "其他",
+      "createdAt": "2026-09-30T13:41:20Z"
+    },
+    {
+      "repo": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "language": "JavaScript",
+      "stars": 1846,
+      "summaryZh": "这个项目是一个AI Agent技能，用一页HTML直观回答复杂问题。核心功能是让Agent生成可读的HTML页面，包含图表和解释，提升可读性。适合需要清晰展示复杂概念或数据的开发者和研究者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-02T09:57:40Z"
+    },
+    {
+      "repo": "nanaism/yomiyasu",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "language": "Python",
+      "stars": 1655,
+      "summaryZh": "这个项目是一个AI Agent技能，用于将AI生成的日语润色成自然日语。核心功能是作为写作助手，提升文本的流畅性和地道性。适合日语写作者、编辑或需要日语内容优化的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-30T11:49:32Z"
+    },
+    {
+      "repo": "kargulstudio/sales-crm",
+      "url": "https://github.com/kargulstudio/sales-crm",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1595,
+      "summaryZh": "这是一个销售CRM系统，基于TypeScript构建。核心功能包括客户管理、销售流程跟踪等。适合中小型企业或销售团队使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-04T10:55:58Z"
+    },
+    {
+      "repo": "facebookincubator/muse-gadget-sdk",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "language": "C",
+      "stars": 1582,
+      "summaryZh": "这是一个开源SDK，用于构建Muse小工具。基于C语言开发，提供必要的工具和接口。适合开发者在Muse平台上创建和扩展小工具。",
+      "category": "开发工具",
+      "createdAt": "2026-10-02T18:21:23Z"
+    },
+    {
+      "repo": "storytold/lightcraft",
+      "url": "https://github.com/storytold/lightcraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+      "language": "Rust",
+      "stars": 1541,
+      "summaryZh": "这个项目是用纯Rust重新实现的Adobe Lightroom，注重清洁室设计。核心功能是RAW图像处理和编辑，提供类似Lightroom的体验。适合摄影师和图像处理爱好者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-30T14:09:27Z"
+    },
+    {
+      "repo": "storytold/printcraft",
+      "url": "https://github.com/storytold/printcraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
+      "language": "Rust",
+      "stars": 1376,
+      "summaryZh": "这个项目是用纯Rust重新实现的Adobe Acrobat，注重清洁室设计。核心功能是PDF查看、生成和处理。适合需要高效PDF工具的开发者和文档处理用户。",
+      "category": "开发工具",
+      "createdAt": "2026-09-30T13:39:37Z"
+    },
+    {
+      "repo": "deadinside28/bloodborne_pc",
+      "url": "https://github.com/deadinside28/bloodborne_pc",
+      "description": "",
+      "language": "C++",
+      "stars": 1344,
+      "summaryZh": "这是一个用C++开发的项目，旨在将《血源诅咒》移植到PC平台。核心功能是让玩家在PC上体验游戏。适合喜欢该游戏并希望在PC上游玩的玩家。",
+      "category": "游戏",
+      "createdAt": "2026-10-01T05:50:31Z"
+    },
+    {
+      "repo": "storytold/vectorcraft",
+      "url": "https://github.com/storytold/vectorcraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
+      "language": "Rust",
+      "stars": 1266,
+      "summaryZh": "这个项目是用纯Rust重新实现的Adobe Illustrator，注重清洁室设计。核心功能是矢量图形编辑和SVG处理。适合设计师和矢量图形创作者。",
+      "category": "开发工具",
+      "createdAt": "2026-09-30T13:43:03Z"
+    },
+    {
+      "repo": "CAPCOM-TD-OSS/REDox",
+      "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+      "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
+      "language": "C#",
+      "stars": 1121,
+      "summaryZh": "这是CAPCOM下一代游戏引擎REX的核心组件，一个基于令牌的高性能结构化数据引擎，用于.NET平台。适合游戏开发者处理复杂数据结构。",
+      "category": "游戏",
+      "createdAt": "2026-09-30T10:20:07Z"
+    },
+    {
+      "repo": "chasmlol/SkyCraft",
+      "url": "https://github.com/chasmlol/SkyCraft",
+      "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+      "language": "C++",
+      "stars": 1025,
+      "summaryZh": "这个项目让玩家以《我的世界》的方式玩《上古卷轴5：天际》，融合了MC的物理、物品栏、方块和战斗系统。适合同时喜欢两款游戏的玩家。",
+      "category": "游戏",
+      "createdAt": "2026-09-30T16:40:20Z"
+    },
+    {
+      "repo": "storytold/effectcraft",
+      "url": "https://github.com/storytold/effectcraft",
+      "description": "",
+      "language": "Rust",
+      "stars": 985,
+      "summaryZh": "这是一个用纯Rust实现的项目，可能是Adobe After Effects的清洁室重实现。核心功能是视觉效果和动态图形处理。适合视频特效师和动画制作人。",
+      "category": "开发工具",
+      "createdAt": "2026-10-01T14:24:46Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "Louis-CFM/coucou",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
+      "language": "Swift",
+      "stars": 3861,
+      "summaryZh": "这个项目在Mac的刘海和iPhone上显示一个小助手，监控AI编程代理如Claude Code、Codex等。核心功能是从刘海或锁屏快速批准操作。适合开发者高效管理AI代理。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +2173（+129%）",
+      "reasonZh": "它把 AI 编码代理的状态直接塞进 Mac 刘海和锁屏，让你不用切窗口就能批准 Claude Code、Codex 的操作，解决多代理同时跑时频繁切窗口的痛点。同类工具多是托盘图标或纯通知，它的刘海常驻显示一屏掌握所有代理状态，适合重度用一机多代理的开发者。"
+    },
+    {
+      "repo": "eolix/photosuite",
+      "url": "https://github.com/eolix/photosuite",
+      "description": "A desktop image editor, faithful to classic Adobe Photoshop, with native PSD/PSB compatibility",
+      "language": "Rust",
+      "stars": 835,
+      "summaryZh": "这是一个桌面图像编辑器，忠实于经典Adobe Photoshop，原生支持PSD/PSB格式。核心功能是图像编辑和PSD兼容性。适合需要轻量级Photoshop替代品的用户。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 166 分 · 112 评论",
+      "reasonZh": "Rust 写的桌面图像编辑器，界面和交互忠实还原经典 Photoshop，能原生读写 PSD/PSB 文件。同类开源替代要么只支持导出、要么 PSD 兼容性差，它给需要处理 Photoshop 文件又不想订阅 Adobe 的用户一个真能干活的选择。"
+    },
+    {
+      "repo": "Kuddev/pebrel",
+      "url": "https://github.com/Kuddev/pebrel",
+      "description": "AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent sessions, split panes, and first-class AI CLI workflows.",
+      "language": "Rust",
+      "stars": 2978,
+      "summaryZh": "这是一个AI原生、GPU加速的Windows终端模拟器，支持SSH、持久会话、分屏和AI CLI工作流。核心功能是提升终端效率和AI集成。适合开发者和命令行用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · developer-tools",
+      "reasonZh": "Windows 上 GPU 加速的 AI 原生终端，内置 SSH、持久会话、分屏和针对 AI CLI 工作流的适配。相比 Windows Terminal 或 WezTerm，它专门为 Claude Code/Codex 这类 AI 命令行工具优化，适合在 Windows 上重度折腾 AI 编码的开发者。"
+    },
+    {
+      "repo": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": 4928,
+      "summaryZh": "这个项目是一个终端视频下载工具，无广告。核心功能是从命令行快速下载视频。适合喜欢在终端操作的用户和开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1868（+61%）",
+      "reasonZh": "终端里的视频下载器，主打无广告无捆绑，一行命令抓走链接。和 yt-dlp 这类功能大而全的工具不同，它追求极简：给你一个干净到不像话的下载体验，适合只想快速存个视频又懒得配一堆参数的普通用户。"
+    },
+    {
+      "repo": "willfaust/Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "stars": 1836,
+      "summaryZh": "在未越狱的 iOS 设备上运行 x86-64 Windows PC 游戏。它把 FEX-Emu、Wine 和 DXMT 组合成完整兼容层，将 x86 指令翻译为 ARM64，并实现 D3D 到 Metal 的图形转换。适合想在 iPhone 或 iPad 上体验 PC 游戏的玩家和技术爱好者折腾。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +699（+61%）",
+      "reasonZh": "在未越狱的 iOS 上用 FEX-Emu + Wine + DXMT 跑 x86-64 Windows 游戏，把不可能变成了能安装的 app。相比云端串流方案，它本地运行、不依赖网络和订阅，适合想在 iPhone/iPad 上随时随地玩 PC 游戏又不想折腾越狱的人。"
+    },
+    {
+      "repo": "redhat-et/ripwire",
+      "url": "https://github.com/redhat-et/ripwire",
+      "description": "The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, quality deltas. Signatures at 74.7% fewer bytes than bodies; every guess labelled, every loss published. Paddle out with a map.",
+      "language": "C++",
+      "stars": 2412,
+      "summaryZh": "面向编码智能体的代码上下文检索 CLI 与 MCP 服务器，用 C++23 写成、零依赖。它通过调用图与静态分析帮 AI 快速定位目标代码，并评估改动影响范围、需运行的测试，避免让模型通读整个仓库。适合使用 Claude Code 等编码代理的开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · developer-tools",
+      "reasonZh": "零依赖的 C++23 CLI + MCP server，给编码代理做符号级代码导航，号称 AI 上下文的 ripgrep。和打 token 补丁的传统 MCP 工具比，它用 tree-sitter 做静态分析，能算改动爆炸半径和该跑哪些测试，适合想让 AI 少读仓库、省 token 的开发者。"
+    },
+    {
+      "repo": "allenv0/SCM",
+      "url": "https://github.com/allenv0/SCM",
+      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "language": "JavaScript",
+      "stars": 414,
+      "summaryZh": "macOS 上的本地深度 AI 相册搜索工具，能对任意文件夹里的照片和视频逐帧建立语义索引，用自然语言直接检索画面内容。基于 Electron 和 Transformers.js 运行视觉语言模型，照片无需上传云端。适合素材量大、注重隐私的摄影师和视频创作者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 177 分 · 74 评论",
+      "reasonZh": "macOS 上的本地 AI 搜索，能对任意文件夹里的照片和视频逐帧做语义检索，Electron + Transformers.js 完全离线。和 Apple Photos 或 Spotlight 比，它不限定图库、支持视频帧搜索，适合素材多到找不到、又不想上传云端的创作者。"
+    },
+    {
+      "repo": "rsutcliffe/nightwatch",
+      "url": "https://github.com/rsutcliffe/nightwatch",
+      "description": "Free macOS menu-bar app for astrophotography: finds tonight's clear window, ranks your targets, tells you when it's worth setting up.",
+      "language": "Swift",
+      "stars": 85,
+      "summaryZh": "免费的 macOS 菜单栏天文摄影助手，根据天气预报计算今晚的晴空时间窗口，并对候选深空目标排序，判断是否值得架设设备。内置对 Dwarf Mini、Seestar 等智能望远镜的支持，直接给出可拍摄时段建议。适合业余天文摄影爱好者规划出摊。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 86 分 · 26 评论",
+      "reasonZh": "macOS 菜单栏小工具，自动查找今晚天文摄影的晴空窗口并给目标排序，告诉你值不值得搬设备出门。同类 app 多是天气插件或复杂星图软件，它只关心“今晚拍不拍”这一个决策，适合刚入坑天文摄影、被云层气到的人。"
+    },
+    {
+      "repo": "devdotfast/whiteboard",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "description": "open-source canvas for thoughtful software design",
+      "language": "TypeScript",
+      "stars": 2894,
+      "summaryZh": "一个面向软件设计的开源无限画布工具，帮助团队在白板上梳理架构、流程和思路。基于 TypeScript 构建，强调思考过程的表达，而非单纯的绘图。适合工程师在做系统设计、方案评审或技术讨论时用来可视化沟通。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +693（+31%）",
+      "reasonZh": "开源的无限画布白板，专为软件设计场景做了优化，可以快速搭系统架构、数据流和 UI 草图。和 Excalidraw 比它更偏工程表达、和 Figma 比它更轻更开放，适合架构讨论时快速画图、且不想被 SaaS 绑定的人。"
+    },
+    {
+      "repo": "dzhng/jevgrep",
+      "url": "https://github.com/dzhng/jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "language": "TypeScript",
+      "stars": 2355,
+      "summaryZh": "给编码智能体用的命令行代码搜索工具，用自然语言描述功能即可找到相关文件和上下文。它基于 Jev 做语义检索，无需依赖传统符号匹配。适合使用 Claude Code、Codex 等代理的开发者，在大仓库中快速为模型提供精准代码片段。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +551（+31%）",
+      "reasonZh": "面向编码代理的 CLI，让你用自然语言问“这段代码是干嘛的”，它用 Jev 找到相关文件和源码上下文。和 grep/ripgrep 比它能理解意图、和传统语义搜索比它直接给代理喂上下文，适合一个人对着大仓库想快速定位实现时用。"
+    }
+  ]
+}
