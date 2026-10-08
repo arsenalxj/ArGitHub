@@ -1,0 +1,409 @@
+{
+  "date": "2026-10-08",
+  "trending": [
+    {
+      "repo": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 17173,
+      "summaryZh": "面向智能体的逆向工程工具，可从应用行为一路分析到原生二进制。核心是用多智能体协作自动拆解目标程序，辅助理解内部逻辑与通信协议。适合安全研究员、逆向工程师或做恶意软件分析、协议还原的团队使用。",
+      "category": "AI",
+      "starsToday": 4655
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 280026,
+      "summaryZh": "来自作者 .agents 目录的真实工程技能集合，用 Shell 编写、可直接被编码智能体调用。内容覆盖日常开发工作流，强调实用而非演示性质。适合想让 AI 编码助手按自己习惯干活的工程师，快速复用成熟技能配置。",
+      "category": "开发工具",
+      "starsToday": 1403
+    },
+    {
+      "repo": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 11502,
+      "summaryZh": "把 PS5 可执行程序自动移植到 Linux 和 Windows 的工具，用 C++ 实现。核心是自动处理平台差异与二进制转换，降低主机游戏移植门槛。适合游戏移植爱好者、模拟器开发者或想在 PC 上运行 PS5 程序的技术玩家。",
+      "category": "游戏",
+      "starsToday": 2716
+    },
+    {
+      "repo": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 55355,
+      "summaryZh": "一个让编码智能体不再把答案埋在长篇输出里的技能，用 Python 实现，生成 ADHD 友好的精简回复。核心是强制直接给出结论，减少冗余铺垫。适合注意力易分散、希望 AI 回答开门见山的开发者日常使用。",
+      "category": "AI",
+      "starsToday": 619
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 45266,
+      "summaryZh": "为 Claude Code、Codex、GitHub Copilot 等编码智能体提供编辑级图表设计，内置 42 种图表类型。输出自包含 HTML 加 SVG，不用阴影也不靠 Mermaid 凑数。适合需要在文档或汇报中插入高质量示意图的工程师和写作者。",
+      "category": "前端",
+      "starsToday": 825
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 102989,
+      "summaryZh": "面向 AI 编码智能体的生产级工程技能集合，用 JavaScript 编写。把资深工程师的实践固化成可复用技能，提升智能体在真实项目中的输出质量。适合把 AI 助手纳入正式开发流程、追求可维护代码的团队。",
+      "category": "开发工具",
+      "starsToday": 677
+    },
+    {
+      "repo": "EpicGames/raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": 7932,
+      "summaryZh": "Epic Games 出品的原生用户态图形调试器，用 C 编写，支持多进程调试。定位是替代传统调试器，提供现代界面和可扩展架构。适合需要调试复杂多进程应用、追求高性能原生工具的 C/C++ 开发者。",
+      "category": "开发工具",
+      "starsToday": 90
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 97900,
+      "summaryZh": "为各类智能体提供跨会话的持久上下文，用 TypeScript 实现。它会记录智能体会话中的操作，用 AI 压缩后把相关上下文注入后续会话，兼容 Claude 等。适合长期使用编码智能体、希望它记住项目历史的开发者。",
+      "category": "AI",
+      "starsToday": 578
+    },
+    {
+      "repo": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "language": "Swift",
+      "stars": 27938,
+      "summaryZh": "基于 Ghostty 的开源 macOS 终端，支持垂直标签页和面向 AI 编码智能体的通知，用 Swift 编写。专为多任务、信息组织和可编程性设计。适合同时跑多个 AI 编码会话、需要清晰管理窗口的 macOS 开发者。",
+      "category": "开发工具",
+      "starsToday": 44
+    },
+    {
+      "repo": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "Rust",
+      "stars": 28871,
+      "summaryZh": "用 Rust 实现的计算机使用 2.0 开源方案，提供跨操作系统驱动、设备集群和基准测试。可用于智能体训练、评估与数据生成，扩展自动化操作能力。适合研究 computer-use 智能体或需要规模化桌面自动化的团队。",
+      "category": "AI",
+      "starsToday": 228
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 26229,
+      "summaryZh": "Cloudflare 出品的编码智能体技能，用 JavaScript 实现多阶段安全审计，产出经过独立验证、机器可读的发现。让安全审计流程更结构化、可复核。适合需要把自动化安全审查接入开发流程的团队或安全工程师。",
+      "category": "开发工具",
+      "starsToday": 576
+    },
+    {
+      "repo": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "stars": 7753,
+      "summaryZh": "面向 Web 和移动应用的下一代端到端测试框架，用 TypeScript 编写。目标是简化跨平台测试编写与执行，提升测试可靠性和开发体验。适合需要覆盖 Web 与移动端、追求现代测试工具链的 QA 和前端团队。",
+      "category": "开发工具",
+      "starsToday": 1390
+    },
+    {
+      "repo": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "language": "JavaScript",
+      "stars": 7313,
+      "summaryZh": "可自托管的健身与自重训练追踪器，用 JavaScript 实现。支持编排训练计划、记录超级组、热身与有氧，展示各肌群训练、疲劳和退化状态，还能从 FitNotes/Strong/Hevy 导入并用 passkey 登录。适合想自己掌控数据的健身爱好者。",
+      "category": "其他",
+      "starsToday": 1493
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "openai/math",
+      "url": "https://github.com/openai/math",
+      "description": "",
+      "language": "Lean",
+      "stars": 10444,
+      "summaryZh": "OpenAI 用 Lean 形式化数学的项目，仓库暂无描述。推测聚焦于把数学命题和证明写成可机器验证的 Lean 代码，推动形式化数学与 AI 结合。适合对形式化验证、定理证明或 Lean 感兴趣的数学与 AI 研究者。",
+      "category": "资料教程",
+      "createdAt": "2026-10-06T21:47:02Z"
+    },
+    {
+      "repo": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "language": "JavaScript",
+      "stars": 2173,
+      "summaryZh": "一个让 AI 智能体用一页 HTML 回答复杂问题的技能，用 JavaScript 实现。把难懂的回答组织成可读性强的单页文档，便于理解与分享。适合经常让 AI 解释复杂概念、希望输出更直观的开发者与知识工作者。",
+      "category": "AI",
+      "createdAt": "2026-10-02T09:57:40Z"
+    },
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "language": "JavaScript",
+      "stars": 1934,
+      "summaryZh": "这是一个用代码让画作动起来的艺术动画工具，内置35种艺术风格和9种解说语法，能快速生成风格化动态内容。核心亮点是将动画制作与解说表达结合，降低创作门槛。适合设计师、内容创作者或需要制作艺术化短视频的人群使用。",
+      "category": "AI",
+      "createdAt": "2026-10-06T04:49:37Z"
+    },
+    {
+      "repo": "storytold/effectcraft",
+      "url": "https://github.com/storytold/effectcraft",
+      "description": "",
+      "language": "Rust",
+      "stars": 1855,
+      "summaryZh": "这是一个用Rust编写的效果或视觉特效相关项目，专注于高性能渲染与实时效果处理。其技术亮点在于利用Rust的性能优势实现流畅的视觉效果，适合开发者用于游戏、图形应用或视觉交互场景中集成高级特效。",
+      "category": "开发工具",
+      "createdAt": "2026-10-01T14:24:46Z"
+    },
+    {
+      "repo": "facebookincubator/muse-gadget-sdk",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "language": "C",
+      "stars": 1695,
+      "summaryZh": "这是Meta开源的一套SDK，用于开发Muse设备上的小工具或交互应用。核心功能是提供底层C语言接口，让开发者能快速构建运行在Muse平台上的轻量级组件。适合硬件开发者、嵌入式工程师或对Meta生态设备感兴趣的技术人员使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-02T18:21:23Z"
+    },
+    {
+      "repo": "deadinside28/bloodborne_pc",
+      "url": "https://github.com/deadinside28/bloodborne_pc",
+      "description": "",
+      "language": "C++",
+      "stars": 1693,
+      "summaryZh": "这是一个用C++实现的血源诅咒PC端相关项目，可能是对PlayStation独占游戏《血源诅咒》的非官方移植或运行方案。核心亮点在于尝试突破平台限制，让玩家在PC上体验该作品。适合熟悉编译流程、想在电脑上重温血源诅咒的硬核玩家或技术爱好者。",
+      "category": "游戏",
+      "createdAt": "2026-10-01T05:50:31Z"
+    },
+    {
+      "repo": "kargulstudio/sales-crm",
+      "url": "https://github.com/kargulstudio/sales-crm",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1642,
+      "summaryZh": "这是一个用TypeScript构建的销售CRM系统，面向企业销售团队管理客户关系与销售流程。核心功能涵盖线索跟踪、商机管理和销售数据分析，技术栈现代且易于二次开发。适合中小企业、销售团队或需要轻量级CRM的创业者直接部署使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-04T10:55:58Z"
+    },
+    {
+      "repo": "lucasmarkes/hairline",
+      "url": "https://github.com/lucasmarkes/hairline",
+      "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+      "language": "TypeScript",
+      "stars": 1165,
+      "summaryZh": "这是一个由六个等距线条小人组成的交互组件，能对指针移动做出响应。核心亮点是轻量、可嵌入React或任何DOM环境，用SVG实现流畅动画。适合前端开发者用于为网站添加趣味交互元素，或作为登录页、空状态页的视觉点缀。",
+      "category": "前端",
+      "createdAt": "2026-10-01T13:52:19Z"
+    },
+    {
+      "repo": "storytold/designcraft",
+      "url": "https://github.com/storytold/designcraft",
+      "description": "",
+      "language": "Rust",
+      "stars": 1099,
+      "summaryZh": "这是一个用Rust编写的设计相关工具或引擎，聚焦于设计稿的解析、生成或自动化处理。核心亮点在于利用Rust的高性能与安全性处理设计数据，适合开发者、设计工程师在构建设计系统或自动化设计流程时集成使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-01T13:13:14Z"
+    },
+    {
+      "repo": "mizorewww/x_gift_bot",
+      "url": "https://github.com/mizorewww/x_gift_bot",
+      "description": "X Premium gift CLI and redemption site",
+      "language": "Go",
+      "stars": 997,
+      "summaryZh": "这是一个X Premium礼物功能的命令行工具与兑换网站，用Go语言编写。核心功能是帮助用户自动领取、管理或兑换X平台的Premium订阅礼品码。适合需要批量处理礼物码、进行自动化操作或研究相关接口的技术用户与羊毛党。",
+      "category": "开发工具",
+      "createdAt": "2026-10-02T10:29:43Z"
+    },
+    {
+      "repo": "sganggs/Stronghold-Protocol",
+      "url": "https://github.com/sganggs/Stronghold-Protocol",
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "language": "JavaScript",
+      "stars": 942,
+      "summaryZh": "这是明日方舟「卫戍协议：盟约」的非官方同人复刻，一个浏览器自走棋塔防游戏。核心亮点是支持单人或最多4人联机合作，使用WebSocket实现实时对战，还原原作玩法。适合明日方舟粉丝、自走棋爱好者或想体验同人联机塔防的玩家。",
+      "category": "游戏",
+      "createdAt": "2026-10-02T09:38:41Z"
+    },
+    {
+      "repo": "Jakeschincariol/replica-skill",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "language": "Python",
+      "stars": 916,
+      "summaryZh": "这是一个包含11个免费Claude技能的集合，用于克隆任意应用：反向工程、重建、测试并修复用户痛点。核心亮点是MIT协议开源，面向独立开发者与SaaS创业者。适合想快速复刻竞品、学习应用架构或借助AI代理自动化开发流程的人群。",
+      "category": "AI",
+      "createdAt": "2026-10-03T12:07:49Z"
+    },
+    {
+      "repo": "rauchg/gdp-ts",
+      "url": "https://github.com/rauchg/gdp-ts",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 747,
+      "summaryZh": "这是一个用TypeScript实现的项目，可能与GDP数据展示、计算或接口相关。核心亮点是利用TypeScript的类型系统提供可靠的数据处理与可视化能力，适合需要处理经济数据或构建相关仪表板的前端与全栈开发者使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-04T18:55:18Z"
+    },
+    {
+      "repo": "elstongun/leviathan",
+      "url": "https://github.com/elstongun/leviathan",
+      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "language": "Rust",
+      "stars": 672,
+      "summaryZh": "这是一个用Rust编写的单静态二进制工具，为代理提供大规模数据集上的深度记忆能力。核心功能是将JSONL、CSV、SQLite等记录转化为排名全文索引，方便检索。适合AI代理、数据分析师或需要在海量数据中快速查找上下文的开发者。",
+      "category": "AI",
+      "createdAt": "2026-10-05T08:57:44Z"
+    },
+    {
+      "repo": "ythx-101/live-panel-skill",
+      "url": "https://github.com/ythx-101/live-panel-skill",
+      "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
+      "language": "HTML",
+      "stars": 651,
+      "summaryZh": "这是一个配置驱动的动态架构图工具，用一个JSON文件即可生成终端风格常驻图或浅色动态信息图。核心亮点是输出H.264 MP4或实时网页，并支持作为Claude技能调用。适合需要制作系统架构演示、技术分享动图的开发者与讲师。",
+      "category": "开发工具",
+      "createdAt": "2026-10-03T16:53:36Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "eolix/photosuite",
+      "url": "https://github.com/eolix/photosuite",
+      "description": "A desktop image editor, faithful to classic Adobe Photoshop, with native PSD/PSB compatibility",
+      "language": "Rust",
+      "stars": 913,
+      "summaryZh": "这是一个用Rust编写的桌面图像编辑器，忠实还原经典Adobe Photoshop，并原生兼容PSD/PSB文件格式。核心亮点是高性能、免费且支持专业图层与编辑功能。适合不想订阅Adobe、但仍需处理PSD文件的摄影师、设计师或开源软件爱好者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 182 分 · 119 评论",
+      "reasonZh": "用 Rust 写的桌面图像编辑器，主打忠实还原经典 Photoshop，还原生兼容 PSD/PSB 格式。同类开源工具大多只读不写 PSD，它能直接编辑保存，设计师想摆脱订阅制或离线处理 PSD 文件时会很实用。"
+    },
+    {
+      "repo": "jxlarrea/kiosk-satellite",
+      "url": "https://github.com/jxlarrea/kiosk-satellite",
+      "description": "Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.",
+      "language": "Dart",
+      "stars": 1494,
+      "summaryZh": "这个项目能把任意Android设备变成漂亮、专用的Home Assistant智能家居控制面板。核心亮点是专为HA打造，支持蓝牙代理、摄像头、语音助手、DLNA和MQTT等丰富功能。适合智能家居爱好者、Home Assistant用户将闲置平板或手机改造成墙面中控屏。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "把闲置安卓手机或平板变成 Home Assistant 专用触摸屏终端，从零为 HA 定制而非套壳浏览器。自带摄像头、语音、蓝牙代理等卫星功能，家里有旧安卓设备想当墙面中控的人可以直接装 APK 用。"
+    },
+    {
+      "repo": "koosoli/ESPHomeDesigner",
+      "url": "https://github.com/koosoli/ESPHomeDesigner",
+      "description": "A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app.",
+      "language": "JavaScript",
+      "stars": 1115,
+      "summaryZh": "这是一个面向 ESPHome 显示屏的可视化拖拽编辑器，支持 E-Ink、OLED、LCD 和触摸屏设备。它可作为 Home Assistant 集成或独立网页应用运行，基于 LVGL 提供所见即所得设计体验。适合智能家居玩家在 ESP32 上快速搭建自定义仪表盘界面。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "给 ESPHome 显示屏做的可视化拖拽编辑器，支持墨水屏、OLED、LCD 和触摸屏，还能作为 HA 集成嵌入。相比手写 YAML 或 LVGL 代码，它让做智能家居小屏 UI 门槛骤降，DIY 面板玩家会喜欢。"
+    },
+    {
+      "repo": "mbillow/localthings",
+      "url": "https://github.com/mbillow/localthings",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "language": "Python",
+      "stars": 501,
+      "summaryZh": "该项目让你通过本地网络在 Home Assistant 中控制三星家电，无需登录云账户。它基于 CoAP 协议与 DTLS 加密直接通信，可作为 HACS 集成安装。适合注重隐私、希望摆脱 SmartThings 云依赖的三星设备用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "让三星家电通过局域网被 Home Assistant 控制，完全不需要云账号和 SmartThings 中转。相比官方云端集成，它本地直连、响应快、隐私好，家里有三星冰箱洗衣机又用 HA 的人值得一试。"
+    },
+    {
+      "repo": "shader-effects-inc/shaders",
+      "url": "https://github.com/shader-effects-inc/shaders",
+      "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
+      "language": "TypeScript",
+      "stars": 2839,
+      "summaryZh": "这是一套面向 React、Vue、Svelte、Solid、原生 JS 和 Framer 的 WebGPU 着色器组件库。它提供 CLI 和 MCP 支持，把 GPU 加速的视觉效果封装为易用组件。适合想为网页添加高性能动画与滤镜的前端开发者。",
+      "category": "前端",
+      "source": "hn",
+      "signal": "HN 62 分 · 28 评论",
+      "reasonZh": "把 WebGPU 着色器效果封装成 React、Vue、Svelte、Solid 等框架组件，还带 CLI 和 MCP 支持。前端想给网页加酷炫动效但不想从零写 WGSL 时，直接装组件就能用，比裸写 GPU 代码省事太多。"
+    },
+    {
+      "repo": "Mastershort/neonplan3d",
+      "url": "https://github.com/Mastershort/neonplan3d",
+      "description": "3D floor plan for Home Assistant: draw your home in the built-in editor (rooms, walls, doors, windows, furniture, roof) and see and control lights, covers, windows, climate, media, sensors and cameras live in a neon 3D view – as a sidebar panel and dashboard card.",
+      "language": "TypeScript",
+      "stars": 364,
+      "summaryZh": "这是一个 Home Assistant 的 3D 户型图卡片，内置编辑器可绘制房间、墙体、门窗、家具和屋顶。你可以在三维视图中直接查看并控制灯光、窗帘、气候、媒体、传感器和摄像头。适合想打造数字孪生智能家居面板的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "在 Home Assistant 里画 3D 户型图并直接控制灯光、窗帘、空调和摄像头，内置编辑器可加墙门窗家具。比平面 floorplan 卡片更直观，想搭数字孪生式智能家居大屏的用户装 HACS 就能用。"
+    },
+    {
+      "repo": "n-IA-hane/esphome-intercom",
+      "url": "https://github.com/n-IA-hane/esphome-intercom",
+      "description": "VoIP Stack for Home Assistant and ESPHome: SIP audio/video calls, dashboard phones, ESP32 intercoms, ring groups, trunks and call routing through HA automations.",
+      "language": "Python",
+      "stars": 265,
+      "summaryZh": "该项目为 Home Assistant 和 ESPHome 带来完整 VoIP 栈，支持 SIP 音视频通话、仪表盘话机、ESP32 对讲机、振铃组、中继和呼叫路由。通过 HA 自动化可编排通话流程。适合想自建家庭对讲与门禁通话系统的玩家。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "给 Home Assistant 和 ESPHome 补上一整套 VoIP 栈，支持 SIP 音视频通话、ESP32 对讲、振铃组和呼转路由。同类方案多是单一门铃，它把对讲做成可编排的电话系统，折腾全屋语音通话的人会眼前一亮。"
+    },
+    {
+      "repo": "trudenboy/sendspin-bt-bridge",
+      "url": "https://github.com/trudenboy/sendspin-bt-bridge",
+      "description": "Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.",
+      "language": "Python",
+      "stars": 281,
+      "summaryZh": "这个项目能把任意蓝牙音箱变成智能音箱，基于 Sendspin 协议实现 DIY 多房间音频。它可与 Music Assistant 和 Home Assistant AI 自动化联动，支持 Docker、HA 插件、树莓派和 Proxmox LXC 部署。适合想低成本搭建全屋音响的人。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "把普通蓝牙音箱变成能接入 Music Assistant 的智能多房间音频节点，提供 Docker、HA 插件和树莓派部署方式。不想买 Sonos 又想要全屋同步播放的人，用旧蓝牙音箱就能组网，性价比很高。"
+    },
+    {
+      "repo": "sirkirby/unifi-mcp",
+      "url": "https://github.com/sirkirby/unifi-mcp",
+      "description": "MCP servers & Graph API for the UniFi suite of applications, Network, Protect, and Access",
+      "language": "Python",
+      "stars": 872,
+      "summaryZh": "该项目为 UniFi 全家桶提供 MCP 服务器和 Graph API，覆盖 Network、Protect 和 Access。它让 AI 代理和自动化工具能够查询与控制 UniFi 设备。适合使用 Ubiquiti 设备并希望接入智能代理工作流的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "为 UniFi 网络、Protect 和 Access 提供 MCP 服务器与 Graph API，让 AI 助手能直接查询和控制这套设备。想要用自然语言排查网络、查摄像头事件或管理门禁的 UniFi 用户，接上就能让 Agent 干活。"
+    },
+    {
+      "repo": "chasmlol/SkyCraft",
+      "url": "https://github.com/chasmlol/SkyCraft",
+      "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+      "language": "C++",
+      "stars": 1058,
+      "summaryZh": "这个项目把《上古卷轴5：天际》改造成 Minecraft 玩法，在天际世界中加入 Minecraft 物理、物品栏、方块和战斗系统。它由 SKSE 插件与 Fabric 模组配合实现。适合同时热爱两款游戏、想体验跨游戏融合玩法的玩家。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +274（+35%）",
+      "reasonZh": "把 Minecraft 的方块、物理、背包和战斗塞进《上古卷轴5》世界，靠 SKSE 插件加 Fabric 模组实现。这种跨游戏缝合玩法非常少见，同时玩 MC 和天际、想体验方块版龙裔的玩家会觉得相当有趣。"
+    }
+  ]
+}
