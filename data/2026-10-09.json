@@ -1,0 +1,369 @@
+{
+  "date": "2026-10-09",
+  "trending": [
+    {
+      "repo": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 16893,
+      "summaryZh": "将 PS5 可执行文件自动移植到 Linux 和 Windows 平台的工具，用 C++ 实现。核心功能是解析 PS5 二进制并转换为跨平台可运行格式，降低手动逆向移植成本。适合游戏移植爱好者、逆向工程师和想在 PC 上体验 PS5 独占作品的玩家尝试。",
+      "category": "游戏",
+      "starsToday": 4669
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 46806,
+      "summaryZh": "为 Claude Code、Codex、Copilot 等 AI 编码代理提供编辑级图表设计的技能库，覆盖 42 种图表类型。输出自包含 HTML + SVG，无阴影、无 Mermaid 粗糙感，视觉质量高。适合需要让 AI 生成专业架构图、流程图并直接用于技术文档或演示的开发者与设计师。",
+      "category": "开发工具",
+      "starsToday": 1160
+    },
+    {
+      "repo": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 30545,
+      "summaryZh": "基于 AI 代理的逆向工程工具，可从应用行为分析一路深入到原生二进制的结构还原。用 TypeScript 编写，把代理编排与底层分析结合，自动化逆向流程。适合安全研究员、逆向工程师以及需要快速理解闭源软件内部机制的技术团队使用。",
+      "category": "开发工具",
+      "starsToday": 7738
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 281473,
+      "summaryZh": "面向真实工程师的 AI 代理技能合集，直接来自作者 .agents 目录的实战配置。内容涵盖编码、调试、重构等日常工程场景的可复用技能定义。适合使用 Claude Code、Codex 等代理工具并希望获得接地气、非玩具级技能配置的开发者参考。",
+      "category": "开发工具",
+      "starsToday": 1774
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 98679,
+      "summaryZh": "为各类 AI 代理提供跨会话持久上下文的记忆系统，自动捕获代理会话中的全部操作，用 AI 压缩后注入未来会话。解决代理每次重启即失忆的痛点，让长期项目保持连贯。适合重度使用 Claude 等代理进行多轮开发、研究或协作的用户。",
+      "category": "AI",
+      "starsToday": 670
+    },
+    {
+      "repo": "EpicGames/raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": 8170,
+      "summaryZh": "Epic Games 开源的原生用户态多进程图形化调试器，用 C 编写。支持同时调试多个进程，提供可视化界面，定位复杂多进程程序的崩溃与逻辑问题。适合游戏引擎、系统软件等需要调试多进程架构的开发者和逆向分析人员。",
+      "category": "开发工具",
+      "starsToday": 279
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 27817,
+      "summaryZh": "Anthropic 开源的插件仓库，主要面向知识工作者在 Claude Cowork 中使用。用 Python 编写，提供扩展 Claude 协作能力的插件集合，覆盖文档、研究等知识工作场景。适合希望把 Claude 深度嵌入日常工作流的产品、运营与研究人员。",
+      "category": "AI",
+      "starsToday": 392
+    },
+    {
+      "repo": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 8800,
+      "summaryZh": "面向艺术家、设计师和电影制作人的刻意创作引擎，用 Rust 编写。强调对创作过程的精准控制，而非随机生成，帮助创作者构建可控的艺术工作流。适合需要程序化生成与手工控制结合的数字艺术、影视预演和交互媒体创作者。",
+      "category": "其他",
+      "starsToday": 2103
+    },
+    {
+      "repo": "liquidslr/system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "language": "",
+      "stars": 24911,
+      "summaryZh": "《System Design Interview - An Insider's Guide》一书的中文学习笔记，系统整理分布式系统设计的核心概念与面试要点。内容覆盖缓存、分片、一致性等高频考点，条理清晰。适合准备系统设计面试的后端工程师和想补齐架构知识的学生。",
+      "category": "资料教程",
+      "starsToday": 393
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "openai/math",
+      "url": "https://github.com/openai/math",
+      "description": "",
+      "language": "Lean",
+      "stars": 12415,
+      "summaryZh": "OpenAI 用 Lean 形式化语言构建的数学项目，探索以机器可验证的方式表达和证明数学命题。依托 Lean 的证明助手能力，推动形式化数学与 AI 结合。适合对形式化验证、自动定理证明和 AI for Math 方向感兴趣的研究者与数学爱好者。",
+      "category": "AI",
+      "createdAt": "2026-10-06T21:47:02Z"
+    },
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "language": "JavaScript",
+      "stars": 2604,
+      "summaryZh": "艺术动画技能库，内置 35 种艺术风格与 9 种解说语法，用代码驱动静态画面动起来。用 JavaScript 实现，让非动画专业者也能快速产出有风格的运动画面。适合做短视频、科普内容和创意演示的创作者，以及想用代码表达视觉叙事的开发者。",
+      "category": "前端",
+      "createdAt": "2026-10-06T04:49:37Z"
+    },
+    {
+      "repo": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "language": "JavaScript",
+      "stars": 2384,
+      "summaryZh": "一个让 AI Agent 用单页 HTML 回答复杂问题的技能，把难以阅读的长文本转成结构清晰、可交互的一页网页。用 JavaScript 编写，支持图表、分栏等排版，信息密度高。适合需要 AI 输出可读解释页的开发者、教师与知识工作者。",
+      "category": "AI",
+      "createdAt": "2026-10-02T09:57:40Z"
+    },
+    {
+      "repo": "facebookincubator/muse-gadget-sdk",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "language": "C",
+      "stars": 1831,
+      "summaryZh": "Meta 开源的 SDK，用于构建 Muse Gadget 设备上的小工具，用 C 语言编写。提供底层接口与工具链，让开发者能扩展 Muse 平台的功能与交互。适合关注可穿戴设备生态、想为 Meta Muse 硬件开发应用的嵌入式与系统开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-02T18:21:23Z"
+    },
+    {
+      "repo": "kargulstudio/sales-crm",
+      "url": "https://github.com/kargulstudio/sales-crm",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1659,
+      "summaryZh": "基于 TypeScript 构建的销售 CRM 系统，用于管理客户线索、跟进流程与销售管道。项目结构现代，适合二次开发或作为中小团队客户关系管理的起点。面向需要自建轻量级 CRM 的创业公司、销售团队及全栈开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-04T10:55:58Z"
+    },
+    {
+      "repo": "nullmoth/nvidia-macos-driver",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "language": "Rust",
+      "stars": 1386,
+      "summaryZh": "为 macOS 15 Sequoia（Intel / OpenCore）上的 NVIDIA GeForce RTX 显卡提供 Metal 驱动的开源项目，用 Rust 编写并附带源码。让黑苹果用户能在新系统上启用 RTX 显卡加速。适合折腾黑苹果、需要在 macOS 下使用 N 卡的进阶用户与驱动开发者。",
+      "category": "其他",
+      "createdAt": "2026-10-07T08:13:12Z"
+    },
+    {
+      "repo": "mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "language": "Go",
+      "stars": 1221,
+      "summaryZh": "基于 AI 的自主渗透测试系统，用智能体自动完成信息收集、漏洞探测与利用链编排，替代传统人工渗透流程。曾获百度「agent+」攻防挑战赛冠军，用 Go 实现，性能与并发能力较强。适合安全研究、红队演练和自动化攻防测试场景使用。",
+      "category": "AI",
+      "createdAt": "2026-10-08T05:33:06Z"
+    },
+    {
+      "repo": "Jakeschincariol/replica-skill",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "language": "Python",
+      "stars": 1144,
+      "summaryZh": "包含 11 个免费 Claude 技能，能对任意 App 进行逆向分析、重建复刻、Bug 测试并修复用户痛点，覆盖从拆解到再实现的完整链路。基于 Python 与 Claude Code 生态，开源 MIT 协议。适合独立开发者、想快速复制竞品的 SaaS 团队或学习逆向工程的人。",
+      "category": "AI",
+      "createdAt": "2026-10-03T12:07:49Z"
+    },
+    {
+      "repo": "mizorewww/x_gift_bot",
+      "url": "https://github.com/mizorewww/x_gift_bot",
+      "description": "X Premium gift CLI and redemption site",
+      "language": "Go",
+      "stars": 1096,
+      "summaryZh": "面向 X Premium 的礼物功能命令行工具与兑换站点，帮助用户批量管理、发送和兑换订阅礼物。用 Go 编写，单文件部署方便，接口调用直接。适合需要自动化操作 X 礼品或搭建兑换页面的个人与小型团队使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-02T10:29:43Z"
+    },
+    {
+      "repo": "alejandrobujan/tendedero",
+      "url": "https://github.com/alejandrobujan/tendedero",
+      "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+      "language": "Swift",
+      "stars": 1084,
+      "summaryZh": "一款 macOS 原生小应用，把每次截图像晾衣服一样挂在屏幕顶端排列展示，随手可查历史截图。用 Swift 编写，轻量无干扰，弥补系统截图管理不便的痛点。适合经常截图、需要快速回溯最近截图的 macOS 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T01:29:54Z"
+    },
+    {
+      "repo": "LoreanXavier/pt-pc",
+      "url": "https://github.com/LoreanXavier/pt-pc",
+      "description": "Native PC port of P.T. (runs from your own PS4 game files)",
+      "language": "C++",
+      "stars": 1062,
+      "summaryZh": "将小岛秀夫试玩版恐怖游戏 P.T. 移植到 PC 的原生项目，需要用户自备 PS4 游戏文件才能运行。用 C++ 实现，还原原版画面与交互逻辑。适合想在 PC 上重温 P.T. 的玩家和游戏逆向移植爱好者。",
+      "category": "游戏",
+      "createdAt": "2026-10-07T09:33:31Z"
+    },
+    {
+      "repo": "sganggs/Stronghold-Protocol",
+      "url": "https://github.com/sganggs/Stronghold-Protocol",
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "language": "JavaScript",
+      "stars": 1019,
+      "summaryZh": "明日方舟「卫戍协议：盟约」的非官方同人复刻，在浏览器中实现自走棋加塔防玩法，支持单人及 1 至 4 人联机合作。基于 JavaScript 与 WebSocket 构建，还原原作机制。适合方舟玩家和喜欢自走棋塔防的浏览器游戏爱好者。",
+      "category": "游戏",
+      "createdAt": "2026-10-02T09:38:41Z"
+    },
+    {
+      "repo": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "language": "Rust",
+      "stars": 961,
+      "summaryZh": "用纯 Rust 从零重新实现的 Microsoft Word 风格开源文字处理软件，不依赖现有 Office 代码，属于干净房间式复刻。支持文档编辑、排版等核心能力。适合关注 Rust 桌面应用、想研究文字处理内核或寻找轻量替代品的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T08:34:24Z"
+    },
+    {
+      "repo": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "language": "Rust",
+      "stars": 907,
+      "summaryZh": "用纯 Rust 从零实现的 AutoCAD 风格开源 CAD 绘图应用，提供二维制图与设计功能，同样采用干净房间式复刻思路。强调无历史代码包袱，可自由扩展。适合机械、建筑等需要轻量 CAD 工具的设计人员，以及研究 Rust 图形应用的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T05:22:31Z"
+    },
+    {
+      "repo": "zhongerxin/iPhone-use",
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "language": "Python",
+      "stars": 829,
+      "summaryZh": "让 Codex 通过 USB 连接并操作真实 iPhone，支持引导安装、App 自动化控制以及实时屏幕查看与截图回退。用 Python 实现，打通 AI 智能体与物理设备。适合需要真机自动化测试、批量操作 App 或研究 AI 操控手机的开发与测试人员。",
+      "category": "开发工具",
+      "createdAt": "2026-10-06T15:09:33Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "nykooi1/vibe-wise",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "language": "Python",
+      "stars": 3209,
+      "summaryZh": "一个 Claude Code 插件，在 AI 替你写代码的同时，帮助你理解并学习整个构建过程，而不是只看结果。把代码生成与知识讲解结合，降低黑箱感。适合借助 AI 编码但希望真正掌握实现原理的初学者和转行者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +2446（+321%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "edenfunf/reelmimic",
+      "url": "https://github.com/edenfunf/reelmimic",
+      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "language": "JavaScript",
+      "stars": 1812,
+      "summaryZh": "给它一段你喜欢的视频，就能生成同风格的新视频，由 Claude Code 或 Codex 组成的 AI 团队与你一起规划、制作和评审。基于多智能体协作，覆盖 2D 动画与风格迁移。适合没有视频模型也想做风格化短视频的创作者和 AI 视频爱好者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +1102（+155%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "szabadkai/c64-keyboard-font",
+      "url": "https://github.com/szabadkai/c64-keyboard-font",
+      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "language": "Python",
+      "stars": 565,
+      "summaryZh": "基于照片重建经典 Commodore 64 键帽字体的项目，提供桌面字体、Web 字体、可编辑轮廓文件和样张。用 Python 处理图像与字形提取，还原老式键盘细节。适合复古硬件爱好者、字体设计师和需要 C64 风格素材的创作者。",
+      "category": "资料教程",
+      "source": "hn",
+      "signal": "HN 401 分 · 65 评论",
+      "reasonZh": ""
+    },
+    {
+      "repo": "lemomo-ai/lemo-opuscar",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "description": "Claude Code skill for short films with no video model: 43 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98). By Lemomo. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "language": "JavaScript",
+      "stars": 1432,
+      "summaryZh": "一个 Claude Code 短片制作技能，无需视频模型即可生成短片，内置 43 种影片风格，每种包含风格提示词与完全由代码生成的演示片。基于 Canvas、WebGL、Three.js 与 FFmpeg。适合想用 AI 低成本做创意短片、动效和产品视频的创作者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +649（+83%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "Louis-CFM/coucou",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
+      "language": "Swift",
+      "stars": 4289,
+      "summaryZh": "Mac 刘海与 iPhone 上的小助手，实时监控 Claude Code、Codex、Cursor、Gemini CLI 等 AI 编码代理的运行状态，并支持在刘海或锁屏上直接批准操作。用 SwiftUI 开发，覆盖多平台。适合同时使用多个 AI 编程工具、需要随时掌握进度的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1729（+68%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "feitangyuan/onetake",
+      "url": "https://github.com/feitangyuan/onetake",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "language": "Python",
+      "stars": 1981,
+      "summaryZh": "一个 Claude Agent Skill，用于制作一镜到底、不切镜的动效影片，每个节拍都从上一帧自然生长，由 oracle 衡量画面连续性。基于 Canvas 与 Python，面向产品发布片与功能演示。适合需要连续运镜演示视频的产品团队和动效设计师。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +814（+70%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "nanaism/yomiyasu",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "language": "Python",
+      "stars": 1770,
+      "summaryZh": "这是一个用于将AI生成的日语优化为自然日语的智能代理技能，通过Python实现。其核心功能是利用大型语言模型和自然语言处理技术，对AI生成的日语文本进行校对和润色，使其更符合日语母语者的表达习惯。适合需要高质量日语写作的开发者、内容创作者或日语学习者，尤其适用于从AI生成内容后需要进一步人工化处理的场景。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +729（+70%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "M-Abozaid/esp32-c3-adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share",
+      "language": "C++",
+      "stars": 2434,
+      "summaryZh": "这是一个在仅售2美元的ESP32-C3微控制器上实现的DNS广告拦截器，无需PSRAM即可运行。它使用40位FNV-1a哈希将53.7万个域名存储在闪存中，并通过二分查找实现快速查询，同时提供UDP DNS沉洞和Web仪表板。适合预算有限、喜欢DIY的物联网爱好者或希望以极低成本搭建家庭网络广告拦截方案的用户。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 189 分 · 82 评论",
+      "reasonZh": ""
+    },
+    {
+      "repo": "michael-denyer/pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "language": "JavaScript",
+      "stars": 1669,
+      "summaryZh": "这是一个为Claude Code、Codex、Copilot等多种AI编程助手提供严格代理工作流的工具集，将Cursor的原始功能移植到其他平台。它基于JavaScript实现，包含代码审查、代理技能等模块，旨在提升AI辅助开发的规范性和效率。适合使用多种AI编程助手进行软件开发的工程师，尤其需要统一工作流和增强代理能力的团队。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +463（+38%）",
+      "reasonZh": ""
+    },
+    {
+      "repo": "chasmlol/SkyCraft",
+      "url": "https://github.com/chasmlol/SkyCraft",
+      "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+      "language": "C++",
+      "stars": 1093,
+      "summaryZh": "这是一个让玩家在《上古卷轴5：天际》的世界中体验《我的世界》玩法的模组，通过SKSE插件和Fabric模组实现。它引入了《我的世界》的物理效果、物品栏、方块和战斗系统，将两款游戏的特色融合。适合同时喜爱《天际》和《我的世界》的玩家，提供一种全新的跨界游戏体验。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +309（+39%）",
+      "reasonZh": ""
+    }
+  ]
+}
