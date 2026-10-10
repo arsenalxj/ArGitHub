@@ -1,0 +1,389 @@
+{
+  "date": "2026-10-10",
+  "trending": [
+    {
+      "repo": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 52920,
+      "summaryZh": "本项目是一个利用 AI 代理进行逆向工程的工具，可从应用行为一路分析到原生二进制层面。核心亮点在于将代理机制引入逆向流程，自动化完成从高层逻辑到底层指令的追踪与理解。适合安全研究员、漏洞分析人员或需要快速摸清闭源软件实现细节的开发者使用。",
+      "category": "AI",
+      "starsToday": 14927
+    },
+    {
+      "repo": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 23200,
+      "summaryZh": "这是一款自动将 PS5 可执行文件移植到 Linux 和 Windows 平台的工具。它通过自动化转换与兼容层处理，降低跨平台移植的手动成本。适合游戏移植研究者、模拟器开发者或希望在 PC 上运行 PS5 程序的玩家和工程师使用。",
+      "category": "游戏",
+      "starsToday": 5868
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 283117,
+      "summaryZh": "这个仓库收集了面向真实工程师的实用技能集合，直接来自作者的 .agents 目录。内容覆盖日常开发中的工程实践与自动化能力，强调可落地而非空谈。适合希望提升开发效率、借鉴成熟工程模式的软件工程师和 AI 代理使用者。",
+      "category": "开发工具",
+      "starsToday": 1687
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 48167,
+      "summaryZh": "这是一个面向编辑级图表设计的技能集，支持 Claude Code、Codex、GitHub Copilot 等工具，涵盖 44 种图表类型。输出为自包含的 HTML + SVG，风格干净、无阴影、拒绝 Mermaid 式粗糙感。适合需要高质量技术图表的设计师、技术写作者和开发者。",
+      "category": "前端",
+      "starsToday": 1739
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 45464,
+      "summaryZh": "这是阿里巴巴开源的大规模代码审查工具，采用确定性流水线加 LLM Agent 的混合架构。支持精确到行级的评论、内置多语言规则集（如空指针检测），兼具安全、快速与高效。适合中大型团队在 CI 流程中集成自动化代码审查。",
+      "category": "开发工具",
+      "starsToday": 326
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 28400,
+      "summaryZh": "这是 Anthropic 开源的插件仓库，主要面向知识工作者在 Claude Cowork 中使用。插件以 Python 编写，帮助用户扩展 AI 协作平台的功能，覆盖日常知识处理场景。适合需要在工作流中引入 AI 辅助的研究、运营和产品人员。",
+      "category": "AI",
+      "starsToday": 709
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "language": "Python",
+      "stars": 60775,
+      "summaryZh": "LiteLLM 是一个轻量快速的 AI 网关，Rust 核心搭配 Python SDK。它用 OpenAI 或原生格式统一调用 100 多个 LLM API，并内置成本追踪、护栏、负载均衡与日志。适合需要多模型接入、统一管理和成本控制的应用开发团队。",
+      "category": "AI",
+      "starsToday": 95
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 104154,
+      "summaryZh": "这个仓库提供面向 AI 编程代理的生产级工程技能集，由 Addy Osmani 整理。内容聚焦真实项目中的编码规范、架构决策与工作流实践，帮助代理产出更可靠的代码。适合使用 Claude Code、Codex 等工具进行工程化开发的团队和个人。",
+      "category": "开发工具",
+      "starsToday": 436
+    },
+    {
+      "repo": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 12114,
+      "summaryZh": "ArtCraft 是一个面向艺术家、设计师和电影制作人的刻意创作引擎。它用 Rust 构建，强调对创作过程的精细控制与可重复性，而非随机生成。适合需要将创意工作流结构化、可编程化的视觉创作者和独立工作室使用。",
+      "category": "AI",
+      "starsToday": 3752
+    },
+    {
+      "repo": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "language": "Python",
+      "stars": 17799,
+      "summaryZh": "LingBot-Map 提出几何上下文 Transformer，用于流式 3D 重建，是 ECCV 2026 最佳论文候选项目。它能在连续输入下实时构建三维地图，兼顾精度与效率。适合机器人、自动驾驶、AR/VR 领域的研究人员和工程师参考与复现。",
+      "category": "AI",
+      "starsToday": 110
+    },
+    {
+      "repo": "twostraws/SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "language": "",
+      "stars": 5561,
+      "summaryZh": "这是一个面向 Claude Code、Codex 等 AI 工具的 SwiftUI 代理技能。它把 SwiftUI 开发知识封装成可调用的技能，帮助代理更准确地生成和修改界面代码。适合使用 AI 辅助开发 iOS/macOS 应用的 Swift 开发者。",
+      "category": "开发工具",
+      "starsToday": 65
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "openai/math",
+      "url": "https://github.com/openai/math",
+      "description": "",
+      "language": "Lean",
+      "stars": 13263,
+      "summaryZh": "这是 OpenAI 使用 Lean 语言开展的数学形式化项目。目标是将数学证明与定义转化为可机器验证的代码，推动自动定理证明与形式化数学发展。适合数学研究者、形式化验证专家以及对 AI 数学推理感兴趣的开发者。",
+      "category": "资料教程",
+      "createdAt": "2026-10-06T21:47:02Z"
+    },
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "language": "JavaScript",
+      "stars": 3000,
+      "summaryZh": "这是一个艺术动画 skill，提供 35 种艺术风格和 9 种解说语法，用代码让静态画作动起来。它把动画生成与讲解表达结合，降低创作门槛。适合内容创作者、教育工作者和希望在视频中快速制作艺术动效的开发者使用。",
+      "category": "AI",
+      "createdAt": "2026-10-06T04:49:37Z"
+    },
+    {
+      "repo": "mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "language": "Go",
+      "stars": 2461,
+      "summaryZh": "ARTEX 是一个 AI 自主渗透测试系统，曾获百度“agent+”攻防挑战赛冠军。它利用代理自动完成侦察、漏洞发现与利用等渗透环节，提升安全测试效率。适合安全团队、红队成员及对自动化攻防研究感兴趣的工程师。",
+      "category": "AI",
+      "createdAt": "2026-10-08T05:33:06Z"
+    },
+    {
+      "repo": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "language": "Rust",
+      "stars": 2108,
+      "summaryZh": "Wordcraft 是用纯 Rust 对 Microsoft Word 进行的开源洁净室重实现。它从零构建文档编辑核心，避免依赖原有代码，强调性能与可移植性。适合对文档格式、编辑器架构感兴趣的 Rust 开发者，以及需要轻量文字处理组件的项目。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T08:34:24Z"
+    },
+    {
+      "repo": "zhongerxin/iPhone-use",
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "language": "Python",
+      "stars": 2095,
+      "summaryZh": "让 Codex 通过 USB 直接操作真实 iPhone 的工具，支持引导安装应用、自动化操作 App、实时查看屏幕，并在无法实时投屏时回退到截图模式。适合需要让 AI 代理控制真实 iOS 设备做自动化测试或演示的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-06T15:09:33Z"
+    },
+    {
+      "repo": "nullmoth/nvidia-macos-driver",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "language": "Rust",
+      "stars": 2019,
+      "summaryZh": "为 macOS 15 Sequoia 上的 NVIDIA GeForce RTX 显卡提供 Metal 驱动的开源项目，基于 Rust 编写，面向 Intel 与 OpenCore 黑苹果环境，免费且附带源码。适合在 Mac 上使用 N 卡并想启用图形加速的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T08:13:12Z"
+    },
+    {
+      "repo": "kargulstudio/sales-crm",
+      "url": "https://github.com/kargulstudio/sales-crm",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1677,
+      "summaryZh": "一个基于 TypeScript 构建的销售 CRM 系统，帮助团队管理客户线索、销售流程与跟进记录。项目暂无详细描述，适合需要自建轻量级销售管理后台的团队参考或二次开发。",
+      "category": "开发工具",
+      "createdAt": "2026-10-04T10:55:58Z"
+    },
+    {
+      "repo": "LosaLosSantos/aurelio-finance",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "language": "Python",
+      "stars": 1556,
+      "summaryZh": "开源个人财务应用，内置 AI 财务顾问，可在本地电脑上追踪净资产、投资、ETF、现金与债务。适合注重隐私、希望自托管并借助 LLM 做理财规划的个人投资者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-06T20:14:19Z"
+    },
+    {
+      "repo": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "language": "Rust",
+      "stars": 1453,
+      "summaryZh": "纯 Rust 编写的开源 AutoCAD 风格计算机辅助设计与绘图应用，采用洁净室方式从零实现，不依赖专有代码。适合需要轻量级开源 CAD 工具或在 Rust 生态中做 CAD 相关开发的工程师。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T05:22:31Z"
+    },
+    {
+      "repo": "Jakeschincariol/replica-skill",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "language": "Python",
+      "stars": 1421,
+      "summaryZh": "包含 11 个免费 Claude 技能，可逆向工程并克隆任意应用，重建后测试缺陷，再针对用户痛点进行修复。采用 MIT 协议，适合独立开发者、SaaS 创业者快速复刻和改进现有产品。",
+      "category": "开发工具",
+      "createdAt": "2026-10-03T12:07:49Z"
+    },
+    {
+      "repo": "storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "language": "Rust",
+      "stars": 1314,
+      "summaryZh": "纯 Rust 实现的开源 Excel 风格电子表格应用，以洁净室方式构建，不依赖现有专有实现。适合需要开源表格组件、想在 Rust 技术栈中集成电子表格能力的开发者参考使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T05:18:16Z"
+    },
+    {
+      "repo": "noahdunnagan/fsearch",
+      "url": "https://github.com/noahdunnagan/fsearch",
+      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "language": "Rust",
+      "stars": 1273,
+      "summaryZh": "macOS 全盘文件搜索工具，支持模糊名称匹配、拼写容错以及索引内容 grep，在 800 万文件规模下响应约 1 毫秒。适合需要极速查找本地文件与文件内容的 Mac 高级用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-08T17:50:33Z"
+    },
+    {
+      "repo": "alejandrobujan/tendedero",
+      "url": "https://github.com/alejandrobujan/tendedero",
+      "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+      "language": "Swift",
+      "stars": 1249,
+      "summaryZh": "一款小巧的原生 macOS 应用，把每次截图像晾衣服一样挂在屏幕顶部的一条线上展示。适合喜欢用截图记录工作流、希望截图随时可见又不想占用主屏空间的 Mac 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T01:29:54Z"
+    },
+    {
+      "repo": "LoreanXavier/pt-pc",
+      "url": "https://github.com/LoreanXavier/pt-pc",
+      "description": "Native PC port of P.T. (runs from your own PS4 game files)",
+      "language": "C++",
+      "stars": 1230,
+      "summaryZh": "P.T. 的原生 PC 移植版，可基于用户自有的 PS4 游戏文件运行，无需依赖模拟器。适合想在现代 PC 上重温这款经典恐怖 Demo 的玩家，但需自行准备合法游戏文件。",
+      "category": "游戏",
+      "createdAt": "2026-10-07T09:33:31Z"
+    },
+    {
+      "repo": "shadany7824/playgta5",
+      "url": "https://github.com/shadany7824/playgta5",
+      "description": "A source code for playgta5.com.",
+      "language": "JavaScript",
+      "stars": 1045,
+      "summaryZh": "playgta5.com 网站的源代码，使用 JavaScript 编写，用于在线游玩 GTA5 相关内容的网页实现。适合对该网站实现方式感兴趣、想学习或搭建类似网页游戏入口的开发者参考。",
+      "category": "游戏",
+      "createdAt": "2026-10-07T08:37:15Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "franzenzenhofer/big-arrow-on-the-screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+      "language": "Swift",
+      "stars": 502,
+      "summaryZh": "让 AI 代理在 Mac 屏幕上绘制大箭头、方框和文字的 CLI 工具，点击穿透、自动消失，可作为 Claude Code 与 Codex 的技能使用。适合需要 AI 辅助标注或演示屏幕内容的工作场景。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 391 分 · 173 评论",
+      "reasonZh": "让 AI agent 在 Mac 屏幕上直接画大箭头、框和标注的 CLI，点透式窗口，画完自己消失。和录屏比它轻太多，适合边讲边指着屏幕给 Claude Code 下指令，或直播演示时随手圈重点，macOS 独享。"
+    },
+    {
+      "repo": "Louis-CFM/coucou",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
+      "language": "Swift",
+      "stars": 4560,
+      "summaryZh": "住在 Mac 刘海和 iPhone 上的小助手，实时监控 Claude Code、Codex、Cursor、Gemini CLI、Antigravity 等 AI 编码代理，可直接在刘海或锁屏上批准操作。适合高频使用多个 AI 编程工具的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1531（+51%）",
+      "reasonZh": "Mac 刘海和 iPhone 上盯着你 AI 编码 agent 的小家伙：Claude Code、Codex、Cursor 在跑什么一目了然，还能直接从刘海或锁屏批准操作。相比盯终端，它把多 agent 状态做成随手可见的动态岛，适合同时开好几个编码 agent 的人。"
+    },
+    {
+      "repo": "p10node/k10s",
+      "url": "https://github.com/p10node/k10s",
+      "description": "Kubernetes TUI you can click. Instant search, logs/exec/port-forward, 7 themes, context-aware AI. Single Go binary.",
+      "language": "Go",
+      "stars": 290,
+      "summaryZh": "可点击的 Kubernetes 终端界面，支持即时搜索、日志查看、exec 和端口转发，内置 7 种主题与上下文感知 AI 助手，以单个 Go 二进制分发。适合习惯 TUI 又想要鼠标操作的 K8s 运维人员。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 67 分 · 53 评论",
+      "reasonZh": "能用鼠标点的 Kubernetes TUI，即时搜索、日志、exec、转发端口一个不少，还带 7 套主题和上下文 AI。跟 k9s 比它更像 GUI 但仍是单个 Go 二进制，适合懒得记快捷键、又想要终端体验的运维和开发。"
+    },
+    {
+      "repo": "omlahore/RemoveMacAI",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
+      "language": "Swift",
+      "stars": 3960,
+      "summaryZh": "用于精简 macOS 的原生应用与 CLI，可关闭 Apple Intelligence、分析、广告和弹窗等干扰，且所有更改均可撤销。适合注重隐私、希望深度定制系统行为的 Mac 用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +3293（+494%）",
+      "reasonZh": "macOS 去臃肿工具，一键关掉 Apple Intelligence、遥测、广告和弹窗，而且每项改动都能撤销。同类脚本往往不可逆，它做成原生 App 加 CLI，适合升级系统后想清爽又怕改坏的人。"
+    },
+    {
+      "repo": "darshi1337/apogee",
+      "url": "https://github.com/darshi1337/apogee",
+      "description": "Private AI summarizer for anything you read. Inspired by Mozilla's Orbit.",
+      "language": "JavaScript",
+      "stars": 77,
+      "summaryZh": "一款隐私优先的浏览器 AI 摘要扩展，灵感来自 Mozilla Orbit，可在本地对网页内容做摘要。核心亮点是基于 WebGPU 与本地 LLM（Ollama、llama.cpp、transformers.js），不把数据发给云端。适合注重隐私、想离线快速阅读长文的人，也欢迎新手贡献代码。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 64 分 · 2 评论",
+      "reasonZh": "隐私优先的浏览器摘要扩展，灵感来自 Mozilla Orbit，可直接用 Ollama、WebGPU 本地跑模型，页面内容不上传。比云端摘要插件更让人放心，适合不想把读的东西发给第三方、又想要一键摘要的人。"
+    },
+    {
+      "repo": "snapotter-hq/SnapOtter",
+      "url": "https://github.com/snapotter-hq/SnapOtter",
+      "description": "Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your network.",
+      "language": "TypeScript",
+      "stars": 2796,
+      "summaryZh": "可自托管的开源文件处理工具，把图片、视频、音频、PDF 和文档的转换、压缩、OCR、转写与本地 AI 处理集中到一处。提供 UI、REST API 和流水线三种使用方式，文件不出本地。适合有隐私或合规要求的团队、家庭实验室和开发者集成。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "自托管文件处理全家桶：图片视频音频 PDF 转换、压缩、OCR、转录、跑本地 AI，UI、REST API 和流水线都齐。和一堆单点小工具比它一站式且文件不出内网，适合家庭服务器和合规场景。"
+    },
+    {
+      "repo": "TNTcraftHIM/Piik",
+      "url": "https://github.com/TNTcraftHIM/Piik",
+      "description": "Free, open-source screen sharing for private live streams with friends. Watch together in a browser or self-host Piik. 免费开源的私密屏幕共享，支持游戏直播、一起看电影与自部署。",
+      "language": "TypeScript",
+      "stars": 2653,
+      "summaryZh": "免费开源的私密屏幕共享工具，用于和朋友一起看直播、打游戏或同步观影。基于 WebRTC 点对点传输，支持浏览器直接使用或自托管部署，无需把画面传到第三方服务器。适合想自建低延迟共享房间的小团体与自托管爱好者。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "开源私密屏幕共享，基于 WebRTC 点对点，浏览器里和别人一起看片打游戏都行，也能自部署。相比公共直播平台它更私密，适合小圈子一起看电影、开黑或远程给朋友看屏幕。"
+    },
+    {
+      "repo": "alex0ptr/once",
+      "url": "https://github.com/alex0ptr/once",
+      "description": "Run a command once, reuse its output for a while.",
+      "language": "Go",
+      "stars": 126,
+      "summaryZh": "一个用 Go 写的命令行小工具，让同一条命令在短时间内只真正执行一次，之后的调用直接复用上次的输出结果。适合在 CI、构建脚本或重复调用昂贵命令的场景中减少等待和资源消耗，也可缓存慢查询或外部接口调用。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 89 分 · 37 评论",
+      "reasonZh": "跑一次命令、临时复用它的输出，Go 写的小 CLI。跟缓存和重复跑相比它专治那些慢但结果短时间不变的命令，适合反复查同一个 git、docker 或 API 状态时省时间。"
+    },
+    {
+      "repo": "Javis603/token-monitor",
+      "url": "https://github.com/Javis603/token-monitor",
+      "description": "Local-first desktop widget for tracking token usage, costs, and limits across 43+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.",
+      "language": "JavaScript",
+      "stars": 2708,
+      "summaryZh": "本地优先的桌面小组件，用于集中追踪 43 款以上 AI 编码工具的 token 用量、费用与额度，覆盖 Claude Code、Codex、Cursor、OpenCode、OpenClaw 等。数据保存在本地并支持多设备同步。适合同时使用多种 AI 编程工具、需要控制成本与用量的开发者。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "本地优先的桌面小组件，统一追踪 43+ 个 AI 编码工具的 token 用量、花费和额度，还能多设备同步。同类工具通常只盯一家，它跨 Claude Code、Codex、Cursor 等，适合管一堆 API key 想控成本的人。"
+    },
+    {
+      "repo": "BlueHeisenberg/SCSKiller",
+      "url": "https://github.com/BlueHeisenberg/SCSKiller",
+      "description": "Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.",
+      "language": "C#",
+      "stars": 1505,
+      "summaryZh": "面向 Windows 游戏玩家的着色器预编译工具，在启动游戏前把着色器提前编译进 NVIDIA 或 AMD 显卡驱动的缓存，从而消除首次游玩时的编译卡顿。支持 DirectX 12 游戏。适合被着色器卡顿困扰、希望在开场就获得顺畅帧率的 PC 玩家。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +530（+54%）",
+      "reasonZh": "Windows 上提前把游戏着色器编译进驱动缓存，专治开玩前的编译卡顿，NVIDIA、AMD 都支持。和游戏内置预编译比它是系统级通用方案，适合每次进新场景都卡一下的 PC 玩家。"
+    }
+  ]
+}
