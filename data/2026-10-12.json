@@ -1,0 +1,337 @@
+{
+  "date": "2026-10-12",
+  "trending": [
+    {
+      "repo": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 117342,
+      "summaryZh": "一个用智能体重现逆向工程的工具，能从应用行为一路分析到原生二进制层面。它把二进制分析、协议还原和行为追踪串成自动化流程，降低手工逆向的门槛。适合安全研究员、漏洞挖掘人员和需要快速理解闭源程序的技术团队使用。",
+      "category": "开发工具",
+      "starsToday": 25599
+    },
+    {
+      "repo": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 30825,
+      "summaryZh": "一个把 PS5 可执行文件自动移植到 Linux 和 Windows 的工具，面向希望跨平台运行 PS5 游戏的开发者。核心是自动化处理平台差异和可执行格式转换，减少手动适配工作。适合游戏移植研究者、模拟器开发者和主机游戏兼容性测试人员使用。",
+      "category": "游戏",
+      "starsToday": 3952
+    },
+    {
+      "repo": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 18830,
+      "summaryZh": "ArtCraft 是面向艺术家、设计师和电影制作人的创意制作引擎，强调有意图的创作流程控制。它把美术资产、场景编排和生成逻辑整合到同一个 Rust 工具链中，兼顾性能与可控性。适合需要把创意想法快速落地为可交互作品的专业创作者和小型工作室使用。",
+      "category": "开发工具",
+      "starsToday": 2957
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 50896,
+      "summaryZh": "一套面向编辑排版的图表设计系统，支持 44 种图表类型，输出自包含的 HTML 和 SVG。它不依赖 Mermaid，没有阴影和冗余装饰，风格干净适合出版级内容。适合技术写作者、编辑和需要在 Claude Code、Copilot、Cursor 等 AI 编程环境中生成专业图表的人使用。",
+      "category": "前端",
+      "starsToday": 1083
+    },
+    {
+      "repo": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 52131,
+      "summaryZh": "一个浏览器里的间谍卫星模拟器，但使用的是真实开源空间情报数据。它在逼真的 3D 地球上展示实时地理信息，可以像操作卫星一样观察世界。适合地理信息爱好者、情报分析学习者和需要直观展示空间数据的开发者使用。",
+      "category": "其他",
+      "starsToday": 886
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars": 104621,
+      "summaryZh": "PyTorch 是主流的深度学习框架，提供张量计算和动态神经网络，并支持强 GPU 加速。它的核心优势是动态计算图和 Python 友好的接口，让模型定义和调试更直观。适合研究人员、工程师和学生用于从实验到生产的各类机器学习项目。",
+      "category": "AI",
+      "starsToday": 315
+    },
+    {
+      "repo": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 74392,
+      "summaryZh": "这是阿波罗 11 号制导计算机 AGC 的原始源代码，包含指令舱和登月舱的飞行软件。代码用汇编语言写成，完整保留了当年登月任务的实际程序逻辑。适合航天史爱好者、嵌入式系统学习者和对早期软件工程感兴趣的开发者阅读研究。",
+      "category": "资料教程",
+      "starsToday": 466
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "openai/math",
+      "url": "https://github.com/openai/math",
+      "description": "",
+      "language": "Lean",
+      "stars": 14172,
+      "summaryZh": "OpenAI 开源的数学项目，使用 Lean 语言形式化数学内容，探索机器辅助数学证明与推理。它把数学定义、定理和证明写成可被计算机验证的代码，便于自动化检查。适合数学研究者、形式化验证工程师和 AI 数学推理方向的学习者使用。",
+      "category": "AI",
+      "createdAt": "2026-10-06T21:47:02Z"
+    },
+    {
+      "repo": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "language": "Rust",
+      "stars": 6732,
+      "summaryZh": "WordCraft 是用纯 Rust 对 Microsoft Word 进行的开源净室重实现，目标是提供类 Word 的文档编辑能力。它不依赖原有代码，从底层重新构建文字处理和排版逻辑，兼顾性能与可维护性。适合 Rust 开发者、办公软件研究者和需要轻量文档编辑组件的团队使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T08:34:24Z"
+    },
+    {
+      "repo": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "language": "JavaScript",
+      "stars": 4000,
+      "summaryZh": "一个智能体技能，用于生成真实机器和复杂系统的详细等距交互式插图。它能输出精致的 SVG，并可选支持 WebGL 着色器和 3D 效果，让技术图解更直观。适合技术文档作者、教育内容和需要可视化复杂机械结构的开发者使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-08T10:12:49Z"
+    },
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "language": "JavaScript",
+      "stars": 3443,
+      "summaryZh": "一个艺术动画技能，内置 35 种艺术风格和 9 种解说语法，用代码让静态画作动起来。它把动画生成拆解成可组合的风格与叙事模块，降低创作门槛。适合艺术创作者、教育内容制作者和希望快速生成动态插画的开发者使用。",
+      "category": "AI",
+      "createdAt": "2026-10-06T04:49:37Z"
+    },
+    {
+      "repo": "mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "language": "Go",
+      "stars": 3325,
+      "summaryZh": "ARTEX 是一个 AI 自主渗透测试系统，曾获百度“agent+”攻防挑战赛冠军。它让智能体自动完成信息收集、漏洞探测和利用规划，减少人工渗透中的重复操作。适合安全研究人员、红队成员和需要自动化攻防演练的团队使用。",
+      "category": "AI",
+      "createdAt": "2026-10-08T05:33:06Z"
+    },
+    {
+      "repo": "zhongerxin/iPhone-use",
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "language": "Python",
+      "stars": 3186,
+      "summaryZh": "让 Codex 通过 USB 操作真实 iPhone 的工具，支持引导安装、App 自动化和实时屏幕查看，并提供截图回退。它把 AI 编程助手和真机操作连接起来，方便完成移动端任务。适合 iOS 自动化测试人员、移动应用开发者和需要远程控制 iPhone 的用户使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-06T15:09:33Z"
+    },
+    {
+      "repo": "storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "language": "Rust",
+      "stars": 3147,
+      "summaryZh": "GridCraft 是用纯 Rust 对 Microsoft Excel 风格电子表格进行的开源净室重实现。它从零构建公式计算、单元格模型和表格交互，追求原生性能和可扩展性。适合 Rust 开发者、办公软件研究者和需要嵌入式表格组件的项目使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T05:18:16Z"
+    },
+    {
+      "repo": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "language": "Rust",
+      "stars": 2849,
+      "summaryZh": "CADCraft 是用纯 Rust 对 AutoCAD 风格计算机辅助设计工具进行的开源净室重实现。它从底层构建绘图、编辑和设计文档管理能力，强调原生性能与可维护性。适合 CAD 开发者、工业软件研究者和需要轻量设计工具的技术团队使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T05:22:31Z"
+    },
+    {
+      "repo": "nullmoth/nvidia-macos-driver",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "language": "Rust",
+      "stars": 2594,
+      "summaryZh": "为 macOS 15 Sequoia 上的 NVIDIA GeForce RTX 显卡提供 Metal 驱动，让黑苹果（Intel / OpenCore）也能获得图形加速。核心是用 Rust 重写驱动栈并开源，支持 RTX 系列。适合在 Intel Mac 或 OpenCore 黑苹果上使用 NVIDIA 显卡的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T08:13:12Z"
+    },
+    {
+      "repo": "LosaLosSantos/aurelio-finance",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "language": "Python",
+      "stars": 2409,
+      "summaryZh": "开源个人财务应用，内置 AI 财务顾问，可追踪净资产、投资、ETF、现金和债务，数据完全保存在本地电脑。基于 Python 和 LLM 技术实现智能分析。适合注重隐私、想自托管管理个人财富的投资者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-06T20:14:19Z"
+    },
+    {
+      "repo": "t4t5/omdrop-owl",
+      "url": "https://github.com/t4t5/omdrop-owl",
+      "description": "airdrop for non-apple devices",
+      "language": "Shell",
+      "stars": 2195,
+      "summaryZh": "为非 Apple 设备实现类似 AirDrop 的文件传输功能，基于 OpenDrop 和 Shell 脚本构建。核心是让 Linux、Windows、Android 等系统之间也能便捷互传文件。适合没有苹果生态但需要跨设备快速分享文件的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-08T06:38:33Z"
+    },
+    {
+      "repo": "storytold/deckcraft",
+      "url": "https://github.com/storytold/deckcraft",
+      "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+      "language": "Rust",
+      "stars": 2124,
+      "summaryZh": "用纯 Rust 从零重新实现 Microsoft PowerPoint 的开源演示文稿工具，属于 ArtCraft 应用系列。核心是干净室重写，不依赖微软代码，提供幻灯片编辑与展示功能。适合想要开源、轻量替代方案的演示文稿制作者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T05:27:21Z"
+    },
+    {
+      "repo": "storytold/soundcraft",
+      "url": "https://github.com/storytold/soundcraft",
+      "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+      "language": "Rust",
+      "stars": 1914,
+      "summaryZh": "用纯 Rust 从零重新实现 Avid Pro Tools 的开源数字音频工作站，属于 ArtCraft 应用系列。核心是干净室重写，提供专业音频录制、编辑与混音功能。适合需要开源、可定制 DAW 的音乐制作人和音频工程师。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T08:31:31Z"
+    },
+    {
+      "repo": "noahdunnagan/fsearch",
+      "url": "https://github.com/noahdunnagan/fsearch",
+      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "language": "Rust",
+      "stars": 1898,
+      "summaryZh": "macOS 全盘文件搜索工具，支持模糊匹配、拼写容错和索引内容 grep，800 万文件下搜索仅约 1 毫秒。核心是用 Rust 实现高性能索引与检索。适合需要在海量文件中快速定位内容的 macOS 用户和开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-08T17:50:33Z"
+    },
+    {
+      "repo": "alejandrobujan/tendedero",
+      "url": "https://github.com/alejandrobujan/tendedero",
+      "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+      "language": "Swift",
+      "stars": 1892,
+      "summaryZh": "一款极简的 macOS 原生小应用，把每一张截图像晾衣服一样挂在屏幕顶部显示。核心是用 Swift 实现的轻量截图管理方式，无需打开文件夹即可查看。适合经常截图、需要随手翻看近期截图的 Mac 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T01:29:54Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "moritzwilksch/diffle",
+      "url": "https://github.com/moritzwilksch/diffle",
+      "description": "A keyboard-first diff viewer with LSP support and GitHub integration.",
+      "language": "TypeScript",
+      "stars": 124,
+      "summaryZh": "键盘优先的 diff 查看器，支持 LSP 和 GitHub 集成，可辅助代码审查与 PR 评审。核心是面向 agentic coding 和代理工作流优化差异浏览体验。适合频繁做代码审查、需要高效比对变更的开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 69 分 · 12 评论",
+      "reasonZh": "键盘优先的 diff 查看器，带 LSP 支持和 GitHub 集成，看 PR 时不用再切编辑器，改文件、跳定义都在一个界面完成。比单纯 diff 工具多了代码智能，日常审代码很顺手。"
+    },
+    {
+      "repo": "BlueHeisenberg/SCSKiller",
+      "url": "https://github.com/BlueHeisenberg/SCSKiller",
+      "description": "Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.",
+      "language": "C#",
+      "stars": 2195,
+      "summaryZh": "在玩游戏前提前将游戏着色器编译进 GPU 驱动缓存，消除着色器编译导致的卡顿。支持 Windows 上的 NVIDIA 和 AMD 显卡，基于 DirectX 12。适合受着色器编译卡顿困扰的 PC 游戏玩家。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +1220（+125%）",
+      "reasonZh": "能在开玩前把游戏的着色器提前编译进显卡驱动缓存，直接消灭进游戏那几分钟的卡顿。同类工具基本要手动折腾，它自动扫描游戏并处理，NVIDIA 和 AMD 都支持，PC 玩家必备。"
+    },
+    {
+      "repo": "M-Abozaid/esp32-c3-adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share",
+      "language": "C++",
+      "stars": 2849,
+      "summaryZh": "在仅 2 美元的 ESP32-C3 上实现 Pi-hole 级 DNS 广告拦截，把 53.7 万域名以 40 位 FNV-1a 哈希存入闪存并二分查找。提供 UDP DNS sinkhole 和 Web 面板。适合想低成本、低功耗自建网络广告过滤的极客。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1349（+90%）",
+      "reasonZh": "用两美元的 ESP32-C3 跑出 Pi-hole 级别的 DNS 广告拦截，53 万条域名压成 40 位哈希塞进 flash 做二分查找，还带网页面板。想在家全网去广告又不想开服务器，插上电就能用。"
+    },
+    {
+      "repo": "surajverma/homehub",
+      "url": "https://github.com/surajverma/homehub",
+      "description": "A private, lightweight, no-login, self-hosted family utility for your home and it comes with no config PWA.",
+      "language": "Python",
+      "stars": 1246,
+      "summaryZh": "私有、轻量、免登录的自托管家庭实用面板，自带免配置 PWA，可管理家庭日常事务。核心是无追踪、数据自持，开箱即用。适合希望在家自建仪表盘、注重隐私的家庭用户。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "自托管的家庭小工具集，无需登录、没有追踪，自带不用配置的 PWA，手机加到主屏就能用。比 Nextcloud 这类重家伙轻太多，适合一家人管日程、清单、共享信息。"
+    },
+    {
+      "repo": "kunkka19xx/look",
+      "url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "language": "Rust",
+      "stars": 1152,
+      "summaryZh": "开源跨平台启动器，可作为 Spotlight 和 Raycast 的轻量替代品，支持 Windows、macOS 和 Linux。核心是用 Rust 和 Tauri 打造快速、可扩展的搜索与启动体验。适合追求轻量、跨平台效率工具的开发者与极客。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "开源跨平台启动器，冲着 Spotlight 和 Raycast 来的轻量替代品，Rust + Tauri 做得很小很快。Mac、Windows、Linux 都能装，想要快又不想被商业软件绑定的用户可以直接上手。"
+    },
+    {
+      "repo": "unhappychoice/gittype",
+      "url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "language": "Rust",
+      "stars": 1632,
+      "summaryZh": "把源代码变成打字练习的 CLI 代码打字游戏，基于 tree-sitter 解析代码并生成挑战。核心是用 Ratatui 在终端中实现游戏化编程练习。适合想提升打字速度、熟悉代码结构的程序员。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "把你自己项目的源码变成打字练习题目，边练指法边熟悉代码，用 tree-sitter 做语法解析。比无聊的打字网站有意思多，程序员想提升盲打速度时用这个最对味。"
+    },
+    {
+      "repo": "ifer47/markeron",
+      "url": "https://github.com/ifer47/markeron",
+      "description": "Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.",
+      "language": "TypeScript",
+      "stars": 1170,
+      "summaryZh": "轻量约 1.5 MB 的开源屏幕标注工具，支持点击穿透模式和键盘优先快捷键。基于 Tauri、Vue 3 和 Rust 构建，适用于 Windows 和 macOS。适合做演示、教学、会议和录屏时实时标注的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "才 1.5MB 的屏幕标注工具，支持点击穿透和全套键盘快捷键，录屏、演示、开会画重点很实用。比动辄几百兆的同类软件轻太多，Windows 和 macOS 都能装。"
+    },
+    {
+      "repo": "dongdongbh/Mindwtr",
+      "url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
+      "language": "TypeScript",
+      "stars": 2235,
+      "summaryZh": "免费跨平台 GTD 待办应用，帮助把任务和想法从脑中清空，支持离线使用且无需账号。核心是围绕 Getting Things Done 工作流设计，覆盖桌面和移动端。适合想用 GTD 方法管理任务、注重隐私效率的用户。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "免费 GTD 待办应用，桌面和手机都能装，完全离线、不用注册账号，专为 ADHD 这类容易分心的人设计。比大多数云待办更让人安心，东西不会莫名其妙传到别人服务器。"
+    },
+    {
+      "repo": "CopilotKit/OpenDots",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "language": "TypeScript",
+      "stars": 4941,
+      "summaryZh": "OpenDots 是一组常驻式 AI 同事，可在短信、电话和 Slack 之间自主切换，替你处理跨渠道沟通。项目用 TypeScript 编写，核心亮点是让 AI 代理保持连续上下文，在不同通信工具间无缝接力。适合需要自动化客服、销售外呼或团队协作助理的开发者与企业。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +1662（+51%）",
+      "reasonZh": "常驻的 AI 同事，能在短信、电话和 Slack 之间来回切换处理事务，不是只会聊天的机器人。适合想让 AI 真正替你跟进沟通、又不满足于单一聊天窗口的团队，玩法挺新。"
+    }
+  ]
+}
