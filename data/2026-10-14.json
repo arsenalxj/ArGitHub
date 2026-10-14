@@ -1,0 +1,359 @@
+{
+  "date": "2026-10-14",
+  "trending": [
+    {
+      "repo": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 215276,
+      "summaryZh": "Rea 是一个用智能体对任意目标进行逆向工程的工具，覆盖从应用行为到底层原生二进制的分析链路。它把自动化 Agent 引入逆向场景，能显著降低手工调试与静态分析成本。适合安全研究员、漏洞挖掘人员和需要快速理解闭源程序行为的开发者。",
+      "category": "开发工具",
+      "starsToday": 54679
+    },
+    {
+      "repo": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 55710,
+      "summaryZh": "Gods Eye View 把浏览器变成一颗“间谍卫星”，在照片级 3D 地球上叠加真实开源地理空间情报。它实时聚合公开数据，让你像情报分析师一样进行全球态势观察。适合开源情报爱好者、地理信息研究者和对实时空间数据可视化感兴趣的人。",
+      "category": "其他",
+      "starsToday": 1961
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 63928,
+      "summaryZh": "VoiceStudio 是本地化运行的开源 ElevenLabs 替代品，集成语音克隆、语音设计、视频配音、听写、转录和有声书制作，支持 646 种语言。全部能力离线可用，兼顾隐私与成本。适合内容创作者、播客制作者以及需要多语言语音处理的开发者。",
+      "category": "AI",
+      "starsToday": 1748
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 28414,
+      "summaryZh": "Context Mode 面向 AI 编程智能体优化上下文窗口，通过沙箱化工具输出减少约 98% 冗余、持久化会话记忆，并借助 MCP 与 hooks 在 17 个平台上统一路由。它让长任务中的智能体保持更稳定、更省 token。适合重度使用编码 Agent 的工程师与团队。",
+      "category": "AI",
+      "starsToday": 969
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 54485,
+      "summaryZh": "Diagram Design 为 Claude Code、Codex、GitHub Copilot、Cursor 等编程智能体提供编辑部级图表设计能力，覆盖 44 种图表类型。输出自包含 HTML + SVG，无阴影、无 Mermaid 廉价感，可直接嵌入文档与产品。适合工程师、技术写作者和需要高质量架构图的人。",
+      "category": "开发工具",
+      "starsToday": 1815
+    },
+    {
+      "repo": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars": 34668,
+      "summaryZh": "Skills 是 Vercel Labs 推出的开放智能体技能工具，一条 npx skills 命令即可发现、安装和管理可复用的 Agent 能力。它把零散提示词沉淀为标准化技能包，方便跨项目复用。适合希望快速扩展 AI 编码助手能力的开发者与工具链维护者。",
+      "category": "AI",
+      "starsToday": 190
+    },
+    {
+      "repo": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 26224,
+      "summaryZh": "ArtCraft 是一个面向艺术家、设计师和电影制作人的有意图创作引擎，用 Rust 构建，强调对创作流程的精确控制。它把生成式能力与专业工作流结合，而非简单的一键出图。适合需要可复现、可编程创作管线的视觉创作者与技术美术。",
+      "category": "AI",
+      "starsToday": 4081
+    },
+    {
+      "repo": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "stars": 9660,
+      "summaryZh": "xtool 是跨平台的 Xcode 替代方案，让你在 Linux、Windows 和 macOS 上通过 SwiftPM 构建并部署 iOS 应用。它绕开对苹果官方 IDE 的依赖，打通非 Mac 环境的 iOS 开发链路。适合使用 Swift 的跨平台开发者、CI 环境维护者和被 Xcode 绑定困扰的团队。",
+      "category": "开发工具",
+      "starsToday": 1198
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "language": "Rust",
+      "stars": 11366,
+      "summaryZh": "WordCraft 是用纯 Rust 从零净室实现的开源文字处理器，对标 Microsoft Word 的核心编辑与排版体验。它不依赖任何专有代码，强调性能与可移植性。适合关注桌面办公软件开源替代、Rust GUI 实践及文档工具链的开发者与用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T08:34:24Z"
+    },
+    {
+      "repo": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "language": "JavaScript",
+      "stars": 8534,
+      "summaryZh": "Anatomy 是一个智能体技能，用于为真实机器和复杂系统生成精细、可交互的等距插画。它输出打磨过的 SVG，可选 WebGL 着色器与 3D 效果，把技术结构讲清楚。适合工程师、技术布道者和需要做系统解构图的产品团队。",
+      "category": "AI",
+      "createdAt": "2026-10-08T10:12:49Z"
+    },
+    {
+      "repo": "storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "language": "Rust",
+      "stars": 4513,
+      "summaryZh": "GridCraft 是用纯 Rust 净室实现的开源电子表格，对标 Microsoft Excel，由 ArtCraft 团队打造。它追求高性能计算与跨平台可移植性，不依赖专有组件。适合需要轻量开源表格引擎、或在 Rust 生态中做数据处理工具的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T05:18:16Z"
+    },
+    {
+      "repo": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "language": "Rust",
+      "stars": 4320,
+      "summaryZh": "CADCraft 是用纯 Rust 净室实现的开源计算机辅助设计与制图应用，对标 AutoCAD 类工具。它覆盖二维绘图与工程制图核心能力，强调性能与开放可扩展。适合机械、建筑领域的 CAD 用户以及希望参与开源工业软件建设的 Rust 开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T05:22:31Z"
+    },
+    {
+      "repo": "mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "language": "Go",
+      "stars": 3932,
+      "summaryZh": "ARTEX 是 AI 自主渗透测试系统，曾获百度“agent+”攻防挑战赛冠军。它让智能体自动完成侦察、漏洞发现与利用链编排，把渗透测试流程推向自动化。适合安全研究团队、红队成员以及关注 AI 攻防结合方向的技术人员。",
+      "category": "AI",
+      "createdAt": "2026-10-08T05:33:06Z"
+    },
+    {
+      "repo": "storytold/deckcraft",
+      "url": "https://github.com/storytold/deckcraft",
+      "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+      "language": "Rust",
+      "stars": 3010,
+      "summaryZh": "DeckCraft 是用纯 Rust 净室实现的开源演示文稿工具，对标 Microsoft PowerPoint，属于 ArtCraft 创作应用家族。它覆盖幻灯片编辑与放映的核心流程，不依赖专有代码。适合需要开源办公套件、或关注 Rust 桌面应用实践的开发者与用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T05:27:21Z"
+    },
+    {
+      "repo": "nullmoth/nvidia-macos-driver",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
+      "language": "Rust",
+      "stars": 2921,
+      "summaryZh": "这是为 macOS Sequoia 上 NVIDIA GeForce 显卡开发的 Metal 驱动，让新系统重新获得 NVIDIA 图形支持。项目涉及 kext、OpenCore、Vulkan 等底层技术，属于黑苹果与老显卡生态的关键拼图。适合黑苹果玩家、macOS 底层驱动研究者及需要 NVIDIA 加速的用户。",
+      "category": "其他",
+      "createdAt": "2026-10-07T08:13:12Z"
+    },
+    {
+      "repo": "ARahim3/DigUp",
+      "url": "https://github.com/ARahim3/DigUp",
+      "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+      "language": "Swift",
+      "stars": 2659,
+      "summaryZh": "一款 macOS 本地语义搜索工具，基于 Google DeepMind 的 EmbeddingGemma 2 模型，可对照片、PDF、录音、视频和代码内容进行搜索。全部计算在设备端完成，无需联网，以菜单栏应用形式常驻。适合注重隐私、需要按文件内容而非文件名快速检索素材的 Mac 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-08T20:37:51Z"
+    },
+    {
+      "repo": "storytold/soundcraft",
+      "url": "https://github.com/storytold/soundcraft",
+      "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+      "language": "Rust",
+      "stars": 2621,
+      "summaryZh": "用纯 Rust 从零重写的开源数字音频工作站，目标是复刻 Avid Pro Tools 的核心工作流。采用净室实现，不依赖原有代码，强调性能与跨平台潜力。适合关注音频软件底层实现、想研究或参与 DAW 开发的 Rust 与音乐技术开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T08:31:31Z"
+    },
+    {
+      "repo": "t4t5/omdrop-owl",
+      "url": "https://github.com/t4t5/omdrop-owl",
+      "description": "airdrop for non-apple devices",
+      "language": "Shell",
+      "stars": 2603,
+      "summaryZh": "为苹果生态之外的设备实现类似 AirDrop 的近距离文件传输工具，基于 AWDL 等技术在非 Apple 设备间建立直连。让 Linux、Android 等平台也能享受免配置的无线互传体验。适合需要在混合设备环境中快速分享文件的用户，尤其是 Linux 桌面玩家。",
+      "category": "开发工具",
+      "createdAt": "2026-10-08T06:38:33Z"
+    },
+    {
+      "repo": "storytold/craft-launcher",
+      "url": "https://github.com/storytold/craft-launcher",
+      "description": "The Craft App Launcher",
+      "language": "Rust",
+      "stars": 2377,
+      "summaryZh": "用 Rust 编写的应用程序启动器，属于 Craft 生态的一部分，提供快速启动与统一入口。以原生性能和简洁交互为核心，适合希望减少桌面启动步骤、追求轻量高效工作流的开发者与高级用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-09T23:21:59Z"
+    },
+    {
+      "repo": "alejandrobujan/tendedero",
+      "url": "https://github.com/alejandrobujan/tendedero",
+      "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+      "language": "Swift",
+      "stars": 2120,
+      "summaryZh": "一个极简的 macOS 原生小应用，把每次截图像晾衣服一样挂到屏幕顶部的「晾衣绳」上，方便随时回看和取用。用 Swift 编写，界面轻巧有趣，适合经常截图、需要快速回顾近期截图的 Mac 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T01:29:54Z"
+    },
+    {
+      "repo": "liseami/CCBaga",
+      "url": "https://github.com/liseami/CCBaga",
+      "description": "",
+      "language": "Rust",
+      "stars": 2105,
+      "summaryZh": "一个用 Rust 编写的项目，仓库未提供描述信息，从语言与命名推测可能是面向开发者的工具或实验性软件。由于缺少明确说明，建议直接查看源码与文档了解其具体功能。适合愿意探索 Rust 新项目、自行评估用途的开发者。",
+      "category": "其他",
+      "createdAt": "2026-10-11T03:47:06Z"
+    },
+    {
+      "repo": "noahdunnagan/fsearch",
+      "url": "https://github.com/noahdunnagan/fsearch",
+      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "language": "Rust",
+      "stars": 2036,
+      "summaryZh": "macOS 全盘文件搜索工具，支持模糊匹配、拼写容错以及索引内容 grep，号称在 800 万文件规模下约 1 毫秒返回结果。用 Rust 实现，适合需要在大体量磁盘中快速定位文件或按内容检索的用户，弥补 Spotlight 在模糊搜索上的不足。",
+      "category": "开发工具",
+      "createdAt": "2026-10-08T17:50:33Z"
+    },
+    {
+      "repo": "bherbruck/solidcraft",
+      "url": "https://github.com/bherbruck/solidcraft",
+      "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+      "language": "Rust",
+      "stars": 1900,
+      "summaryZh": "纯 Rust 打造的开源参数化 3D CAD 应用，基于 BRep 几何内核，支持桌面端、Web 端（WASM）以及通过 MCP 进行自动化。适合工程师与开发者做参数化建模，也便于将 CAD 能力集成进自动化流程或浏览器环境。",
+      "category": "开发工具",
+      "createdAt": "2026-10-07T18:57:48Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "LargeModGames/spotatui",
+      "url": "https://github.com/LargeModGames/spotatui",
+      "description": "A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources",
+      "language": "Rust",
+      "stars": 1548,
+      "summaryZh": "一款用 Rust 写的终端音乐播放器，支持原生 Spotify 流媒体，同时接入本地文件、Subsonic、电台、Qobuz 和 YouTube 等音源。界面基于 Ratatui，具备歌词、可视化与 MPRIS 支持。适合喜欢在终端里听歌、追求轻量且多源统一的开发者。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 63 分 · 11 评论",
+      "reasonZh": "在终端里直接听 Spotify 和本地音乐，速度飞快还带歌词和可视化，同类 spotify-tui 早已停更，这个把 Subsonic、电台、Youtube 全塞进来了。喜欢待在命令行、又想边写代码边切歌的人会爱不释手。"
+    },
+    {
+      "repo": "trasta298/keifu",
+      "url": "https://github.com/trasta298/keifu",
+      "description": "Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.",
+      "language": "Rust",
+      "stars": 811,
+      "summaryZh": "一个用于浏览 Git 提交图的终端 TUI 工具，通过配色和清晰布局把复杂的分支历史可视化，方便追踪代码演化。基于 Ratatui 与 Rust 构建，适合经常在命令行里查看仓库历史、希望更直观理解分支合并的开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "一个用 Rust 写的 Git 提交图 TUI，配色清晰、导航顺手，比 tig 或 lazygit 的图更专注在谱系浏览上。适合经常要理清分支合并历史、想看明白 commit 关系的开发者。"
+    },
+    {
+      "repo": "SaarthurR/atticus-mac",
+      "url": "https://github.com/SaarthurR/atticus-mac",
+      "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+      "language": "Python",
+      "stars": 149,
+      "summaryZh": "面向 Mac 的快速免费语音助手，无需 API Key，直接跑在 Claude Pro 或 Max 订阅上，能记住用户并学习常用快捷指令。按住 ⌃⌥Space 即可说话，以菜单栏应用形式运行。适合想用语音快速操作 Mac、又不想额外付费调用接口的用户。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 114 分 · 28 评论",
+      "reasonZh": "Mac 上的免费语音助手，按住快捷键说话就行，不用 API key，直接跑在你的 Claude 订阅上，还能记住你的习惯。相比市面上的语音工具更省心省钱，适合重度 Mac 用户做日常口述操作。"
+    },
+    {
+      "repo": "workdone0/twig",
+      "url": "https://github.com/workdone0/twig",
+      "description": "Terminal-based JSON & YAML viewer (TUI) for exploring and searching large files — fast, interactive, and privacy-first.",
+      "language": "Rust",
+      "stars": 185,
+      "summaryZh": "基于终端的 JSON 与 YAML 查看器，用 TUI 方式交互式浏览和搜索大文件，速度快且隐私优先，所有处理均在本地完成。适合经常需要检查配置文件或接口返回、又不想打开笨重编辑器的开发者与运维人员。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "终端里的 JSON/YAML 查看器，打开大文件不卡，能交互式搜索和折叠，默认本地处理不上传。比 jq 加 cat 的组合直观多了，调试配置文件或看 API 返回时特别顺手。"
+    },
+    {
+      "repo": "ozeranskii/httptap",
+      "url": "https://github.com/ozeranskii/httptap",
+      "description": "Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.",
+      "language": "Python",
+      "stars": 832,
+      "summaryZh": "一个用 Rich 渲染的 CLI 工具，把每个 HTTP 请求拆解为 DNS、连接、TLS、等待和传输等阶段，输出瀑布时间线、紧凑摘要或纯指标视图。适合排查网络性能问题、分析 TLS 与连接耗时的后端与运维工程师。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "把每个 HTTP 请求拆成 DNS、连接、TLS、等待、传输几个阶段，用瀑布图和彩色摘要展示，一眼看出慢在哪。排查接口延迟时比 curl -w 和浏览器网络面板更聚焦，CLI 党会很受用。"
+    },
+    {
+      "repo": "andrewfader/blokkily",
+      "url": "https://github.com/andrewfader/blokkily",
+      "description": "An experimental pattern-first DAW",
+      "language": "C++",
+      "stars": 77,
+      "summaryZh": "一个实验性的「模式优先」数字音频工作站，强调以音型或模式为核心组织音乐创作，支持 CLAP 与 VST3 插件及 SoundFont。适合对新型 DAW 交互方式感兴趣、愿意尝鲜的实验音乐人与音频开发者。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 83 分 · 39 评论",
+      "reasonZh": "一个实验性的图案优先 DAW，用块状模式来编排音乐，支持 VST3 和 SoundFont。和传统时间轴 DAW 比思路很不一样，适合喜欢玩 loop 和模块化作曲、想尝鲜新工作流的音乐制作人。"
+    },
+    {
+      "repo": "willfaust/Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "stars": 2410,
+      "summaryZh": "在受沙盒限制的 iOS 设备上运行 x86-64 Windows PC 游戏，技术栈组合了 FEX-Emu、Wine 与 DXMT 实现指令翻译和图形转换。属于高难度实验项目，适合想在 iPhone 或 iPad 上折腾 Windows 游戏、对模拟器与兼容层感兴趣的硬核玩家。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +574（+31%）",
+      "reasonZh": "在越狱 iOS 上用 FEX-Emu 加 Wine 加 DXMT 跑 x86-64 Windows 游戏，把桌面级模拟搬到了手机上。对想在 iPad 或 iPhone 上玩 PC 老游戏的折腾党来说，这是少有能直接上手的方案。"
+    },
+    {
+      "repo": "Mastershort/neonplan3d",
+      "url": "https://github.com/Mastershort/neonplan3d",
+      "description": "3D floor plan for Home Assistant: draw your home in the built-in editor (rooms, walls, doors, windows, furniture, roof) and see and control lights, covers, windows, climate, media, sensors and cameras live in a neon 3D view – as a sidebar panel and dashboard card.",
+      "language": "TypeScript",
+      "stars": 742,
+      "summaryZh": "为 Home Assistant 打造的 3D 户型图自定义卡片，可在内置编辑器中绘制房间、墙体、门窗、家具和屋顶。基于 Three.js 渲染，并把灯光、窗帘、门窗、空调、媒体、传感器和摄像头接入其中，实现直观的可视化控制。适合想让智能家居面板变成数字孪生视图的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +378（+104%）",
+      "reasonZh": "Home Assistant 的 3D 户型卡片，内置编辑器画房间、墙、门窗和家具，还能联动控制灯光窗帘摄像头。比平面 floorplan 卡片更有数字孪生的感觉，智能家居玩家布置可视化面板时很实用。"
+    },
+    {
+      "repo": "RackulaLives/Rackula",
+      "url": "https://github.com/RackulaLives/Rackula",
+      "description": "rack layout designer",
+      "language": "TypeScript",
+      "stars": 1744,
+      "summaryZh": "一款机架布局设计器，用拖拽方式规划服务器机柜、AV 设备和网络基础设施，支持容量规划与自托管部署。基于 Svelte 和 TypeScript 编写，可生成机架示意图，并可与 Netbox 配合使用。适合运维、机房管理员和家庭实验室爱好者整理设备拓扑。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "开源的机柜布局设计器，拖拽摆放设备、算容量、出图，还对接 Netbox。自托管和 homelab 玩家以前只能用表格或 Visio，这个直接浏览器里画机架，对运维和管理小型机房的人很省事。"
+    },
+    {
+      "repo": "Sudharsanselvaraj/Token-Print",
+      "url": "https://github.com/Sudharsanselvaraj/Token-Print",
+      "description": "Interactive 3D visualization platform for exploring transformer architectures, tensors, and real-time LLM inference.",
+      "language": "TypeScript",
+      "stars": 208,
+      "summaryZh": "一个交互式 3D 可视化平台，用于探索 Transformer 架构、张量运算和实时 LLM 推理过程。客户端基于 Three.js/WebGL 渲染，支持 Hugging Face 与 GGUF 模型，把抽象的网络结构直观呈现出来。适合学习大模型原理或需要演示推理流程的开发者与教学场景。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "把 Transformer 架构、张量和实时推理过程做成 3D 可视化，支持 GGUF 模型本地跑。比起纯论文配图或静态解释，这个能边跑边看，适合教学、分享或自己搞懂 LLM 内部到底在算什么。"
+    }
+  ]
+}
