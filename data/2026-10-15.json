@@ -1,0 +1,399 @@
+{
+  "date": "2026-10-15",
+  "trending": [
+    {
+      "repo": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 248421,
+      "summaryZh": "一个用智能体驱动的逆向工程工具，可从应用行为一路分析到原生二进制文件。它让 AI 代理自动完成反汇编、行为追踪和漏洞定位，大幅降低逆向分析门槛。适合安全研究员、渗透测试人员和分析闭源软件的开发者使用。",
+      "category": "AI",
+      "starsToday": 41034
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 66937,
+      "summaryZh": "VoiceStudio 是本地运行的开源 ElevenLabs 替代品，支持声音克隆、语音设计、视频配音、听写、转录和有声书制作。覆盖 646 种语言，全部处理在本地完成，无需上传云端。适合注重隐私的创作者、播客制作者和多语言内容团队。",
+      "category": "AI",
+      "starsToday": 3538
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 29286,
+      "summaryZh": "针对 AI 编程代理的上下文窗口优化工具，通过沙箱化工具输出可减少 98% 的 token 消耗。它还能持久化会话记忆，并借助 MCP 与 hooks 在 17 个平台上强制路由。适合重度使用 AI 编程助手、关注成本和上下文管理的开发者。",
+      "category": "开发工具",
+      "starsToday": 947
+    },
+    {
+      "repo": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "stars": 95489,
+      "summaryZh": "Node Version Manager 是一个符合 POSIX 规范的 bash 脚本，用于在同一台机器上安装和切换多个 Node.js 版本。它无需管理员权限，支持别名和自动版本切换，是 Node 生态最经典的版本管理工具。适合所有需要管理多版本 Node 的前后端开发者。",
+      "category": "开发工具",
+      "starsToday": 52
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 49558,
+      "summaryZh": "把通用 AI 代理变成 AI 科学家的技能库，提供 177 个经校验的即用技能，并接入 100 多个科学数据库。覆盖生物、化学等领域，已被全球超过 25 万名科研人员使用。适合做科研自动化、数据分析和实验设计的研究者与工程师。",
+      "category": "AI",
+      "starsToday": 163
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "stars": 52658,
+      "summaryZh": "CLI-Anything 致力于让所有软件都变成代理原生，通过 CLI-Hub 将命令行工具封装为 AI 代理可直接调用的接口。它降低了 AI 代理操作现有软件生态的门槛，无需为每个工具重写集成。适合希望让 AI 代理自动化调用命令行工具的开发者与研究者。",
+      "category": "AI",
+      "starsToday": 103
+    },
+    {
+      "repo": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "language": "Python",
+      "stars": 27678,
+      "summaryZh": "面向 AI 代理的独立审计系统，可由人或代理自身运行，回答代理经济中最关键的问题：代理是否在做它该做的事。它提供行为验证与责任追踪能力，帮助发现代理的越权或错误操作。适合部署生产级 AI 代理、需要合规与可信保障的团队。",
+      "category": "AI",
+      "starsToday": 2109
+    },
+    {
+      "repo": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 29779,
+      "summaryZh": "全自主 AI 代理系统，专为执行复杂渗透测试任务而设计。它能自动完成信息收集、漏洞探测和利用链验证，减少人工介入。适合安全团队、红队人员和渗透测试工程师在授权环境中提升测试效率与覆盖率。",
+      "category": "AI",
+      "starsToday": 1025
+    },
+    {
+      "repo": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 120127,
+      "summaryZh": "Rust 是一门注重性能、内存安全和并发能力的系统级编程语言，通过所有权和借用检查在编译期消除数据竞争。它拥有强大的包管理器和活跃生态，被广泛用于操作系统、嵌入式和 WebAssembly。适合追求可靠性和高效能的系统开发者。",
+      "category": "开发工具",
+      "starsToday": 207
+    },
+    {
+      "repo": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "stars": 11061,
+      "summaryZh": "跨平台的 Xcode 替代方案，让开发者可以在 Linux、Windows 和 macOS 上使用 SwiftPM 构建和部署 iOS 应用。它打破了苹果平台的构建限制，为跨平台 iOS 开发提供了可行路径。适合需要在非 macOS 环境开发 iOS 应用的 Swift 开发者。",
+      "category": "开发工具",
+      "starsToday": 1502
+    },
+    {
+      "repo": "ntdevlabs/tiny11builder",
+      "url": "https://github.com/ntdevlabs/tiny11builder",
+      "description": "WinUI app for building smaller, customized Windows 11 images.",
+      "language": "C#",
+      "stars": 20322,
+      "summaryZh": "一个 WinUI 应用，用于构建更小、可定制的 Windows 11 镜像。它可以精简系统组件、移除预装应用，生成体积更小、更干净的安装镜像。适合需要定制系统镜像的 IT 管理员、系统封装爱好者和虚拟机用户。",
+      "category": "开发工具",
+      "starsToday": 139
+    },
+    {
+      "repo": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": 87764,
+      "summaryZh": "Ghidra 是由美国国家安全局开源的软件逆向工程框架，提供反汇编、反编译、脚本扩展和协作分析能力。它支持多种处理器架构和可执行格式，是 IDA Pro 的强力开源替代。适合安全研究员、恶意软件分析师和逆向工程学习者。",
+      "category": "开发工具",
+      "starsToday": 1008
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "language": "JavaScript",
+      "stars": 10893,
+      "summaryZh": "一个代理技能，用于生成真实机器和复杂系统的细致交互式等距插图。它输出精美的 SVG，并可选配 WebGL 着色器和 3D 效果，让技术可视化更直观。适合技术文档作者、教育内容创作者和需要系统示意图的工程师。",
+      "category": "AI",
+      "createdAt": "2026-10-08T10:12:49Z"
+    },
+    {
+      "repo": "mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "language": "Go",
+      "stars": 4136,
+      "summaryZh": "AI 自主渗透测试系统，是百度「agent+」攻防挑战赛的冠军项目。它利用智能体自动完成侦察、漏洞分析和攻击路径规划，在真实攻防场景中验证有效性。适合安全研究人员和红队成员关注自主渗透测试的前沿实践。",
+      "category": "AI",
+      "createdAt": "2026-10-08T05:33:06Z"
+    },
+    {
+      "repo": "ARahim3/DigUp",
+      "url": "https://github.com/ARahim3/DigUp",
+      "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
+      "language": "Swift",
+      "stars": 3753,
+      "summaryZh": "本地文件语义搜索工具，可按文件内容查找照片、PDF、文档、录音、视频和代码，基于 Google DeepMind 的 EmbeddingGemma 2 构建。它完全在设备端运行，覆盖 Mac、Windows 和 Linux，注重隐私。适合需要快速检索本地资料、不愿上传数据的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-08T20:37:51Z"
+    },
+    {
+      "repo": "storytold/craft-launcher",
+      "url": "https://github.com/storytold/craft-launcher",
+      "description": "The Craft App Launcher",
+      "language": "Rust",
+      "stars": 2696,
+      "summaryZh": "一款用 Rust 编写的 Minecraft 启动器，主打简洁高效与跨平台体验，支持多版本管理和模组加载。核心亮点是原生性能与低资源占用，界面响应迅速。适合想要轻量、快速启动 Minecraft 并管理多个实例的玩家使用。",
+      "category": "游戏",
+      "createdAt": "2026-10-09T23:21:59Z"
+    },
+    {
+      "repo": "t4t5/omdrop-owl",
+      "url": "https://github.com/t4t5/omdrop-owl",
+      "description": "airdrop for non-apple devices",
+      "language": "Shell",
+      "stars": 2689,
+      "summaryZh": "让非苹果设备也能使用 AirDrop 风格文件传输的工具，基于 AWDL 协议实现跨平台点对点直连。核心亮点是无需苹果生态即可完成类似隔空投送的无网传输。适合 Linux 或其他非苹果设备用户之间快速共享文件的场景。",
+      "category": "开发工具",
+      "createdAt": "2026-10-08T06:38:33Z"
+    },
+    {
+      "repo": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+      "language": "C",
+      "stars": 2360,
+      "summaryZh": "面向《暗黑破坏神 2：重制版》的开源 iOS/macOS 兼容层，可让玩家在 iPhone、iPad 和 Mac 上原生运行自购的 Switch 版本。核心亮点是完整触控操作、60 帧表现与 Metal 渲染支持。适合想在移动设备上重温暗黑 2 的玩家使用。",
+      "category": "游戏",
+      "createdAt": "2026-10-12T08:41:19Z"
+    },
+    {
+      "repo": "liseami/CCBaga",
+      "url": "https://github.com/liseami/CCBaga",
+      "description": "",
+      "language": "Rust",
+      "stars": 2278,
+      "summaryZh": "一个用 Rust 编写的开源项目，具体用途未在描述中说明，从仓库信息看可能与命令行工具或系统增强相关。核心亮点在于 Rust 带来的性能与安全性。适合对 Rust 生态工具感兴趣、愿意探索源码的开发者使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-11T03:47:06Z"
+    },
+    {
+      "repo": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "language": "C",
+      "stars": 2152,
+      "summaryZh": "通过一块约 7 美元的 ESP32 让 AI 模型操控真实 iPhone 的项目，利用 AirPlay 做视觉输入、USB HID 做操作输出。核心亮点是无需 Mac、开发者账号或越狱即可实现自动化。适合想低成本搭建手机 AI 代理或研究计算机操作的开发者。",
+      "category": "AI",
+      "createdAt": "2026-10-11T19:10:25Z"
+    },
+    {
+      "repo": "noahdunnagan/fsearch",
+      "url": "https://github.com/noahdunnagan/fsearch",
+      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "language": "Rust",
+      "stars": 2060,
+      "summaryZh": "面向 macOS 的全盘文件搜索工具，支持模糊匹配、拼写容错和索引内容 grep 检索。核心亮点是在 800 万文件中约 1 毫秒返回结果，速度极快。适合需要在大规模本地文件中快速定位内容的 macOS 用户和开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-08T17:50:33Z"
+    },
+    {
+      "repo": "T-Auto/dsh-ops",
+      "url": "https://github.com/T-Auto/dsh-ops",
+      "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+      "language": "JavaScript",
+      "stars": 1791,
+      "summaryZh": "面向 DSH 的底层操作工具插件包，用于减少 Token 消耗和任务执行耗时。核心亮点是通过插件化方式优化底层调用流程，提升自动化任务效率。适合在 DSH 环境中高频执行任务、关注成本与性能的开发者使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-08T07:09:25Z"
+    },
+    {
+      "repo": "NVIDIA-Omniverse/usd-brep",
+      "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
+      "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
+      "language": "C++",
+      "stars": 1419,
+      "summaryZh": "NVIDIA Omniverse 推出的独立 C++ 与 Python 库，用于基于 NURBS 的边界表示实体建模。核心亮点是提供 BRep 数据结构与几何运算能力，便于集成到工业与三维管线中。适合从事 CAD、三维建模或 Omniverse 生态开发的工程师使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-08T17:27:36Z"
+    },
+    {
+      "repo": "Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "language": "Python",
+      "stars": 1384,
+      "summaryZh": "基于 Qwen-Image 2.1 的出图技能包，提供作者级提示词配方、NSFW LoRA 以及 136 种姿势的 VNCCS 人偶控制。核心亮点是可直接在 Claude Code、Codex、Cursor 等代理环境中调用。适合需要精细姿势与风格控制 AI 绘图的创作者使用。",
+      "category": "AI",
+      "createdAt": "2026-10-13T03:09:42Z"
+    },
+    {
+      "repo": "shaongitbd/doory",
+      "url": "https://github.com/shaongitbd/doory",
+      "description": "Open source canva alternative",
+      "language": "TypeScript",
+      "stars": 1216,
+      "summaryZh": "一个开源的 Canva 替代品，使用 TypeScript 构建，提供在线图形设计与模板编辑能力。核心亮点是开源可自托管，方便二次开发和定制。适合想摆脱商业设计工具订阅、需要自主可控设计平台的团队或个人使用。",
+      "category": "前端",
+      "createdAt": "2026-10-10T00:03:25Z"
+    },
+    {
+      "repo": "trhhubsd/ARTEXX",
+      "url": "https://github.com/trhhubsd/ARTEXX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
+      "language": "Go",
+      "stars": 1198,
+      "summaryZh": "AI 自主渗透测试系统，曾获百度 agent+ 攻防挑战赛冠军。核心亮点是结合大模型与自动化攻击链，实现自主侦察、漏洞利用与报告生成。适合安全研究人员、红队成员以及关注 AI 攻防自动化的从业者使用。",
+      "category": "AI",
+      "createdAt": "2026-10-08T20:35:22Z"
+    },
+    {
+      "repo": "wesbos/photo-frame-dashboard",
+      "url": "https://github.com/wesbos/photo-frame-dashboard",
+      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "language": "Python",
+      "stars": 1163,
+      "summaryZh": "针对被锁定的 Android 相框设备（如 Skylight Calendar、BIUFRAME）进行 ADB、root、备份和自定义应用安装的工具集。核心亮点是解锁封闭相框并植入第三方应用。适合想改造智能相框、扩展其功能的折腾型用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-08T18:22:19Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "LosaLosSantos/aurelio-finance",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "language": "Python",
+      "stars": 3370,
+      "summaryZh": "开源个人财务应用，内置 AI 财务顾问，可在本地追踪净资产、投资、ETF、现金与债务。核心亮点是自托管、数据私有，并借助大模型给出理财建议。适合注重隐私、希望统一管理个人资产与投资组合的用户使用。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +1814（+117%）",
+      "reasonZh": "开源自托管的个人财务应用，能追踪净资产、投资、ETF、现金和债务，还内置 AI 理财顾问，数据全留在自己电脑上。对不想把资产信息交给云端的人特别合适，适合想认真记账和做资产规划的人自部署使用。"
+    },
+    {
+      "repo": "LargeModGames/spotatui",
+      "url": "https://github.com/LargeModGames/spotatui",
+      "description": "A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources",
+      "language": "Rust",
+      "stars": 1606,
+      "summaryZh": "用 Rust 编写的独立终端音乐播放器，支持原生 Spotify 流媒体以及本地、Subsonic、电台、Qobuz 和 YouTube 音源。核心亮点是 TUI 界面下的歌词、可视化与多源聚合播放。适合喜欢在终端里听歌、追求轻量与键盘操作的开发者。",
+      "category": "前端",
+      "source": "hn",
+      "signal": "HN 87 分 · 18 评论",
+      "reasonZh": "纯 Rust 写的终端音乐播放器，能在命令行里直接原生串流 Spotify，还支持本地、Subsonic、电台、Qobuz 和 YouTube 多个音源。喜欢在终端里干活又不想离开键盘切歌的重度命令行用户会非常喜欢它。"
+    },
+    {
+      "repo": "Mastershort/neonplan3d",
+      "url": "https://github.com/Mastershort/neonplan3d",
+      "description": "3D floor plan for Home Assistant: draw your home in the built-in editor (rooms, walls, doors, windows, furniture, roof) and see and control lights, covers, windows, climate, media, sensors and cameras live in a neon 3D view – as a sidebar panel and dashboard card.",
+      "language": "TypeScript",
+      "stars": 762,
+      "summaryZh": "Home Assistant 的 3D 户型图卡片，可在内置编辑器中绘制房间、墙体、门窗、家具和屋顶，并实时查看与控制灯光、窗帘、空调、媒体和摄像头。核心亮点是基于 Three.js 的数字孪生可视化。适合想用 3D 方式直观管理智能家居的 HA 用户。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +398（+109%）",
+      "reasonZh": "Home Assistant 的 3D 户型卡片，内置编辑器让你画房间、墙、门窗和家具，然后直接在 3D 平面图上控制和查看灯光、窗帘、空调、摄像头和传感器。智能家居玩家想要酷炫又直观的可视化控制面板时，它就是答案。"
+    },
+    {
+      "repo": "dominostars/playtranslate",
+      "url": "https://github.com/dominostars/playtranslate",
+      "description": "Real-time translation and language learning Android app for games, visual novels, manga, and any other screen text. 屏幕翻译 游戏翻译",
+      "language": "Kotlin",
+      "stars": 1256,
+      "summaryZh": "一款面向游戏、视觉小说、漫画等屏幕文本的安卓实时翻译与语言学习应用。内置 PaddleOCR 离线识别与 Anki/Yomitan 生词导出，支持日语学习场景，适合玩日文游戏或阅读原版漫画的玩家边玩边学。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "安卓上的实时屏幕翻译和语言学习工具，玩日文游戏、看视觉小说、读漫画时能直接翻译屏幕上的文字，还支持离线翻译和 Anki 导出。玩生肉 galgame 或外语游戏的玩家终于不用频繁切出查词了。"
+    },
+    {
+      "repo": "pmh1314520/MCTier",
+      "url": "https://github.com/pmh1314520/MCTier",
+      "description": "A virtual LAN gaming tool built for gamers, compatible with all LAN games. Easily bypass network restrictions to play with friends online. | 一款专为玩家打造的虚拟局域网联机工具，支持所有局域网游戏联机使用，让您可以轻松与好友跨越网络限制，享受联机游戏的乐趣。【QQ交流群：1075096452】",
+      "language": "TypeScript",
+      "stars": 1077,
+      "summaryZh": "专为玩家打造的虚拟局域网联机工具，支持所有局域网游戏跨网络联机。基于 EasyTier、WebRTC 与 Tauri 2 构建，可绕过网络限制与好友联机，兼容 Windows、macOS、Linux 和安卓，适合想远程开黑 MC 等游戏的玩家。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "给玩家做的虚拟局域网联机工具，基于 Tauri 跨平台，支持所有 LAN 游戏，能轻松绕过网络限制和好友异地联机。相比手搓内网穿透或折腾路由器，它开箱即用，适合想和朋友一起玩局域网游戏的人。"
+    },
+    {
+      "repo": "SaarthurR/atticus-mac",
+      "url": "https://github.com/SaarthurR/atticus-mac",
+      "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+      "language": "Python",
+      "stars": 159,
+      "summaryZh": "一款面向 Mac 的免费快速语音助手，无需 API Key，直接复用你的 Claude Pro 或 Max 订阅。按住 ⌃⌥Space 即可语音对话，能记住使用习惯并学习快捷指令，适合追求效率、想用语音操控 Mac 的生产力用户。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 115 分 · 30 评论",
+      "reasonZh": "Mac 上免费的原生语音助手，不需要 API key，直接跑在你的 Claude Pro 或 Max 订阅上，按快捷键说话就能用，还会记住你和你的常用操作。不想额外付费又想体验本地语音助手的 Mac 用户值得一试。"
+    },
+    {
+      "repo": "GSManagerXZ/GameServerManager",
+      "url": "https://github.com/GSManagerXZ/GameServerManager",
+      "description": "GameServerManager（简称GSManager）现代化游戏一键部署面板，专为简化游戏服务器的部署、管理和维护而设计；注重steam、MC游戏一键开服",
+      "language": "TypeScript",
+      "stars": 1067,
+      "summaryZh": "一款现代化游戏服务器一键部署面板，专注于简化游戏服务器的部署、管理与维护。主打 Steam 和 Minecraft 游戏一键开服，基于 Docker 与 SteamCMD，适合想快速自建游戏服务器、又不想折腾命令行的小型团队或服主。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "现代化的一键游戏服务器部署面板，主打 Steam 和 MC 一键开服，用 Docker 把部署、管理和维护都简化了。相比手动敲命令行配服，它更适合想自己搭游戏服但不想被运维折腾的普通玩家。"
+    },
+    {
+      "repo": "Saramanda9988/LunaBox",
+      "url": "https://github.com/Saramanda9988/LunaBox",
+      "description": "Lightweight, sleek, and feature-rich visual novel management and game statistics tool",
+      "language": "Go",
+      "stars": 375,
+      "summaryZh": "一款轻量、界面精致的视觉小说管理与游戏统计工具。基于 Go 与 Wails 3 构建，可统一管理 galgame 库并记录游玩时长与进度，还融入 AI 能力，适合收藏大量视觉小说、想系统整理和统计游戏的玩家。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "轻量好看的视觉小说管理工具，用 Go 加 Wails 做的原生界面，能管理 galgame 库还带游戏时长统计。玩了一堆 galgame 想统一整理收藏和记录游玩时长的玩家会很需要它，比起散落在文件夹里清爽多了。"
+    },
+    {
+      "repo": "rangermix/TwitchDropsMiner",
+      "url": "https://github.com/rangermix/TwitchDropsMiner",
+      "description": "An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching. Web GUI, dockerised.",
+      "language": "Python",
+      "stars": 335,
+      "summaryZh": "一款可挂机自动挖取 Twitch 限时掉宝的应用，支持自动领取奖励和切换频道。提供 Web 图形界面并支持 Docker 自托管，适合不想一直盯着直播、希望轻松挂满 Twitch Drops 的观众使用。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "帮你挂机挖 Twitch 定时掉宝的自托管应用，自动领取掉落并切换频道，还带 Web 界面和 Docker 部署。想在睡觉或上班时白嫖游戏内奖励又不想一直开着浏览器挂的玩家，直接部署一个就能省心。"
+    },
+    {
+      "repo": "alejandrobujan/tendedero",
+      "url": "https://github.com/alejandrobujan/tendedero",
+      "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+      "language": "Swift",
+      "stars": 2181,
+      "summaryZh": "一款极简的原生 macOS 小应用，把截图像晾衣服一样挂在你屏幕顶部的一条线上展示。它用 Swift 编写，专注把截图随手可视化的轻量体验，适合喜欢把截图钉在桌面随时查看、追求简洁美观的 Mac 用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1097（+101%）",
+      "reasonZh": "一个很小的原生 macOS 应用，把每张截图像晾衣服一样挂在屏幕顶部的一条线上，轻量又好玩。写文档、做设计或者连续截图对比时，不用再翻文件夹找图，所有截图一览无余，体验小但很舒服。"
+    }
+  ]
+}
