@@ -1,0 +1,409 @@
+{
+  "date": "2026-10-18",
+  "trending": [
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 41937,
+      "summaryZh": "这是Anthropic官方维护的Claude Code高质量插件目录，汇集了经过筛选的各类插件。核心功能是提供统一的插件发现和安装渠道，确保插件与Claude Code的兼容性和安全性。适合使用Claude Code的开发者快速找到可靠插件来扩展功能，提升编码效率。",
+      "category": "AI",
+      "starsToday": 1397
+    },
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "stars": 50731,
+      "summaryZh": "这是一个基于Claude Code的AI求职框架，能在本地运行，帮你评估职位、定制简历、撰写求职信和准备面试。核心亮点是端到端的求职自动化，所有数据留在本地，隐私性好。适合正在找工作、希望用AI提升申请效率和质量的求职者。",
+      "category": "AI",
+      "starsToday": 1365
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 282658,
+      "summaryZh": "ECC是一个智能体性能优化系统，为Claude Code、Codex、Cursor等编码代理提供技能、直觉、记忆、安全和研究优先的开发支持。核心功能是增强代理的上下文理解和执行效率，减少重复劳动。适合需要提升AI编码助手表现和自动化工作流的开发者。",
+      "category": "AI",
+      "starsToday": 1145
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "stars": 54158,
+      "summaryZh": "CLI-Anything旨在将所有软件转化为智能体原生可用的CLI工具，通过CLI-Hub提供统一接口，让AI代理能直接操作各类软件。核心亮点是打破软件与代理的隔阂，实现自动化控制。适合需要让AI代理调用多种软件、构建自动化工作流的开发者和研究者。",
+      "category": "AI",
+      "starsToday": 574
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 52355,
+      "summaryZh": "这是一个专为科学领域设计的智能体技能库，包含177个经过验证的技能和100多个科学数据库，覆盖生物、化学等学科。核心功能是将通用AI代理转化为AI科学家，支持科研任务自动化。适合科研人员、数据科学家和需要AI辅助实验分析的研究者。",
+      "category": "AI",
+      "starsToday": 878
+    },
+    {
+      "repo": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 10015,
+      "summaryZh": "ai-memory为代理编码CLI提供长期记忆解决方案，并支持在不同代理供应商之间交接上下文。核心功能是持久化存储和检索对话记忆，避免重复解释，提升协作连续性。适合长期使用多个AI编码工具、需要跨会话保持上下文的开发者和团队。",
+      "category": "AI",
+      "starsToday": 178
+    },
+    {
+      "repo": "android/skills",
+      "url": "https://github.com/android/skills",
+      "description": "",
+      "language": "Kotlin",
+      "stars": 8484,
+      "summaryZh": "该项目由Android官方提供，是一套面向Android开发的技能库，可能包含代码示例、最佳实践和工具集。核心功能是帮助开发者快速掌握Android开发技巧，提升应用构建效率。适合Android开发者、移动端工程师以及学习Android开发的学生。",
+      "category": "开发工具",
+      "starsToday": 355
+    },
+    {
+      "repo": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars": 95592,
+      "summaryZh": "Orca是一个智能体舰队工作平台，支持使用自有订阅运行Grok Bot、Claude Code等任意编码代理，提供桌面、移动和远程运行时。核心功能是集中管理和协调多个代理任务，提升自动化效率。适合需要同时调度多个AI代理完成复杂项目的开发团队和个人。",
+      "category": "AI",
+      "starsToday": 830
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 151878,
+      "summaryZh": "Claude Code是Anthropic推出的终端智能编码工具，能理解代码库、执行常规任务、解释复杂代码并处理Git工作流。核心亮点是自然语言驱动的代理式编程，直接在终端中加速开发。适合所有开发者，尤其是希望用AI提升编码速度和代码质量的工程师。",
+      "category": "AI",
+      "starsToday": 179
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 73676,
+      "summaryZh": "VoiceStudio是开源的本地化ElevenLabs替代品，支持语音克隆、设计、视频配音、听写、转录和有声书制作，覆盖646种语言。核心功能是完全本地运行，保护隐私且免费。适合需要语音合成与处理的内容创作者、播客制作者和开发者。",
+      "category": "AI",
+      "starsToday": 2125
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": 215562,
+      "summaryZh": "OpenCode是一个开源编码代理，帮助开发者自动化编写、修改和调试代码。核心功能是理解代码上下文并执行开发任务，支持多种编程语言和框架。适合希望获得自由定制、透明可控的AI编码助手的开发者和技术团队。",
+      "category": "AI",
+      "starsToday": 438
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": 76149,
+      "summaryZh": "Ruflo是原始的智能体编排框架，支持部署多玩家智能体集群、协调自主工作流并构建对话式AI系统。核心亮点包括自适应记忆、自学习智能和联邦式协作。适合构建复杂多代理应用的研究人员和需要大规模自动化工作流的企业开发者。",
+      "category": "AI",
+      "starsToday": 420
+    },
+    {
+      "repo": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+      "language": "Rust",
+      "stars": 7931,
+      "summaryZh": "XERJ是一种新的AI数据搜索方式，其自动索引能力让代理无需grep即可了解你的数据，一条命令即可索引代码、文档、日志和PDF。核心功能是高效索引和检索，节省token消耗。适合需要处理大量非结构化数据、提升AI搜索效率的开发者和数据团队。",
+      "category": "AI",
+      "starsToday": 1160
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+      "language": "C",
+      "stars": 3738,
+      "summaryZh": "这是一个开源iOS/macOS兼容层，让《暗黑破坏神2：重制版》及资料片能在iPhone、iPad和Mac上原生运行，支持完整触控和60帧。核心亮点是无需越狱即可在移动设备上体验经典游戏。适合喜欢暗黑2的玩家和移动游戏移植技术爱好者。",
+      "category": "游戏",
+      "createdAt": "2026-10-12T08:41:19Z"
+    },
+    {
+      "repo": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "language": "C",
+      "stars": 3017,
+      "summaryZh": "该项目利用7美元的ESP32让AI模型操控真实iPhone：通过AirPlay获取屏幕画面，USB HID模拟触控，并接入任意OpenAI兼容的视觉模型。核心亮点是低成本、无需Mac或越狱即可实现手机自动化。适合AI代理研究者、自动化测试人员和硬件爱好者。",
+      "category": "AI",
+      "createdAt": "2026-10-11T19:10:25Z"
+    },
+    {
+      "repo": "Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "language": "Python",
+      "stars": 2661,
+      "summaryZh": "面向 Qwen-Image 2.1 的人像出图技能包，内置作者级提示词配方、NSFW LoRA 与 136 个姿势的 VNCCS 人偶控制。可直接接入 Claude Code、Codex、Cursor 等 Agent 环境。适合需要稳定控制姿态与风格的人像创作和本地 ComfyUI 工作流。",
+      "category": "AI",
+      "createdAt": "2026-10-13T03:09:42Z"
+    },
+    {
+      "repo": "liseami/CCBaga",
+      "url": "https://github.com/liseami/CCBaga",
+      "description": "",
+      "language": "Rust",
+      "stars": 2595,
+      "summaryZh": "这是一个用 Rust 编写的开源工具项目，仓库未提供描述，从技术栈看偏向系统层或高性能场景。具体功能需查看源码与 README 了解。适合对 Rust 实现感兴趣、愿意直接阅读代码评估的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-11T03:47:06Z"
+    },
+    {
+      "repo": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "language": "JavaScript",
+      "stars": 2080,
+      "summaryZh": "一个从零重写并开源全球软件的项目，目标覆盖 Office、Photoshop、CAD、SaaS 等常用品类，用 JavaScript 实现可运行的替代品。适合想研究大型软件架构拆解、或寻找开源办公与设计工具替代方案的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-13T16:18:22Z"
+    },
+    {
+      "repo": "deeplethe/solid-glass",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
+      "language": "TypeScript",
+      "stars": 1815,
+      "summaryZh": "为 AI 应用打造的设计系统，强调材质、物理与触感的技术化视觉语言。基于 React、Tailwind 与 shadcn/ui，提供聊天界面、Agent UI 等组件与主题。适合构建 LLM 对话产品、需要统一 AI 应用界面风格的前端团队。",
+      "category": "前端",
+      "createdAt": "2026-10-12T09:19:02Z"
+    },
+    {
+      "repo": "ahwootech/BRUTAL",
+      "url": "https://github.com/ahwootech/BRUTAL",
+      "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+      "language": "C#",
+      "stars": 1807,
+      "summaryZh": "免费开源的 C# 游戏框架，也可作为自研引擎底座，直接暴露 Vulkan 与原生 API 访问，配套低层库。它是 Kitten Space Agency 的底层基础。适合想用 C# 做高性能 3D 游戏、又需要贴近硬件的开发者。",
+      "category": "游戏",
+      "createdAt": "2026-10-14T19:33:56Z"
+    },
+    {
+      "repo": "chenglou/handwired",
+      "url": "https://github.com/chenglou/handwired",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "language": "TypeScript",
+      "stars": 1685,
+      "summaryZh": "把普通 JavaScript 代码直接转成神经网络的实验性工具，用 TypeScript 实现，思路颠覆传统训练框架的先定义模型再编码。适合对可微编程、神经网络表示与编译器式思路感兴趣的研究者和开发者探索。",
+      "category": "AI",
+      "createdAt": "2026-10-15T02:15:09Z"
+    },
+    {
+      "repo": "Supermedo/uncharted_pc",
+      "url": "https://github.com/Supermedo/uncharted_pc",
+      "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "language": "C++",
+      "stars": 1285,
+      "summaryZh": "让《神秘海域：内森·德雷克合集》在 Windows 上原生运行的项目，用 C++ 实现，需自备游戏转储。适合有正版游戏文件、想体验 PC 原生移植效果的技术玩家与模拟器研究者。",
+      "category": "游戏",
+      "createdAt": "2026-10-15T00:17:23Z"
+    },
+    {
+      "repo": "feder-cr/git-ai",
+      "url": "https://github.com/feder-cr/git-ai",
+      "description": "Git designed for AI agents.",
+      "language": "Go",
+      "stars": 1146,
+      "summaryZh": "专为 AI Agent 重新设计的 Git，用 Go 编写，面向编码智能体的版本控制场景，解决多 Agent 协作、提交语义等新需求。适合在自动化编码流水线中管理代码变更的 Agent 开发者与平台工程团队。",
+      "category": "开发工具",
+      "createdAt": "2026-10-15T13:12:02Z"
+    },
+    {
+      "repo": "Caho1/open-claude-ui",
+      "url": "https://github.com/Caho1/open-claude-ui",
+      "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+      "language": "TypeScript",
+      "stars": 1145,
+      "summaryZh": "基于逆向分析高保真还原 Claude 官方桌面端 UI 的 React 项目，拆出 30 个独立组件与 8 项交互动效物理算法，附 3000+ 行逆向手册。适合想学习高质量动效实现或复刻 Claude 界面的前端开发者。",
+      "category": "前端",
+      "createdAt": "2026-10-14T14:05:05Z"
+    },
+    {
+      "repo": "chenwei810/Semiconductor_Manufacturing_Introduction",
+      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
+      "description": "Introduction to Semiconductor Manufacturing",
+      "language": "Python",
+      "stars": 1123,
+      "summaryZh": "半导体制造入门教程，用 Python 辅助讲解从晶圆到封测的工艺流程与关键概念。内容偏教学与知识梳理。适合转行进入半导体行业的学习者、相关专业学生以及需要快速建立制造流程认知的工程师。",
+      "category": "资料教程",
+      "createdAt": "2026-10-11T02:01:01Z"
+    },
+    {
+      "repo": "zhuyansen/new-term-radar",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "language": "Python",
+      "stars": 1086,
+      "summaryZh": "每日追踪新 AI 术语的雷达工具，从 X、Hugging Face、GitHub 与站点地图中抢先捕获新模型、新产品、新仓库名称，早于关键词工具收录。可作 Claude Code 技能或 MCP 服务使用。适合做 SEO、趋势研究与 AI 资讯选题的人。",
+      "category": "AI",
+      "createdAt": "2026-10-12T07:11:01Z"
+    },
+    {
+      "repo": "AjncSystem/ShadowOfTheColossus-PC",
+      "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
+      "description": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
+      "language": "C++",
+      "stars": 997,
+      "summaryZh": "《旺达与巨像》PS4 版（CUSA08809）的 Windows 原生移植项目，用 C++ 编写，需自备游戏转储文件。适合拥有正版游戏、想在高配 PC 上体验原生画质与性能的技术玩家和移植研究者。",
+      "category": "游戏",
+      "createdAt": "2026-10-12T13:11:53Z"
+    },
+    {
+      "repo": "jwuthri-cloud/Tracely-ai",
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
+      "language": "Python",
+      "stars": 942,
+      "summaryZh": "面向 AI Agent 的 trace 原生 CI/CD 平台，对生产链路评分、聚类失败案例、固化为可回放回归测试，并在 PR 回归时阻断合并。基于 ClickHouse 可自托管。适合要把 Agent 质量纳入持续交付流程的团队。",
+      "category": "AI",
+      "createdAt": "2026-10-11T15:38:03Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "Saffsanity/sill",
+      "url": "https://github.com/Saffsanity/sill",
+      "description": "Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.",
+      "language": "Swift",
+      "stars": 3217,
+      "summaryZh": "把 Mac 上任意窗口实时投到 iPhone 或 iPad，支持触摸、Apple Pencil、触控板与键盘操作，免费开源且无需服务器，基于 ScreenCaptureKit 与 VideoToolbox 低延迟编码。适合想在 iPad 上远程使用 Mac 应用或做演示的人。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 267 分 · 76 评论",
+      "reasonZh": "把 Mac 上任意窗口实时投到 iPhone/iPad，还能用触摸、Apple Pencil、触控板和键盘反向操作，走 Tailscale 点对点、不经过服务器。跟同类远程桌面比它更轻更专一，免费开源，适合想用 iPad 当 Mac 副屏或远程操控的人。"
+    },
+    {
+      "repo": "koosoli/ESPHomeDesigner",
+      "url": "https://github.com/koosoli/ESPHomeDesigner",
+      "description": "A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app.",
+      "language": "JavaScript",
+      "stars": 1129,
+      "summaryZh": "ESPHome 显示屏的可视化拖拽编辑器，支持墨水屏、OLED、LCD 与触摸屏，可作为 Home Assistant 集成或独立网页应用运行。适合不想手写 LVGL 布局、想快速搭建智能家居显示界面的 DIY 玩家。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "给 ESPHome 的墨水屏、OLED、LCD 做一个可视化拖拽编辑器，能当 HA 集成装也能单独跑网页版。同类项目大多要手写 YAML/LVGL，它直接 WYSIWYG，适合折腾智能家居小屏的人快速搭界面。"
+    },
+    {
+      "repo": "MaxGramser/homeassistant_espscreen",
+      "url": "https://github.com/MaxGramser/homeassistant_espscreen",
+      "description": "Tessera: beautiful, easy touch screens for Home Assistant on affordable ESP32 panels, 2.8 to 10.1 inch (CYD, Guition, Waveshare). Drag-and-drop editor, no YAML, no MQTT.",
+      "language": "Python",
+      "stars": 679,
+      "summaryZh": "该项目让廉价 ESP32 触摸屏（2.8-10.1 英寸，如 CYD、Guition、Waveshare）成为 Home Assistant 的美观易用控制面板。核心亮点是拖拽式编辑器，无需 YAML 和 MQTT 即可完成配置。适合希望低成本打造智能家居触控界面的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "在便宜的 ESP32 触摸屏（CYD、Guition、Waveshare）上做出好看的 Home Assistant 控制面板，带拖拽编辑器，不用写 YAML 也不用 MQTT。比手搓 LVGL 省事太多，适合想低成本给家里加墙面板的玩家。"
+    },
+    {
+      "repo": "Mastershort/neonplan3d",
+      "url": "https://github.com/Mastershort/neonplan3d",
+      "description": "3D floor plan for Home Assistant: draw your home in the built-in editor (rooms, walls, doors, windows, furniture, roof) and see and control lights, covers, windows, climate, media, sensors and cameras live in a neon 3D view – as a sidebar panel and dashboard card.",
+      "language": "TypeScript",
+      "stars": 792,
+      "summaryZh": "这是一个为 Home Assistant 设计的 3D 户型图工具，内置编辑器可绘制房间、墙壁、门窗、家具和屋顶，并实时查看和控制灯光、窗帘、温控、媒体等设备。基于 Three.js 实现，适合追求直观可视化智能家居管理的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "在 Home Assistant 里用内置编辑器画出带房间、墙、门窗、家具的 3D 户型图，并直接点选控制灯、窗帘、空调和摄像头。同类 floorplan 插件多是 2D 图片贴热点，它是真 3D 数字孪生，适合想让仪表盘更好看的 HA 用户。"
+    },
+    {
+      "repo": "jxlarrea/kiosk-satellite",
+      "url": "https://github.com/jxlarrea/kiosk-satellite",
+      "description": "Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.",
+      "language": "Dart",
+      "stars": 1664,
+      "summaryZh": "该项目能把任意 Android 设备变成 Home Assistant 专用信息亭，从底层为 HA 定制。支持蓝牙代理、语音助手、摄像头、媒体播放等丰富功能，适合想要低成本打造墙面控制面板或语音卫星的用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "把任意 Android 平板或手机变成专属的 Home Assistant 挂墙面板，集成了语音、蓝牙代理、摄像头、DLNA 和 Music Assistant。同类 kiosk 应用通常只做网页壳，它从 HA 需求出发重写，适合想废物利用旧安卓设备的家庭。"
+    },
+    {
+      "repo": "mbillow/localthings",
+      "url": "https://github.com/mbillow/localthings",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "language": "Python",
+      "stars": 528,
+      "summaryZh": "该项目让 Home Assistant 通过本地网络直接控制三星家电，无需云账户。基于 CoAP 和 DTLS 协议实现本地通信，适合注重隐私、希望摆脱云端依赖的三星家电用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "通过局域网直连三星家电，不需要云端账号就能在 Home Assistant 里控制，基于 CoAP/DTLS 逆向实现。同类 SmartThings 集成都依赖云，它主打本地隐私，适合有三星洗衣机、空调又不想交数据的人。"
+    },
+    {
+      "repo": "trudenboy/sendspin-bt-bridge",
+      "url": "https://github.com/trudenboy/sendspin-bt-bridge",
+      "description": "Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.",
+      "language": "Python",
+      "stars": 290,
+      "summaryZh": "该项目能把任意蓝牙音箱变成智能音箱，实现 DIY 多房间音频。支持 Music Assistant、Home Assistant AI 自动化及 Sendspin 协议，可通过 Docker、HA 插件、树莓派或 Proxmox LXC 部署，适合追求免费开源多房间音频的玩家。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · home-automation",
+      "reasonZh": "把普通蓝牙音箱变成能接入 Music Assistant 的智能多房间音频节点，支持 Docker、HA 插件和树莓派。相比买 Sonos 之类的成品，它让闲置蓝牙音箱组网，适合想低成本做全屋背景音乐的人。"
+    },
+    {
+      "repo": "t4t5/omdrop-owl",
+      "url": "https://github.com/t4t5/omdrop-owl",
+      "description": "airdrop for non-apple devices",
+      "language": "Shell",
+      "stars": 2842,
+      "summaryZh": "该项目为非苹果设备提供类似 AirDrop 的文件传输功能。基于 AWDL 协议实现，适合需要在 Linux 等非苹果设备间快速分享文件的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1210（+74%）",
+      "reasonZh": "在非苹果设备上复刻 AirDrop 体验，用 AWDL 做局域网直传，Linux 和 Android 都能用。同类工具常要装 App 或走网页，它更贴近系统级分享，适合 Linux 用户和安卓手机之间互传文件。"
+    },
+    {
+      "repo": "alex0ptr/once",
+      "url": "https://github.com/alex0ptr/once",
+      "description": "Run a command once, reuse its output for a while.",
+      "language": "Go",
+      "stars": 179,
+      "summaryZh": "该项目是一个命令行工具，可以运行一次命令并在一段时间内复用其输出。适合需要缓存命令结果、避免重复执行耗时操作的开发场景。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +43（+32%）",
+      "reasonZh": "一条命令跑一次、把输出缓存复用一段时间，做 CI 或构建脚本时能省掉重复执行。相比手写 make 或缓存脚本，它开箱即用、单一职责，适合经常在流水线里重复跑同一条慢命令的开发者。"
+    },
+    {
+      "repo": "moritzwilksch/diffle",
+      "url": "https://github.com/moritzwilksch/diffle",
+      "description": "A keyboard-first diff viewer with LSP support and GitHub integration.",
+      "language": "TypeScript",
+      "stars": 163,
+      "summaryZh": "该项目是一个键盘优先的差异查看器，支持 LSP 和 GitHub 集成。适合开发者高效进行代码审查和 PR 对比，尤其适合习惯键盘操作的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +39（+31%）",
+      "reasonZh": "键盘优先的 diff 查看器，带 LSP 支持和 GitHub 集成，专门给代码评审和 agent 产出的改动做对比。比 IDE 自带 diff 更专注、比网页 PR 页更顺手，适合天天审 diff 和看 AI 改代码的人。"
+    }
+  ]
+}
