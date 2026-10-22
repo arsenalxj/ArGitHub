@@ -1,0 +1,367 @@
+{
+  "date": "2026-10-22",
+  "trending": [
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 37087,
+      "summaryZh": "这是个给编码代理用的安全审计技能，把审计拆成多个阶段，产出可机器读取、且经过独立校验的漏洞发现结果。适合在 CI 或代理工作流中做自动化代码安全扫描，让 AI 查漏洞时结论可追溯、可验证。",
+      "category": "开发工具",
+      "starsToday": 2012
+    },
+    {
+      "repo": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars": 101630,
+      "summaryZh": "Orca 是一个集中调度多个编码代理的工作台，支持用你自己的订阅运行 Grok Bot、Claude Code 等代理。提供桌面、移动和远程运行时，适合需要同时管理一队 AI 代理、跨设备协作的开发者。",
+      "category": "开发工具",
+      "starsToday": 1541
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 77357,
+      "summaryZh": "在工具输出、日志、文件和 RAG 片段送进 LLM 之前先做压缩，编码代理省约 20% token，JSON 可省 60-95%，答案质量基本不变。提供库、代理和 MCP 服务器三种接入方式，适合 token 成本敏感或上下文吃紧的 AI 应用。",
+      "category": "AI",
+      "starsToday": 474
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 171993,
+      "summaryZh": "让 AI 代理像房间里最懒的资深工程师那样思考，信奉最好的代码是没写出来的代码。通过约束代理的行为减少过度设计和多余改动，适合想让 AI 少写代码、多复用现有方案、控制代码膨胀的团队。",
+      "category": "AI",
+      "starsToday": 2079
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "stars": 141657,
+      "summaryZh": "基于图/节点界面的扩散模型 GUI、API 和后端，号称本地推理最快的引擎，可灵活拼装图像生成流程。模块化设计让复杂管线可视化编排，适合需要本地跑扩散模型、做定制化生成工作流的创作者和研究者。",
+      "category": "AI",
+      "starsToday": 939
+    },
+    {
+      "repo": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": 113124,
+      "summaryZh": "以 Postgres 为核心的开发平台，提供专属 Postgres 数据库和配套能力，用来构建 Web、移动端和 AI 应用。开源且可自托管，适合想要 Firebase 式体验但不想被锁定、又需要关系型数据库的开发者。",
+      "category": "开发工具",
+      "starsToday": 504
+    },
+    {
+      "repo": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars": 59312,
+      "summaryZh": "Salesforce 的开源替代品，专为 AI 场景设计，提供可自托管的 CRM 能力。适合希望把客户数据掌握在自己手里、并想在 CRM 上叠加 AI 工作流的企业和开发团队。",
+      "category": "开发工具",
+      "starsToday": 112
+    },
+    {
+      "repo": "strelov1/freehire",
+      "url": "https://github.com/strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "language": "Go",
+      "stars": 2519,
+      "summaryZh": "freehire 是面向求职者的开源搜索引擎，用 Go 编写，聚合职位信息供搜索。适合想摆脱商业招聘平台、自己搭建或使用透明职位检索工具的求职者和开发者。",
+      "category": "其他",
+      "starsToday": 360
+    },
+    {
+      "repo": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 12468,
+      "summaryZh": "为代理式编码 CLI 提供长期记忆的方案，并支持在不同代理厂商之间交接上下文。用 Rust 实现，适合在 Claude Code、Cursor 等工具间切换、希望代理记住项目历史与偏好的开发者。",
+      "category": "开发工具",
+      "starsToday": 286
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "stars": 131879,
+      "summaryZh": "把任意代码库连同文档、SQL 结构、配置和 PDF 转成可查询的知识图谱，作为 Claude Code、Cursor、Codex、Gemini CLI 的技能使用，靠本地确定性 AST 解析。适合需要让 AI 深度理解大型代码库、跨文件检索的团队。",
+      "category": "开发工具",
+      "starsToday": 1433
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "language": "Java",
+      "stars": 20254,
+      "summaryZh": "通过 Wi-Fi 给 Android TV 和 Google TV 去臃肿，打造类似 Apple TV 的清爽主屏。支持广告拦截、隐私保护和一键回滚，适合想摆脱电视预装广告、又不想刷机的普通用户。",
+      "category": "其他",
+      "createdAt": "2026-10-17T08:12:35Z"
+    },
+    {
+      "repo": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "description": "",
+      "language": "C",
+      "stars": 4037,
+      "summaryZh": "一个用 C 语言编写的项目，汇集可在 Mac 上运行的原生游戏相关资源或实现。适合想在 macOS 上找原生游戏、或研究 Mac 平台游戏开发与移植的玩家和开发者。",
+      "category": "游戏",
+      "createdAt": "2026-10-17T19:52:00Z"
+    },
+    {
+      "repo": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "language": "Java",
+      "stars": 2829,
+      "summaryZh": "给 Google TV 用的快速无广告主屏启动器，开源且用 Claude Code 构建，提供一键撤销。适合想替换电视默认界面、去掉广告和推荐位但保留恢复余地的用户。",
+      "category": "其他",
+      "createdAt": "2026-10-19T19:29:01Z"
+    },
+    {
+      "repo": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "language": "Kotlin",
+      "stars": 2394,
+      "summaryZh": "参照 tvOS 设计风格，为小米、TCL 等国产电视打造的干净 Android TV 桌面，无广告，开机自动接管。适合想给国产智能电视换上简洁美观主屏、又不想折腾刷机的国内用户。",
+      "category": "其他",
+      "createdAt": "2026-10-20T09:13:06Z"
+    },
+    {
+      "repo": "Leonxlnx/earshot",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "language": "Python",
+      "stars": 2061,
+      "summaryZh": "给编码代理装上耳朵，让 AI 能听、能审、能发声，纯 CPU 运行，开源且可作为 MCP 工具接入。适合需要在 AI 代理工作流中加入音频生成、声音设计与音频审查的开发者。",
+      "category": "AI",
+      "createdAt": "2026-10-15T06:52:46Z"
+    },
+    {
+      "repo": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
+      "language": "Python",
+      "stars": 2049,
+      "summaryZh": "面向中小学的开源知识图谱与自适应诊断数据集，覆盖数学一至九年级及高中必修/选择性必修、英语小学到高中，课标对齐人教版，含1503个知识点和6159道题。适合教育科技开发者、教研人员构建刷题与诊断系统。",
+      "category": "资料教程",
+      "createdAt": "2026-10-18T09:04:43Z"
+    },
+    {
+      "repo": "chenglou/handwired",
+      "url": "https://github.com/chenglou/handwired",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "language": "TypeScript",
+      "stars": 1875,
+      "summaryZh": "一个TypeScript工具，让你把普通的JavaScript代码直接转换成神经网络，用熟悉的编程方式表达模型结构。适合对深度学习感兴趣、但不想深入框架底层的前端或JS开发者快速实验。",
+      "category": "AI",
+      "createdAt": "2026-10-15T02:15:09Z"
+    },
+    {
+      "repo": "Supermedo/uncharted_pc",
+      "url": "https://github.com/Supermedo/uncharted_pc",
+      "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "language": "C++",
+      "stars": 1798,
+      "summaryZh": "让《神秘海域：内森·德雷克合集》以原生方式在Windows上运行的非官方项目，用C++处理运行兼容问题。适合想在PC上重温该系列、又愿意折腾的玩家和技术爱好者。",
+      "category": "游戏",
+      "createdAt": "2026-10-15T00:17:23Z"
+    },
+    {
+      "repo": "JoasASantos/REA-Prompts",
+      "url": "https://github.com/JoasASantos/REA-Prompts",
+      "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "language": "",
+      "stars": 1370,
+      "summaryZh": "REA（Reverse Engineer Anything）的提示词合集，帮助用户充分发挥这套逆向工程工具的能力，克隆或拆解任意程序。适合做逆向分析、安全研究和软件拆解的人参考复用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-19T22:20:47Z"
+    },
+    {
+      "repo": "aicodeking/leanrea",
+      "url": "https://github.com/aicodeking/leanrea",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "language": "Python",
+      "stars": 1310,
+      "summaryZh": "一个仅8KB的技能，用来替代REA逆向工程工具，走纯CLI路线、不依赖MCP。作者基准测试称速度快38%、成本低35%，适合想要轻量、低成本做程序逆向分析的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-17T02:53:24Z"
+    },
+    {
+      "repo": "alchaincyf/huashu-motion",
+      "url": "https://github.com/alchaincyf/huashu-motion",
+      "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+      "language": "JavaScript",
+      "stars": 1309,
+      "summaryZh": "让编码Agent一键生成商业级产品宣传片，内置作曲能力，并支持指着画面直接修改。基于GSAP等动效技术，适合需要快速产出发布会视频的独立开发者和小团队。",
+      "category": "AI",
+      "createdAt": "2026-10-18T12:19:27Z"
+    },
+    {
+      "repo": "humblemuzzu/dumbtv",
+      "url": "https://github.com/humblemuzzu/dumbtv",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 1184,
+      "summaryZh": "一个用JavaScript写的电视端项目，从命名和同类项目看，主打给老电视或电视盒子提供极简、无广告的使用体验。适合想摆脱智能电视臃肿界面、追求简单播放的用户尝试。",
+      "category": "其他",
+      "createdAt": "2026-10-18T17:04:12Z"
+    },
+    {
+      "repo": "Ansub/tv-detox",
+      "url": "https://github.com/Ansub/tv-detox",
+      "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+      "language": "Java",
+      "stars": 1184,
+      "summaryZh": "用Claude Code或Codex给老旧Android TV提速的方案，提供极简无广告主屏以及清理系统的提示词。适合想拯救卡顿电视、又愿意动手折腾的Android TV用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-18T06:42:29Z"
+    },
+    {
+      "repo": "Tencent-Hunyuan/Hy-Memory",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+      "description": "",
+      "language": "Python",
+      "stars": 1134,
+      "summaryZh": "腾讯混元团队开源的Python项目，从命名看聚焦AI记忆能力，可能与长期记忆或上下文管理相关。适合关注大模型记忆机制、想集成记忆模块的AI应用开发者研究使用。",
+      "category": "AI",
+      "createdAt": "2026-10-15T13:06:56Z"
+    },
+    {
+      "repo": "xscreensaver-official/xscreensaver",
+      "url": "https://github.com/xscreensaver-official/xscreensaver",
+      "description": "There is no official XScreenSaver GitHub repository.",
+      "language": "",
+      "stars": 1131,
+      "summaryZh": "该仓库明确声明并非XScreenSaver官方GitHub仓库，本身不含实际项目代码，只是澄清性质的占位说明。访客应前往官方渠道获取经典Linux屏保程序XScreenSaver。",
+      "category": "其他",
+      "createdAt": "2026-10-16T16:24:44Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "Saffsanity/sill",
+      "url": "https://github.com/Saffsanity/sill",
+      "description": "Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.",
+      "language": "Swift",
+      "stars": 3848,
+      "summaryZh": "把Mac上的任意窗口实时串流到iPhone或iPad，支持触摸、Apple Pencil、触控板和键盘操作，基于Swift与ScreenCaptureKit，免费开源、无需服务器。适合想用iPad远程操控Mac的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +2049（+114%）",
+      "reasonZh": "把 Mac 上任意窗口实时投到 iPhone/iPad 上还能触控和用 Apple Pencil，不走服务器、走 Tailscale 直连，延迟和画质都很能打。和一堆付费串流方案比，它开源免费、装完即用，适合 iPad 当副屏或远程摸自己电脑的场景。"
+    },
+    {
+      "repo": "shaongitbd/doory",
+      "url": "https://github.com/shaongitbd/doory",
+      "description": "Open source canva alternative",
+      "language": "TypeScript",
+      "stars": 1724,
+      "summaryZh": "一个开源的Canva替代品，用TypeScript构建，提供在线设计能力。适合需要免费、可自托管设计工具的个人或团队，用于制作海报、社交媒体图等日常设计。",
+      "category": "前端",
+      "source": "dark-horse",
+      "signal": "周涨星 +508（+42%）",
+      "reasonZh": "开源的 Canva 替代品，在线做海报、社媒图这类排版设计够用，模板和拖拽编辑体验完整。同类开源设计工具大多半成品，它至少能直接打开就用，适合小团队或个人不想订阅 Canva 时顶一顶。"
+    },
+    {
+      "repo": "dongdongbh/Mindwtr",
+      "url": "https://github.com/dongdongbh/Mindwtr",
+      "description": "Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed",
+      "language": "TypeScript",
+      "stars": 2308,
+      "summaryZh": "一款免费的GTD待办应用，覆盖桌面和移动端，离线可用、无需注册账号，帮你把任务和想法从脑中清空。适合追求简洁、注重隐私的GTD实践者和ADHD人群。",
+      "category": "其他",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "一个跨桌面和移动端的 GTD 待办应用，离线可用、不注册账号，专门照顾 ADHD 用户把想法快速倒出来。相比 Todoist 这类 SaaS，它数据完全在自己手里，适合想要轻量第二大脑又不想被订阅绑住的人。"
+    },
+    {
+      "repo": "mohitagw15856/pm-claude-skills",
+      "url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "description": "1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — PRDs, postmortems, leases, medical bills, layoffs, go-bags, new countries. Plain markdown, MIT, in Anthropic's plugin directory. Plus a typed decision layer: which skill, is it safe, ship or slip. Free in-browser or npx pm-claude-skills add.",
+      "language": "HTML",
+      "stars": 1477,
+      "summaryZh": "收录1255个专业Agent技能，面向Claude、ChatGPT、Gemini、Cursor和Codex，涵盖PRD、复盘、租约、医疗账单等场景，纯Markdown、MIT协议。适合想快速给AI助手装配现成技能的用户。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "一口气给了 1255 个可直接用的 Agent Skills，覆盖写 PRD、复盘、租房、医疗账单这些真实生活场景，纯 Markdown、MIT 协议。别家 skill 集合往往只讲编程，它偏普通人日常，装进 Claude/Cursor 就能直接调用。"
+    },
+    {
+      "repo": "yuzeguitarist/Deck",
+      "url": "https://github.com/yuzeguitarist/Deck",
+      "description": "Deck is a modern, native, privacy-first clipboard manager for macOS.",
+      "language": "Swift",
+      "stars": 1465,
+      "summaryZh": "一款macOS原生、隐私优先的现代剪贴板管理器，支持加密与本地存储，用Swift和SwiftUI开发。适合注重数据安全、需要频繁复制粘贴的开发者与办公用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "macOS 原生剪贴板管理器，本地加密、隐私优先，还带自动化能力。市面上剪贴板工具要么收费要么上云，它纯本地跑、SwiftUI 写得干净，适合天天复制粘贴的开发者把它当常驻小工具。"
+    },
+    {
+      "repo": "steven-jianhao-li/zotero-AI-Butler",
+      "url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
+      "description": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+      "language": "TypeScript",
+      "stars": 1824,
+      "summaryZh": "Zotero AI 管家是一款 Zotero 插件，调用大模型自动精读论文库中的文献，并将内容揉碎总结为 Zotero 笔记，支持主流大模型平台。核心亮点是自动触发、无需手动操作，把论文拆解成结构化笔记，帮助快速掌握要点。适合科研人员、研究生等需要高效阅读大量文献、做知识管理的场景。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "Zotero 插件，文献丢进库就自动调大模型精读并生成中文笔记，支持多家模型平台。科研党手动读论文费时，它把摘要做成笔记一步到位，比自己搭 RAG 流程省事，适合天天囤论文的研究生。"
+    },
+    {
+      "repo": "kunkka19xx/look",
+      "url": "https://github.com/kunkka19xx/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "language": "Rust",
+      "stars": 1220,
+      "summaryZh": "Look 是一款开源跨平台启动器，用 Rust 编写，定位为 Spotlight 和 Raycast 的轻量替代品。支持 macOS、Linux 和 Windows，提供快速搜索与启动应用的能力，界面轻量、启动迅速。适合追求效率、希望用开源方案替代系统自带启动器的开发者和桌面用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "跨 macOS/Linux/Windows 的开源启动器，对标 Spotlight 和 Raycast，Rust + Tauri 写的轻快。Raycast 只有 Mac 且部分功能收费，它跨三平台还免费，适合用 Linux 或 Windows 又想要类似体验的人。"
+    },
+    {
+      "repo": "eval-exec/neomacs",
+      "url": "https://github.com/eval-exec/neomacs",
+      "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+      "language": "Rust",
+      "stars": 1581,
+      "summaryZh": "Neo Emacs 是用 Rust 重写的 GPU 加速 Emacs，目标提供现代显示引擎、多线程 Elisp、十倍性能、零停顿并发 GC 和 100% Emacs 兼容性。项目处于开发中，聚焦编辑器底层性能与渲染革新。适合关注 Emacs 生态演进、愿意尝鲜高性能编辑器架构的开发者与 Lisp 用户。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "用 Rust 重写 Emacs，GPU 渲染、多线程 Elisp，目标是 10 倍性能和零卡顿 GC，还强调 100% 兼容。老 Emacs 用户苦于单线程和卡顿久矣，这个项目敢直接造轮子，适合想尝鲜现代编辑器架构的 Emacs 粉。"
+    },
+    {
+      "repo": "unhappychoice/gittype",
+      "url": "https://github.com/unhappychoice/gittype",
+      "description": "A CLI code-typing game that turns your source code into typing challenges",
+      "language": "Rust",
+      "stars": 1643,
+      "summaryZh": "GitType 是一款 CLI 打字游戏，把你的源代码变成打字挑战，用 Rust 和 ratatui 在终端运行。借助 tree-sitter 解析代码结构，边打字边熟悉真实项目代码，兼顾练习与娱乐。适合想提升打字速度、熟悉源码的开发者，在终端里利用碎片时间练习。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · productivity",
+      "reasonZh": "把你的源码变成打字练习，用 tree-sitter 解析真实代码做终端打字游戏，还能练编程手感。普通打字网站只能敲英文，它让你边练指法边熟悉代码结构，适合想在终端里摸鱼又想练手速的开发者。"
+    }
+  ]
+}
