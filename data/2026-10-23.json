@@ -1,0 +1,369 @@
+{
+  "date": "2026-10-23",
+  "trending": [
+    {
+      "repo": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 41267,
+      "summaryZh": "PHP 官方解释器源码仓库，用 C 语言实现，是 PHP 语言的核心运行时。包含 Zend 引擎、标准库和扩展机制，支持 Web 开发与命令行脚本。适合 PHP 开发者研究语言底层、贡献代码或编译自定义版本。",
+      "category": "开发工具",
+      "starsToday": 287
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 31729,
+      "summaryZh": "Anthropic 开源的知识工作者插件集，主要供 Claude Cowork 使用，用 Python 编写。插件提供文档处理、数据分析等辅助功能，帮助提升日常办公效率。适合知识工作者或开发者集成到 Claude 工作流中。",
+      "category": "AI",
+      "starsToday": 303
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 173794,
+      "summaryZh": "让 AI 编码助手模仿“最懒的资深开发者”思维，强调“不写的代码才是最好的代码”。核心是引导 AI 减少冗余实现、优先复用和简化方案。适合希望 AI 生成更精简、可维护代码的开发者。",
+      "category": "AI",
+      "starsToday": 1948
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 39948,
+      "summaryZh": "Cloudflare 开源的编码代理技能，用于多阶段安全审计，产出可独立验证的机器可读发现。通过分阶段检查提升审计可靠性，适合安全团队或开发者对代码库进行自动化安全审查。",
+      "category": "开发工具",
+      "starsToday": 2979
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "stars": 133186,
+      "summaryZh": "将代码库及其文档、SQL 模式、配置和 PDF 转换为可查询知识图谱。提供 /graphify 技能，支持 Claude Code、Cursor 等工具，本地确定性 AST 解析确保准确性。适合需要深度理解大型项目结构的开发者。",
+      "category": "开发工具",
+      "starsToday": 1408
+    },
+    {
+      "repo": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": 113564,
+      "summaryZh": "基于 Postgres 的开发平台，提供专用数据库用于构建 Web、移动和 AI 应用。集成认证、实时订阅、存储等功能，开源且可自托管。适合需要快速搭建后端服务的全栈开发者。",
+      "category": "开发工具",
+      "starsToday": 693
+    },
+    {
+      "repo": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "language": "Python",
+      "stars": 103883,
+      "summaryZh": "高性能 Python Web 框架，易于学习、编码快速，基于标准类型提示自动生成文档。支持异步和依赖注入，适合构建生产级 API 和微服务，深受 Python 开发者欢迎。",
+      "category": "开发工具",
+      "starsToday": 101
+    },
+    {
+      "repo": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": 43426,
+      "summaryZh": "面向 Claude Code 的可视化示例驱动指南，从基础概念到高级代理，附带可复制粘贴的模板。帮助开发者快速上手并发挥 Claude Code 的潜力，适合 AI 编码工具使用者。",
+      "category": "资料教程",
+      "starsToday": 177
+    },
+    {
+      "repo": "Meloong-Git/PCL",
+      "url": "https://github.com/Meloong-Git/PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "language": "Visual Basic .NET",
+      "stars": 8759,
+      "summaryZh": "Plain Craft Launcher（PCL）是 Minecraft 启动器，用 Visual Basic .NET 编写，提供游戏启动、模组管理和版本隔离等功能。界面友好，适合 Minecraft 玩家便捷管理游戏。",
+      "category": "游戏",
+      "starsToday": 119
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "language": "Java",
+      "stars": 24904,
+      "summaryZh": "通过 Wi-Fi 对 Android 或 Google TV 进行去膨胀处理，并打造 Apple TV 风格主屏幕。支持广告拦截、隐私保护，适合希望优化智能电视体验的用户。",
+      "category": "其他",
+      "createdAt": "2026-10-17T08:12:35Z"
+    },
+    {
+      "repo": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "description": "",
+      "language": "C",
+      "stars": 4582,
+      "summaryZh": "该项目用 C 语言开发，旨在为 Mac 提供原生游戏体验。可能包含游戏引擎或移植工具，适合 Mac 游戏开发者或爱好者探索。",
+      "category": "游戏",
+      "createdAt": "2026-10-17T19:52:00Z"
+    },
+    {
+      "repo": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "language": "Java",
+      "stars": 3541,
+      "summaryZh": "为 Google TV 提供快速、无广告的主屏幕，开源且用 Claude Code 构建，支持一键撤销。集成 TMDB 元数据，适合希望摆脱广告、获得清爽电视体验的用户。",
+      "category": "其他",
+      "createdAt": "2026-10-19T19:29:01Z"
+    },
+    {
+      "repo": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "language": "Kotlin",
+      "stars": 3322,
+      "summaryZh": "参照 tvOS 设计的开源 Android TV 桌面，无广告，开机自动接管，专为小米、TCL 等国产电视优化。提供干净流畅的电视桌面体验，适合追求简洁操作的用户。",
+      "category": "其他",
+      "createdAt": "2026-10-20T09:13:06Z"
+    },
+    {
+      "repo": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+      "language": "Python",
+      "stars": 2323,
+      "summaryZh": "涵盖小学到高中数学、三年级到高中英语、初中物理的知识图谱，包含 1644 个知识点、2403 条先修边和 6723 道题，对齐课标并附自适应前置诊断。适合教育工作者或 EdTech 开发者构建个性化学习系统。",
+      "category": "资料教程",
+      "createdAt": "2026-10-18T09:04:43Z"
+    },
+    {
+      "repo": "ikow/php2shell-poc",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "language": "Python",
+      "stars": 1571,
+      "summaryZh": "针对 CVE-2026-109618/109619 的漏洞研究，包含 5 条 RCE 利用链和 Suricata、Sigma、ModSecurity 检测规则。聚焦 PHP session.upload_progress 预认证利用，适合安全研究员和防御方参考。",
+      "category": "其他",
+      "createdAt": "2026-10-21T07:55:16Z"
+    },
+    {
+      "repo": "JoasASantos/REA-Prompts",
+      "url": "https://github.com/JoasASantos/REA-Prompts",
+      "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "language": "",
+      "stars": 1500,
+      "summaryZh": "该项目提供用于逆向工程任何程序（REA）的提示词集合，帮助用户充分利用REA工具。核心功能是提供标准化提示词模板，以克隆或拆解目标程序。适合安全研究人员、逆向工程师或对程序分析感兴趣的开发者使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-19T22:20:47Z"
+    },
+    {
+      "repo": "alchaincyf/huashu-motion",
+      "url": "https://github.com/alchaincyf/huashu-motion",
+      "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+      "language": "JavaScript",
+      "stars": 1465,
+      "summaryZh": "该项目让AI编码代理一键生成商业级产品宣传片，支持自动作曲和指向画面修改。核心技术基于GSAP动画和代理技能，实现动态图形生成。适合产品营销团队或开发者快速制作高质量宣传视频。",
+      "category": "AI",
+      "createdAt": "2026-10-18T12:19:27Z"
+    },
+    {
+      "repo": "aicodeking/leanrea",
+      "url": "https://github.com/aicodeking/leanrea",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "language": "Python",
+      "stars": 1378,
+      "summaryZh": "该项目是一个仅8KB的技能，替代REA（逆向工程任何程序），使用纯CLI工具，无需MCP。基准测试显示速度快38%、成本低35%。适合需要高效逆向工程工具的开发者或安全研究人员。",
+      "category": "开发工具",
+      "createdAt": "2026-10-17T02:53:24Z"
+    },
+    {
+      "repo": "humblemuzzu/dumbtv",
+      "url": "https://github.com/humblemuzzu/dumbtv",
+      "description": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+      "language": "Java",
+      "stars": 1310,
+      "summaryZh": "该项目通过ADB去除Fire TV上的广告、跟踪和杂乱内容，无需root，所有步骤可逆。自带开源主屏幕，提升隐私和清洁体验。适合希望净化Fire TV环境的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-18T17:04:12Z"
+    },
+    {
+      "repo": "Ansub/tv-detox",
+      "url": "https://github.com/Ansub/tv-detox",
+      "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+      "language": "Java",
+      "stars": 1308,
+      "summaryZh": "该项目让旧Android TV重获新生，通过Claude Code或Codex提供无广告迷你主屏幕和清理提示。核心是简化界面和去除冗余，提升性能。适合想优化旧电视设备的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-18T06:42:29Z"
+    },
+    {
+      "repo": "xscreensaver-official/xscreensaver",
+      "url": "https://github.com/xscreensaver-official/xscreensaver",
+      "description": "There is no official XScreenSaver GitHub repository.",
+      "language": "",
+      "stars": 1152,
+      "summaryZh": "该项目是XScreenSaver的官方GitHub仓库说明，指出不存在官方仓库。核心功能是澄清项目状态，避免误导。适合需要了解XScreenSaver官方资源的用户。",
+      "category": "其他",
+      "createdAt": "2026-10-16T16:24:44Z"
+    },
+    {
+      "repo": "reason-machines/reason-network",
+      "url": "https://github.com/reason-machines/reason-network",
+      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "language": "Rust",
+      "stars": 1088,
+      "summaryZh": "该项目是Reason Network，让团队的编码代理相互通信，基于Rust和P2P技术。核心功能是代理间协作引擎，支持分布式工作流。适合需要多代理协同的团队或开发者。",
+      "category": "AI",
+      "createdAt": "2026-10-16T15:34:34Z"
+    },
+    {
+      "repo": "9bie/php2shell-bypass-aslr-exp",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "language": "Python",
+      "stars": 987,
+      "summaryZh": "该项目是一个php2shell漏洞利用，无需修改官方版本，也不依赖display_errors或limit_memory。核心是绕过ASLR实现代码执行。适合安全研究人员进行漏洞分析和测试。",
+      "category": "开发工具",
+      "createdAt": "2026-10-21T11:11:57Z"
+    },
+    {
+      "repo": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
+      "language": "Shell",
+      "stars": 903,
+      "summaryZh": "该项目是php2shell漏洞（CVE-2026-109618/109619）的概念验证利用，演示远程代码执行。核心是提供可复现的PoC，用于安全研究。仅限教育和研究目的使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-21T08:31:43Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "maxilevi/project-hedra",
+      "url": "https://github.com/maxilevi/project-hedra",
+      "description": "Hedra is a 3D open world game I wrote from scratch while in highschool. The entire codebase is around +100k LOC",
+      "language": "C#",
+      "stars": 130,
+      "summaryZh": "该项目是一个从零编写的3D开放世界游戏，代码量约10万行，使用C#和OpenGL。核心功能是展示完整游戏引擎和物理系统。适合学习游戏开发或对3D引擎感兴趣的高中生及开发者。",
+      "category": "游戏",
+      "source": "hn",
+      "signal": "HN 166 分 · 31 评论",
+      "reasonZh": "一个高中生从零手写的 3D 开放世界游戏，10 万行 C# 代码，含自研渲染、物理和 GLSL 着色器。它的看点不是完成度多高，而是完整可玩的引擎级个人项目，适合想研究游戏引擎实现细节的开发者下载来读代码、跑起来玩。"
+    },
+    {
+      "repo": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "description": "Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS / 安卓 / 鸿蒙兼容层",
+      "language": "C",
+      "stars": 4427,
+      "summaryZh": "该项目是《暗黑破坏神2：重制版》的开源兼容层，支持在iPhone、iPad、Mac、Android和HarmonyOS上运行Switch副本，含触摸控制。核心是跨平台移植和图形兼容。适合想在移动设备上玩D2R的玩家。",
+      "category": "游戏",
+      "source": "dark-horse",
+      "signal": "周涨星 +1159（+35%）",
+      "reasonZh": "把你自己 Switch 版暗黑破坏神 2 重生搬到 iPhone、iPad、Mac 和安卓上跑，还带完整触屏操作，兼容层做得很硬核。同类型多是模拟器方案，它主打原生移植和 Metal/Vulkan 渲染，想在手机上刷暗黑的老玩家会直接用。"
+    },
+    {
+      "repo": "Saffsanity/sill",
+      "url": "https://github.com/Saffsanity/sill",
+      "description": "Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.",
+      "language": "Swift",
+      "stars": 3919,
+      "summaryZh": "该项目将Mac上的任意窗口实时串流到iPhone或iPad，支持触摸、Apple Pencil、触控板和键盘操作。核心是低延迟屏幕共享，无需服务器。适合需要远程操作Mac的移动办公用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +2120（+118%）",
+      "reasonZh": "把 Mac 上任意窗口实时推到 iPhone 或 iPad，支持触控、Apple Pencil、触控板和键盘，不经过任何服务器。同类远程桌面往往重且收费，它免费开源、点对点直连，适合想用 iPad 当 Mac 副屏或远程操控的人。"
+    },
+    {
+      "repo": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "language": "C",
+      "stars": 3576,
+      "summaryZh": "该项目让AI模型通过7美元的ESP32控制真实iPhone，使用AirPlay作为眼睛和USB HID作为手，兼容任何OpenAI视觉模型。无需Mac、开发者账号或越狱。适合AI代理和自动化研究者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +988（+38%）",
+      "reasonZh": "花七美元的 ESP32 就能让 AI 用真实 iPhone：AirPlay 当眼睛、USB HID 当手，不用 Mac、不用开发者账号、不用越狱。跟纯软件 computer-use 比它直接操作实体机，适合想做手机自动化或 AI 代理实验的折腾党。"
+    },
+    {
+      "repo": "omnara-ai/omnara",
+      "url": "https://github.com/omnara-ai/omnara",
+      "description": "The open-source managed agent platform. A self-hostable alternative to Claude Managed Agents and OpenAI's Agents API.",
+      "language": "Go",
+      "stars": 3178,
+      "summaryZh": "该项目是开源托管代理平台，可自托管，替代Claude Managed Agents和OpenAI Agents API。核心提供持久化代理运行时和基础设施。适合需要部署和管理AI代理的团队。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 110 分 · 34 评论",
+      "reasonZh": "开源自托管的托管智能体平台，对标 Claude Managed Agents 和 OpenAI Agents API，能自己部署一套持久化任务运行的 agent 基础设施。同类要么锁在云厂商要么只是框架，它提供了完整可跑的服务，适合想私有化跑长任务 agent 的团队。"
+    },
+    {
+      "repo": "VoidenHQ/voiden",
+      "url": "https://github.com/VoidenHQ/voiden",
+      "description": "Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.",
+      "language": "TypeScript",
+      "stars": 1916,
+      "summaryZh": "该项目用纯Markdown设计、测试和文档化API，通过API块组合请求，支持复用、替换和版本控制。核心是离线优先、Git原生、无锁定。适合开发者替代Postman等工具进行API协作。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · automation",
+      "reasonZh": "用纯 Markdown 块来写和测试 API，请求、文档、版本管理全在一个文件里，完全离线且特别适合 Git。和 Postman、Insomnia 比它没有锁定的云端数据，文件和代码一起走版本，适合喜欢代码化协作的 API 开发者和团队。"
+    },
+    {
+      "repo": "karanhudia/borg-ui",
+      "url": "https://github.com/karanhudia/borg-ui",
+      "description": "Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.",
+      "language": "Python",
+      "stars": 1669,
+      "summaryZh": "给 Borg Backup 套上网页图形界面的工具，把复杂的终端命令变成可视化操作，支持创建、定时调度和恢复备份。底层仍是 Borg 的去重压缩能力，前端提供一键式管理。适合自托管用户、树莓派玩家和不想记命令行但需要可靠备份的人。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · automation",
+      "reasonZh": "给 Borg 备份套了个漂亮的 Web 界面，创建、定时、恢复点点鼠标就行，不用再背一堆终端参数。相比其他 Borg 前端它主打自托管和 Docker 一键起，家里有 NAS 或树莓派、想认真做增量备份又怕命令行的用户很适合。"
+    },
+    {
+      "repo": "rohit267/net-merge",
+      "url": "https://github.com/rohit267/net-merge",
+      "description": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
+      "language": "Go",
+      "stars": 1819,
+      "summaryZh": "跨 Windows/Linux/Mac 的多网卡带宽聚合工具，通过 TUN 与 Wintun 把 Wi-Fi、以太网和手机 USB 网络共享按连接做负载均衡，让所有适配器同时工作。用 Go 编写，适合下载大文件、提升单机吞吐或网络条件碎片化的场景。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +648（+55%）",
+      "reasonZh": "把 Wi-Fi、有线、手机热点和 USB 共享网络同时用起来，按连接做负载均衡叠加速度。同类工具通常在 Linux 才有，它跨 Windows、Linux、Mac 还带 Wintun，适合下载大文件或网络不稳、想把手里所有带宽榨干的场景。"
+    },
+    {
+      "repo": "omnimind-ai/OmniBot",
+      "url": "https://github.com/omnimind-ai/OmniBot",
+      "description": "Your on-phone / mobile AI Agent / Claw, capable of operating terminals and performing a wide range of tasks in the Android world || 你的手机 AI 代理，她可以操作终端，也可以完成 Android 世界的广泛任务 ",
+      "language": "Kotlin",
+      "stars": 2057,
+      "summaryZh": "运行在 Android 手机上的 AI 代理，能操作终端并执行 Android 世界的广泛任务，借助 Alpine/Linux 环境与技能机制扩展能力。面向想在手机上实现自动化操作、远程代理或本地 AI 助手的用户，适合移动端自动化与实验场景。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · automation",
+      "reasonZh": "装在安卓手机上的 AI 代理，能在手机上跑终端、装 Alpine 环境并自动操作各种 App 完成实际任务。和桌面端 agent 比它把整套能力搬进了口袋，适合想让 AI 直接在手机上帮忙点按、查信息、跑脚本的移动端用户。"
+    },
+    {
+      "repo": "tywr/Nordwand-Mono",
+      "url": "https://github.com/tywr/Nordwand-Mono",
+      "description": "A compact monospace neo-grotesque font designed for developers (and adventurers).",
+      "language": "Python",
+      "stars": 1511,
+      "summaryZh": "一款为开发者设计的紧凑等宽新怪诞字体，兼顾代码阅读的清晰度与排版美感。字符比例紧凑、风格现代，适合在编辑器、终端和代码展示中替换默认等宽字体，也适合喜欢折腾字体的程序员尝试。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 565 分 · 161 评论",
+      "reasonZh": "一款紧凑的等宽新怪诞字体，专为写代码调过字宽和易读性，名字还带点登山趣味。和常见编程字体比它的字形更克制、小字号下排版更密，直接下载字体文件就能在编辑器里换上，适合在意终端和 IDE 观感的开发者。"
+    }
+  ]
+}
