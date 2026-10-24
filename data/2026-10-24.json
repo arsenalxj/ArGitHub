@@ -1,0 +1,359 @@
+{
+  "date": "2026-10-24",
+  "trending": [
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 42441,
+      "summaryZh": "这是给编码 Agent 用的多阶段安全审计技能，把审计流程拆成多个阶段，产出可被机器读取、且经过独立校验的漏洞发现结果。适合接入 Claude 等 Agent 的自动化安全扫描流程，也适合需要可复核审计报告的安全工程师。",
+      "category": "开发工具",
+      "starsToday": 2716
+    },
+    {
+      "repo": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 41594,
+      "summaryZh": "这是 PHP 语言的官方解释器源码仓库，包含 Zend 引擎、标准库与扩展等全部核心实现。适合想阅读 PHP 底层的开发者、C 语言扩展作者，以及需要修复语言层问题或参与 PHP 版本演进的贡献者。",
+      "category": "开发工具",
+      "starsToday": 716
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 32318,
+      "summaryZh": "这是 Anthropic 开源的知识工作者插件集合，主要用于 Claude Cowork，把常见知识工作流程封装成可复用插件。适合写文档、做研究、整理资料的非开发者，在 Claude 中快速搭建结构化的工作流。",
+      "category": "AI",
+      "starsToday": 635
+    },
+    {
+      "repo": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": 18909,
+      "summaryZh": "OpenShell 是面向自主 AI Agent 的安全私有运行时，用 Rust 实现，为 Agent 执行提供隔离环境与受控边界。适合要部署会自主调用工具、执行命令的 Agent 团队，在保证隐私与安全的前提下运行生产级 Agent。",
+      "category": "AI",
+      "starsToday": 1119
+    },
+    {
+      "repo": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "stars": 6991,
+      "summaryZh": "这是开源的紫微斗数排盘引擎，基于倪海厦《天纪》体系，包含完整排盘算法、四化系统、格局知识库与古籍原文数据。适合做命理排盘应用的开发者、研究紫微斗数的爱好者，以及与传统文化相关的工具集成场景。",
+      "category": "其他",
+      "starsToday": 546
+    },
+    {
+      "repo": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars": 8604,
+      "summaryZh": "这是一个面向 Claude 技能系统的攻击性安全技能库，每个技能都是结构化 SKILL.md，为 Claude 注入专家级渗透测试方法论。适合红队成员、安全研究者在授权测试中借助 Claude 完成体系化的攻防分析与漏洞挖掘。",
+      "category": "AI",
+      "starsToday": 226
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 40340,
+      "summaryZh": "VoxCPM2 是无分词器的多语言 TTS 模型，支持语音生成、创意音色设计与高度还原的声音克隆。适合做多语言配音、播客与有声内容生成的开发者，以及需要定制音色和克隆真实人声的语音产品团队。",
+      "category": "AI",
+      "starsToday": 150
+    },
+    {
+      "repo": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "stars": 122935,
+      "summaryZh": "Node.js 是构建在 V8 引擎上的 JavaScript 运行时，让 JS 可以脱离浏览器在服务端运行。适合后端开发者、命令行工具作者和全栈团队，用于构建高并发网络服务、API、构建脚本与跨平台桌面应用。",
+      "category": "开发工具",
+      "starsToday": 66
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "language": "Java",
+      "stars": 28464,
+      "summaryZh": "这个项目通过 Wi-Fi 用 ADB 清理 Android TV 或 Google TV 上的预装臃肿软件，并把主屏替换成类似 Apple TV 的简洁界面。适合想摆脱电视广告和厂商预装的普通用户与电视玩家，一键去广告、提升隐私与开机体验。",
+      "category": "其他",
+      "createdAt": "2026-10-17T08:12:35Z"
+    },
+    {
+      "repo": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "description": "",
+      "language": "C",
+      "stars": 4991,
+      "summaryZh": "项目收集和整理可在 Mac 上原生运行的游戏资源，基于 C 语言相关实现，帮助用户绕开兼容层直接游玩。适合 Mac 用户、游戏爱好者以及想在苹果电脑上寻找原生游戏体验的玩家参考使用。",
+      "category": "游戏",
+      "createdAt": "2026-10-17T19:52:00Z"
+    },
+    {
+      "repo": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+      "language": "Java",
+      "stars": 4003,
+      "summaryZh": "这是面向 Google TV、LG webOS 和三星 Tizen 的快速无广告主屏启动器，提供一键还原功能，可随时撤销改动。适合受够了智能电视广告和杂乱推荐界面的用户，用开源主屏替换原厂桌面，保留 TMDB 等媒体信息。",
+      "category": "其他",
+      "createdAt": "2026-10-19T19:29:01Z"
+    },
+    {
+      "repo": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "language": "Kotlin",
+      "stars": 3947,
+      "summaryZh": "这是一个参照 tvOS 设计的开源 Android TV 桌面，给小米、TCL 等国产电视提供干净无广告的主屏，可开机自动接管。适合想摆脱国产电视广告和臃肿桌面的用户，用接近 Apple TV 的体验替代原厂界面。",
+      "category": "其他",
+      "createdAt": "2026-10-20T09:13:06Z"
+    },
+    {
+      "repo": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+      "language": "Python",
+      "stars": 2887,
+      "summaryZh": "项目提供覆盖小学数学到高中数学、英语三年级到高中以及初中物理的知识图谱，含 1644 个知识点、2403 条先修边和 6723 道题，对齐课标并附自适应前置诊断。适合教育产品开发者、教研人员和自学者做学情诊断与路径规划。",
+      "category": "资料教程",
+      "createdAt": "2026-10-18T09:04:43Z"
+    },
+    {
+      "repo": "aicodeking/leanrea",
+      "url": "https://github.com/aicodeking/leanrea",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "language": "Python",
+      "stars": 1865,
+      "summaryZh": "这是一个约 8KB 的技能文件，用来替代 REA（Reverse Engineer Anything），仅用普通命令行工具、不依赖 MCP，基准测试显示速度提升 38%、成本降低 35%。适合想让 AI Agent 低成本做逆向分析、又不想部署复杂工具链的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-17T02:53:24Z"
+    },
+    {
+      "repo": "JoasASantos/REA-Prompts",
+      "url": "https://github.com/JoasASantos/REA-Prompts",
+      "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "language": "",
+      "stars": 1779,
+      "summaryZh": "这是配合 REA（Reverse Engineer Anything）使用的提示词集合，帮助用户充分发挥该工具能力，完成程序逆向拆解与克隆分析。适合从事逆向工程、安全研究或想复现某款软件功能的开发者，作为提示词模板直接套用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-19T22:20:47Z"
+    },
+    {
+      "repo": "ikow/php2shell-poc",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "language": "Python",
+      "stars": 1704,
+      "summaryZh": "针对 CVE-2026-109618/109619 的 PHP 漏洞研究仓库，复现 5 条 RCE 利用链，聚焦 session.upload_progress 的预认证利用路径。同时附带 Suricata、Sigma、ModSecurity 检测规则，可用于红队验证和蓝队检测规则落地。适合安全研究员、渗透测试人员与 WAF 维护者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-21T07:55:16Z"
+    },
+    {
+      "repo": "EthanArbuckle/fairplay-decrypt",
+      "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+      "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
+      "language": "C",
+      "stars": 1662,
+      "summaryZh": "用 C 实现的离线 FairPlay IPA 解密工具，通过独立推导密钥解密 App Store 应用包，不依赖设备在线交互。可作为 iOS 应用分析与逆向研究的基础工具，适合安全研究人员和需要分析 IPA 二进制的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-19T10:07:58Z"
+    },
+    {
+      "repo": "alchaincyf/huashu-motion",
+      "url": "https://github.com/alchaincyf/huashu-motion",
+      "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+      "language": "JavaScript",
+      "stars": 1548,
+      "summaryZh": "让编码 Agent 一键生成商业级产品宣传片，内置作曲能力，并支持指着画面直接说改哪一帧。基于 GSAP 动画与 Agent Skills 实现，适合用 Claude Code、Codex 的团队快速产出发布视频，无需专业动效人员。",
+      "category": "AI",
+      "createdAt": "2026-10-18T12:19:27Z"
+    },
+    {
+      "repo": "humblemuzzu/dumbtv",
+      "url": "https://github.com/humblemuzzu/dumbtv",
+      "description": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+      "language": "Java",
+      "stars": 1404,
+      "summaryZh": "通过 ADB 免 root 为 Fire TV 去除广告、追踪与预装杂物，每一步都可回滚，并自带开源主屏替代原生启动器。适合希望净化电视、保护隐私的 Fire TV 用户，无需刷机即可获得清爽的使用体验。",
+      "category": "其他",
+      "createdAt": "2026-10-18T17:04:12Z"
+    },
+    {
+      "repo": "Ansub/tv-detox",
+      "url": "https://github.com/Ansub/tv-detox",
+      "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+      "language": "Java",
+      "stars": 1394,
+      "summaryZh": "面向老款 Android TV 的提速方案，用一个极小且无广告的主屏替换系统桌面，并附带让 Claude Code 或 Codex 执行清理的提示词。适合电视卡顿、广告多的家庭场景，用 Agent 引导完成去臃肿操作。",
+      "category": "其他",
+      "createdAt": "2026-10-18T06:42:29Z"
+    },
+    {
+      "repo": "9bie/php2shell-bypass-aslr-exp",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "language": "Python",
+      "stars": 1298,
+      "summaryZh": "PHP2Shell 的免改动利用实现，可直接攻击官方原版，不依赖 display_errors 或 limit_memory 配置，并绕过 ASLR 限制。适合漏洞研究者验证真实部署环境的可利用性，也便于防守方评估风险面。",
+      "category": "开发工具",
+      "createdAt": "2026-10-21T11:11:57Z"
+    },
+    {
+      "repo": "openai/php2shell-checker",
+      "url": "https://github.com/openai/php2shell-checker",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 1239,
+      "summaryZh": "来自 OpenAI 的 PHP2Shell 检查工具，用于扫描和识别相关 PHP 漏洞风险。项目以 JavaScript 实现，适合在开发或运维流程中对 PHP 服务进行自查，快速判断是否暴露于该漏洞影响范围。",
+      "category": "开发工具",
+      "createdAt": "2026-10-21T00:29:12Z"
+    },
+    {
+      "repo": "wesbos/3d-model-anything",
+      "url": "https://github.com/wesbos/3d-model-anything",
+      "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+      "language": "Swift",
+      "stars": 1193,
+      "summaryZh": "用 iPhone 的 LiDAR 与照片采集空间数据，重建为可编辑的 Three.js 房间模型，并直接在浏览器中浏览。适合需要快速做室内三维建模、房产展示或空间原型的开发者与创作者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-21T19:38:50Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "dsmurrell/onkey",
+      "url": "https://github.com/dsmurrell/onkey",
+      "description": "Learn to sing the songs you love. A free, open-source singing trainer for Mac that listens to the music you play.",
+      "language": "Rust",
+      "stars": 246,
+      "summaryZh": "Mac 平台的开源唱歌训练器，能实时监听你播放的音乐并检测音高，帮助你练习喜欢的歌曲。基于 Rust、Tauri 与 ONNX 实现，适合想自学唱歌、纠正音准的音乐爱好者。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 218 分 · 91 评论",
+      "reasonZh": "Mac 上的免费开源唱歌教练，能实时听你播放的音乐并纠正音准，本地 ONNX 音高检测不上传数据。跟一般练声 App 比它是真听你唱、给反馈，适合想学唱歌又不想花钱订阅的人装来玩。"
+    },
+    {
+      "repo": "Saffsanity/sill",
+      "url": "https://github.com/Saffsanity/sill",
+      "description": "Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.",
+      "language": "Swift",
+      "stars": 3967,
+      "summaryZh": "把 Mac 上任意窗口实时投到 iPhone 或 iPad，支持触摸、Apple Pencil、触控板和键盘输入，无需自建服务器。基于 ScreenCaptureKit 与 HEVC 编码，适合需要跨设备操作 Mac 应用或做远程演示的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1104（+39%）",
+      "reasonZh": "把 Mac 任意窗口实时投到 iPhone/iPad，还能反向用触屏、Apple Pencil 和键盘操作，全本地走 Tailscale 不用服务器。比 Sidecar 更自由，适合想把 Mac 当 iPad 第二屏或远程操作的人。"
+    },
+    {
+      "repo": "rohit267/net-merge",
+      "url": "https://github.com/rohit267/net-merge",
+      "description": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
+      "language": "Go",
+      "stars": 2020,
+      "summaryZh": "在 Windows、Linux、macOS 上把 Wi-Fi、以太网和手机 USB 网络同时聚合使用，按连接做负载均衡，基于 TUN/Wintun 实现。适合下载大文件或带宽受限时想榨干所有网络接口的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +849（+73%）",
+      "reasonZh": "把 Wi-Fi、有线、手机热点几个网卡叠加成一个连接，做负载均衡提速。比传统多路径方案更傻瓜化，跨 Win/Linux/macOS，适合下载大文件或家里网络拼带宽的场景。"
+    },
+    {
+      "repo": "ozeranskii/httptap",
+      "url": "https://github.com/ozeranskii/httptap",
+      "description": "Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.",
+      "language": "Python",
+      "stars": 845,
+      "summaryZh": "Rich 驱动的 HTTP 请求诊断 CLI，把每个请求拆成 DNS、连接、TLS、等待与传输阶段，输出瀑布时间线、精简摘要或纯指标。适合排查接口慢在哪里、做网络性能分析的开发与运维人员。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "一个终端里跑的命令，把每个 HTTP 请求拆成 DNS、连接、TLS、等待、传输各阶段画瀑布图。比 curl -w 直观太多，排查接口慢在哪一段、做性能对比时特别顺手。"
+    },
+    {
+      "repo": "RackulaLives/Rackula",
+      "url": "https://github.com/RackulaLives/Rackula",
+      "description": "rack layout designer",
+      "language": "TypeScript",
+      "stars": 1759,
+      "summaryZh": "机架布局设计工具，通过拖拽方式规划 AV 机柜与服务器机架，支持容量规划并可与 NetBox 等基础设施数据配合。基于 Svelte 与 TypeScript，适合家庭实验室玩家和运维人员设计、展示机架排布。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "拖拽式的机架布局设计器，专给 homelab 和运维画服务器柜、做容量规划。比拿 Visio 硬拼强，输出干净还能接 NetBox，自托管起来给团队共享机柜图正合适。"
+    },
+    {
+      "repo": "finereli/whatsapp-mcp",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "language": "TypeScript",
+      "stars": 342,
+      "summaryZh": "只读的 MCP 服务器，让 AI Agent 搜索并读取你自己的 WhatsApp 消息，运行在 Cloudflare Workers 上。适合想让助手基于聊天记录做检索、总结的用户，只读设计降低了误操作风险。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +244（+249%）",
+      "reasonZh": "只读的 WhatsApp MCP 服务，跑在 Cloudflare Workers 上，让 AI 代理搜你自己的聊天记录。比给代理开放写权限安全得多，想用 AI 翻旧对话找信息时可以低成本部署。"
+    },
+    {
+      "repo": "anubhavmalhotra/r2d2-tv",
+      "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+      "description": "Local home screen, private remote browser, and push-to-talk voice assistant for webOS TVs",
+      "language": "Python",
+      "stars": 54,
+      "summaryZh": "为 webOS 电视提供本地主屏、私有远程浏览器和按键说话语音助手，减少对厂商云服务的依赖。适合希望提升电视隐私与可玩性的 LG 电视用户，也便于开发者扩展自定义界面。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 91 分 · 69 评论",
+      "reasonZh": "给 webOS 电视做的本地主页、私有遥控浏览器加语音助手，完全跑在家里不依赖云。比电视自带系统自由，适合想把旧 LG 电视变成可控智能屏、又在意隐私的人。"
+    },
+    {
+      "repo": "andunieee/flipflop",
+      "url": "https://github.com/andunieee/flipflop",
+      "description": "filesharing for the meatspace era",
+      "language": "Rust",
+      "stars": 262,
+      "summaryZh": "一个用 Rust 编写的线下实体场景文件共享工具，主打“肉空间时代”的局域网直传体验。核心是无需云服务，在同一物理空间内快速互传文件，技术亮点在于简洁高效的 Rust 实现。适合在会议、聚会、临时协作等近距离场景中需要快速分享文件的人使用。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +63（+32%）",
+      "reasonZh": "主打面对面传文件的工具，号称给现实世界用的文件共享。跟网盘和 AirDrop 比更强调当面即传，Rust 写的轻量，适合几个人碰头时快速互传大文件。"
+    },
+    {
+      "repo": "furkankly/rataflow",
+      "url": "https://github.com/furkankly/rataflow",
+      "description": "Interactive node-based UIs for the terminal.",
+      "language": "Rust",
+      "stars": 189,
+      "summaryZh": "基于 Ratatui 的终端交互式节点图 UI 库，让你在命令行里构建和操作流程图、图结构可视化。核心功能是提供可交互的节点式界面，技术亮点是纯 TUI 渲染、轻量且适合终端环境。适合需要在无图形界面服务器上做图编辑或可视化的开发者使用。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · visualization",
+      "reasonZh": "在终端里做节点式交互 UI，用 ratatui 画可操作的流程图。TUI 里很少见这种图形化编排，适合喜欢全键盘工作流、想在命令行里搭可视化管道的人。"
+    },
+    {
+      "repo": "vacuula/vacuula",
+      "url": "https://github.com/vacuula/vacuula",
+      "description": "custom server for the undead robot vacuum cleaners - revive your Neato with the power of Vacuula",
+      "language": "TypeScript",
+      "stars": 164,
+      "summaryZh": "为已停止官方支持的 Neato 扫地机器人打造的自定义服务器，用 TypeScript 实现，可让“僵尸”设备重获新生。核心功能是替代原厂云服务，接管设备通信与控制，技术亮点是逆向协议并本地化部署。适合拥有 Neato 且不想依赖官方服务的极客用户使用。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +58（+55%）",
+      "reasonZh": "给被官方断服的 Neato 扫地机器人写的自建服务器，让老机器重新联网干活。同类复活项目不多，家里有吃灰 Neato 的可以直接自托管救活，很有折腾乐趣。"
+    }
+  ]
+}
