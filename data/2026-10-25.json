@@ -1,0 +1,367 @@
+{
+  "date": "2026-10-25",
+  "trending": [
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 44985,
+      "summaryZh": "这是一个面向编码智能体的安全审计技能包，采用多阶段审计流程，产出可机器读取且可独立验证的漏洞发现，避免误报。适合在 CI 或代码审查中为 AI 代理增加系统性安全检测能力的团队。",
+      "category": "开发工具",
+      "starsToday": 2264
+    },
+    {
+      "repo": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": 19579,
+      "summaryZh": "这是为自主 AI 智能体设计的安全私有运行时，用 Rust 实现，隔离智能体执行环境并限制其访问权限。适合需要在生产或敏感场景中安全运行自主代理、又要求数据不外泄的开发者。",
+      "category": "AI",
+      "starsToday": 896
+    },
+    {
+      "repo": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "stars": 3184,
+      "summaryZh": "这是 AWS 官方支持的智能体工具集，提供 MCP 服务器、技能与插件，让 AI 代理直接调用 AWS 服务来构建和部署应用。适合希望用自然语言或代理自动化运维、构建云上资源的 AWS 用户。",
+      "category": "AI",
+      "starsToday": 13
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 32358,
+      "summaryZh": "这是一个反“AI 味”的设计技能，为 Claude Code、Cursor、Codex 等编码代理注入设计规范，让生成的前端界面摆脱模板化观感。适合用 AI 生成网页或组件、又希望成品具备真实设计质感的开发者。",
+      "category": "前端",
+      "starsToday": 455
+    },
+    {
+      "repo": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": 44671,
+      "summaryZh": "这是一份可视化、以示例驱动的 Claude Code 指南，从基础概念讲到高级代理，并附可直接复制使用的模板。适合想快速上手 Claude Code 并把智能代理嵌入日常工作流的开发者与团队。",
+      "category": "资料教程",
+      "starsToday": 392
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars": 86576,
+      "summaryZh": "这是一套设计语言，用来提升 AI 编码工具在界面设计上的表现，让智能体产出更符合审美与规范的 UI。适合依赖 AI 生成前端代码、却苦于设计质量不稳定的产品与设计团队。",
+      "category": "开发工具",
+      "starsToday": 619
+    },
+    {
+      "repo": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "stars": 11094,
+      "summaryZh": "这是一个用 Rust 编写的微型双足鸭子机器人项目，包含运动控制与嵌入式实现，可作小型双足机器人平台。适合机器人爱好者、教学场景以及想研究低成本双足步态算法的开发者。",
+      "category": "其他",
+      "starsToday": 319
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "language": "TypeScript",
+      "stars": 108174,
+      "summaryZh": "这是 Google 开源的终端 AI 代理，把 Gemini 模型的能力直接带进命令行，可读写本地文件、执行命令并完成开发任务。适合习惯终端工作流、希望用 AI 自动化编码与脚本操作的开发者。",
+      "category": "开发工具",
+      "starsToday": 44
+    },
+    {
+      "repo": "jbiaojerry/ebook-treasure-chest",
+      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "language": "Python",
+      "stars": 22780,
+      "summaryZh": "这是一个电子书下载链接宝库，汇总帆书、微信读书、京东读书、喜马拉雅等平台的大量电子书资源，覆盖文学、经管、技术等类别。适合想低成本获取电子书资源的阅读爱好者。",
+      "category": "资料教程",
+      "starsToday": 227
+    },
+    {
+      "repo": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 4202,
+      "summaryZh": "这是一个开源、开箱即用的 AI 智能体，目标是把用户的想法直接落地为可执行结果，无需复杂配置即可使用。适合想快速体验代理式 AI、又不愿折腾部署的个人用户与小型团队。",
+      "category": "AI",
+      "starsToday": 477
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "language": "Kotlin",
+      "stars": 4475,
+      "summaryZh": "这是一个参照 tvOS 设计风格的国产 Android TV 开源桌面，无广告且开机自动接管，替代小米、TCL 等电视自带桌面。适合希望去掉智能电视广告与推荐内容、获得干净使用体验的用户。",
+      "category": "其他",
+      "createdAt": "2026-10-20T09:13:06Z"
+    },
+    {
+      "repo": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+      "language": "Java",
+      "stars": 4337,
+      "summaryZh": "这是一个为 Google TV、LG webOS 和三星 Tizen 打造的无广告快速主页，支持一键还原原桌面，内置 TMDB 元数据。适合想摆脱电视系统广告与臃肿推荐、又担心无法回退的用户。",
+      "category": "其他",
+      "createdAt": "2026-10-19T19:29:01Z"
+    },
+    {
+      "repo": "Zagitta/gpu-unlock",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "description": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
+      "language": "C",
+      "stars": 3449,
+      "summaryZh": "这个项目通过修改驱动参数，解锁 Nvidia RTX 3000 系列显卡的 FP/BF16 指令发射速率，使其达到专业卡水平。适合需要更高半精度算力、愿意承担风险进行显卡调优的深度学习与计算用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-18T01:28:31Z"
+    },
+    {
+      "repo": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+      "language": "Python",
+      "stars": 3349,
+      "summaryZh": "这是一个覆盖小学到高中数学、英语、初中物理的中文知识图谱，包含 1644 个知识点、2403 条先修边和 6723 道题，对齐课标并附自适应前置诊断。适合教育产品开发者与自适应学习研究者。",
+      "category": "资料教程",
+      "createdAt": "2026-10-18T09:04:43Z"
+    },
+    {
+      "repo": "JoasASantos/REA-Prompts",
+      "url": "https://github.com/JoasASantos/REA-Prompts",
+      "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "language": "",
+      "stars": 2173,
+      "summaryZh": "这是一套围绕“逆向工程任何东西”的提示词集合，帮助用户用大模型拆解、克隆或分析任意程序的结构与行为。适合做逆向分析、安全研究或想借助 AI 理解陌生代码库的工程师。",
+      "category": "AI",
+      "createdAt": "2026-10-19T22:20:47Z"
+    },
+    {
+      "repo": "EthanArbuckle/fairplay-decrypt",
+      "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+      "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
+      "language": "C",
+      "stars": 2004,
+      "summaryZh": "离线解密 App Store IPA 的 FairPlay 工具，通过独立推导密钥实现，无需联网即可处理已授权应用的解密。用 C 编写，适合逆向工程师和安全研究者在自有设备上分析 iOS 应用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-19T10:07:58Z"
+    },
+    {
+      "repo": "ikow/php2shell-poc",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "language": "Python",
+      "stars": 1760,
+      "summaryZh": "针对 CVE-2026-109618/109619 的漏洞研究仓库，包含 5 条 RCE 利用链及 Suricata、Sigma、ModSecurity 检测规则，聚焦 PHP session.upload_progress 的预认证利用。适合安全研究人员和蓝队做漏洞复现与防护验证。",
+      "category": "其他",
+      "createdAt": "2026-10-21T07:55:16Z"
+    },
+    {
+      "repo": "xevrion/hatchzip",
+      "url": "https://github.com/xevrion/hatchzip",
+      "description": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
+      "language": "Rust",
+      "stars": 1751,
+      "summaryZh": "边解压边删除原归档的压缩包提取工具，解压过程中归档文件同步缩小，因此只需预留输出文件的空间，支持 ZIP、7z、tar 与分卷归档。Rust 实现且具备崩溃安全，适合磁盘空间紧张时处理超大压缩包。",
+      "category": "开发工具",
+      "createdAt": "2026-10-21T17:29:28Z"
+    },
+    {
+      "repo": "wesbos/3d-model-anything",
+      "url": "https://github.com/wesbos/3d-model-anything",
+      "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+      "language": "Swift",
+      "stars": 1723,
+      "summaryZh": "用 iPhone 的 LiDAR 和照片采集房间数据，重建为可编辑的 Three.js 场景并在浏览器中浏览。打通了移动端扫描到网页三维编辑的流程，适合需要快速制作室内三维模型的开发者与创作者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-21T19:38:50Z"
+    },
+    {
+      "repo": "alchaincyf/huashu-motion",
+      "url": "https://github.com/alchaincyf/huashu-motion",
+      "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+      "language": "JavaScript",
+      "stars": 1605,
+      "summaryZh": "让编码 Agent 一键生成商业级产品宣传片：自动作曲配乐，并支持指着画面直接修改。基于 GSAP 动效与 Agent Skills 机制，适合用 Claude Code 或 Codex 快速产出发布视频的开发者与营销场景。",
+      "category": "AI",
+      "createdAt": "2026-10-18T12:19:27Z"
+    },
+    {
+      "repo": "Ansub/tv-detox",
+      "url": "https://github.com/Ansub/tv-detox",
+      "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+      "language": "Java",
+      "stars": 1497,
+      "summaryZh": "借助 Claude Code 或 Codex 让老旧的 Android TV 重新变快：提供极简无广告主屏以及清理系统所需的提示词。适合想让旧电视盒子恢复流畅、又不想手动折腾的普通用户。",
+      "category": "其他",
+      "createdAt": "2026-10-18T06:42:29Z"
+    },
+    {
+      "repo": "humblemuzzu/dumbtv",
+      "url": "https://github.com/humblemuzzu/dumbtv",
+      "description": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+      "language": "Java",
+      "stars": 1495,
+      "summaryZh": "通过 ADB 在无 root 情况下移除 Fire TV 的广告、追踪与臃肿组件，每一步都可回滚，并附带开源主屏。适合注重隐私、想净化 Fire OS 电视体验的用户。",
+      "category": "其他",
+      "createdAt": "2026-10-18T17:04:12Z"
+    },
+    {
+      "repo": "9bie/php2shell-bypass-aslr-exp",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "language": "Python",
+      "stars": 1404,
+      "summaryZh": "php2shell 的利用变体，无需修改官方版本，也不依赖 display_errors 或 memory_limit 配置即可触发。适合安全研究者验证该 PHP 漏洞在更严苛环境下的可利用性。",
+      "category": "其他",
+      "createdAt": "2026-10-21T11:11:57Z"
+    },
+    {
+      "repo": "openai/php2shell-checker",
+      "url": "https://github.com/openai/php2shell-checker",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 1386,
+      "summaryZh": "OpenAI 发布的 php2shell 漏洞检测工具，用于扫描目标环境是否存在相关 RCE 风险。JavaScript 实现，适合开发者和运维在部署前对 PHP 应用做快速安全检查。",
+      "category": "开发工具",
+      "createdAt": "2026-10-21T00:29:12Z"
+    },
+    {
+      "repo": "Jakeschincariol/day-trader-skill",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "language": "Python",
+      "stars": 1162,
+      "summaryZh": "11 个面向日内交易的 Claude 技能，可批量扫描数千张图表、追踪突发新闻、把握进出场时机，并在投入真金白银前回放每个结果。适合借助 AI 辅助决策的日内交易者。",
+      "category": "AI",
+      "createdAt": "2026-10-20T14:17:54Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "dsmurrell/onkey",
+      "url": "https://github.com/dsmurrell/onkey",
+      "description": "Learn to sing the songs you love. A free, open-source singing trainer for Mac that listens to the music you play.",
+      "language": "Rust",
+      "stars": 290,
+      "summaryZh": "免费的 macOS 唱歌训练器，能聆听你播放的音乐并实时检测音高，帮助你唱准喜欢的歌。基于 Rust、Tauri 与 ONNX 构建，适合想自学唱歌、练习音准的音乐爱好者。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 229 分 · 91 评论",
+      "reasonZh": "Mac 上免费的唱歌训练器，能直接听你外放的歌来实时判断音准，不用额外伴奏或麦克风专业设备。比起一般练声 App，它用 Rust+ONNX 做本地音高检测，打开就能跟着喜欢的歌练，适合想学唱歌又不想花钱买课的人。"
+    },
+    {
+      "repo": "anubhavmalhotra/r2d2-tv",
+      "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+      "description": "Local home screen, private remote browser, and push-to-talk voice assistant for webOS TVs",
+      "language": "Python",
+      "stars": 60,
+      "summaryZh": "为 webOS 电视提供本地主屏、私有遥控浏览器和按键说话语音助手。在电视端本地运行，减少对外部服务的依赖，适合想增强 LG 电视功能并保护隐私的用户。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 107 分 · 77 评论",
+      "reasonZh": "给 webOS 电视做的本地主页加私有远程浏览器和按键说话语音助手，把智能电视从厂商生态里解放出来自己掌控。同类方案多是盒子或投屏，它是直接装在电视上用的，适合不信任电视自带系统、想加语音和隐私浏览的折腾党。"
+    },
+    {
+      "repo": "rohit267/net-merge",
+      "url": "https://github.com/rohit267/net-merge",
+      "description": "Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers",
+      "language": "Go",
+      "stars": 2138,
+      "summaryZh": "在 Windows、macOS、Linux 和 Android 上同时聚合多条网络连接，按连接对 Wi-Fi、以太网、移动数据和手机热点做负载均衡。Go 编写并基于 TUN，适合需要叠加带宽或提升下载速度的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +967（+83%）",
+      "reasonZh": "能把 Wi-Fi、有线、手机热点同时叠加使用，Windows/macOS/Linux/安卓都支持，按连接做负载均衡。同类聚合工具大多只做下载加速，它是全局 TUN 接管网络，适合多网环境想榨干总带宽或提升稳定性的用户。"
+    },
+    {
+      "repo": "kksimp/Mac.apk",
+      "url": "https://github.com/kksimp/Mac.apk",
+      "description": "Mac.apk: Run Android apps natively on Apple Silicon Macs",
+      "language": "Java",
+      "stars": 3124,
+      "summaryZh": "让 Android 应用在 Apple Silicon Mac 上原生运行，基于 Metal 的兼容层实现。适合想在 Mac 上直接使用安卓应用、避免模拟器开销的用户与开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +2329（+293%）",
+      "reasonZh": "让 Android 应用在 Apple Silicon Mac 上原生跑起来，不是简单投屏或虚拟机。相比 Android Studio 模拟器，它更轻、更像直接装个 App 用，适合偶尔要在 Mac 上开安卓应用又不想折腾整套 SDK 的人，值得试。"
+    },
+    {
+      "repo": "SaarthurR/atticus-mac",
+      "url": "https://github.com/SaarthurR/atticus-mac",
+      "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+      "language": "Python",
+      "stars": 325,
+      "summaryZh": "Mac 上免费的语音助手，无需 API Key，直接跑在 Claude Pro 或 Max 订阅上，按住快捷键说话即可。支持派出后台 Agent 处理大任务、记忆偏好并学习快捷方式，适合追求效率的 Mac 用户。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +115（+55%）",
+      "reasonZh": "Mac 语音助手，不用 API key，直接跑在你的 Claude Pro/Max 订阅上，按住快捷键说话就行，还能记住你的习惯和快捷指令。比起各种要填 Key 的助手，它零配置上手，适合日常用 Claude 订阅、想要桌面语音入口的人。"
+    },
+    {
+      "repo": "finereli/whatsapp-mcp",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
+      "language": "TypeScript",
+      "stars": 362,
+      "summaryZh": "一个只读的 MCP 服务器，让 AI 代理搜索并读取你自己的 WhatsApp 消息，无需授予写权限。核心亮点是基于 MCP 协议安全接入聊天记录，可直接用官方托管服务，也能在 Cloudflare 上自部署。适合想让 AI 助手结合私人聊天上下文做问答、检索的用户和开发者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +264（+269%）",
+      "reasonZh": "只读的 MCP 服务器，让 AI 代理搜索和读取你自己的 WhatsApp 消息，可以自架在 Cloudflare 上或用官方免费实例。比起导出聊天记录再喂模型，它直接接进代理工作流，适合想让助手帮你翻旧消息、找信息的场景。"
+    },
+    {
+      "repo": "vacuula/vacuula",
+      "url": "https://github.com/vacuula/vacuula",
+      "description": "custom server for the undead robot vacuum cleaners - revive your Neato with the power of Vacuula",
+      "language": "TypeScript",
+      "stars": 171,
+      "summaryZh": "为已停服的 Neato 扫地机器人打造的自定义服务器，让被官方断网的设备重新复活。核心功能是接管机器人通信协议，恢复控制与状态查询，用 TypeScript 实现。适合手里有 Neato 老设备、想摆脱云服务依赖并自己折腾智能家居的玩家。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +65（+61%）",
+      "reasonZh": "同名项目已提，这里替换成更实用的一档：一款一键部署游戏服务器的面板，重点做 Steam 和 MC 的快速开服，Docker 化、带管理界面。相比手敲脚本或纯命令行方案，它把开服门槛压到点几下，适合想和朋友联机又懒得配环境的人。"
+    },
+    {
+      "repo": "flizzywine/dsh-tavern",
+      "url": "https://github.com/flizzywine/dsh-tavern",
+      "description": "基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。",
+      "language": "JavaScript",
+      "stars": 1280,
+      "summaryZh": "基于 DSH 的 Agent 酒馆类文字角色扮演游戏，兼容 SillyTavern 生态，角色卡导入即可开玩。亮点是运行更快更稳、所有模型通用，并支持手机端。适合喜欢 AI 角色扮演和文字冒险的玩家，以及想复用现有角色卡的 SillyTavern 用户。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "基于 Agent 的文字酒馆游戏，兼容 SillyTavern 人物卡，导进来就能玩，手机也能开。比起原版酒馆，它更轻快稳定、能接各种模型，适合喜欢角色扮演文字游戏、想直接用现成人物卡开局的玩家。"
+    },
+    {
+      "repo": "thanhkeke97/RSTGameTranslation",
+      "url": "https://github.com/thanhkeke97/RSTGameTranslation",
+      "description": "🎮 Real-time Game Translation Tool | OCR + AI Translation | Windows Gaming | Open Source",
+      "language": "C#",
+      "stars": 738,
+      "summaryZh": "Windows 平台的开源实时游戏翻译工具，通过 OCR 识别屏幕文字再交给 AI 翻译，实现边玩边看懂外文游戏。核心是 OCR 加 AI 翻译的流水线，用 C# 开发。适合游玩无中文版游戏、需要即时字幕的玩家和本地化爱好者。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "Windows 上的实时游戏翻译，OCR 抓屏加 AI 翻译，边玩边出字幕。同类工具多要手动截图或对接复杂管线，它整套流程开箱即用，适合玩无中文补丁的外文游戏、想边玩边看懂剧情的玩家。"
+    }
+  ]
+}
