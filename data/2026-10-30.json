@@ -1,0 +1,353 @@
+{
+  "date": "2026-10-30",
+  "trending": [
+    {
+      "repo": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "stars": 50657,
+      "summaryZh": "DeepTutor 是一个面向终身学习的个性化 AI 辅导系统，能够根据学习者的历史与目标持续调整教学策略。核心亮点是长期记忆驱动的个性化学习路径，而非一次性问答。适合希望获得持续、定制化学习陪伴的学生与自学者。",
+      "category": "AI",
+      "starsToday": 1930
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 308810,
+      "summaryZh": "Superpowers 是一个面向 AI 编码智能体的技能框架与软件开发方法论，把可复用的技能和流程规范组织成智能体可执行的体系。它强调可落地的工作流而非空泛提示词，适合想系统化构建多智能体开发流程的团队和工程师。",
+      "category": "开发工具",
+      "starsToday": 1034
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars": 95815,
+      "summaryZh": "Impeccable 为编码智能体提供一套设计词汇表，让开发者用 polish、bolder、critique、audit 等指令精准控制 UI 质感与审查质量。它帮助在 AI 生成代码上线前发现并修正粗糙的视觉与设计问题，适合用 AI 做前端与产品界面的人。",
+      "category": "开发工具",
+      "starsToday": 2870
+    },
+    {
+      "repo": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars": 6160,
+      "summaryZh": "ThinkRail 是 JetBrains 推出的轻量级真实 IDE，主打 vibe coding，能根据你的工作方式自我定制界面与流程。它把 AI 编码体验放进完整 IDE 环境而非孤立聊天窗口，适合希望在专业开发工具中边对话边写代码的开发者。",
+      "category": "开发工具",
+      "starsToday": 1117
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": 7661,
+      "summaryZh": "OpenMausBot 是开源版 Grok Bot 替代方案，为机器人智能体配备可操作的虚拟机环境，让智能体在隔离系统中执行任务。它适合想自建可执行、可沙箱化 AI 助手的研究者与开发者，用于实验自动化操作场景。",
+      "category": "AI",
+      "starsToday": 1199
+    },
+    {
+      "repo": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars": 4005,
+      "summaryZh": "OpenBot 是一个本地优先的桌面工作区，用于托管持久化 AI 队友，可同时运行 Codex、Claude、Grok 等智能体。提供独立工作区、任务队列、文件共享、浏览器控制和智能体间协作，适合需要多智能体长期协同办公的个人与团队。",
+      "category": "AI",
+      "starsToday": 709
+    },
+    {
+      "repo": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "language": "",
+      "stars": 12433,
+      "summaryZh": "该项目收集整理面向 AI 设计工作的技能集合，帮助设计者把提示、流程与方法组织成可复用能力。适合希望将 AI 融入日常设计工作流、提升产出效率与一致性的设计师与产品团队参考使用。",
+      "category": "其他",
+      "starsToday": 1187
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 105026,
+      "summaryZh": "Claude-mem 为 AI 智能体提供跨会话的持久上下文，自动记录智能体在一次会话中的所有操作，用 AI 压缩后在未来会话中注入相关记忆。它解决了智能体反复失忆的问题，适合长期使用 Claude 等智能体做项目的开发者。",
+      "category": "AI",
+      "starsToday": 336
+    },
+    {
+      "repo": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "stars": 8294,
+      "summaryZh": "OpenBot 提供开源的 AI 同事，每个智能体拥有独立浏览器、文件与工具的计算环境，所有动作先决策后执行并留痕记录。支持接入任意 AG-UI 智能体，适合想搭建可审计、可追溯 AI 员工系统的团队。",
+      "category": "AI",
+      "starsToday": 247
+    },
+    {
+      "repo": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "",
+      "stars": 9474,
+      "summaryZh": "这是一个个人整理的 AI 越狱提示词合集仓库，汇总作者发布的多组绕过模型限制的提示词清单。内容偏向提示工程实验与安全边界探讨，适合对 LLM 对齐与红队测试感兴趣的研究者参考，使用时需注意合规与伦理风险。",
+      "category": "资料教程",
+      "starsToday": 1594
+    },
+    {
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "language": "Shell",
+      "stars": 29527,
+      "summaryZh": "该项目把 Claude Code 改造成完整游戏开发工作室，内置 49 个 AI 智能体、72 个工作流技能和模拟真实工作室层级的协作体系。适合独立开发者或小团队用 AI 分工完成策划、美术、程序等环节，快速推进游戏原型与制作。",
+      "category": "游戏",
+      "starsToday": 353
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "description": "",
+      "language": "",
+      "stars": 4899,
+      "summaryZh": "ub-mode 是 Uncle Bob 提出的 AI 编码工作模式实践，强调以严格纪律和可验证步骤约束智能体行为。它关注工程规范与代码质量而非追求生成速度，适合重视整洁代码与过程可控性的开发者参考借鉴。",
+      "category": "开发工具",
+      "createdAt": "2026-10-25T16:04:09Z"
+    },
+    {
+      "repo": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "language": "Python",
+      "stars": 4824,
+      "summaryZh": "该项目用于关闭国产安卓系统中内置的广告、热搜、资讯推荐和营销推送，覆盖 ColorOS、HyperOS、MagicOS、OriginOS 等。无需 root、操作可还原，并支持 AI 智能体一键执行，适合想净化手机系统体验的安卓用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-24T05:35:47Z"
+    },
+    {
+      "repo": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "language": "Python",
+      "stars": 3672,
+      "summaryZh": "Zero-Breach Toolkit 是一套免费开源、可离线运行的检测工具，用于排查已知雇佣兵级间谍软件的痕迹。支持 Windows、macOS、Linux、安卓手机及 iPhone 备份，适合记者、活动人士和隐私敏感用户自查设备是否被入侵。",
+      "category": "其他",
+      "createdAt": "2026-10-25T14:41:34Z"
+    },
+    {
+      "repo": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "language": "HTML",
+      "stars": 3422,
+      "summaryZh": "这是一个中文版 AI 姿势参考图库，收录 1439 组、2878 张参考图片并完成完整汉化。项目基于零依赖静态站点构建，可部署到 Cloudflare Pages，适合 AI 绘画创作者、画师和角色设计者查找姿势素材。",
+      "category": "资料教程",
+      "createdAt": "2026-10-27T12:24:37Z"
+    },
+    {
+      "repo": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "language": "TypeScript",
+      "stars": 3271,
+      "summaryZh": "词光 Word Atlas 是开源雅思词汇学习 PWA，内置 7298 个带插图的单词及英音美音音频。采用 FSRS 间隔重复算法安排复习，数据集以 CC BY 4.0 开放，前端使用 React 与 WebGL。适合备考雅思、想高效记单词的学习者。",
+      "category": "资料教程",
+      "createdAt": "2026-10-25T08:27:22Z"
+    },
+    {
+      "repo": "t3dotgg/tstack",
+      "url": "https://github.com/t3dotgg/tstack",
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "language": "Python",
+      "stars": 2414,
+      "summaryZh": "这是知名开发者 t3dotgg 日常使用的 AI 编程代理技能集合，可与 Claude Code 和 Codex 配合工作。仓库用 Python 组织，把作者的工作流沉淀为可复用的 agent skills配置。适合想借鉴成熟 AI 编码工作流、提升日常开发效率的工程师。",
+      "category": "开发工具",
+      "createdAt": "2026-10-24T05:00:20Z"
+    },
+    {
+      "repo": "enesozturk/dimensional-drawing",
+      "url": "https://github.com/enesozturk/dimensional-drawing",
+      "description": "Create Apple style dimensional drawings of UI components.",
+      "language": "HTML",
+      "stars": 1577,
+      "summaryZh": "该项目能生成 Apple 风格的 UI 组件立体尺寸图，用 HTML 渲染出带纵深感的产品展示效果。提供可复用的 agent skill 与界面模板，输出精美直观。适合设计师和前端工程师快速制作品牌宣传图或组件展示。",
+      "category": "前端",
+      "createdAt": "2026-10-23T12:20:16Z"
+    },
+    {
+      "repo": "andyhuo520/digital-human-koubo",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "language": "TypeScript",
+      "stars": 1505,
+      "summaryZh": "只需一张照片即可生成 AI 数字人口播视频，基于 Renoise MCP 驱动，内置 5 种剪辑风格和 48 个创作者级包装组件。以 Agent skill 形式提供，支持 Claude Code、Codex 等代理。适合做短视频口播、知识科普类内容的自媒体创作者。",
+      "category": "AI",
+      "createdAt": "2026-10-26T04:34:09Z"
+    },
+    {
+      "repo": "morganlinton/BeautifulRust",
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "language": "Python",
+      "stars": 1429,
+      "summaryZh": "这套 Agent Skills 教编程代理写出、审查和迁移地道的 Rust 代码，并附带经过测试的 clippy 配置。兼容 Claude Code、Codex、Copilot、Cursor 和 Gemini CLI。适合团队统一 Rust 代码风格、提升代码审查与跨语言移植质量。",
+      "category": "开发工具",
+      "createdAt": "2026-10-23T03:01:11Z"
+    },
+    {
+      "repo": "DenisSergeevitch/ex-ussr-kinship-research",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "language": "Python",
+      "stars": 1278,
+      "summaryZh": "面向 AI 代理的前苏联家谱研究技能，覆盖教会簿、民事、军事、流放与镇压档案，强调证据溯源。支持 Codex 与 Claude Code，并能用用户的语言回复。适合研究前苏联地区家族史、做谱系溯源的人使用。",
+      "category": "资料教程",
+      "createdAt": "2026-10-25T10:05:56Z"
+    },
+    {
+      "repo": "Motionsites-AI/claude-skill",
+      "url": "https://github.com/Motionsites-AI/claude-skill",
+      "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "language": "Python",
+      "stars": 1103,
+      "summaryZh": "MotionSites 提供的免费 Claude 技能，能让 Claude 生成获奖级的电影感落地页，包含精致的动效与版式设计。以 Python 打包的技能形式即插即用。适合缺乏设计资源、想快速产出高品质营销页面的人。",
+      "category": "AI",
+      "createdAt": "2026-10-26T06:58:45Z"
+    },
+    {
+      "repo": "aschmelyun/print-my-profile-pic",
+      "url": "https://github.com/aschmelyun/print-my-profile-pic",
+      "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+      "language": "",
+      "stars": 1045,
+      "summaryZh": "一个趣味实验项目：给它点星后，你的 GitHub 头像会被真实打印到热敏小票打印机上。没有复杂功能，纯粹是开发者式的浪漫玩笑。适合喜欢折腾硬件、想体验被打印头像的开发者凑个热闹。",
+      "category": "其他",
+      "createdAt": "2026-10-27T20:40:05Z"
+    },
+    {
+      "repo": "smithjohn78390/tongjiang-lab",
+      "url": "https://github.com/smithjohn78390/tongjiang-lab",
+      "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+      "language": "HTML",
+      "stars": 1020,
+      "summaryZh": "铜匠实验室提供免费的中学 3D 互动科学课程，涵盖物理、化学、生物和地理，基于 Three.js 与 WebGL 在浏览器中运行。内容为开放教育资源，直观可交互。适合高中生自主学习，也适合教师课堂演示。",
+      "category": "资料教程",
+      "createdAt": "2026-10-28T04:29:29Z"
+    },
+    {
+      "repo": "KillaBoi/StealMyBitcoin-PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "description": "A public release of the Steal My Bitcoin challenge",
+      "language": "Python",
+      "stars": 1007,
+      "summaryZh": "这是“Steal My Bitcoin”挑战的公开实现，用 Python 构造了一个可被尝试攻破的比特币钱包场景。项目以 PoC 形式展示密钥安全与攻击思路。适合对区块链安全、密码学攻防感兴趣的开发者和 CTF 爱好者研究。",
+      "category": "其他",
+      "createdAt": "2026-10-25T21:48:32Z"
+    },
+    {
+      "repo": "qybaihe/bla",
+      "url": "https://github.com/qybaihe/bla",
+      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "language": "TypeScript",
+      "stars": 974,
+      "summaryZh": "BLA（盲化 LLM 代理）是一套对抗式防护盾，保护二进制、Electron 应用、JS 包、Python 与 WebAssembly 免受 REA 等 AI 逆向代理分析，采用投毒、耗尽等策略。适合需要发布软件又担心被 AI 逆向工程的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-25T05:25:45Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "da-luce/astroterm",
+      "url": "https://github.com/da-luce/astroterm",
+      "description": "A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐",
+      "language": "C",
+      "stars": 2152,
+      "summaryZh": "Astroterm 是一款运行在终端里的天文馆程序，用 ASCII 字符渲染星空、行星与星座，让你在命令行中探索宇宙。使用 C 编写，轻量且可当作屏保或终端玩具。适合终端爱好者和想在命令行里仰望星空的人。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 61 分 · 4 评论",
+      "reasonZh": "在终端里跑一个星空馆，用 ASCII 画出星座、行星和星空漫游，纯 C 无依赖，装上就能玩。和常见的 TUI 工具不同，它更像一个能当屏保的太空玩具，摸鱼或让终端跑起来时特别有氛围。"
+    },
+    {
+      "repo": "johncassil/dontallow",
+      "url": "https://github.com/johncassil/dontallow",
+      "description": "Auto-dismiss the macOS 'Allow X to find devices on local networks?' prompt. Presses Don't Allow for you, zero CPU idle, survives reboots.",
+      "language": "Swift",
+      "stars": 55,
+      "summaryZh": "这个 macOS 小工具会自动替用户点击“不允许”来关闭“允许某应用查找本地网络设备”的弹窗，空闲时零 CPU 占用，重启后依然生效。基于辅助功能与 launchd 实现。适合注重隐私、不想被反复弹窗打扰的 Mac 用户。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 120 分 · 91 评论",
+      "reasonZh": "Mac 上那个“允许查找本地网络设备”的弹窗天天烦人，这东西用辅助功能帮你自动点“不允许”，空闲零 CPU、重启还活着。比手动关服务省心，注重隐私又懒得每次点的人直接装就行。"
+    },
+    {
+      "repo": "xevrion/hatchzip",
+      "url": "https://github.com/xevrion/hatchzip",
+      "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+      "language": "Rust",
+      "stars": 2326,
+      "summaryZh": "HatchZip 是免费开源的跨平台压缩包解压器，支持 ZIP、7z、RAR、tar 及分卷压缩包就地解压，因此只需为解压出的文件预留空间。用 Rust 编写，提供 CLI 与图形界面，兼顾崩溃安全。适合磁盘紧张、经常处理大型压缩包的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +575（+33%）",
+      "reasonZh": "跨平台压缩包解压器，最大亮点是原地解压，不需要额外腾出和压缩包一样大的空间，还带 GUI 和 CLI。跟普通解压工具比，处理几十 G 大包或磁盘紧张时特别实用，Rust 写的也稳。"
+    },
+    {
+      "repo": "rohit267/net-merge",
+      "url": "https://github.com/net-merge/net-merge",
+      "description": "Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers",
+      "language": "Go",
+      "stars": 2635,
+      "summaryZh": "net-merge 能把 Wi-Fi、以太网、移动数据和手机网络共享等多条网络同时聚合使用，在 Windows、macOS、Linux 和 Android 上按连接做负载均衡。用 Go 编写，通过 TUN 与 wintun 实现。适合需要叠加带宽或提升弱网稳定性的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +816（+45%）",
+      "reasonZh": "把 Wi-Fi、有线、手机热点几路网络合并同时用，做按连接负载均衡，Windows/macOS/Linux/Android 全支持。比单纯多拨或聚合方案更亲民，下载大文件、直播推流、网络不稳时能明显提速。"
+    },
+    {
+      "repo": "dsmurrell/onkey",
+      "url": "https://github.com/dsmurrell/onkey",
+      "description": "Learn to sing the songs you love. A free, open-source singing trainer for Mac that listens to the music you play.",
+      "language": "Rust",
+      "stars": 359,
+      "summaryZh": "一款面向 Mac 的开源唱歌训练器，通过麦克风捕捉你跟随音乐演唱的音高并实时反馈，帮你练习音准。用 Rust + Tauri 构建，结合 ONNX 模型做音高检测，原生支持 Apple Silicon。适合想自学唱歌、练音准的 macOS 用户。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +113（+46%）",
+      "reasonZh": "用 iPhone 的 LiDAR 和照片扫房间，重建成可在浏览器里编辑浏览的 Three.js 场景，从拍到看一条龙。比起专业建模软件门槛低太多，做房产展示、装修预览或游戏场景原型时直接能用。"
+    },
+    {
+      "repo": "flyfish-dev/file-viewer",
+      "url": "https://github.com/flyfish-dev/file-viewer",
+      "description": "Preview 275+ file formats in the browser: Office, PDF, OFD, CAD, 3D, archives. Pure frontend, no server conversion. Vue / React / Svelte / Web Components.",
+      "language": "TypeScript",
+      "stars": 2667,
+      "summaryZh": "纯前端的多格式文件预览组件，支持 Office、PDF、OFD、CAD、3D、压缩包等 275+ 种格式，无需服务端转换。提供 Vue / React / Svelte / Web Components 多框架封装，可私有化部署。适合需要在 Web 应用中嵌入文档预览、又不想依赖第三方云服务的开发者。",
+      "category": "前端",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "纯前端预览 275+ 种文件格式，Office、PDF、CAD、3D、压缩包都能在浏览器里看，不用服务端转换。和需要后端解析的方案比部署极简，Vue/React/Svelte 都能嵌，做网盘或内部文档系统时很方便。"
+    },
+    {
+      "repo": "brightbeanxyz/brightbean-studio",
+      "url": "https://github.com/brightbeanxyz/brightbean-studio",
+      "description": "Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot.",
+      "language": "Python",
+      "stars": 2596,
+      "summaryZh": "开源自托管的社交媒体管理平台，可在统一看板中为 10+ 平台排期、发布和管理内容。基于 Django + HTMX + Tailwind 构建，支持 Docker 部署，是 Buffer、Sendible 的免费替代品。适合注重数据隐私、希望自建社媒运营工具的团队或独立创作者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · self-hosted",
+      "reasonZh": "开源自托管的社媒管理平台，一个面板排期发布 10+ 平台内容，对标 Buffer、SocialPilot 但免费可自建。小团队或工作室不想按月付费、又想集中管多账号时，直接 Docker 起来就能用。"
+    }
+  ]
+}
