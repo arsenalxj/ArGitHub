@@ -1,0 +1,429 @@
+{
+  "date": "2026-10-31",
+  "trending": [
+    {
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 106608,
+      "summaryZh": "为 AI 代理提供跨会话持久记忆，自动记录会话过程、用 AI 压缩并回注相关上下文。适合需要长期维护项目状态、避免重复说明背景的 Claude 等代理用户。",
+      "category": "AI",
+      "starsToday": 1140
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": 8902,
+      "summaryZh": "开源 Grok Bot 替代方案，为机器人分配可操作的虚拟机环境。核心亮点是让代理在隔离系统中执行任务，适合想自建自动化代理、探索 AI 操作计算机场景的开发者。",
+      "category": "AI",
+      "starsToday": 895
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars": 97322,
+      "summaryZh": "给编码代理的设计词汇表，用 polish、bolder 等指令引导润色，用 critique、audit 做审查。能在 AI 生成代码上线前拦截粗糙设计，适合关注 UI 质量的开发者和代理使用者。",
+      "category": "开发工具",
+      "starsToday": 2300
+    },
+    {
+      "repo": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "stars": 8909,
+      "summaryZh": "开源 AI 同事，每个代理拥有独立浏览器、文件和工具，所有动作先决策后留痕。支持接入任意 AG-UI 代理，适合构建可审计、可复现的自动化办公或代理协作流程。",
+      "category": "AI",
+      "starsToday": 706
+    },
+    {
+      "repo": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "stars": 11497,
+      "summaryZh": "紫微斗数开源排盘引擎，基于倪海厦《天纪》体系，包含完整排盘算法、四化系统、格局知识库与古籍原文数据。适合命理研究者、传统文化爱好者或需集成排盘能力的应用开发。",
+      "category": "其他",
+      "starsToday": 1126
+    },
+    {
+      "repo": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "language": "Shell",
+      "stars": 3926,
+      "summaryZh": "面向 Expo 项目与 Expo Application Services 的 AI 代理技能集合，帮助代理理解并操作 Expo 工作流。适合用 AI 辅助开发 React Native 应用、需要标准化代理技能的团队。",
+      "category": "开发工具",
+      "starsToday": 38
+    },
+    {
+      "repo": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars": 5930,
+      "summaryZh": "统一团队工作空间，整合邮件、聊天、文档、任务、代理、通话与 CRM，通过 @ 链接和共享 AI 记忆串联。适合希望用一个平台替代多工具、让代理参与协作的团队。",
+      "category": "开发工具",
+      "starsToday": 57
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 307633,
+      "summaryZh": "来自作者 .agents 目录的实用工程师技能合集，面向真实软件开发场景沉淀可直接复用的代理指令。适合想借鉴成熟技能配置、提升编码代理效率的工程师。",
+      "category": "开发工具",
+      "starsToday": 876
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 32991,
+      "summaryZh": "TypeScript 编写的编码相关项目，仓库未提供详细描述，从命名和语言看偏向开发工具方向。适合关注 T3 生态、想探索其代码工具实现方式的开发者参考。",
+      "category": "开发工具",
+      "starsToday": 930
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "stars": 51964,
+      "summaryZh": "面向终身学习的个性化 AI 辅导系统，根据学习者情况持续调整教学。核心是长期跟踪与个性化指导，适合学生、自学者或教育产品开发者研究智能辅导实现。",
+      "category": "AI",
+      "starsToday": 2282
+    },
+    {
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 185481,
+      "summaryZh": "Anthropic 官方公开的 Agent Skills 仓库，提供代理技能的标准示例与实现参考。适合想按官方规范编写、组织或集成代理技能的开发者与团队。",
+      "category": "AI",
+      "starsToday": 295
+    },
+    {
+      "repo": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars": 6664,
+      "summaryZh": "JetBrains 出品的轻量真实 IDE，支持 vibe coding，并可根据个人工作方式自我定制。适合追求轻量编辑体验、又希望 IDE 随习惯演进的开发者。",
+      "category": "开发工具",
+      "starsToday": 722
+    },
+    {
+      "repo": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "",
+      "stars": 11470,
+      "summaryZh": "个人整理的越狱提示词集合仓库，汇集多种针对大模型的越狱方法。适合研究提示词安全、测试模型防护边界的研究者参考，普通用户需注意合规与风险。",
+      "category": "资料教程",
+      "starsToday": 2055
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 309548,
+      "summaryZh": "一套经过实践验证的代理技能框架与软件开发方法论，提供可落地的技能组织方式。适合希望用代理系统化推进开发、建立可复用工作流的团队和工程师。",
+      "category": "开发工具",
+      "starsToday": 1259
+    },
+    {
+      "repo": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "language": "Zig",
+      "stars": 38585,
+      "summaryZh": "用 Zig 编写的无头浏览器，专为 AI 与自动化场景设计，强调轻量与高性能。适合需要为代理提供网页访问能力、搭建爬虫或自动化测试基础设施的开发者。",
+      "category": "开发工具",
+      "starsToday": 626
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "description": "",
+      "language": "",
+      "stars": 5452,
+      "summaryZh": "由 Uncle Bob 发布的编程模式与代码规范集合，提炼面向对象设计中的原则与实用范例，帮助开发者写出更清晰可维护的代码。适合想系统学习设计模式、提升代码质量的工程师参考阅读。",
+      "category": "开发工具",
+      "createdAt": "2026-10-25T16:04:09Z"
+    },
+    {
+      "repo": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "language": "Python",
+      "stars": 5167,
+      "summaryZh": "通过 ADB 关闭国产安卓手机系统内置广告、热搜、资讯推荐与营销推送，无需 root 且可随时还原。覆盖 ColorOS、HyperOS、MagicOS 等主流定制系统，并支持 AI 智能体一键执行，适合受系统广告困扰的安卓用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-24T05:35:47Z"
+    },
+    {
+      "repo": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "language": "TypeScript",
+      "stars": 4141,
+      "summaryZh": "中文版 AI 绘画姿势参考图库，收录 1439 组共 2878 张图片并完成完整汉化，采用零依赖静态画廊方案部署。适合 AI 绘画创作者查找构图参考，也便于搭建自有图库站点。",
+      "category": "AI",
+      "createdAt": "2026-10-27T12:24:37Z"
+    },
+    {
+      "repo": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "language": "Python",
+      "stars": 3899,
+      "summaryZh": "免费开源的离线检测工具，用于排查已知雇佣兵间谍软件留下的痕迹，覆盖 Windows、macOS、Linux、Android 手机和 iPhone 备份。适合关注隐私安全、需要自查设备是否被监控的个人与安全研究人员使用。",
+      "category": "开发工具",
+      "createdAt": "2026-10-25T14:41:34Z"
+    },
+    {
+      "repo": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "language": "TypeScript",
+      "stars": 3410,
+      "summaryZh": "开源雅思词汇学习应用，内置 7298 个带插图的单词、英式与美式发音音频，并采用 FSRS 间隔重复算法安排复习。配套 CC BY 4.0 数据集，适合备考雅思或想系统扩充词汇的英语学习者。",
+      "category": "资料教程",
+      "createdAt": "2026-10-25T08:27:22Z"
+    },
+    {
+      "repo": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "language": "Dart",
+      "stars": 2831,
+      "summaryZh": "把 DeepSeek Harness 装进口袋的 AI 智能体客户端，既能在手机本机运行，也能远程遥控电脑上的编程任务。基于 Flutter 开发，适合希望随时随地调用编程智能体的开发者。",
+      "category": "AI",
+      "createdAt": "2026-10-25T08:09:52Z"
+    },
+    {
+      "repo": "t3dotgg/tstack",
+      "url": "https://github.com/t3dotgg/tstack",
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "language": "Python",
+      "stars": 2480,
+      "summaryZh": "作者日常使用的 AI 智能体技能集合，兼容 Claude Code 与 Codex，可复用于常见开发任务。适合正在搭建个人智能体工作流、想借鉴实用技能配置的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-24T05:00:20Z"
+    },
+    {
+      "repo": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "language": "C",
+      "stars": 1822,
+      "summaryZh": "将《塞尔达传说：王国之泪》静态重编译为原生 Windows x86-64 程序，并配套 Vulkan 渲染器，不含游戏文件。适合对静态重编译技术感兴趣的研究者，或想在 PC 上体验该作的玩家。",
+      "category": "游戏",
+      "createdAt": "2026-10-29T12:32:46Z"
+    },
+    {
+      "repo": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "language": "Kotlin",
+      "stars": 1744,
+      "summaryZh": "运行在安卓手机上的私人 AI 助理，基于无障碍服务替你操作 App、浏览网页并完成任务。使用 Kotlin 与 Jetpack Compose 构建，适合想用手机端智能体实现自动化的用户。",
+      "category": "AI",
+      "createdAt": "2026-10-29T14:34:07Z"
+    },
+    {
+      "repo": "andyhuo520/digital-human-koubo",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "language": "TypeScript",
+      "stars": 1562,
+      "summaryZh": "只需一张照片即可生成 AI 数字人口播视频，集成 Renoise MCP 生成、5 种剪辑风格和 48 个创作者级包装组件。可作为 Claude Code、Codex 等智能体的技能使用，适合短视频创作者快速产出内容。",
+      "category": "AI",
+      "createdAt": "2026-10-26T04:34:09Z"
+    },
+    {
+      "repo": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "language": "JavaScript",
+      "stars": 1558,
+      "summaryZh": "一个 Claude 技能，把凭感觉写出来、充满 AI 味的界面改造成经过设计的专业 UI。适合使用 Claude Code 做前端开发、希望提升界面质感与设计一致性的开发者。",
+      "category": "前端",
+      "createdAt": "2026-10-29T15:41:21Z"
+    },
+    {
+      "repo": "qybaihe/bla",
+      "url": "https://github.com/qybaihe/bla",
+      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "language": "TypeScript",
+      "stars": 1494,
+      "summaryZh": "盲化 LLM 智能体防御盾，通过投毒、耗尽等对抗手段保护二进制、Electron 应用、JS 包、Python 与 WebAssembly 不被 AI 逆向工程工具解析。适合关注代码保护与 LLM 安全的产品与安全团队。",
+      "category": "开发工具",
+      "createdAt": "2026-10-25T05:25:45Z"
+    },
+    {
+      "repo": "paipiange/nvzhuang",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "language": "Go",
+      "stars": 1364,
+      "summaryZh": "收录 1407 张 AI 女装参考图集并搭建虚拟试穿网站，支持中英文检索，可接入 OpenAI Images、Gemini、豆包及自定义 Base URL 与模型。适合电商服装展示与 AI 绘图创作者使用。",
+      "category": "AI",
+      "createdAt": "2026-10-29T06:08:00Z"
+    },
+    {
+      "repo": "DenisSergeevitch/ex-ussr-kinship-research",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "language": "Python",
+      "stars": 1350,
+      "summaryZh": "面向 AI 智能体的证据优先家谱研究技能，可检索前苏联地区的教会簿册、民事、军事、流放与镇压档案，并用你的语言回复。适合研究家族史、需要系统梳理苏联时期档案线索的用户。",
+      "category": "资料教程",
+      "createdAt": "2026-10-25T10:05:56Z"
+    },
+    {
+      "repo": "aschmelyun/print-my-profile-pic",
+      "url": "https://github.com/aschmelyun/print-my-profile-pic",
+      "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+      "language": "",
+      "stars": 1257,
+      "summaryZh": "一个趣味实验项目：给仓库点星后，你的 GitHub 头像会被打印到热敏小票打印机上。适合喜欢新奇硬件玩法、想体验实时打印互动的开发者围观或复刻。",
+      "category": "其他",
+      "createdAt": "2026-10-27T20:40:05Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "da-luce/astroterm",
+      "url": "https://github.com/da-luce/astroterm",
+      "description": "A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐",
+      "language": "C",
+      "stars": 2450,
+      "summaryZh": "一款运行在终端里的天文馆工具，用 ASCII 字符在命令行中渲染星空、行星和星座，可交互探索天象。基于 C 语言实现，适合 Linux/Unix 用户、终端爱好者，以及想给屏幕加个星空屏保或闲暇观星的人。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 230 分 · 27 评论",
+      "reasonZh": "在终端里跑星图，用 ASCII 和 TUI 画出星空、行星和星座，还能当屏保用。同类天文软件大多是图形界面或网页，它偏偏把天文馆塞进命令行，SSH 到服务器也能看星星。适合喜欢终端美学、想给 tmux 配个炫酷 pane 的开发者。"
+    },
+    {
+      "repo": "johncassil/dontallow",
+      "url": "https://github.com/johncassil/dontallow",
+      "description": "Auto-dismiss the macOS 'Allow X to find devices on local networks?' prompt. Presses Don't Allow for you, zero CPU idle, survives reboots.",
+      "language": "Swift",
+      "stars": 89,
+      "summaryZh": "自动替用户点击 macOS「允许 X 查找本地网络设备」弹窗中的「不允许」，守护隐私。基于 Swift 与 launchd 实现，空闲时零 CPU 占用且重启后仍生效，适合在意本地网络权限的 Mac 用户。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 149 分 · 126 评论",
+      "reasonZh": "macOS 那个“允许 XX 查找本地网络设备”弹窗烦人又没全局开关，这个工具自动帮你点“不允许”，用辅助功能 API 实现、待机零 CPU、重启后依然生效。比起手动关功能或装大而全的隐私套件，它就干一件事，装完就忘，Mac 用户保护局域网隐私的好选择。"
+    },
+    {
+      "repo": "xevrion/hatchzip",
+      "url": "https://github.com/xevrion/hatchzip",
+      "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+      "language": "Rust",
+      "stars": 2358,
+      "summaryZh": "免费开源的跨平台压缩包解压工具，支持 ZIP、7z、RAR、tar 及分卷压缩包的原地解压，只需为解压出的文件预留空间。用 Rust 编写，带 CLI 与 GUI，崩溃安全，适合磁盘空间紧张或需要批量解压的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +607（+35%）",
+      "reasonZh": "解压工具里的清流：就地解压，只占解压后所需的磁盘空间，还防崩溃断电，支持 ZIP/7z/RAR/tar 和分卷。同类工具要么要先留双倍空间，要么界面臃肿，它用 Rust 写的跨平台 GUI+CLI 轻巧可靠。硬盘快满时解压大压缩包正是它的主场。"
+    },
+    {
+      "repo": "rohit267/net-merge",
+      "url": "https://github.com/net-merge/net-merge",
+      "description": "Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers",
+      "language": "Go",
+      "stars": 2669,
+      "summaryZh": "把 Wi-Fi、有线、移动数据和手机热点等多条网络同时聚合使用的工具，按连接做负载均衡以提升带宽。用 Go 编写，支持 Windows、macOS、Linux 和 Android，适合需要加速下载或多链路冗余的网络用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +649（+32%）",
+      "reasonZh": "把 Wi-Fi、以太网、手机热点同时用起来做按连接负载均衡，Windows/macOS/Linux/Android 全支持。和传统多网卡绑定不同，它用 TUN 加逐连接调度，手机 USB 共享也能当带宽，大文件下载、多人共享网络时提速明显，普通用户也能一键装。"
+    },
+    {
+      "repo": "dbreunig/nesformer",
+      "url": "https://github.com/dbreunig/nesformer",
+      "description": "An NES CPU compiled into the weights of a stock Qwen3.5 model",
+      "language": "Python",
+      "stars": 185,
+      "summaryZh": "一个实验性项目，把 NES 的 CPU 逻辑编译进 Qwen3.5 模型权重中，用大模型模拟运行红白机处理器。展示了权重承载程序行为的有趣思路，适合对模型可解释性、神经网络计算能力好奇的研究者和极客。",
+      "category": "AI",
+      "source": "hn",
+      "signal": "HN 226 分 · 118 评论",
+      "reasonZh": "把 NES 模拟器逻辑直接编译进 LLM 权重里，属于“这也能行”型的脑洞项目。它不是普通模拟器，发布形式就是一个可直接跑的权重包，能亲眼看到模型“梦游”出游戏帧。适合好奇心重的玩家和 AI 爱好者尝鲜，理解模型权重能存什么。"
+    },
+    {
+      "repo": "dsmurrell/onkey",
+      "url": "https://github.com/dsmurrell/onkey",
+      "description": "Learn to sing the songs you love. A free, open-source singing trainer for Mac that listens to the music you play.",
+      "language": "Rust",
+      "stars": 370,
+      "summaryZh": "Mac 上的免费开源唱歌训练器，能监听你播放的歌曲并实时检测音高，帮你练习唱准喜欢的歌。用 Rust、Tauri 和 ONNX 构建，适合想自学唱歌、改善音准的音乐爱好者。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +124（+50%）",
+      "reasonZh": "免费开源的 macOS 唱歌训练器，能监听你放的音乐并实时给你音准反馈，Rust+Tauri+ONNX 本地推理，不上传录音。同类 App 多为订阅制且要联网，它完全离线、代码开源，想练唱歌又在意隐私的人直接装来用。"
+    },
+    {
+      "repo": "FrigadeHQ/hob",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "description": "An easier way to use AI on your own computer. A free, open-source alternative to Claude and ChatGPT that runs open-weight models like Gemma and gpt-oss locally on Mac, Windows and Linux. Private, and works offline.",
+      "language": "TypeScript",
+      "stars": 396,
+      "summaryZh": "在你自己的电脑上使用 AI 的桌面应用，是 Claude 和 ChatGPT 的开源替代品，可在 Mac、Windows、Linux 本地运行 Gemma、gpt-oss 等开放权重模型。支持 MCP 与离线使用，适合注重隐私、想本地跑大模型的用户。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +237（+149%）",
+      "reasonZh": "本地跑开源模型（Gemma、gpt-oss）的桌面 AI 客户端，跨三平台、自带 MCP 和智能体能力，是 Claude/ChatGPT 的免费离线替代。和一堆自托管 Web 方案比，它是开箱即用的 Electron 应用，不折腾部署，注重隐私、想断网用 AI 的普通用户首选。"
+    },
+    {
+      "repo": "lyramakesmusic/neuron-explorer",
+      "url": "https://github.com/lyramakesmusic/neuron-explorer",
+      "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+      "language": "Python",
+      "stars": 1752,
+      "summaryZh": "面向 Qwen3.5-4B 的神经元探索工具，可对每个 MLP 神经元施加引导并保留全部 rollout 结果供浏览。聚焦机制可解释性研究，适合想分析大模型内部神经元行为、做 steering 实验的研究者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +450（+35%）",
+      "reasonZh": "面向 Qwen3.5-4B 的“引导优先”神经元浏览器，能推每个 MLP 神经元、保留全部 rollout 再浏览结果。可解释性工具大多偏研究脚本，它做成了可交互的产品体验，模型发烧友和做机制解释的人能直接玩起来，看神经元怎么影响输出。"
+    },
+    {
+      "repo": "iamsrikanthnani/pluely",
+      "url": "https://github.com/iamsrikanthnani/pluely",
+      "description": "The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in video calls, screen shares, and recordings.",
+      "language": "TypeScript",
+      "stars": 2769,
+      "summaryZh": "Cluely 的开源替代品，一款隐蔽快速的隐私优先 AI 助手，可在会议、面试和对话中实时提供帮助而不被察觉。基于 Tauri、React 和 Rust 构建，支持语音转文字，适合需要实时辅助又不想暴露的用户。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "Cluely 的开源替代：开会、面试时隐形浮窗 AI 助手，Tauri 打造、隐私优先、不被人发现。相比闭源的同类偷听工具，它代码公开可审计、支持多家模型，想在在线会议中悄悄要提示或做速记的个人用户能直接安装配置。"
+    },
+    {
+      "repo": "runkids/skillshare",
+      "url": "https://github.com/runkids/skillshare",
+      "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.",
+      "language": "Go",
+      "stars": 2867,
+      "summaryZh": "用一条命令把技能、agents、MCP 和插件同步到所有 AI CLI 工具，并简化团队共享。用 Go 编写，支持跨机器同步与技能审计，适合同时使用 Claude Code、Codex 等多个 AI 编程工具的团队和开发者。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · desktop-app",
+      "reasonZh": "一条命令把 skills、agents、MCP 配置同步到所有 AI CLI 工具，团队共享也简单。现在 Claude Code、Codex、OpenCode 各有一套配置目录，手动维护易乱，它统一管理还能做审计。多工具重度用户和需要统一团队 AI 配置的场景很实用。"
+    }
+  ]
+}
