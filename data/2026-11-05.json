@@ -1,0 +1,429 @@
+{
+  "date": "2026-11-05",
+  "trending": [
+    {
+      "repo": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "stars": 5755,
+      "summaryZh": "一个 Python 框架，用于在数据之上构建基于语义图的推理层。它能生成确定性查询、提升上下文检索质量，并让 LLM 的推理过程更可解释，适合需要可靠 RAG 与知识图谱推理的 AI 开发者。",
+      "category": "AI",
+      "starsToday": 2050
+    },
+    {
+      "repo": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "stars": 11190,
+      "summaryZh": "用 Rust 编写的 Git worktree 命令行管理工具，专为并行运行的 AI 智能体工作流设计。它简化多工作树创建、切换与清理，让多个智能体同时改代码而不互相干扰，适合重度使用 AI 编码代理的开发者。",
+      "category": "开发工具",
+      "starsToday": 531
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 313737,
+      "summaryZh": "来自作者 .agents 目录的一套面向真实工程师的技能集合，用 Shell 脚本组织可复用的智能体指令与工作流。内容偏实践、可直接套用到 Claude 等代理中，适合想让 AI 编码助手更贴合工程习惯的开发者。",
+      "category": "开发工具",
+      "starsToday": 1379
+    },
+    {
+      "repo": "floci-io/floci",
+      "url": "https://github.com/floci-io/floci",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "language": "Java",
+      "stars": 29821,
+      "summaryZh": "一个轻量、免费且易用的 AWS 本地模拟器替代方案，用 Java 实现，可在本地提供接近真实的云服务行为。适合需要离线开发、测试云应用的团队，降低对真实 AWS 账号和费用的依赖。",
+      "category": "开发工具",
+      "starsToday": 1090
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 113086,
+      "summaryZh": "为智能体提供跨会话的持久上下文：记录会话中发生的一切，用 AI 压缩后在未来会话中注入相关记忆。TypeScript 实现，兼容 Claude 等代理，适合希望 AI 助手记住历史决策与项目状态的开发者。",
+      "category": "AI",
+      "starsToday": 1172
+    },
+    {
+      "repo": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "language": "Rust",
+      "stars": 15733,
+      "summaryZh": "用 Rust 编写的命令行工具，让 AI 智能体可以像人一样操作桌面电脑。它把鼠标键盘与界面交互封装成代理可调用的能力，适合需要让智能体自动完成本地 GUI 任务的自动化场景。",
+      "category": "AI",
+      "starsToday": 2470
+    },
+    {
+      "repo": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with SDD or any other process!",
+      "language": "Python",
+      "stars": 147490,
+      "summaryZh": "GitHub 官方推出的工具包，帮助团队快速上手规格驱动开发（SDD）等流程。提供模板与脚手架，把需求规格、计划与实现串联起来，适合想用规范流程组织 AI 辅助开发的工程团队。",
+      "category": "开发工具",
+      "starsToday": 808
+    },
+    {
+      "repo": "The-PR-Agent/pr-agent",
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "language": "Python",
+      "stars": 14904,
+      "summaryZh": "开源 PR 审查代理的原始项目，用 Python 实现，可自动分析拉取请求并给出评审意见。它不是 Qodo 免费版，强调自主开源，适合想在 CI 中引入自动代码审查的团队与个人开发者。",
+      "category": "开发工具",
+      "starsToday": 280
+    },
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 139281,
+      "summaryZh": "基于 AI 大模型与自动化工作流，根据主题或关键词一键生成高清短视频。自动完成文案、素材与合成流程，适合内容创作者和自媒体运营快速批量产出短视频，无需专业剪辑经验。",
+      "category": "AI",
+      "starsToday": 617
+    },
+    {
+      "repo": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars": 139500,
+      "summaryZh": "把 Garry Tan 的 Claude Code 配置原样打包：23 个有主见的工具分别扮演 CEO、设计师、工程经理、发布经理、文档工程师和 QA。TypeScript 实现，适合想直接借鉴成熟 AI 编码工作流的开发者。",
+      "category": "开发工具",
+      "starsToday": 290
+    },
+    {
+      "repo": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "description": "",
+      "language": "C#",
+      "stars": 6822,
+      "summaryZh": "一个用 C# 编写的光盘镜像处理工具，面向镜像制作、浏览与转换等常见需求。界面化操作降低门槛，适合需要备份光盘、管理 ISO 等镜像文件的 Windows 用户和收藏爱好者。",
+      "category": "其他",
+      "starsToday": 1778
+    },
+    {
+      "repo": "MichaelCade/90DaysOfDevOps",
+      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
+      "language": "Shell",
+      "stars": 30609,
+      "summaryZh": "一份结构化的 DevOps 学习路线图，源自作者公开学习计划，已积累三年内容，覆盖容器、云、CI/CD 等主题。用 Shell 和文档组织，适合想系统入门或查漏补缺的运维与开发人员。",
+      "category": "资料教程",
+      "starsToday": 97
+    },
+    {
+      "repo": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "language": "Python",
+      "stars": 96975,
+      "summaryZh": "一个 Python 网页抓取框架，号称从单次请求到大规模爬取都能覆盖。内置反爬应对、自适应解析与并发能力，适合需要采集网页数据的开发者，从简单脚本到完整爬虫项目均可使用。",
+      "category": "开发工具",
+      "starsToday": 2005
+    },
+    {
+      "repo": "Thysrael/Horizon",
+      "url": "https://github.com/Thysrael/Horizon",
+      "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+      "language": "Python",
+      "stars": 12705,
+      "summaryZh": "用 AI 构建的个人新闻雷达，自动聚合信息并生成中英文每日简报。可自定义关注主题，把海量资讯筛成要点，适合想高效跟踪行业动态、又不想被信息流淹没的从业者。",
+      "category": "AI",
+      "starsToday": 121
+    },
+    {
+      "repo": "scenario-labs/skills",
+      "url": "https://github.com/scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "language": "Python",
+      "stars": 2611,
+      "summaryZh": "一组面向 AI 智能体的技能，让代理通过 Scenario MCP 生成生产级图片、视频、音频和 3D 内容。技能会挑选合适模型、先估价再消费，并保持角色与品牌一致，适合需要批量生成视觉素材的创作者。",
+      "category": "AI",
+      "starsToday": 224
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "language": "TypeScript",
+      "stars": 18910,
+      "summaryZh": "DeepSeek 开源的自主智能体系统原型，用 TypeScript 实现，探索比现有 Agent 更少人工干预的任务规划与执行机制。核心亮点是围绕自主性设计的 Agent 架构与工具调用能力。适合研究 Agent 系统设计和多步任务自动化的开发者参考。",
+      "category": "AI",
+      "createdAt": "2026-10-31T09:32:46Z"
+    },
+    {
+      "repo": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "language": "Rust",
+      "stars": 12987,
+      "summaryZh": "一个用 Rust 编写的工具，帮助用户理解任意软件的内部工作原理，并在此基础上动手打造自己的版本。核心功能是解析与复现软件行为，降低逆向学习和二次开发的门槛。适合想深入研究软件实现、做学习型复刻或教学演示的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-31T14:50:00Z"
+    },
+    {
+      "repo": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "language": "JavaScript",
+      "stars": 8927,
+      "summaryZh": "一个 Claude 技能插件，用 JavaScript 编写，专门把 AI 生成、一眼假的“vibecoded”界面改造成有设计感的 UI。核心能力是识别模板化视觉问题并给出更专业的布局与样式。适合用 AI 快速出原型、又想让成品看起来不像模板的前端与独立开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-29T15:41:21Z"
+    },
+    {
+      "repo": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "language": "Kotlin",
+      "stars": 6811,
+      "summaryZh": "面向 Android 的端侧 AI Agent，用 Kotlin 和 Jetpack Compose 构建，通过无障碍能力操作手机应用和网页自动完成任务。核心亮点是本地运行、无需云端即可操控 App。适合希望用手机自动化处理重复操作、又注重隐私的用户。",
+      "category": "AI",
+      "createdAt": "2026-10-29T14:34:07Z"
+    },
+    {
+      "repo": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+      "language": "C",
+      "stars": 4927,
+      "summaryZh": "将《塞尔达传说：王国之泪》静态重编译为 Windows 和 Linux x86-64 原生程序的项目，用 C 编写并配套 Vulkan 渲染器，不含游戏文件。核心亮点是静态重编译技术而非模拟器方案。适合关注游戏逆向、重编译移植和原生运行性能的技术玩家。",
+      "category": "游戏",
+      "createdAt": "2026-10-29T12:32:46Z"
+    },
+    {
+      "repo": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "language": "JavaScript",
+      "stars": 4889,
+      "summaryZh": "收录 244 个像素风视觉特效的项目，每个特效都是一小段可读的 JavaScript 代码，并附带 Claude Code 技能帮你自制效果。核心亮点是代码即特效、可拆解复用。适合游戏开发、像素动画和 Canvas 特效创作者直接取用或改造。",
+      "category": "游戏",
+      "createdAt": "2026-10-30T06:43:25Z"
+    },
+    {
+      "repo": "Djihads80/Eglantine",
+      "url": "https://github.com/Djihads80/Eglantine",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "language": "C++",
+      "stars": 3905,
+      "summaryZh": "一个高度实验性的 Nintendo Switch 2 模拟器，用 C++ 编写，处于早期探索阶段。核心价值在于对新一代主机硬件与模拟方案的先行研究。适合模拟器开发者和关注 Switch 2 技术进展的硬核玩家了解现状，不建议当作可玩游戏使用。",
+      "category": "游戏",
+      "createdAt": "2026-10-29T00:25:18Z"
+    },
+    {
+      "repo": "BryceYuuu/RUN",
+      "url": "https://github.com/BryceYuuu/RUN",
+      "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "language": "Python",
+      "stars": 3790,
+      "summaryZh": "一份海外移居手册，覆盖欧洲 36 国、110 条移居路线及主要移民地区，以 Python 项目形式整理内容。核心亮点是路线梳理系统全面、信息集中。适合正在规划出国定居、需要对比各国路径与条件的人查阅参考。",
+      "category": "资料教程",
+      "createdAt": "2026-10-29T11:28:43Z"
+    },
+    {
+      "repo": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "language": "TypeScript",
+      "stars": 2856,
+      "summaryZh": "让命令行 Agent 在后台自主接活并持续跟进任务，平时不打扰用户，只在遇到需要决策的问题时推送卡片请你拍板。基于 TypeScript、事件驱动和 MCP 构建，支持 Claude Code、Codex 等 CLI。适合想让 Agent 长期挂机干活的高级开发者。",
+      "category": "AI",
+      "createdAt": "2026-11-03T08:02:11Z"
+    },
+    {
+      "repo": "paipiange/nvzhuang",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "language": "HTML",
+      "stars": 2226,
+      "summaryZh": "一个 AI 女装参考图集与虚拟试穿网站，收录 1407 张图，支持中英文检索，并接入 OpenAI Images、Gemini、豆包及自定义 Base URL、API Key 和模型。核心亮点是图库与试穿生成一体化。适合找穿搭参考或搭建 AI 试穿工具的用户。",
+      "category": "AI",
+      "createdAt": "2026-10-29T06:08:00Z"
+    },
+    {
+      "repo": "Verlintas/NOIR",
+      "url": "https://github.com/Verlintas/NOIR",
+      "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "language": "Kotlin",
+      "stars": 2215,
+      "summaryZh": "Android 手机隐私审计工具，通过 adb 扫描应用的权限、上报端点与数据流向，并给出可回滚的处置建议。用 Kotlin 编写，带终端界面，支持静态分析与去膨胀。适合注重隐私、想清理预装与遥测数据的 Android 用户和开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-10-31T21:34:39Z"
+    },
+    {
+      "repo": "elvarofficial/teardown",
+      "url": "https://github.com/elvarofficial/teardown",
+      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "language": "JavaScript",
+      "stars": 1970,
+      "summaryZh": "一个 Claude Code 技能，能把任意机器变成可拆解的 3D 模拟器，用 JavaScript 实现拆装与结构展示。核心亮点是用对话方式生成可交互的 3D 拆解场景。适合做硬件教学、产品演示或想直观理解设备内部结构的人。",
+      "category": "开发工具",
+      "createdAt": "2026-10-30T09:29:01Z"
+    },
+    {
+      "repo": "caru-ini/stack-diagram",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "language": "TypeScript",
+      "stars": 1788,
+      "summaryZh": "一个 Agent 技能，用一句话描述你的技术栈，就能生成带官方图标的架构图。基于 TypeScript 实现，支持 Claude Code、Codex 等。核心亮点是自然语言到架构图的一步转换。适合需要快速画系统架构图、写文档和做技术方案演示的开发者。",
+      "category": "开发工具",
+      "createdAt": "2026-11-01T05:35:12Z"
+    },
+    {
+      "repo": "govijr/terminal-mac",
+      "url": "https://github.com/govijr/terminal-mac",
+      "description": "Entire MacOS running in your terminal.",
+      "language": "Swift",
+      "stars": 1692,
+      "summaryZh": "用 Swift 编写的项目，把完整的 macOS 桌面环境搬进终端里运行，提供 TUI 形式的图形界面体验。核心亮点是在纯命令行中呈现 GUI 与桌面交互。适合喜欢终端工作流、想折腾远程或轻量桌面环境的高级用户。",
+      "category": "开发工具",
+      "createdAt": "2026-11-03T03:22:56Z"
+    },
+    {
+      "repo": "mromidev/claude-animated-shorts",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "language": "TypeScript",
+      "stars": 1584,
+      "summaryZh": "一个免费的 Claude 技能，用 three.js 和 Remotion 制作病毒式动画短视频：2D 角色置于 3D 场景中。核心亮点是把角色动画与三维场景渲染组合成可批量产出的短片。适合做社交媒体短视频的内容创作者和前端动画开发者。",
+      "category": "AI",
+      "createdAt": "2026-11-01T05:50:38Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "description": "Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, Android phones and iPhone backups. Double-click apps for Windows, Mac and Linux, in 27 languages.",
+      "language": "Python",
+      "stars": 4439,
+      "summaryZh": "免费开源工具，用于检测电脑、安卓手机及iPhone备份中是否留有Pegasus、Predator等雇佣兵间谍软件的痕迹。提供Windows、Mac、Linux双双击应用及手机端检测方案，适合隐私敏感人士或记者等高风险群体自查。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +1492（+51%）",
+      "reasonZh": "双平台双击即用的间谍软件排查工具，能扫电脑、安卓和 iPhone 备份里的 Pegasus 等雇佣兵监控痕迹。和需要命令行折腾的取证工具不同，它是给普通人的一键应用，装完就能自查手机是否被盯上，隐私敏感人群很需要。"
+    },
+    {
+      "repo": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "language": "TypeScript",
+      "stars": 4207,
+      "summaryZh": "词光Word Atlas是一个开源雅思词汇学习应用，包含7298个单词的插图数据集、英音美音音频，并采用FSRS间隔重复算法。适合备考雅思或需要高效记忆单词的学习者，可通过PWA在任何设备上使用。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +1091（+35%）",
+      "reasonZh": "7298 个雅思词汇配图、英美双发音加 FSRS 间隔复习，做成 PWA 打开即学，还开源了 CC BY 4.0 词库。比背单词 App 实在的是没有会员墙、数据可自托管，备考雅思或想把词表拿去二次开发都合适。"
+    },
+    {
+      "repo": "dominostars/playtranslate",
+      "url": "https://github.com/dominostars/playtranslate",
+      "description": "Real-time translation and language learning Android app for games, visual novels, manga, and any other screen text. 屏幕翻译 游戏翻译",
+      "language": "Kotlin",
+      "stars": 1351,
+      "summaryZh": "PlayTranslate是一款安卓实时屏幕翻译应用，专为游戏、视觉小说、漫画等屏幕文字设计，支持离线翻译与OCR。适合玩外文游戏或阅读外文漫画的用户，可无缝集成Anki等工具辅助语言学习。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "安卓上的屏幕实时翻译，专治游戏、视觉小说和漫画里没法复制的文字，走 OCR 识别还能把生词丢进 Anki。同类工具多在 PC 上，它直接跑在手机上并支持离线模型，玩日文原版游戏或啃生肉漫画时很救命。"
+    },
+    {
+      "repo": "Doezer/Questarr",
+      "url": "https://github.com/Doezer/Questarr",
+      "description": "Questarr is an *Arr-inspired game manager that helps you discover, track, and automatically download the games you want.",
+      "language": "TypeScript",
+      "stars": 712,
+      "summaryZh": "Questarr是受*Arr启发的游戏管理器，帮助用户发现、追踪并自动下载想要的游戏。支持种子和Usenet，适合喜欢自动化管理游戏库的玩家，类似Radarr/Sonarr但针对游戏。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "把 Sonarr/Radarr 那套自动化搬到了游戏上：发现、追踪、自动下载一条龙，支持种子和 Usenet。游戏库管理工具大多只记账，它带自动化下载和 *Arr 式界面，自建影视下载栈的人会非常顺手。"
+    },
+    {
+      "repo": "pmh1314520/MCTier",
+      "url": "https://github.com/pmh1314520/MCTier",
+      "description": "A virtual LAN gaming tool built for gamers, compatible with all LAN games. Easily bypass network restrictions to play with friends online. | 一款专为玩家打造的虚拟局域网联机工具，支持所有局域网游戏联机使用，让您可以轻松与好友跨越网络限制，享受联机游戏的乐趣。【QQ交流群：1075096452】",
+      "language": "TypeScript",
+      "stars": 1125,
+      "summaryZh": "MCTier是一款虚拟局域网联机工具，支持所有局域网游戏，帮助玩家跨越网络限制与好友在线联机。基于Tauri和Rust开发，兼容Windows、macOS、Linux和Android，适合Minecraft等游戏玩家。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "给玩家的虚拟局域网联机工具，Tauri 打包跨 Win/Mac/Linux/安卓，基于 EasyTier 和 WebRTC 打通网络限制。比 Hamachi 类老工具更轻更现代，想和朋友远程联机玩只支持局域网的游戏、又不想折腾端口映射时直接用。"
+    },
+    {
+      "repo": "rangermix/TwitchDropsMiner",
+      "url": "https://github.com/rangermix/TwitchDropsMiner",
+      "description": "An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching. Web GUI, dockerised.",
+      "language": "Python",
+      "stars": 383,
+      "summaryZh": "TwitchDropsMiner允许用户挂机自动挖掘Twitch限时掉落，自动领取奖励并切换频道。提供Web界面和Docker部署，适合想轻松获取Twitch游戏掉落的玩家，无需手动操作。",
+      "category": "游戏",
+      "source": "search",
+      "signal": "小而美 · game",
+      "reasonZh": "挂机自动刷 Twitch 掉宝，自动领奖励、自动换频道，带 Web 界面还能 Docker 部署。市面上同类脚本大多要桌面环境或容易掉线，它自托管在服务器上后台跑，适合想白嫖游戏内掉落皮肤又没空盯直播的人。"
+    },
+    {
+      "repo": "aaitor/skill-video-studio",
+      "url": "https://github.com/aaitor/skill-video-studio",
+      "description": "Claude Code skill for product videos: real browser capture, branded composition, and local mastering.",
+      "language": "HTML",
+      "stars": 354,
+      "summaryZh": "Skill Video Studio是一个Claude Code技能，用于生成产品视频：通过真实浏览器捕获、品牌化合成和本地母带处理。适合开发者或DevRel团队快速制作演示视频，无需专业剪辑软件。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 118 分 · 41 评论",
+      "reasonZh": "给 Claude Code 装的产品视频技能：真浏览器录屏、品牌化合成、本地用 FFmpeg 出片，全程在本机跑不传云端。相比在线录屏工具，它把脚本、录制和剪辑交给 agent 编排，开发者做发布演示或 DevRel 短片很省事。"
+    },
+    {
+      "repo": "SaarthurR/atticus-mac",
+      "url": "https://github.com/SaarthurR/atticus-mac",
+      "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+      "language": "Python",
+      "stars": 641,
+      "summaryZh": "Atticus是一款Mac快速免费语音助手，无需API密钥，直接运行在Claude Pro/Max计划上。可后台执行大任务、记忆用户习惯和学习快捷键，按住⌃⌥Space即可说话，适合追求效率的Mac用户。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +148（+30%）",
+      "reasonZh": "Mac 菜单栏语音助手，按住快捷键说话即可，不用 API key，直接跑在 Claude Pro/Max 订阅上，还能派后台 agent 干大活并记住你的习惯。比付费语音助手省钱，想用语音快速调起 AI 处理琐事的人适合装。"
+    },
+    {
+      "repo": "johncassil/dontallow",
+      "url": "https://github.com/johncassil/dontallow",
+      "description": "Auto-dismiss the macOS 'Allow X to find devices on local networks?' prompt. Presses Don't Allow for you, zero CPU idle, survives reboots.",
+      "language": "Swift",
+      "stars": 97,
+      "summaryZh": "Don't Allow是一个macOS小工具，自动关闭“允许X在本地网络上查找设备？”的弹窗，替你点击“不允许”。零CPU空闲消耗，重启后依然有效，适合注重隐私且厌倦手动点击的用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +42（+76%）",
+      "reasonZh": "专门自动点掉 macOS 那个“允许查找本地网络设备”弹窗的 97 星小工具，用辅助功能实现，空闲零 CPU 占用还能开机自启。功能极小但痛点精准，讨厌每次装 App 都被弹窗打扰、又不想手动点的人会喜欢。"
+    },
+    {
+      "repo": "guregodevo/memdoor",
+      "url": "https://github.com/guregodevo/memdoor",
+      "description": "AI coding agent that makes a small model beat a frontier one",
+      "language": "Go",
+      "stars": 366,
+      "summaryZh": "Memdoor是一个AI编码代理，能让小模型击败前沿大模型。基于Go语言开发，提供终端TUI界面，支持OpenRouter，适合开发者通过代理工作流提升小模型编码能力。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +310（+554%）",
+      "reasonZh": "Go 写的终端 AI 编程 agent，主打让小模型通过工作流编排打赢前沿大模型。和一堆 Claude Code 套壳不同，它是 TUI 里跑的开源替代，走 OpenRouter 接各种模型，想低成本在终端里让 AI 写代码、又不想被单一厂商绑死的开发者值得试。"
+    }
+  ]
+}
