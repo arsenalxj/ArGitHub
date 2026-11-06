@@ -1,0 +1,395 @@
+{
+  "date": "2026-11-06",
+  "trending": [
+    {
+      "repo": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "stars": 7876,
+      "summaryZh": "Auto Ontology 是一个 Python 框架，用于在数据之上构建基于图的语义推理层。核心功能包括确定性查询生成、更好的上下文检索和更可解释的 AI，适合需要增强 LLM 推理能力的开发者。",
+      "category": "AI",
+      "starsToday": 2679
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 315723,
+      "summaryZh": "这是一个提供真实工程师技能的开源集合，直接来自作者的 .agents 目录。包含经过实践检验的实用技能，适合工程师提升开发效率和工作流程。",
+      "category": "开发工具",
+      "starsToday": 2071
+    },
+    {
+      "repo": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars": 140156,
+      "summaryZh": "该项目提供 Garry Tan 的 Claude Code 配置，包含 23 个有主见的工具，分别充当 CEO、设计师、工程经理、发布经理、文档工程师和 QA。适合希望借鉴成熟 AI 工作流配置的开发者。",
+      "category": "AI",
+      "starsToday": 612
+    },
+    {
+      "repo": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "language": "Python",
+      "stars": 17929,
+      "summaryZh": "基于 Playwright 和 AI 实现的闲鱼多任务实时/定时监控与智能分析系统，配备完善的后台管理 UI。帮助用户从闲鱼海量商品中高效找到心仪产品，适合有二手交易监控需求的用户。",
+      "category": "开发工具",
+      "starsToday": 240
+    },
+    {
+      "repo": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "language": "Python",
+      "stars": 98332,
+      "summaryZh": "Scrapling 是一个强大的网页抓取框架，能处理从单个请求到大规模爬取的所有任务。适合需要高效、灵活网页数据采集的开发者，支持多种抓取场景。",
+      "category": "开发工具",
+      "starsToday": 1655
+    },
+    {
+      "repo": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "language": "Rust",
+      "stars": 17324,
+      "summaryZh": "这是一个面向 AI 代理的计算机使用 CLI 工具，基于 Rust 构建。它允许 AI 代理通过命令行控制桌面环境，适合需要自动化桌面操作或构建计算机使用代理的开发者。",
+      "category": "开发工具",
+      "starsToday": 2173
+    },
+    {
+      "repo": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "stars": 11647,
+      "summaryZh": "Worktrunk 是一个用于 Git 工作树管理的 CLI 工具，专为并行 AI 代理工作流设计。它简化了多工作树的管理，适合需要同时运行多个 AI 代理任务的开发者提高效率。",
+      "category": "开发工具",
+      "starsToday": 546
+    },
+    {
+      "repo": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 22518,
+      "summaryZh": "该项目提供面向 Google 产品和技术的代理技能（Agent Skills），基于 Python 实现。适合希望让 AI 代理集成 Google 生态系统的开发者，快速赋予代理相关操作能力。",
+      "category": "AI",
+      "starsToday": 211
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": 46090,
+      "summaryZh": "这是一个面向 AI 代理的浏览器自动化 CLI 工具，基于 Rust 开发。它使 AI 代理能够通过命令行控制浏览器，适合需要网页自动化或构建浏览器使用代理的开发者。",
+      "category": "开发工具",
+      "starsToday": 150
+    },
+    {
+      "repo": "scenario-labs/skills",
+      "url": "https://github.com/scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "language": "Python",
+      "stars": 3242,
+      "summaryZh": "该项目提供一套技能，让任何 AI 代理都能生成生产级的图像、视频、音频和 3D 内容。核心功能包括智能选择模型、预算控制和保持角色与品牌一致性，适合需要多媒体内容生成的 AI 应用开发者。",
+      "category": "AI",
+      "starsToday": 667
+    },
+    {
+      "repo": "ConardLi/garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "language": "JavaScript",
+      "stars": 14327,
+      "summaryZh": "这是 ConardLi 的开源技能集合，包含网页设计、知识检索、图像生成等多种技能，基于 JavaScript 实现。适合希望快速为 AI 代理添加实用技能的开发者参考和使用。",
+      "category": "AI",
+      "starsToday": 175
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 56227,
+      "summaryZh": "VibeVoice 是微软开源的前沿语音 AI 项目，基于 Python 实现。它提供高质量的语音生成与处理能力，适合研究或应用语音 AI 的开发者，推动语音交互技术创新。",
+      "category": "AI",
+      "starsToday": 223
+    },
+    {
+      "repo": "floci-io/floci",
+      "url": "https://github.com/floci-io/floci",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "language": "Java",
+      "stars": 30603,
+      "summaryZh": "Floci 是一个轻量、免费且易于使用的 AWS 本地模拟器替代方案，基于 Java 开发。它帮助开发者在本地模拟 AWS 服务，适合需要离线开发或测试 AWS 相关应用的场景。",
+      "category": "开发工具",
+      "starsToday": 779
+    },
+    {
+      "repo": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "description": "",
+      "language": "C#",
+      "stars": 7464,
+      "summaryZh": "DiscImageStudio 是一个用 C# 开发的光盘镜像处理工具，具体功能未详细描述。推测用于光盘镜像的创建、编辑或转换，适合需要处理光盘镜像文件的用户。",
+      "category": "开发工具",
+      "starsToday": 984
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "language": "TypeScript",
+      "stars": 19780,
+      "summaryZh": "这是 DeepSeek AI 开发的一个面向更自主代理系统的原型项目，基于 TypeScript 实现。它探索了自主代理系统的构建方法，适合对 AI 代理架构和自主性研究感兴趣的开发者。",
+      "category": "AI",
+      "createdAt": "2026-10-31T09:32:46Z"
+    },
+    {
+      "repo": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "language": "Rust",
+      "stars": 15924,
+      "summaryZh": "该项目用Rust实现，旨在帮助开发者理解任意软件的工作原理并动手仿制。核心功能包括交互式代码剖析、架构可视化和一步步的复刻指导，让学习从被动阅读变为主动构建。适合想深入掌握大型项目设计、提升系统设计能力的工程师。",
+      "category": "开发工具",
+      "createdAt": "2026-10-31T14:50:00Z"
+    },
+    {
+      "repo": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "language": "JavaScript",
+      "stars": 5390,
+      "summaryZh": "这是一个收集了244种像素艺术特效的JavaScript库，每个特效都是独立小代码片段，可直接用于Canvas和游戏开发。还附带Claude Code技能，让开发者能轻松创作自己的特效。适合游戏开发者、像素艺术家和前端特效爱好者快速集成炫酷视觉元素。",
+      "category": "游戏",
+      "createdAt": "2026-10-30T06:43:25Z"
+    },
+    {
+      "repo": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "language": "TypeScript",
+      "stars": 3388,
+      "summaryZh": "这个TypeScript项目让命令行AI代理能在后台自主接任务并持续跟进，平时不打扰用户，只在遇到不确定情况时通过卡片请求决策。基于事件驱动和MCP协议，支持自托管，适合需要自动化工作流但又希望保持控制的开发者和团队。",
+      "category": "AI",
+      "createdAt": "2026-11-03T08:02:11Z"
+    },
+    {
+      "repo": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "language": "C++",
+      "stars": 2680,
+      "summaryZh": "这是一个用C++编写的非常实验性的Nintendo Switch 2模拟器，目前处于早期开发阶段。它尝试在PC上模拟Switch 2的硬件和系统环境，技术探索性质较强。适合对游戏主机模拟、逆向工程和底层系统开发感兴趣的研究者与爱好者。",
+      "category": "游戏",
+      "createdAt": "2026-10-31T14:17:26Z"
+    },
+    {
+      "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "language": "Python",
+      "stars": 2611,
+      "summaryZh": "该项目提供自动化脚本，用于零成本获取并管理Google AI Pro的两年订阅服务。通过Python实现账号注册、订阅激活和续期等流程的自动化，降低使用门槛。适合需要长期使用Google AI服务但希望节省成本的个人开发者或小团队。",
+      "category": "AI",
+      "createdAt": "2026-11-04T14:54:56Z"
+    },
+    {
+      "repo": "Verlintas/NOIR",
+      "url": "https://github.com/Verlintas/NOIR",
+      "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "language": "Kotlin",
+      "stars": 2604,
+      "summaryZh": "NOIR是一款Android隐私审计工具，通过ADB扫描应用的权限、上报端点和数据流向，并提供可回滚的处置方案。它结合静态分析和终端UI，支持去臃肿和遥测检测。适合注重隐私安全的Android用户、安全研究员和开发者进行深度审计。",
+      "category": "开发工具",
+      "createdAt": "2026-10-31T21:34:39Z"
+    },
+    {
+      "repo": "elvarofficial/teardown",
+      "url": "https://github.com/elvarofficial/teardown",
+      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "language": "JavaScript",
+      "stars": 2256,
+      "summaryZh": "这是一个Claude Code技能，能将任何机器变成可拆解的3D模拟器。它通过生成交互式3D模型，让用户直观探索设备内部结构和工作原理。适合教育场景、技术演示或对硬件拆解感兴趣的用户，以低成本方式理解复杂机械。",
+      "category": "开发工具",
+      "createdAt": "2026-10-30T09:29:01Z"
+    },
+    {
+      "repo": "govijr/terminal-mac",
+      "url": "https://github.com/govijr/terminal-mac",
+      "description": "Entire MacOS running in your terminal.",
+      "language": "Swift",
+      "stars": 2006,
+      "summaryZh": "该项目用Swift在终端中模拟完整的macOS桌面环境，包括图形界面和常用应用，让你通过命令行体验Mac系统。它展示了终端GUI的潜力，适合喜欢命令行高效操作又需要图形界面的开发者，或用于远程服务器上的轻量级桌面环境。",
+      "category": "开发工具",
+      "createdAt": "2026-11-03T03:22:56Z"
+    },
+    {
+      "repo": "caru-ini/stack-diagram",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "language": "TypeScript",
+      "stars": 1885,
+      "summaryZh": "这是一个Agent技能，只需用一句话描述你的技术栈，就能自动生成带官方Logo的架构图。它基于TypeScript，集成Claude Code和Codex，简化了系统架构可视化的过程。适合开发者、架构师快速制作技术文档或演示材料。",
+      "category": "开发工具",
+      "createdAt": "2026-11-01T05:35:12Z"
+    },
+    {
+      "repo": "mromidev/claude-animated-shorts",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "language": "TypeScript",
+      "stars": 1856,
+      "summaryZh": "这个免费的Claude技能利用three.js和Remotion生成病毒式传播的动画故事短片，将2D角色置于3D世界中。它自动化了从脚本到渲染的流程，适合内容创作者、营销人员快速制作吸引眼球的社交媒体短视频，无需专业动画技能。",
+      "category": "AI",
+      "createdAt": "2026-11-01T05:50:38Z"
+    },
+    {
+      "repo": "Arjun-Ingole/hop",
+      "url": "https://github.com/Arjun-Ingole/hop",
+      "description": "Install Linux next to Windows without a USB stick",
+      "language": "PowerShell",
+      "stars": 1541,
+      "summaryZh": "hop是一个PowerShell脚本，让你无需USB启动盘就能在现有Windows系统旁安装Linux，实现双系统。它自动化了分区调整和引导配置，降低了安装门槛。适合想尝试Linux但不想折腾启动盘的Windows用户，快速体验开源系统。",
+      "category": "开发工具",
+      "createdAt": "2026-10-30T19:40:45Z"
+    },
+    {
+      "repo": "wquguru/cicada",
+      "url": "https://github.com/wquguru/cicada",
+      "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+      "language": "Swift",
+      "stars": 1520,
+      "summaryZh": "知了Cicada是一款免费开源的实时字幕与同声传译工具，支持Mac、Windows、Linux和Android，能为任何会议或直播提供AI会议纪要。它集成了语音识别和翻译，适合需要跨语言沟通的团队、在线教育或国际会议场景，提升信息获取效率。",
+      "category": "AI",
+      "createdAt": "2026-11-01T05:41:23Z"
+    },
+    {
+      "repo": "kevinraymond/florilegium",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX",
+      "language": "TeX",
+      "stars": 1505,
+      "summaryZh": "该项目为LuaLaTeX提供程序化生成的代尔夫特蓝花卉页面边距，植物和访客图案基于基因组采样，并附带TikZ库以在pdfLaTeX下绘制。它结合了生成艺术与排版，适合排版爱好者、学术作者为文档添加独特的古典装饰风格。",
+      "category": "开发工具",
+      "createdAt": "2026-10-30T07:49:05Z"
+    },
+    {
+      "repo": "N1nEmAn/sapper-v2",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "language": "Python",
+      "stars": 1403,
+      "summaryZh": "sapper-v2是一个自主渗透测试系统，由AI指挥官和工人蜂群组成，采用分层事实-意图图架构。它在腾讯智能攻防比赛中以无人值守8小时、10亿token击败45亿token的对手获得季军。适合安全团队研究自动化渗透测试和多智能体协作。",
+      "category": "AI",
+      "createdAt": "2026-10-30T15:12:35Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "saragordic/window-sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "description": "A macOS menu-bar app that dresses your windows in knitted borders.",
+      "language": "C",
+      "stars": 1103,
+      "summaryZh": "这是一个macOS菜单栏应用，用C和Objective-C编写，能给窗口加上针织边框，让桌面充满温馨感。它提供多种针织图案和颜色定制，适合喜欢个性化桌面、追求趣味视觉体验的Mac用户，为日常办公增添一丝创意。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 301 分 · 94 评论",
+      "reasonZh": "给 macOS 每个窗口套上毛线针织花边的菜单栏小工具，纯属好玩但做得精致。跟那些正经窗口管理工具不一样，它只负责让你桌面变可爱，还能按应用换花样。日常盯着代码看累了、想给电脑添点个性的人会装上它。"
+    },
+    {
+      "repo": "crmne/zapfast",
+      "url": "https://github.com/crmne/zapfast",
+      "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
+      "language": "Rust",
+      "stars": 3165,
+      "summaryZh": "用 Rust 和 egui 编写的原生 WhatsApp 桌面客户端，主打快速轻量，支持 Linux、macOS 和 Windows 三个平台。相比基于 Web 的客户端，它启动更快、资源占用更低，适合追求原生体验、不愿在浏览器里挂着 WhatsApp 的桌面用户日常聊天使用。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +830（+36%）",
+      "reasonZh": "用 Rust + egui 写的原生 WhatsApp 桌面客户端，启动快、内存省，不像官方 Electron 版那么臃肿。跨 Linux/macOS/Windows，多账号也顺手。想在桌面上聊天又嫌网页版和官方客户端太重的开发者会很喜欢。"
+    },
+    {
+      "repo": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "language": "TypeScript",
+      "stars": 4273,
+      "summaryZh": "词光 Word Atlas 是雅思词汇学习应用，收录 7298 个单词，配英式/美式发音和插图，内置 FSRS 间隔重复算法安排复习。项目同时开源应用代码和 CC BY 4.0 数据集，适合备考雅思的考生或想自建背单词工具的学习者。",
+      "category": "资料教程",
+      "source": "dark-horse",
+      "signal": "周涨星 +1002（+31%）",
+      "reasonZh": "带插图的雅思词汇 PWA，7298 个词配英美音和 FSRS 间隔复习，数据集还开放授权。比背单词 App 多一份开源和可自建，比 Anki 卡片省事。备考雅思或想自己搭个背单词页面的人能直接用。"
+    },
+    {
+      "repo": "aschmelyun/print-my-profile-pic",
+      "url": "https://github.com/aschmelyun/print-my-profile-pic",
+      "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+      "language": "",
+      "stars": 1790,
+      "summaryZh": "一个趣味实验项目：给仓库点 Star 后，你的 GitHub 头像会被打印到一台真实的热敏小票打印机上。核心是把 GitHub API、Webhook 和实体打印硬件连起来，适合喜欢玩梗、想体验代码驱动现实设备效果的开发者围观或复刻。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +745（+71%）",
+      "reasonZh": "点个星就把你的 GitHub 头像打印到收据打印机上，噱头十足但真能跑。比起纯营销的集星项目，它有个看得见摸得着的实体反馈，还顺带展示了硬件自动化的小玩法。适合喜欢稀奇古怪小项目和想看看 API 打印怎么接的人。"
+    },
+    {
+      "repo": "guregodevo/memdoor",
+      "url": "https://github.com/guregodevo/memdoor",
+      "description": "AI coding agent that makes a small model beat a frontier one",
+      "language": "Go",
+      "stars": 369,
+      "summaryZh": "基于 Go 的终端 AI 编程代理，主打让小型模型在编程任务上跑赢前沿大模型。通过代理工作流、上下文管理和 OpenRouter 模型路由等设计提升小模型表现，适合在终端里工作、想降低 API 成本又不想牺牲效果的开发者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +313（+559%）",
+      "reasonZh": "终端里的 AI 编程 agent，主打靠工作流编排让小模型干出前沿模型的活，Go 写的 TUI 单手就能跑。同类都在拼大模型，它偏在流程上抠效率。预算紧、想用便宜模型写代码的开发者值得试试。"
+    },
+    {
+      "repo": "haydenschmitty/floorplan",
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "language": "JavaScript",
+      "stars": 3015,
+      "summaryZh": "把代码库画成可交互的通俗英文架构图，由 Claude 或 Codex 自动生成，帮你直观看出应用各模块如何拼在一起。可作为 Claude Code / Codex 插件使用，适合接手陌生项目、需要快速理解代码结构的新人和 vibe coding 开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +1107（+58%）",
+      "reasonZh": "让 Claude 或 Codex 把你整个代码库画成一张说人话的交互地图，新人 onboarding 一眼看懂架构。同类可视化工具要么静态要么难读，它强调“plain English”。接手陌生项目或想快速摸清自己老代码的开发者用得上。"
+    },
+    {
+      "repo": "SaarthurR/atticus-mac",
+      "url": "https://github.com/SaarthurR/atticus-mac",
+      "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+      "language": "Python",
+      "stars": 655,
+      "summaryZh": "面向 Mac 的免费语音助手，无需 API Key，直接跑在你的 Claude Pro 或 Max 订阅上。按住 ⌃⌥Space 说话即可，支持后台代理处理大任务、记住个人偏好并学习快捷指令，适合想在 macOS 上低成本用语音驱动 AI 的进阶用户。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +162（+33%）",
+      "reasonZh": "Mac 上的语音助手，按住快捷键说话就行，不用 API key，直接跑你的 Claude Pro/Max 订阅，还能派后台 agent 干大活、记你的习惯。比起要另买额度的语音工具，它省了钱又本地。每天对着电脑打字多、想动嘴干活的人会用到。"
+    },
+    {
+      "repo": "boxlite-ai/boxlite",
+      "url": "https://github.com/boxlite-ai/boxlite",
+      "description": "The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.",
+      "language": "TypeScript",
+      "stars": 2636,
+      "summaryZh": "面向 AI Agent 的微型虚拟机方案，由 Rust 与 TypeScript 实现，小到能嵌入笔记本运行，又能弹性扩展到云端集群。核心是在沙箱中安全隔离地运行智能体代码，适合需要自托管 Agent 执行环境、关注安全与轻量虚拟化的开发者。",
+      "category": "AI",
+      "source": "search",
+      "signal": "小而美 · ai-agent",
+      "reasonZh": "轻到能塞进笔记本的微虚拟机，专门给 AI agent 跑代码用，沙箱隔离还弹性。跟普通容器比它隔离更硬，跟大云 VM 比它更小更快。想给 agent 一个安全执行环境又不想上云的人会选它。"
+    }
+  ]
+}
