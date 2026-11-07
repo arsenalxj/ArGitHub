@@ -1,0 +1,449 @@
+{
+  "date": "2026-11-07",
+  "trending": [
+    {
+      "repo": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": 93812,
+      "summaryZh": "由 Atom 和 Tree-sitter 作者打造的高性能协作代码编辑器，用 Rust 编写，渲染与输入延迟极低。内置多人实时协作、AI 辅助与原生 GPU 加速。适合追求极致流畅体验的开发者，尤其是需要团队协同编辑的远程团队。",
+      "category": "开发工具",
+      "starsToday": 306
+    },
+    {
+      "repo": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "stars": 9307,
+      "summaryZh": "NVIDIA 推出的 Python 框架，在数据之上构建语义化图推理层。支持确定性查询生成、更精准的上下文检索和可解释的 LLM 推理。适合需要为 AI 应用增强知识检索与可追溯性的开发者。",
+      "category": "AI",
+      "starsToday": 2015
+    },
+    {
+      "repo": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": 59055,
+      "summaryZh": "Ruby 语言最经典的 Web 全栈框架，遵循约定优于配置理念，内置 MVC、ActiveRecord ORM 和丰富的脚手架工具。生态成熟、文档完善，适合快速构建数据库驱动的 Web 应用和初创产品原型。",
+      "category": "开发工具",
+      "starsToday": 142
+    },
+    {
+      "repo": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": 37927,
+      "summaryZh": "基于 MPlayer 与 mplayer2 的命令行媒体播放器，支持几乎所有音视频格式，画质出色且可脚本扩展。可通过配置文件深度定制，适合喜欢键盘操作、追求轻量与高质量播放的高级用户和媒体爱好者。",
+      "category": "其他",
+      "starsToday": 37
+    },
+    {
+      "repo": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 121515,
+      "summaryZh": "Rust 编程语言的官方主仓库，以内存安全、零成本抽象和高并发性能著称。拥有所有权模型、无 GC 与强大的编译器检查。适合系统编程、嵌入式、WebAssembly 及对性能与可靠性要求高的场景。",
+      "category": "开发工具",
+      "starsToday": 192
+    },
+    {
+      "repo": "react/react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars": 252304,
+      "summaryZh": "Meta 开源的用于构建 Web 与原生用户界面的 JavaScript 库，以组件化和声明式渲染为核心。配合 Hooks 与庞大生态可高效构建交互界面。适合前端开发者及需要跨端复用 UI 逻辑的团队。",
+      "category": "前端",
+      "starsToday": 248
+    },
+    {
+      "repo": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "language": "TypeScript",
+      "stars": 101418,
+      "summaryZh": "Google 维护的 TypeScript 全功能前端框架，内置依赖注入、路由、表单与强类型工具链。强调工程化与可维护性，适合构建大型企业级单页应用和需要长期演进的团队项目。",
+      "category": "前端",
+      "starsToday": 135
+    },
+    {
+      "repo": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 31475,
+      "summaryZh": "成熟的 PHP 全栈框架与可复用组件集合，提供依赖注入、路由、表单、安全等模块化能力。组件可独立使用，适合构建中大型 PHP 应用及需要长期维护的企业级后端系统。",
+      "category": "开发工具",
+      "starsToday": 128
+    },
+    {
+      "repo": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 67232,
+      "summaryZh": "云原生监控系统与时序数据库，基于拉取模型采集指标，配合 PromQL 查询和告警规则实现可观测性。与 Kubernetes 生态深度集成，适合运维和 SRE 构建指标监控与告警体系。",
+      "category": "开发工具",
+      "starsToday": 148
+    },
+    {
+      "repo": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 22941,
+      "summaryZh": "Google 官方提供的 Agent Skills 集合，面向其产品与技术栈，让 AI 智能体能调用 Google 服务完成实际任务。包含可直接复用的技能定义与 Python 实现，适合构建基于智能体的自动化工作流。",
+      "category": "AI",
+      "starsToday": 534
+    },
+    {
+      "repo": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "stars": 195074,
+      "summaryZh": "微软开源的跨平台代码编辑器，基于 Electron 与 TypeScript，拥有庞大扩展生态和内置调试、Git、终端能力。轻量且高度可定制，适合各类开发者日常编码与多语言项目开发。",
+      "category": "开发工具",
+      "starsToday": 301
+    },
+    {
+      "repo": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "stars": 41018,
+      "summaryZh": "用 Rust 编写的新型 Shell，以结构化表格数据作为管道传递单位，命令输出可排序、过滤和查询。语法现代、错误提示友好，适合习惯数据流思维、希望替代传统 Bash 的开发者与运维人员。",
+      "category": "开发工具",
+      "starsToday": 131
+    },
+    {
+      "repo": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 52640,
+      "summaryZh": "CNCF 孵化的分布式可靠键值存储，基于 Raft 共识算法保证强一致性与高可用。是 Kubernetes 的核心数据存储，适合构建服务发现、配置管理和分布式协调等关键基础设施。",
+      "category": "开发工具",
+      "starsToday": 128
+    },
+    {
+      "repo": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "language": "C",
+      "stars": 31330,
+      "summaryZh": "广泛使用的通用 TLS 与密码学库，提供 SSL/TLS 协议实现、证书管理及丰富的加密算法。是众多服务器与系统的安全基石，适合需要实现安全通信、证书签发与加密功能的后端开发者。",
+      "category": "开发工具",
+      "starsToday": 26
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 316913,
+      "summaryZh": "来自知名 TypeScript 教育者 Matt Pocock 的 Agent 技能目录，汇集面向真实工程场景的 AI 智能体技能定义。内容实用、贴近日常开发流程，适合想用智能体提升编码与工程效率的开发者参考。",
+      "category": "AI",
+      "starsToday": 2070
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 64409,
+      "summaryZh": "这是一个面向编码 Agent 的代码安全审计技能包，把审计拆分为多个阶段，并输出可独立验证、机器可读的漏洞发现结果。适合在 CI 或 Agent 工作流中自动完成安全审查，让团队无需人工逐条复核即可定位和跟踪缺陷。",
+      "category": "开发工具",
+      "starsToday": 2548
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": 50750,
+      "summaryZh": "用 Rust 编写的超高速 Python 代码检查与格式化工具，兼容 Ruff 自身规则集并支持自动修复，运行速度远超传统工具。它可替代 Flake8、isort、Black 等组合，适合追求快速反馈的开发者及大型项目 CI 流水线。",
+      "category": "开发工具",
+      "starsToday": 169
+    }
+  ],
+  "newRepos": [
+    {
+      "repo": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "language": "TypeScript",
+      "stars": 20400,
+      "summaryZh": "DeepSeek 开源的自主 Agent 系统原型，探索让智能体更独立地规划、执行和完成复杂任务。项目以 TypeScript 实现，适合研究 Agent 架构、自主任务编排与多步推理的研究者和开发者参考。",
+      "category": "AI",
+      "createdAt": "2026-10-31T09:32:46Z"
+    },
+    {
+      "repo": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "language": "Rust",
+      "stars": 18667,
+      "summaryZh": "一个帮你理解任意软件内部实现、并动手仿制自己的版本的开源项目，用 Rust 编写。它提供分析软件工作原理的方法与工具，适合想从源码层面学习架构设计、或准备重写替代品的工程师。",
+      "category": "开发工具",
+      "createdAt": "2026-10-31T14:50:00Z"
+    },
+    {
+      "repo": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "language": "C++",
+      "stars": 4220,
+      "summaryZh": "一个非常实验性的 Nintendo Switch 2 模拟器，用 C++ 实现，目前处于早期探索阶段，功能与兼容性均不完整。适合对主机模拟器底层原理感兴趣、愿意参与测试和贡献的研究者与爱好者。",
+      "category": "游戏",
+      "createdAt": "2026-10-31T14:17:26Z"
+    },
+    {
+      "repo": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "language": "TypeScript",
+      "stars": 3757,
+      "summaryZh": "让命令行 Agent 在后台自动接活并持续跟进任务，平时不打扰你，只在遇到需要决策的问题时推送卡片请求确认。基于 TypeScript 与事件驱动架构，适合希望把重复性开发任务交给 Agent 自动推进的个人和团队。",
+      "category": "AI",
+      "createdAt": "2026-11-03T08:02:11Z"
+    },
+    {
+      "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "language": "Python",
+      "stars": 2933,
+      "summaryZh": "一个 Python 自动化脚本，目标是零成本获取 Google AI Pro 两年订阅权益，通过自动流程完成申请与激活。适合想低成本体验 Google AI 服务、且愿意自行承担账号风险的用户尝试。",
+      "category": "其他",
+      "createdAt": "2026-11-04T14:54:56Z"
+    },
+    {
+      "repo": "Verlintas/NOIR",
+      "url": "https://github.com/Verlintas/NOIR",
+      "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "language": "Kotlin",
+      "stars": 2807,
+      "summaryZh": "基于 adb 的 Android 手机隐私审计工具，能扫描应用的权限、上报端点和数据流向，并给出可回滚的处置建议。使用 Kotlin 编写，带终端界面，适合关注手机隐私、想清理预装软件和遥测的用户。",
+      "category": "开发工具",
+      "createdAt": "2026-10-31T21:34:39Z"
+    },
+    {
+      "repo": "govijr/terminal-mac",
+      "url": "https://github.com/govijr/terminal-mac",
+      "description": "Entire MacOS running in your terminal.",
+      "language": "Swift",
+      "stars": 2181,
+      "summaryZh": "把整个 macOS 桌面搬进终端窗口运行的项目，用 Swift 实现，可在命令行中操作图形界面元素。适合喜欢终端工作流、想探索 TUI 与 GUI 融合方式的 macOS 开发者和极客。",
+      "category": "开发工具",
+      "createdAt": "2026-11-03T03:22:56Z"
+    },
+    {
+      "repo": "mromidev/claude-animated-shorts",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "language": "TypeScript",
+      "stars": 2056,
+      "summaryZh": "一个免费的 Claude 技能，用 three.js 和 Remotion 生成病毒式传播的动画短视频，角色为 2D、场景为 3D。适合想批量制作动画短内容的内容创作者和营销人员，无需深厚动画功底即可上手。",
+      "category": "AI",
+      "createdAt": "2026-11-01T05:50:38Z"
+    },
+    {
+      "repo": "caru-ini/stack-diagram",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "language": "TypeScript",
+      "stars": 1987,
+      "summaryZh": "一个 Agent 技能：用一句话描述你的技术栈，即可生成带官方 Logo 的架构图。基于 TypeScript 实现，适合需要快速产出系统架构示意图的开发者，在文档、方案评审和面试展示中直接使用。",
+      "category": "开发工具",
+      "createdAt": "2026-11-01T05:35:12Z"
+    },
+    {
+      "repo": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "description": "YellowFruit third-party client",
+      "language": "TypeScript",
+      "stars": 1821,
+      "summaryZh": "YellowFruit 的第三方客户端，支持 Android 与 Windows，用于浏览短剧、影视和短视频内容。以 TypeScript 开发，适合想在其他平台免费观看相关流媒体资源的用户安装使用。",
+      "category": "其他",
+      "createdAt": "2026-11-03T14:04:27Z"
+    },
+    {
+      "repo": "wquguru/cicada",
+      "url": "https://github.com/wquguru/cicada",
+      "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+      "language": "Swift",
+      "stars": 1578,
+      "summaryZh": "知了 Cicada 为任何会议和直播提供实时字幕、同声传译和 AI 会议纪要，覆盖 Mac、Windows、Linux、Android，免费开源。用 Swift 编写，适合跨平台远程会议、网课和直播场景中需要实时翻译与记录的用户。",
+      "category": "AI",
+      "createdAt": "2026-11-01T05:41:23Z"
+    },
+    {
+      "repo": "s1dashu/quiet-md",
+      "url": "https://github.com/s1dashu/quiet-md",
+      "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
+      "language": "Rust",
+      "stars": 1198,
+      "summaryZh": "用 Rust 与 GPUI 打造的原生笔记应用，主打极快启动与本地优先存储，兼容飞书/Lark 的 DocxXML 格式。适合追求轻快写作体验、又需要与团队文档格式互通的 macOS 和 Windows 用户。",
+      "category": "开发工具",
+      "createdAt": "2026-11-01T14:22:53Z"
+    },
+    {
+      "repo": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 1103,
+      "summaryZh": "一个 JavaScript 实现的 SheerID 验证工具，用于自动化完成学生或教师身份校验流程。适合需要批量处理 SheerID 认证、了解其验证机制的技术用户研究与使用。",
+      "category": "其他",
+      "createdAt": "2026-11-06T09:28:09Z"
+    },
+    {
+      "repo": "livliv-dev/player",
+      "url": "https://github.com/livliv-dev/player",
+      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "language": "TypeScript",
+      "stars": 998,
+      "summaryZh": "一个面向网页的轻量级 2.5D 虚拟角色播放器，支持口型同步与摄像头面部追踪。基于 TypeScript 与 WebGL2 实现，可驱动 PNGTuber、VRM 等形象。适合想在浏览器中搭建虚拟主播或互动角色的开发者与内容创作者。",
+      "category": "开发工具",
+      "createdAt": "2026-11-04T03:28:33Z"
+    },
+    {
+      "repo": "mmdoctor/google-pro-helper",
+      "url": "https://github.com/mmdoctor/google-pro-helper",
+      "description": "",
+      "language": "Python",
+      "stars": 958,
+      "summaryZh": "一个用 Python 编写的 Google Pro 相关辅助工具，仓库未提供描述，从名称看用于简化 Google 专业服务的操作流程。适合需要自动化处理 Google 相关任务的 Python 用户参考使用。",
+      "category": "开发工具",
+      "createdAt": "2026-11-05T04:52:28Z"
+    }
+  ],
+  "gems": [
+    {
+      "repo": "InukaAsith/TwinDesk",
+      "url": "https://github.com/InukaAsith/TwinDesk",
+      "description": " All your computers and your phone, working as one desk. Screens, apps, files, clipboard, calls, texts, notifications, mouse and keyboard, shared between Mac, Windows, Linux and Android. Free and open source. No account, no cloud, and now no shared network needed.",
+      "language": "JavaScript",
+      "stars": 3653,
+      "summaryZh": "把 Mac、Windows、Linux 与 Android 的多台设备整合成一张共享工作台，屏幕、应用、文件、剪贴板、通话通知、鼠标键盘均可互通。基于 Electron 打造，是 KDE Connect、Synergy 的开源替代。适合多设备办公人群。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +855（+31%）",
+      "reasonZh": "TwinDesk 把 Mac、Windows、Linux 和 Android 连成一个工作台，共享屏幕、文件、剪贴板、通知，甚至能用一套键鼠控制多台设备。跟 KDE Connect 或 Synergy 比，它跨平台更全、还支持通话和短信。如果你有多台电脑和手机，想无缝协作，这个免费开源工具很值得试试。"
+    },
+    {
+      "repo": "crmne/zapfast",
+      "url": "https://github.com/crmne/zapfast",
+      "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
+      "language": "Rust",
+      "stars": 3294,
+      "summaryZh": "用 Rust 和 egui 编写的原生 WhatsApp 桌面客户端，主打轻量与快速启动。跨 Linux、macOS、Windows 运行，避免网页版资源占用。适合追求性能和原生体验的桌面聊天用户。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +959（+41%）",
+      "reasonZh": "ZapFast 是个用 Rust 和 egui 写的原生 WhatsApp 客户端，启动快、占用低，比官方网页版更轻量。同类项目大多是 Electron 套壳，它却做到了原生性能和跨平台。日常在 Linux 或 Mac 上聊 WhatsApp，又不想开浏览器或官方臃肿客户端的话，很适合。"
+    },
+    {
+      "repo": "aschmelyun/print-my-profile-pic",
+      "url": "https://github.com/aschmelyun/print-my-profile-pic",
+      "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+      "language": "",
+      "stars": 1801,
+      "summaryZh": "一个趣味实验项目，给仓库点星后你的 GitHub 头像会被打印在小票打印机上。核心是 Webhook 触发加硬件打印的串联玩法。适合对创客硬件、社交互动小工具感兴趣的开发者围观体验。",
+      "category": "其他",
+      "source": "dark-horse",
+      "signal": "周涨星 +544（+43%）",
+      "reasonZh": "你给这个仓库点个 star，它就把你的 GitHub 头像打印在小票打印机上寄给你。纯好玩、有仪式感，跟普通开源项目完全不一样。适合想给开发者生活加点乐子、或者收一张实体小票当纪念的人，点一下就能参与。"
+    },
+    {
+      "repo": "saragordic/window-sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "description": "A macOS menu-bar app that dresses your windows in knitted borders.",
+      "language": "C",
+      "stars": 1314,
+      "summaryZh": "一个 macOS 菜单栏小应用，为你的窗口套上针织风格的花边装饰，属于纯桌面个性化玩具。用 Objective-C/C 实现，轻量常驻菜单栏。适合喜欢折腾桌面外观、追求趣味氛围的 Mac 用户。",
+      "category": "其他",
+      "source": "hn",
+      "signal": "HN 451 分 · 132 评论",
+      "reasonZh": "给 macOS 窗口套上针织毛衣边框的菜单栏小应用，纯装饰但超有创意。同类窗口管理工具都在拼效率，它反其道而行，主打治愈和趣味。想给桌面换个心情、截图发朋友圈，或者单纯喜欢奇怪小工具的人会玩得很开心。"
+    },
+    {
+      "repo": "anomalyco/rune",
+      "url": "https://github.com/anomalyco/rune",
+      "description": "Rune: Native UI framework",
+      "language": "Rust",
+      "stars": 2792,
+      "summaryZh": "Rune 是一个用 Rust 编写的原生 UI 框架，目标是在保持原生性能的同时提供跨平台界面开发能力。适合希望用 Rust 构建高性能桌面应用界面的开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 159 分 · 118 评论",
+      "reasonZh": "Rune 是一个原生 UI 框架，用 Rust 写跨平台界面。虽然还偏框架，但它提供了完整的应用开发体验，不像很多库只给零件。和 Tauri、Dioxus 比更轻量原生。适合想用 Rust 快速做桌面小工具、又不想碰 Web 技术栈的开发者。"
+    },
+    {
+      "repo": "AGGIB/Stroq",
+      "url": "https://github.com/AGGIB/Stroq",
+      "description": "Find known secrets in your AI coding agent sessions (Claude Code, Codex, Cursor), then guard the next one with local hooks that trace risky commands to the content that dictated them. Open source, no telemetry.",
+      "language": "TypeScript",
+      "stars": 192,
+      "summaryZh": "扫描 Claude Code、Codex、Cursor 等 AI 编程代理会话中的已知密钥泄露，并用本地钩子追踪高风险命令及其上下文来源。基于 TypeScript，开源免费。适合关注 AI 代理安全与提示注入防护的开发者。",
+      "category": "开发工具",
+      "source": "hn",
+      "signal": "HN 90 分 · 34 评论",
+      "reasonZh": "Stroq 能扫描 Claude Code、Codex、Cursor 这些 AI 编程助手的会话，找出里面泄露的密钥，再用本地钩子拦住危险命令。同类密钥扫描工具只看代码库，它专门盯 AI 会话这个新泄露面。经常用 AI 写代码、又怕把 API key 聊出去的人应该装上。"
+    },
+    {
+      "repo": "ivankovic/omnidiff",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "description": "Fast, robust, accurate diffing ",
+      "language": "Rust",
+      "stars": 1187,
+      "summaryZh": "一个用 Rust 实现的高效差分工具，主打快速且准确的语法感知与 AST 差异比对。基于 ratatui 提供终端界面，可接入 git difftool。适合需要高质量代码审查和结构化 diff 的开发者。",
+      "category": "开发工具",
+      "source": "dark-horse",
+      "signal": "周涨星 +284（+31%）",
+      "reasonZh": "Omnidiff 是个语法感知的 diff 工具，用 Rust 写，比普通行级 diff 更准，能理解代码结构。跟 git diff 或 delta 比，它减少了假差异，review 时更清晰。适合经常做代码审查、或者被格式化改动搞烦的开发者，直接替换 git difftool 就能用。"
+    },
+    {
+      "repo": "guregodevo/memdoor",
+      "url": "https://github.com/guregodevo/memdoor",
+      "description": "AI coding agent that makes a team of small models beat a frontier one",
+      "language": "Go",
+      "stars": 374,
+      "summaryZh": "一个用 Go 编写的 AI 编程代理，主打让一组小模型协作击败单个前沿大模型。采用终端 TUI 与代理工作流，通过 OpenRouter 调度模型。适合想低成本构建团队式编码代理的开发者。",
+      "category": "AI",
+      "source": "dark-horse",
+      "signal": "周涨星 +318（+568%）",
+      "reasonZh": "Memdoor 是个终端里的 AI 编程代理，主打用一群小模型协作，效果能追上单个前沿大模型。和 Claude Code 这类单模型代理比，它更省 token、更便宜。适合想在终端里跑多模型协作、又在意成本或想用开源模型的开发者。"
+    },
+    {
+      "repo": "betterleaks/betterleaks",
+      "url": "https://github.com/betterleaks/betterleaks",
+      "description": "Find leaked secrets everywhere.",
+      "language": "Go",
+      "stars": 2842,
+      "summaryZh": "一个用 Go 编写的密钥泄露扫描工具，可在 Git、CI/CD 与代码库中查找凭据泄露，支持静态与动态分析。定位为开发与安全团队的一体化 secrets 检测方案。适合 DevSecOps 流程中做自动化安全审计。",
+      "category": "开发工具",
+      "source": "search",
+      "signal": "小而美 · developer-tools",
+      "reasonZh": "Betterleaks 用 Go 写，能在代码、CI、Git 历史里到处找泄露的密钥，算是 gitleaks 的增强版。同类工具大多只查一种来源，它覆盖面更广、速度也快。团队做安全扫描、或者个人想检查自己仓库有没有不小心提交密码时，直接跑一个二进制就行。"
+    },
+    {
+      "repo": "PrivSec-dev/banking-apps-compat-report",
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report",
+      "description": "Report and track banking app compatibility with GrapheneOS, including which workarounds may be required.",
+      "language": "",
+      "stars": 368,
+      "summaryZh": "跟踪并汇总各类手机银行应用在 GrapheneOS 上的兼容情况，记录需要哪些绕过手段才能运行。涵盖远程认证、沙箱 Google Play 等场景。适合注重隐私、使用 GrapheneOS 又需手机银行的用户查阅。",
+      "category": "资料教程",
+      "source": "hn",
+      "signal": "HN 629 分 · 411 评论",
+      "reasonZh": "这个项目专门追踪哪些银行 App 能在 GrapheneOS 上用、需要什么变通方法，信息来自真实用户报告。对普通应用来说它是个报告站，但对隐私系统用户是刚需。如果你用 GrapheneOS 又不想放弃手机银行，查兼容性、少走弯路就靠它。"
+    }
+  ]
+}
